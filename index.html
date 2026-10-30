@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Peggy的旅行地圖口袋名單</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Phosphor Icons CDN -->
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <!-- 載入完整星星資料 -->
+  <script src="data.js"></script>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans TC", sans-serif;
+    }
+    .custom-scrollbar::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    .custom-scrollbar::-webkit-scrollbar-thumb {
+      background-color: #cbd5e1;
+      border-radius: 9999px;
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col">
+
+  <!-- 頂部導航列 -->
+  <header class="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-sm backdrop-blur bg-white/95">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-wrap items-center justify-between gap-4">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-amber-500/10 text-amber-500 flex items-center justify-center text-2xl shadow-inner">
+          <i class="ph-fill ph-star"></i>
+        </div>
+        <div>
+          <h1 class="text-lg sm:text-xl font-bold tracking-tight text-slate-900 flex items-center gap-2">
+            Peggy的旅行地圖口袋名單
+            <span id="total-badge" class="text-xs bg-slate-100 text-slate-600 font-semibold px-2.5 py-0.5 rounded-full border border-slate-200">0 筆</span>
+          </h1>
+          <p class="text-xs text-slate-500">台灣細分縣市・國外依國家分類・Google Maps 一鍵導航</p>
+        </div>
+      </div>
+
+      <div class="flex items-center gap-2">
+        <button id="btn-add-place" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg bg-white border border-slate-200 text-slate-700 hover:bg-slate-50 hover:border-slate-300 transition shadow-sm">
+          <i class="ph ph-plus-circle text-base text-emerald-600"></i> 手動新增
+        </button>
+        <button id="btn-open-import" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 active:scale-95 transition shadow-sm">
+          <i class="ph ph-upload-simple text-base"></i> 匯入 / 管理
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- 主要內容區 -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex-1 w-full space-y-4">
+
+    <!-- 控制與篩選區域 -->
+    <section class="bg-white rounded-2xl border border-slate-200/80 p-4 sm:p-5 shadow-sm space-y-4">
+      
+      <!-- 搜尋列 -->
+      <div class="relative">
+        <div class="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none text-slate-400 text-lg">
+          <i class="ph ph-magnifying-glass"></i>
+        </div>
+        <input 
+          id="search-input" 
+          type="text" 
+          placeholder="搜尋店家名稱、地址、關鍵字（如：基隆滷肉飯、清邁咖啡、福岡拉麵、首爾烤肉、牛排...）"
+          class="w-full pl-10 pr-10 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:bg-white focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition placeholder:text-slate-400"
+        />
+        <button id="btn-clear-search" class="hidden absolute inset-y-0 right-0 pr-3.5 flex items-center text-slate-400 hover:text-slate-600">
+          <i class="ph-fill ph-x-circle text-lg"></i>
+        </button>
+      </div>
+
+      <!-- 第一層維度：大範圍切換 (全部 / 台灣地區 / 國外地區) -->
+      <div class="flex items-center gap-2 pt-1 border-t border-slate-100">
+        <span class="font-bold text-slate-600 flex items-center gap-1 text-xs min-w-[55px] shrink-0">
+          <i class="ph ph-globe-hemisphere-east text-sm text-indigo-600"></i> 範圍：
+        </span>
+        <div class="flex flex-wrap gap-2 text-xs">
+          <button id="scope-all" onclick="setScope('ALL')" class="scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-900 text-white shadow-sm">
+            <span>全部地區</span>
+            <span id="badge-scope-all" class="text-[10px] opacity-80">(0)</span>
+          </button>
+          <button id="scope-tw" onclick="setScope('TW')" class="scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-100 text-slate-600 hover:bg-slate-200">
+            <span>🇹🇼 台灣地區 (細分各縣市)</span>
+            <span id="badge-scope-tw" class="text-[10px] opacity-80">(0)</span>
+          </button>
+          <button id="scope-intl" onclick="setScope('INTL')" class="scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-100 text-slate-600 hover:bg-slate-200">
+            <span>✈️ 國外地區 (依國家分類)</span>
+            <span id="badge-scope-intl" class="text-[10px] opacity-80">(0)</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- 第二層維度：細分地區標籤 (隨 Scope 自動切換) -->
+      <div id="sub-region-section" class="flex flex-col sm:flex-row items-start sm:items-baseline gap-2 text-xs pt-1 border-t border-slate-100">
+        <span id="sub-region-label" class="font-bold text-slate-600 flex items-center gap-1 min-w-[55px] shrink-0">
+          <i class="ph ph-map-pin text-sm text-indigo-500"></i> 縣市：
+        </span>
+        <div id="regions-container" class="flex flex-wrap gap-1.5 max-h-28 overflow-y-auto custom-scrollbar pr-1">
+          <!-- 動態生成地區按鈕 -->
+        </div>
+      </div>
+
+      <!-- 第三層維度：分類標籤過濾 -->
+      <div class="flex flex-col sm:flex-row items-start sm:items-baseline gap-2 text-xs pt-1 border-t border-slate-100">
+        <span class="font-bold text-slate-600 flex items-center gap-1 min-w-[55px] shrink-0">
+          <i class="ph ph-tag text-sm text-amber-500"></i> 分類：
+        </span>
+        <div id="categories-container" class="flex flex-wrap gap-1.5">
+          <!-- 動態生成分類按鈕 -->
+        </div>
+      </div>
+
+      <!-- 結果狀態與操作 -->
+      <div class="flex flex-wrap items-center justify-between gap-2 text-xs text-slate-500 pt-2 border-t border-slate-100">
+        <div>
+          符合條件 <span id="filtered-count" class="font-bold text-indigo-600 text-sm">0</span> 筆
+          <span id="filter-status-desc" class="ml-1 text-slate-400"></span>
+          <span id="showing-count" class="text-slate-400 ml-2"></span>
+        </div>
+        <div class="flex items-center gap-3">
+          <label class="flex items-center gap-1 cursor-pointer select-none">
+            <span class="text-slate-400">排序：</span>
+            <select id="sort-select" class="bg-transparent font-medium text-slate-700 outline-none cursor-pointer">
+              <option value="newest">最新收藏</option>
+              <option value="region">按地區排序</option>
+              <option value="category">按分類排序</option>
+              <option value="name">店名排序</option>
+            </select>
+          </label>
+          <button id="btn-reset-filters" class="hover:text-indigo-600 font-semibold text-indigo-500 hidden flex items-center gap-0.5">
+            <i class="ph ph-arrow-counter-clockwise"></i> 清除篩選
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 卡片列表區 -->
+    <section>
+      <div id="places-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5">
+        <!-- 卡片動態渲染 -->
+      </div>
+
+      <!-- 載入更多按鈕與提示 -->
+      <div id="load-more-container" class="text-center py-6 hidden">
+        <button id="btn-load-more" class="px-6 py-2.5 bg-white border border-slate-200 text-slate-700 hover:bg-slate-50 rounded-xl text-xs font-semibold shadow-sm transition active:scale-95">
+          載入更多地點 (還有 <span id="remaining-count">0</span> 筆)
+        </button>
+      </div>
+
+      <!-- 無資料時的空狀態 -->
+      <div id="empty-state" class="hidden text-center py-16 px-4 bg-white rounded-2xl border border-dashed border-slate-300 my-4">
+        <div class="w-16 h-16 bg-slate-100 text-slate-400 rounded-full flex items-center justify-center text-3xl mx-auto mb-3">
+          <i class="ph ph-map-pin-line"></i>
+        </div>
+        <h3 class="text-base font-bold text-slate-700 mb-1">找不到符合條件的地點</h3>
+        <p class="text-xs text-slate-400 max-w-sm mx-auto mb-4">請嘗試切換地區/國家標籤，或清除搜尋字詞。</p>
+        <button id="btn-empty-reset" class="px-4 py-2 text-xs font-semibold rounded-lg bg-indigo-50 text-indigo-600 hover:bg-indigo-100 transition">
+          清除所有條件
+        </button>
+      </div>
+    </section>
+  </main>
+
+  <!-- 頁尾 -->
+  <footer class="bg-white border-t border-slate-200 py-4 text-center text-xs text-slate-400">
+    Peggy的旅行地圖口袋名單・台灣各縣市與國外分類
+  </footer>
+
+  <!-- 匯入 / 管理彈窗 (Modal) -->
+  <div id="import-modal" class="fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4 hidden">
+    <div class="bg-white w-full max-w-xl rounded-2xl shadow-2xl border border-slate-200 overflow-hidden flex flex-col max-h-[90vh]">
+      <div class="px-6 py-4 border-b border-slate-100 flex items-center justify-between bg-slate-50/50">
+        <div class="flex items-center gap-2">
+          <i class="ph-duotone ph-file-arrow-up text-indigo-600 text-xl"></i>
+          <h2 class="text-base font-bold text-slate-800">匯入新檔案或更新名單</h2>
+        </div>
+        <button class="modal-close text-slate-400 hover:text-slate-600 text-lg">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <div class="p-6 overflow-y-auto custom-scrollbar space-y-4 text-xs text-slate-600">
+        <p class="text-slate-500">拖入從 Google Takeout 下載的 <code class="bg-slate-100 px-1.5 py-0.5 rounded font-mono">已儲存的地點.json</code>，系統會自動智慧過濾重複並增量更新。</p>
+
+        <div id="dropzone" class="border-2 border-dashed border-slate-300 hover:border-indigo-500 rounded-2xl p-6 text-center transition cursor-pointer bg-slate-50/50 hover:bg-indigo-50/20">
+          <input type="file" id="file-input" accept=".json,.geojson,.csv" class="hidden">
+          <div class="w-12 h-12 bg-white text-indigo-600 rounded-full flex items-center justify-center text-2xl mx-auto shadow-sm mb-2 border border-slate-100">
+            <i class="ph ph-cloud-arrow-up"></i>
+          </div>
+          <p class="font-semibold text-slate-700 text-sm">點擊選擇檔案 或 拖曳檔案至此</p>
+          <p class="text-slate-400 mt-1">支援 Google Takeout 的 JSON / GeoJSON / CSV 格式</p>
+        </div>
+
+        <div class="flex items-center justify-between pt-2 border-t border-slate-100">
+          <button id="btn-reload-builtin" class="text-indigo-600 hover:text-indigo-800 font-semibold flex items-center gap-1">
+            <i class="ph ph-arrow-clockwise"></i> 重新載入內建完整名單
+          </button>
+        </div>
+      </div>
+
+      <div class="px-6 py-3.5 bg-slate-50 border-t border-slate-100 flex justify-end">
+        <button class="modal-close px-4 py-2 text-xs font-semibold rounded-lg bg-slate-200 text-slate-700 hover:bg-slate-300 transition">
+          關閉
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 新增/編輯地點彈窗 (Modal) -->
+  <div id="place-modal" class="fixed inset-0 z-50 flex items-center justify-center bg-slate-900/40 backdrop-blur-sm p-4 hidden">
+    <div class="bg-white w-full max-w-md rounded-2xl shadow-2xl border border-slate-200 overflow-hidden flex flex-col">
+      <div class="px-6 py-4 border-b border-slate-100 flex items-center justify-between bg-slate-50/50">
+        <h2 id="place-modal-title" class="text-base font-bold text-slate-800">新增口袋地點</h2>
+        <button class="place-modal-close text-slate-400 hover:text-slate-600 text-lg">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <form id="place-form" class="p-6 space-y-4 text-xs">
+        <input type="hidden" id="edit-id">
+
+        <div>
+          <label class="block font-semibold text-slate-700 mb-1">名稱 *</label>
+          <input type="text" id="edit-name" required placeholder="例如：興波咖啡 Simple Kaffa" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+        </div>
+
+        <div class="grid grid-cols-2 gap-3">
+          <div>
+            <label class="block font-semibold text-slate-700 mb-1">範圍/體系 *</label>
+            <select id="edit-scope" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+              <option value="TW">台灣地區</option>
+              <option value="INTL">國外地區</option>
+            </select>
+          </div>
+          <div>
+            <label class="block font-semibold text-slate-700 mb-1">地區/國家 *</label>
+            <input type="text" id="edit-region" required placeholder="如：台北、基隆、日本、泰國" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+          </div>
+        </div>
+
+        <div>
+          <label class="block font-semibold text-slate-700 mb-1">分類 *</label>
+          <input type="text" id="edit-category" required placeholder="如：餐廳、咖啡廳、小吃、景點、甜點、住宿/飯店" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+        </div>
+
+        <div>
+          <label class="block font-semibold text-slate-700 mb-1">地址 (可選)</label>
+          <input type="text" id="edit-address" placeholder="例如：台北市中正區忠孝東路二段27號" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+        </div>
+
+        <div>
+          <label class="block font-semibold text-slate-700 mb-1">Google Maps 網址 (可選)</label>
+          <input type="url" id="edit-url" placeholder="留空將自動以店家名稱開啟 Google Maps" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+        </div>
+
+        <div>
+          <label class="block font-semibold text-slate-700 mb-1">備註 / 推薦餐點 (可選)</label>
+          <textarea id="edit-note" rows="2" placeholder="自訂私房筆記..." class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"></textarea>
+        </div>
+
+        <div class="pt-3 border-t border-slate-100 flex justify-end gap-2">
+          <button type="button" class="place-modal-close px-4 py-2 font-semibold rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition">
+            取消
+          </button>
+          <button type="submit" class="px-5 py-2 font-semibold rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 transition">
+            儲存地點
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- JavaScript 主邏輯 -->
+  <script>
+    const STORAGE_KEY = 'PEGGY_STARRED_PLACES_DATA_V2';
+    const PAGE_SIZE = 60;
+
+    let places = [];
+    let currentFiltered = [];
+    let currentRenderCount = PAGE_SIZE;
+
+    // 篩選維度
+    let currentScope = 'ALL'; // 'ALL', 'TW', 'INTL'
+    let selectedRegion = '全部';
+    let selectedCategory = '全部';
+    let searchQuery = '';
+    let sortMode = 'newest';
+
+    function init() {
+      // 優先載入 localStorage
+      const stored = localStorage.getItem(STORAGE_KEY);
+      if (stored) {
+        try {
+          places = JSON.parse(stored);
+        } catch (e) {
+          places = window.PEGGY_STARRED_PLACES || [];
+        }
+      } else if (window.PEGGY_STARRED_PLACES && window.PEGGY_STARRED_PLACES.length > 0) {
+        places = window.PEGGY_STARRED_PLACES;
+        savePlaces();
+      }
+
+      setupEvents();
+      renderAll();
+    }
+
+    function savePlaces() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(places));
+    }
+
+    function setupEvents() {
+      // 搜尋 (150ms debounce)
+      let debounceTimer = null;
+      const searchInput = document.getElementById('search-input');
+      const clearSearchBtn = document.getElementById('btn-clear-search');
+
+      searchInput.addEventListener('input', (e) => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+          searchQuery = e.target.value.trim().toLowerCase();
+          clearSearchBtn.classList.toggle('hidden', searchQuery === '');
+          filterAndRender(true);
+        }, 150);
+      });
+
+      clearSearchBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        searchQuery = '';
+        clearSearchBtn.classList.add('hidden');
+        filterAndRender(true);
+      });
+
+      document.getElementById('sort-select').addEventListener('change', (e) => {
+        sortMode = e.target.value;
+        filterAndRender(true);
+      });
+
+      document.getElementById('btn-reset-filters').addEventListener('click', resetFilters);
+      document.getElementById('btn-empty-reset').addEventListener('click', resetFilters);
+
+      // 載入更多
+      document.getElementById('btn-load-more').addEventListener('click', () => {
+        currentRenderCount += PAGE_SIZE;
+        renderCardsChunk();
+      });
+
+      window.addEventListener('scroll', () => {
+        if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 500) {
+          if (currentRenderCount < currentFiltered.length) {
+            currentRenderCount += PAGE_SIZE;
+            renderCardsChunk();
+          }
+        }
+      });
+
+      // 彈窗
+      const importModal = document.getElementById('import-modal');
+      document.getElementById('btn-open-import').addEventListener('click', () => importModal.classList.remove('hidden'));
+      document.querySelectorAll('.modal-close').forEach(btn => {
+        btn.addEventListener('click', () => importModal.classList.add('hidden'));
+      });
+
+      const placeModal = document.getElementById('place-modal');
+      document.getElementById('btn-add-place').addEventListener('click', () => openPlaceModal());
+      document.querySelectorAll('.place-modal-close').forEach(btn => {
+        btn.addEventListener('click', () => placeModal.classList.add('hidden'));
+      });
+
+      document.getElementById('place-form').addEventListener('submit', handlePlaceFormSubmit);
+
+      document.getElementById('btn-reload-builtin').addEventListener('click', () => {
+        if (confirm("這將會把資料還原為初始名單，確定嗎？")) {
+          places = window.PEGGY_STARRED_PLACES || [];
+          savePlaces();
+          renderAll();
+          importModal.classList.add('hidden');
+          alert('已重新載入完成！');
+        }
+      });
+
+      // 檔案上傳
+      const dropzone = document.getElementById('dropzone');
+      const fileInput = document.getElementById('file-input');
+      dropzone.addEventListener('click', () => fileInput.click());
+      dropzone.addEventListener('dragover', (e) => {
+        e.preventDefault();
+        dropzone.classList.add('border-indigo-600', 'bg-indigo-50/40');
+      });
+      dropzone.addEventListener('dragleave', () => dropzone.classList.remove('border-indigo-600', 'bg-indigo-50/40'));
+      dropzone.addEventListener('drop', (e) => {
+        e.preventDefault();
+        dropzone.classList.remove('border-indigo-600', 'bg-indigo-50/40');
+        if (e.dataTransfer.files.length > 0) handleFile(e.dataTransfer.files[0]);
+      });
+      fileInput.addEventListener('change', (e) => {
+        if (e.target.files.length > 0) handleFile(e.target.files[0]);
+      });
+    }
+
+    function resetFilters() {
+      currentScope = 'ALL';
+      selectedRegion = '全部';
+      selectedCategory = '全部';
+      searchQuery = '';
+      document.getElementById('search-input').value = '';
+      document.getElementById('btn-clear-search').classList.add('hidden');
+      updateScopeButtonsUI();
+      renderRegionButtons();
+      renderCategoryButtons();
+      filterAndRender(true);
+    }
+
+    function renderAll() {
+      document.getElementById('total-badge').innerText = `${places.length.toLocaleString()} 筆`;
+      updateScopeBadges();
+      updateScopeButtonsUI();
+      renderRegionButtons();
+      renderCategoryButtons();
+      filterAndRender(true);
+    }
+
+    function updateScopeBadges() {
+      const twCount = places.filter(p => p.scope === 'TW').length;
+      const intlCount = places.filter(p => p.scope === 'INTL').length;
+      document.getElementById('badge-scope-all').innerText = `(${places.length.toLocaleString()})`;
+      document.getElementById('badge-scope-tw').innerText = `(${twCount.toLocaleString()})`;
+      document.getElementById('badge-scope-intl').innerText = `(${intlCount.toLocaleString()})`;
+    }
+
+    function updateScopeButtonsUI() {
+      const btnAll = document.getElementById('scope-all');
+      const btnTW = document.getElementById('scope-tw');
+      const btnINTL = document.getElementById('scope-intl');
+      const label = document.getElementById('sub-region-label');
+
+      [btnAll, btnTW, btnINTL].forEach(b => {
+        b.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-100 text-slate-600 hover:bg-slate-200';
+      });
+
+      if (currentScope === 'ALL') {
+        btnAll.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-900 text-white shadow-sm';
+        label.innerHTML = '<i class="ph ph-map-pin text-sm text-indigo-500"></i> 地區：';
+      } else if (currentScope === 'TW') {
+        btnTW.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-indigo-600 text-white shadow-sm';
+        label.innerHTML = '<i class="ph ph-map-pin text-sm text-indigo-500"></i> 台灣縣市：';
+      } else if (currentScope === 'INTL') {
+        btnINTL.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-emerald-600 text-white shadow-sm';
+        label.innerHTML = '<i class="ph ph-airplane text-sm text-emerald-500"></i> 國外國家：';
+      }
+    }
+
+    window.setScope = function(scope) {
+      currentScope = scope;
+      selectedRegion = '全部'; // 切換大維度時重設細項地區
+      updateScopeButtonsUI();
+      renderRegionButtons();
+      filterAndRender(true);
+    };
+
+    // 動態渲染第二層（縣市 / 國家）標籤
+    function renderRegionButtons() {
+      // 根據當前 Scope 篩選出候選清單
+      let pool = places;
+      if (currentScope === 'TW') {
+        pool = places.filter(p => p.scope === 'TW');
+      } else if (currentScope === 'INTL') {
+        pool = places.filter(p => p.scope === 'INTL');
+      }
+
+      const regMap = {};
+      pool.forEach(p => {
+        const r = p.region || '其他';
+        regMap[r] = (regMap[r] || 0) + 1;
+      });
+
+      // 排序：筆數多者在前
+      const sortedRegions = Object.keys(regMap).sort((a, b) => {
+        if (a === '其他' || a === '其他海外') return 1;
+        if (b === '其他' || b === '其他海外') return -1;
+        return regMap[b] - regMap[a];
+      });
+
+      sortedRegions.unshift('全部');
+
+      const container = document.getElementById('regions-container');
+      const activeColor = currentScope === 'INTL' ? 'bg-emerald-600 text-white' : 'bg-indigo-600 text-white';
+
+      container.innerHTML = sortedRegions.map(reg => {
+        const count = reg === '全部' ? pool.length : (regMap[reg] || 0);
+        const isActive = selectedRegion === reg;
+        return `
+          <button 
+            onclick="setRegion('${reg}')"
+            class="px-2.5 py-1 rounded-lg font-medium transition flex items-center gap-1 text-xs shrink-0 ${
+              isActive 
+                ? `${activeColor} shadow-sm font-semibold` 
+                : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+            }">
+            <span>${reg}</span>
+            <span class="text-[10px] opacity-75">(${count})</span>
+          </button>
+        `;
+      }).join('');
+    }
+
+    // 動態渲染分類標籤
+    function renderCategoryButtons() {
+      const catMap = {};
+      places.forEach(p => {
+        const c = p.category || '餐廳';
+        catMap[c] = (catMap[c] || 0) + 1;
+      });
+
+      const priority = ["全部", "餐廳", "景點", "小吃", "咖啡廳", "甜點", "住宿/飯店", "酒吧/餐酒館", "早餐/早午餐", "其他"];
+      const existingCats = Object.keys(catMap);
+      const sortedCats = ["全部", ...priority.filter(c => c !== "全部" && existingCats.includes(c)), ...existingCats.filter(c => !priority.includes(c))];
+
+      const container = document.getElementById('categories-container');
+      container.innerHTML = sortedCats.map(cat => {
+        const count = cat === '全部' ? places.length : (catMap[cat] || 0);
+        const isActive = selectedCategory === cat;
+        return `
+          <button 
+            onclick="setCategory('${cat}')"
+            class="px-2.5 py-1 rounded-lg font-medium transition flex items-center gap-1 text-xs shrink-0 ${
+              isActive 
+                ? 'bg-amber-600 text-white shadow-sm font-semibold' 
+                : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+            }">
+            <span>${cat}</span>
+            <span class="text-[10px] opacity-75">(${count})</span>
+          </button>
+        `;
+      }).join('');
+    }
+
+    window.setRegion = function(reg) {
+      selectedRegion = reg;
+      renderRegionButtons();
+      filterAndRender(true);
+    };
+
+    window.setCategory = function(cat) {
+      selectedCategory = cat;
+      renderCategoryButtons();
+      filterAndRender(true);
+    };
+
+    function filterAndRender(resetCount = false) {
+      if (resetCount) {
+        currentRenderCount = PAGE_SIZE;
+      }
+
+      currentFiltered = places.filter(p => {
+        // 第一層 Scope 過濾
+        if (currentScope !== 'ALL' && p.scope !== currentScope) return false;
+        // 第二層 Region 過濾
+        if (selectedRegion !== '全部' && p.region !== selectedRegion) return false;
+        // 第三層 Category 過濾
+        if (selectedCategory !== '全部' && p.category !== selectedCategory) return false;
+        // 關鍵字搜尋
+        if (searchQuery) {
+          const text = `${p.name} ${p.address} ${p.region} ${p.category} ${p.note || ''}`.toLowerCase();
+          if (!text.includes(searchQuery)) return false;
+        }
+        return true;
+      });
+
+      // 排序
+      if (sortMode === 'newest') {
+        currentFiltered.sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0));
+      } else if (sortMode === 'region') {
+        currentFiltered.sort((a, b) => (a.region || '').localeCompare(b.region || '', 'zh-Hant'));
+      } else if (sortMode === 'category') {
+        currentFiltered.sort((a, b) => (a.category || '').localeCompare(b.category || '', 'zh-Hant'));
+      } else if (sortMode === 'name') {
+        currentFiltered.sort((a, b) => a.name.localeCompare(b.name, 'zh-Hant'));
+      }
+
+      document.getElementById('filtered-count').innerText = currentFiltered.length.toLocaleString();
+      const isFiltered = (currentScope !== 'ALL' || selectedRegion !== '全部' || selectedCategory !== '全部' || searchQuery !== '');
+      document.getElementById('btn-reset-filters').classList.toggle('hidden', !isFiltered);
+
+      const statusDesc = [];
+      if (currentScope === 'TW') statusDesc.push('台灣地區');
+      else if (currentScope === 'INTL') statusDesc.push('國外地區');
+      if (selectedRegion !== '全部') statusDesc.push(`「${selectedRegion}」`);
+      if (selectedCategory !== '全部') statusDesc.push(`分類「${selectedCategory}」`);
+      if (searchQuery) statusDesc.push(`搜尋「${searchQuery}」`);
+      document.getElementById('filter-status-desc').innerText = statusDesc.length > 0 ? `(${statusDesc.join(' + ')})` : '';
+
+      renderCardsChunk();
+    }
+
+    function renderCardsChunk() {
+      const grid = document.getElementById('places-grid');
+      const emptyState = document.getElementById('empty-state');
+      const loadMoreContainer = document.getElementById('load-more-container');
+      const showingCountEl = document.getElementById('showing-count');
+      const remainingCountEl = document.getElementById('remaining-count');
+
+      if (currentFiltered.length === 0) {
+        grid.innerHTML = '';
+        emptyState.classList.remove('hidden');
+        loadMoreContainer.classList.add('hidden');
+        showingCountEl.innerText = '';
+        return;
+      }
+
+      emptyState.classList.add('hidden');
+
+      const itemsToShow = currentFiltered.slice(0, currentRenderCount);
+      showingCountEl.innerText = itemsToShow.length < currentFiltered.length ? `(已顯示前 ${itemsToShow.length} 筆)` : '';
+
+      grid.innerHTML = itemsToShow.map(place => {
+        const mapsUrl = place.url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.name + ' ' + (place.address || ''))}`;
+        
+        // 國外 vs 台灣標籤樣式
+        const isTW = place.scope === 'TW';
+        const regionBadgeClass = isTW 
+          ? 'bg-indigo-50 text-indigo-700 border-indigo-200' 
+          : 'bg-emerald-50 text-emerald-800 border-emerald-200 font-semibold';
+        const regionIcon = isTW ? '🇹🇼' : '✈️';
+
+        let catColor = "bg-slate-100 text-slate-700 border-slate-200";
+        if (place.category === '咖啡廳') catColor = "bg-amber-100/70 text-amber-800 border-amber-300";
+        else if (place.category === '小吃') catColor = "bg-orange-100/70 text-orange-800 border-orange-300";
+        else if (place.category === '景點') catColor = "bg-teal-100/70 text-teal-800 border-teal-300";
+        else if (place.category === '甜點') catColor = "bg-rose-100/70 text-rose-800 border-rose-300";
+        else if (place.category === '住宿/飯店') catColor = "bg-violet-100/70 text-violet-800 border-violet-300";
+        else if (place.category === '酒吧/餐酒館') catColor = "bg-purple-100/70 text-purple-800 border-purple-300";
+        else if (place.category === '早餐/早午餐') catColor = "bg-yellow-100/70 text-yellow-800 border-yellow-300";
+        else if (place.category === '餐廳') catColor = "bg-blue-100/70 text-blue-800 border-blue-300";
+
+        return `
+          <div class="bg-white rounded-xl border border-slate-200/90 hover:border-slate-300 p-4 shadow-sm hover:shadow transition flex flex-col justify-between group">
+            <div>
+              <div class="flex items-start justify-between gap-2 mb-2">
+                <h3 class="font-bold text-slate-800 text-sm sm:text-base leading-snug line-clamp-2">${escapeHtml(place.name)}</h3>
+                <div class="flex items-center gap-1 shrink-0">
+                  <button onclick="editPlace('${place.id}')" title="編輯" class="text-slate-400 hover:text-slate-600 p-1 rounded hover:bg-slate-100">
+                    <i class="ph ph-pencil-simple text-base"></i>
+                  </button>
+                  <button onclick="deletePlace('${place.id}')" title="刪除" class="text-slate-400 hover:text-rose-600 p-1 rounded hover:bg-rose-50">
+                    <i class="ph ph-trash text-base"></i>
+                  </button>
+                </div>
+              </div>
+
+              <!-- 標籤組 (地區 + 分類) -->
+              <div class="flex flex-wrap gap-1.5 mb-2.5">
+                <span class="inline-flex items-center gap-1 text-[11px] px-2 py-0.5 rounded-md border ${regionBadgeClass}">
+                  <span>${regionIcon}</span> ${escapeHtml(place.region)}
+                </span>
+                <span class="inline-flex items-center gap-1 text-[11px] font-semibold px-2 py-0.5 rounded-md border ${catColor}">
+                  <i class="ph-fill ph-tag text-[10px]"></i> ${escapeHtml(place.category)}
+                </span>
+              </div>
+
+              <!-- 地址 -->
+              ${place.address ? `
+                <p class="text-xs text-slate-500 flex items-start gap-1.5 mb-2">
+                  <i class="ph ph-navigation-arrow text-slate-400 shrink-0 mt-0.5"></i>
+                  <span class="line-clamp-2">${escapeHtml(place.address)}</span>
+                </p>
+              ` : ''}
+
+              <!-- 備註說明 -->
+              ${place.note ? `
+                <div class="text-xs bg-slate-50 text-slate-600 rounded-lg p-2.5 border border-slate-100 my-2 flex items-start gap-1.5">
+                  <i class="ph ph-chat-teardrop-dots text-slate-400 text-sm shrink-0 mt-0.5"></i>
+                  <span class="leading-relaxed line-clamp-3">${escapeHtml(place.note)}</span>
+                </div>
+              ` : ''}
+            </div>
+
+            <!-- 底部動作按鈕 -->
+            <div class="pt-2.5 border-t border-slate-100 mt-2 flex items-center justify-between">
+              <span class="text-[11px] text-slate-400">
+                ${new Date(place.createdAt || Date.now()).toLocaleDateString('zh-TW')}
+              </span>
+              <a 
+                href="${escapeHtml(mapsUrl)}" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-emerald-50 text-emerald-700 hover:bg-emerald-600 hover:text-white transition border border-emerald-200 shadow-sm">
+                <i class="ph-fill ph-google-logo text-sm"></i>
+                Google Maps
+                <i class="ph ph-arrow-square-out text-xs"></i>
+              </a>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      if (currentRenderCount < currentFiltered.length) {
+        loadMoreContainer.classList.remove('hidden');
+        remainingCountEl.innerText = (currentFiltered.length - currentRenderCount).toLocaleString();
+      } else {
+        loadMoreContainer.classList.add('hidden');
+      }
+    }
+
+    window.openPlaceModal = function(place = null) {
+      const modal = document.getElementById('place-modal');
+      const title = document.getElementById('place-modal-title');
+      const form = document.getElementById('place-form');
+
+      if (place) {
+        title.innerText = '編輯口袋地點';
+        document.getElementById('edit-id').value = place.id;
+        document.getElementById('edit-name').value = place.name;
+        document.getElementById('edit-scope').value = place.scope || 'TW';
+        document.getElementById('edit-region').value = place.region;
+        document.getElementById('edit-category').value = place.category;
+        document.getElementById('edit-address').value = place.address || '';
+        document.getElementById('edit-url').value = place.url || '';
+        document.getElementById('edit-note').value = place.note || '';
+      } else {
+        title.innerText = '手動新增口袋地點';
+        form.reset();
+        document.getElementById('edit-id').value = '';
+        document.getElementById('edit-scope').value = 'TW';
+        document.getElementById('edit-region').value = '台北';
+        document.getElementById('edit-category').value = '餐廳';
+      }
+
+      modal.classList.remove('hidden');
+    };
+
+    window.editPlace = function(id) {
+      const p = places.find(item => item.id === id);
+      if (p) openPlaceModal(p);
+    };
+
+    window.deletePlace = function(id) {
+      if (confirm('確定要刪除這個口袋名單嗎？')) {
+        places = places.filter(p => p.id !== id);
+        savePlaces();
+        renderAll();
+      }
+    };
+
+    function handlePlaceFormSubmit(e) {
+      e.preventDefault();
+      const id = document.getElementById('edit-id').value;
+      const name = document.getElementById('edit-name').value.trim();
+      const scope = document.getElementById('edit-scope').value;
+      const region = document.getElementById('edit-region').value.trim();
+      const category = document.getElementById('edit-category').value.trim();
+      const address = document.getElementById('edit-address').value.trim();
+      let url = document.getElementById('edit-url').value.trim();
+      const note = document.getElementById('edit-note').value.trim();
+
+      if (!url) {
+        url = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(name + ' ' + address)}`;
+      }
+
+      if (id) {
+        const index = places.findIndex(p => p.id === id);
+        if (index !== -1) {
+          places[index] = { ...places[index], name, scope, region, category, address, url, note };
+        }
+      } else {
+        const newPlace = {
+          id: 'place_' + Date.now(),
+          name, scope, region, category, address, url, note,
+          createdAt: Date.now()
+        };
+        places.unshift(newPlace);
+      }
+
+      savePlaces();
+      renderAll();
+      document.getElementById('place-modal').classList.add('hidden');
+    }
+
+    function handleFile(file) {
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        try {
+          const json = JSON.parse(e.target.result);
+          const features = json.features || [];
+          let added = 0;
+          const existingNames = new Set(places.map(p => p.name.trim()));
+
+          features.forEach((feat, idx) => {
+            const props = feat.properties || {};
+            const loc = props.location || {};
+            const name = (loc.name || props.Title || '').trim();
+            if (!name || existingNames.has(name)) return;
+
+            const address = (loc.address || '').trim();
+            const url = props.google_maps_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(name + ' ' + address)}`;
+            
+            const isIntl = loc.country_code && loc.country_code !== 'TW';
+
+            places.unshift({
+              id: 'imp_' + Date.now() + '_' + idx,
+              name,
+              address,
+              scope: isIntl ? 'INTL' : 'TW',
+              region: isIntl ? (loc.country_code || '國外') : '其他',
+              category: '餐廳',
+              url,
+              note: '',
+              createdAt: Date.now()
+            });
+            existingNames.add(name);
+            added++;
+          });
+
+          savePlaces();
+          renderAll();
+          document.getElementById('import-modal').classList.add('hidden');
+          alert(`匯入完成！新增了 ${added} 筆新地點。`);
+        } catch (err) {
+          alert('解析檔案失敗：' + err.message);
+        }
+      };
+      reader.readAsText(file, 'UTF-8');
+    }
+
+    function escapeHtml(string) {
+      if (!string) return '';
+      return String(string)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>
