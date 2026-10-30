@@ -2,20 +2,34 @@
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Peggy的旅行地圖口袋名單</title>
   
-  <!-- 效能優化：預先連線外部 CDN 提升載入速度 -->
+  <!-- PWA 支援 -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#4f46e5">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Peggy地圖">
+  <link rel="apple-touch-icon" href="icon-192.png">
+
+  <!-- 效能優化 CDN 預解析 -->
   <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
   <link rel="preconnect" href="https://unpkg.com" crossorigin>
-  <link rel="dns-prefetch" href="https://cdn.tailwindcss.com">
-  <link rel="dns-prefetch" href="https://unpkg.com">
 
-  <!-- Tailwind CSS CDN -->
+  <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <!-- Phosphor Icons CDN -->
+  <!-- Phosphor Icons -->
   <script src="https://unpkg.com/@phosphor-icons/web" defer></script>
-  <!-- 載入完整星星資料 (非同步/延遲加載優化) -->
+  
+  <!-- Leaflet 地圖與點聚合套件 (CSS + JS) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+  <!-- 完整資料檔 -->
   <script src="data.js" defer></script>
 
   <style>
@@ -32,19 +46,28 @@
       background-color: #cbd5e1;
       border-radius: 9999px;
     }
-
-    /* 效能黑科技：跳過視窗外卡片的渲染與排版，滑動達到 120 FPS */
     .place-card {
       content-visibility: auto;
       contain-intrinsic-size: 0 165px;
-      will-change: transform;
+    }
+    /* 地圖 Popup 美化 */
+    .leaflet-popup-content-wrapper {
+      border-radius: 1rem;
+      padding: 0;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+      border: 1px solid #e2e8f0;
+      overflow: hidden;
+    }
+    .leaflet-popup-content {
+      margin: 0;
+      line-height: 1.5;
     }
   </style>
 </head>
 <body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col">
 
   <!-- 頂部導航列 -->
-  <header class="bg-white/95 border-b border-slate-200 sticky top-0 z-30 shadow-xs backdrop-blur-md">
+  <header class="bg-white/95 border-b border-slate-200 sticky top-0 z-40 shadow-xs backdrop-blur-md">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 flex flex-wrap items-center justify-between gap-3">
       <div class="flex items-center gap-3">
         <div class="w-10 h-10 rounded-xl bg-amber-500/10 text-amber-500 flex items-center justify-center text-2xl shadow-inner shrink-0">
@@ -55,11 +78,15 @@
             Peggy的旅行地圖口袋名單
             <span id="total-badge" class="text-xs bg-slate-100 text-slate-600 font-semibold px-2 py-0.5 rounded-full border border-slate-200">0 筆</span>
           </h1>
-          <p class="text-xs text-slate-500">台灣各縣市・國外國家・GPS 離我最近導航</p>
+          <p class="text-xs text-slate-500">互動大地圖・台灣與國外・PWA 離線手機 App</p>
         </div>
       </div>
 
       <div class="flex items-center gap-2">
+        <!-- PWA 安裝按鈕 (支援時自動顯示) -->
+        <button id="btn-pwa-install" class="hidden inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold rounded-lg bg-emerald-600 text-white hover:bg-emerald-700 shadow-xs transition active:scale-95 animate-pulse">
+          <i class="ph-bold ph-download-simple"></i> 安裝至手機桌面
+        </button>
         <button id="btn-add-place" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg bg-white border border-slate-200 text-slate-700 hover:bg-slate-50 hover:border-slate-300 transition shadow-xs active:scale-95">
           <i class="ph ph-plus-circle text-base text-emerald-600"></i> 手動新增
         </button>
@@ -139,15 +166,26 @@
         </div>
       </div>
 
-      <!-- 結果狀態與操作 -->
-      <div class="flex flex-wrap items-center justify-between gap-2 text-xs text-slate-500 pt-2 border-t border-slate-100">
+      <!-- 結果狀態與檢視模式切換 (清單 vs 大地圖) -->
+      <div class="flex flex-wrap items-center justify-between gap-3 text-xs text-slate-500 pt-2 border-t border-slate-100">
         <div>
           符合條件 <span id="filtered-count" class="font-bold text-indigo-600 text-sm">0</span> 筆
           <span id="filter-status-desc" class="ml-1 text-slate-400"></span>
           <span id="showing-count" class="text-slate-400 ml-1.5 font-medium"></span>
         </div>
-        <div class="flex items-center gap-3">
-          <label class="flex items-center gap-1 cursor-pointer select-none">
+
+        <div class="flex flex-wrap items-center gap-3">
+          <!-- 核心功能：模式切換 (清單 vs 大地圖) -->
+          <div class="bg-slate-100 p-0.5 rounded-xl flex items-center border border-slate-200 shadow-2xs">
+            <button id="view-mode-list" onclick="setViewMode('list')" class="px-3 py-1.5 rounded-lg font-bold text-xs flex items-center gap-1.5 bg-white text-indigo-700 shadow-xs transition">
+              <i class="ph-bold ph-cards"></i> 清單檢視
+            </button>
+            <button id="view-mode-map" onclick="setViewMode('map')" class="px-3 py-1.5 rounded-lg font-semibold text-xs flex items-center gap-1.5 text-slate-600 hover:text-slate-900 transition">
+              <i class="ph-bold ph-map-trifold"></i> 🗺️ 互動大地圖
+            </button>
+          </div>
+
+          <label id="sort-control" class="flex items-center gap-1 cursor-pointer select-none">
             <span class="text-slate-400">排序：</span>
             <select id="sort-select" class="bg-transparent font-medium text-slate-700 outline-none cursor-pointer">
               <option value="distance">依距離由近到遠</option>
@@ -164,8 +202,8 @@
       </div>
     </section>
 
-    <!-- 卡片列表區 -->
-    <section>
+    <!-- 檢視模式一：卡片列表區 -->
+    <section id="list-view-section">
       <div id="places-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5">
         <!-- 卡片動態渲染 -->
       </div>
@@ -189,11 +227,23 @@
         </button>
       </div>
     </section>
+
+    <!-- 檢視模式二：互動大地圖檢視區 -->
+    <section id="map-view-section" class="hidden space-y-3">
+      <div class="bg-white rounded-2xl border border-slate-200 shadow-sm p-2 overflow-hidden relative">
+        <div id="map" class="w-full h-[68vh] min-h-[500px] rounded-xl z-10"></div>
+        <div class="absolute bottom-5 right-5 z-20 bg-white/90 backdrop-blur-md px-3 py-1.5 rounded-lg border border-slate-200 text-[11px] font-semibold text-slate-600 shadow-sm flex items-center gap-1.5">
+          <span class="w-2.5 h-2.5 rounded-full bg-indigo-500 animate-ping"></span>
+          點擊地圖泡泡可放大展開鄰近星星
+        </div>
+      </div>
+    </section>
+
   </main>
 
   <!-- 頁尾 -->
   <footer class="bg-white border-t border-slate-200 py-4 text-center text-xs text-slate-400">
-    Peggy的旅行地圖口袋名單・全方位極速優化
+    Peggy的旅行地圖口袋名單・支援 PWA 離線手機 App 與大地圖探索
   </footer>
 
   <!-- 匯入 / 管理彈窗 (Modal) -->
@@ -300,17 +350,23 @@
     </div>
   </div>
 
-  <!-- JavaScript 主邏輯 (極致效能架構) -->
+  <!-- JavaScript 主邏輯 -->
   <script>
-    const STORAGE_KEY = 'PEGGY_STARRED_PLACES_CUSTOM_MODS'; // 只儲存使用者的手動新增與修改，避免浪費寫入 1.7MB
-    const PAGE_SIZE = 45; // 最平衡的卡片渲染量，滑動更平滑
+    const STORAGE_KEY = 'PEGGY_STARRED_PLACES_CUSTOM_MODS';
+    const PAGE_SIZE = 45;
 
     let places = [];
     let currentFiltered = [];
-    let renderedCount = 0; // 目前 DOM 已掛載的數量
+    let renderedCount = 0;
+
+    // 檢視模式：'list' 或 'map'
+    let currentViewMode = 'list';
+    let map = null;
+    let markerCluster = null;
+    let userMarker = null;
 
     // 篩選維度
-    let currentScope = 'ALL'; // 'ALL', 'TW', 'INTL', 'NEARBY'
+    let currentScope = 'ALL';
     let selectedRegion = '全部';
     let selectedCategory = '全部';
     let searchQuery = '';
@@ -320,40 +376,182 @@
     let userLocation = null;
     let isLocating = false;
 
-    // 效能核心：初始化索引預建
+    // PWA Install Prompt
+    let deferredPrompt = null;
+
     function buildSearchIndex(item) {
-      // 預先拼接小寫索引字串，只做一次！避免搜尋時 4775 次迴圈重複拼接字串
       item._s = `${item.name} ${item.address || ''} ${item.region || ''} ${item.category || ''} ${item.note || ''}`.toLowerCase();
     }
 
     function init() {
-      // 優先取用 data.js
       places = window.PEGGY_STARRED_PLACES || [];
 
-      // 檢查是否有使用者自訂的手動修改或新增
       const customMods = localStorage.getItem(STORAGE_KEY);
       if (customMods) {
         try {
           const mods = JSON.parse(customMods);
-          // 合併自訂修改
           if (Array.isArray(mods) && mods.length > 0) {
             places = [...mods, ...places];
           }
         } catch (e) {}
       }
 
-      // 一次性建立搜尋快取索引
       const len = places.length;
       for (let i = 0; i < len; i++) {
         buildSearchIndex(places[i]);
       }
 
       setupEvents();
+      setupPWA();
       renderAll();
     }
 
+    // PWA 註冊與安裝提示
+    function setupPWA() {
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('sw.js').then((reg) => {
+            console.log('ServiceWorker registered:', reg.scope);
+          }).catch((err) => {
+            console.warn('ServiceWorker registration failed:', err);
+          });
+        });
+      }
+
+      const pwaBtn = document.getElementById('btn-pwa-install');
+      window.addEventListener('beforeinstallprompt', (e) => {
+        e.preventDefault();
+        deferredPrompt = e;
+        pwaBtn.classList.remove('hidden');
+      });
+
+      pwaBtn.addEventListener('click', () => {
+        if (!deferredPrompt) return;
+        deferredPrompt.prompt();
+        deferredPrompt.userChoice.then((choiceResult) => {
+          if (choiceResult.outcome === 'accepted') {
+            pwaBtn.classList.add('hidden');
+          }
+          deferredPrompt = null;
+        });
+      });
+    }
+
+    // 模式切換：清單 vs 大地圖
+    window.setViewMode = function(mode) {
+      currentViewMode = mode;
+      const listSec = document.getElementById('list-view-section');
+      const mapSec = document.getElementById('map-view-section');
+      const btnList = document.getElementById('view-mode-list');
+      const btnMap = document.getElementById('view-mode-map');
+      const sortCtrl = document.getElementById('sort-control');
+
+      if (mode === 'list') {
+        listSec.classList.remove('hidden');
+        mapSec.classList.add('hidden');
+        btnList.className = 'px-3 py-1.5 rounded-lg font-bold text-xs flex items-center gap-1.5 bg-white text-indigo-700 shadow-xs transition';
+        btnMap.className = 'px-3 py-1.5 rounded-lg font-semibold text-xs flex items-center gap-1.5 text-slate-600 hover:text-slate-900 transition';
+        sortCtrl.classList.remove('hidden');
+      } else {
+        listSec.classList.add('hidden');
+        mapSec.classList.remove('hidden');
+        btnList.className = 'px-3 py-1.5 rounded-lg font-semibold text-xs flex items-center gap-1.5 text-slate-600 hover:text-slate-900 transition';
+        btnMap.className = 'px-3 py-1.5 rounded-lg font-bold text-xs flex items-center gap-1.5 bg-indigo-600 text-white shadow-xs transition';
+        sortCtrl.classList.add('hidden');
+
+        // 初始化或更新地圖
+        setTimeout(() => {
+          initOrUpdateMap();
+        }, 50);
+      }
+    };
+
+    // 初始化與繪製 Leaflet 大地圖
+    function initOrUpdateMap() {
+      if (!map) {
+        // 預設中心以台灣為焦點 (23.97, 120.98)
+        map = L.map('map', {
+          zoomControl: true,
+          attributionControl: false
+        }).setView([23.97, 120.98], 8);
+
+        // 使用高雅簡約的 CartoDB Voyager 圖資
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+          maxZoom: 19,
+          subdomains: 'abcd'
+        }).addTo(map);
+
+        markerCluster = L.markerClusterGroup({
+          chunkedLoading: true,
+          maxClusterRadius: 50,
+          spiderfyOnMaxZoom: true,
+          showCoverageOnHover: false
+        });
+        map.addLayer(markerCluster);
+      }
+
+      // 更新地圖圖釘
+      renderMapMarkers();
+    }
+
+    function renderMapMarkers() {
+      if (!map || !markerCluster) return;
+
+      markerCluster.clearLayers();
+
+      const validPlaces = currentFiltered.filter(p => p.lat != null && p.lng != null);
+      const markers = [];
+      const bounds = [];
+
+      validPlaces.forEach(p => {
+        const mapsUrl = p.url || `https://www.google.com/maps/search/?api=1&query=${p.lat},${p.lng}`;
+        const isTW = p.scope === 'TW';
+        const distText = formatDistance(p.distanceKm);
+
+        const popupContent = `
+          <div class="p-3.5 space-y-2 min-w-[210px] max-w-[280px]">
+            <h4 class="font-bold text-slate-800 text-sm leading-snug">${escapeHtml(p.name)}</h4>
+            <div class="flex flex-wrap items-center gap-1 text-[11px]">
+              ${distText ? `<span class="bg-amber-100 text-amber-800 font-bold px-1.5 py-0.5 rounded">📍 ${distText}</span>` : ''}
+              <span class="bg-indigo-50 text-indigo-700 px-1.5 py-0.5 rounded border border-indigo-100">${isTW ? '🇹🇼' : '✈️'} ${escapeHtml(p.region)}</span>
+              <span class="bg-slate-100 text-slate-700 px-1.5 py-0.5 rounded border border-slate-200">${escapeHtml(p.category)}</span>
+            </div>
+            ${p.address ? `<p class="text-xs text-slate-500 line-clamp-2">${escapeHtml(p.address)}</p>` : ''}
+            <div class="pt-2 border-t border-slate-100">
+              <a href="${escapeHtml(mapsUrl)}" target="_blank" rel="noopener" class="w-full inline-flex items-center justify-center gap-1.5 py-1.5 px-3 rounded-lg text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white transition shadow-xs">
+                <i class="ph-fill ph-navigation-arrow"></i> 開啟 Google Maps 導航
+              </a>
+            </div>
+          </div>
+        `;
+
+        const marker = L.marker([p.lat, p.lng]).bindPopup(popupContent);
+        markers.push(marker);
+        bounds.push([p.lat, p.lng]);
+      });
+
+      markerCluster.addLayers(markers);
+
+      // 若有 GPS 定位點，標示使用者位置
+      if (userLocation) {
+        if (userMarker) map.removeLayer(userMarker);
+        userMarker = L.circleMarker([userLocation.lat, userLocation.lng], {
+          radius: 8,
+          fillColor: '#3b82f6',
+          color: '#ffffff',
+          weight: 3,
+          opacity: 1,
+          fillOpacity: 0.9
+        }).bindPopup("<b class='text-xs'>📍 您目前的位置</b>").addTo(map);
+      }
+
+      // 自動聚焦地圖視野
+      if (bounds.length > 0) {
+        map.fitBounds(bounds, { padding: [40, 40], maxZoom: 15 });
+      }
+    }
+
     function setupEvents() {
-      // 搜尋 (120ms 高速 debounce)
       let debounceTimer = null;
       const searchInput = document.getElementById('search-input');
       const clearSearchBtn = document.getElementById('btn-clear-search');
@@ -386,10 +584,9 @@
         appendCardsChunk();
       });
 
-      // 智慧無感滾動載入
       let scrollThrottled = false;
       window.addEventListener('scroll', () => {
-        if (scrollThrottled) return;
+        if (scrollThrottled || currentViewMode === 'map') return;
         scrollThrottled = true;
         requestAnimationFrame(() => {
           if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 600) {
@@ -401,7 +598,6 @@
         });
       }, { passive: true });
 
-      // 彈窗與表單
       const importModal = document.getElementById('import-modal');
       document.getElementById('btn-open-import').addEventListener('click', () => importModal.classList.remove('hidden'));
       document.querySelectorAll('.modal-close').forEach(btn => {
@@ -445,11 +641,10 @@
       });
     }
 
-    // 效能優化版 Haversine 距離計算
     function calculateDistanceKm(lat1, lon1, lat2, lon2) {
       if (lat1 == null || lon1 == null || lat2 == null || lon2 == null) return null;
       const R = 6371;
-      const p = 0.017453292519943295; // Math.PI / 180
+      const p = 0.017453292519943295;
       const c = Math.cos;
       const a = 0.5 - c((lat2 - lat1) * p)/2 + 
                 c(lat1 * p) * c(lat2 * p) * 
@@ -498,7 +693,6 @@
           sortMode = 'distance';
           document.getElementById('sort-select').value = 'distance';
 
-          // 一次性計算距離並快取
           const uLat = userLocation.lat;
           const uLng = userLocation.lng;
           const len = places.length;
@@ -521,7 +715,7 @@
           icon.className = "ph-bold ph-crosshair text-sm";
           btnText.innerText = originalText;
           let msg = "無法取得您的位置。";
-          if (error.code === 1) msg = "請在瀏覽器網址列允許此網頁存取位置資訊。";
+          if (error.code === 1) msg = "請在瀏覽器網址列允許存取位置資訊。";
           alert(msg);
         },
         { enableHighAccuracy: true, timeout: 8000, maximumAge: 30000 }
@@ -725,14 +919,12 @@
       const searchTokens = parseSearchTokens(searchQuery);
       const tokenCount = searchTokens.length;
 
-      // 極速過濾
       currentFiltered = places.filter(p => {
         if (currentScope === 'TW' && p.scope !== 'TW') return false;
         if (currentScope === 'INTL' && p.scope !== 'INTL') return false;
         if (selectedRegion !== '全部' && p.region !== selectedRegion) return false;
         if (selectedCategory !== '全部' && p.category !== selectedCategory) return false;
 
-        // 索引字串命中檢測
         if (tokenCount > 0) {
           const s = p._s;
           for (let i = 0; i < tokenCount; i++) {
@@ -758,7 +950,6 @@
         return true;
       });
 
-      // 排序計算
       if (sortMode === 'distance') {
         currentFiltered.sort((a, b) => {
           if (a.distanceKm == null && b.distanceKm == null) return 0;
@@ -789,14 +980,17 @@
       if (searchQuery) statusDesc.push(`搜尋「${searchQuery}」`);
       document.getElementById('filter-status-desc').innerText = statusDesc.length > 0 ? `(${statusDesc.join(' + ')})` : '';
 
-      // 清空原有 DOM 並渲染第一批
-      const grid = document.getElementById('places-grid');
-      grid.innerHTML = '';
-      renderedCount = 0;
-      appendCardsChunk();
+      // 依當前檢視模式更新畫面
+      if (currentViewMode === 'list') {
+        const grid = document.getElementById('places-grid');
+        grid.innerHTML = '';
+        renderedCount = 0;
+        appendCardsChunk();
+      } else {
+        renderMapMarkers();
+      }
     }
 
-    // 增量式掛載卡片，避免全頁重繪重排
     function appendCardsChunk() {
       const grid = document.getElementById('places-grid');
       const emptyState = document.getElementById('empty-state');
@@ -911,7 +1105,6 @@
         `);
       }
 
-      // 高效 insertAdjacentHTML 追加卡片，完全不重刷已有的卡片！
       grid.insertAdjacentHTML('beforeend', htmlChunks.join(''));
       renderedCount += nextBatch.length;
 
@@ -960,7 +1153,6 @@
     window.deletePlace = function(id) {
       if (confirm('確定要刪除這個口袋名單嗎？')) {
         places = places.filter(p => p.id !== id);
-        // 保存修改
         localStorage.setItem(STORAGE_KEY, JSON.stringify(places.filter(p => p.id.startsWith('place_'))));
         renderAll();
       }
@@ -997,7 +1189,6 @@
         places.unshift(newPlace);
       }
 
-      // 儲存修改
       const userCreated = places.filter(p => p.id.startsWith('place_'));
       localStorage.setItem(STORAGE_KEY, JSON.stringify(userCreated));
 
@@ -1065,7 +1256,6 @@
         .replace(/'/g, '&#039;');
     }
 
-    // 啟動 (支援 defer)
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', init);
     } else {
