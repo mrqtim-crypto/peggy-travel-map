@@ -136,10 +136,15 @@ foreach ($feat in $features) {
     }
 
     $url = $props.google_maps_url
+    $lat = $null
+    $lng = $null
+    if ($feat.geometry -and $feat.geometry.coordinates) {
+        $lng = [double]$feat.geometry.coordinates[0]
+        $lat = [double]$feat.geometry.coordinates[1]
+    }
+
     if (-not $url) {
-        if ($feat.geometry -and $feat.geometry.coordinates) {
-            $lng = $feat.geometry.coordinates[0]
-            $lat = $feat.geometry.coordinates[1]
+        if ($lat -ne $null -and $lng -ne $null) {
             $url = "https://www.google.com/maps/search/?api=1&query=$lat,$lng"
         } else {
             $url = "https://www.google.com/maps/search/?api=1&query=" + [System.Uri]::EscapeDataString("$name $address")
@@ -219,6 +224,8 @@ foreach ($feat in $features) {
         scope = $scope
         region = $region
         category = $category
+        lat = $lat
+        lng = $lng
         url = $url
         note = ""
         createdAt = $createdAt
