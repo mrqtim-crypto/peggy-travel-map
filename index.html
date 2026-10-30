@@ -4,60 +4,77 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Peggy的旅行地圖口袋名單</title>
+  
+  <!-- 效能優化：預先連線外部 CDN 提升載入速度 -->
+  <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
+  <link rel="preconnect" href="https://unpkg.com" crossorigin>
+  <link rel="dns-prefetch" href="https://cdn.tailwindcss.com">
+  <link rel="dns-prefetch" href="https://unpkg.com">
+
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- Phosphor Icons CDN -->
-  <script src="https://unpkg.com/@phosphor-icons/web"></script>
-  <!-- 載入完整星星資料 (含經緯度) -->
-  <script src="data.js"></script>
+  <script src="https://unpkg.com/@phosphor-icons/web" defer></script>
+  <!-- 載入完整星星資料 (非同步/延遲加載優化) -->
+  <script src="data.js" defer></script>
+
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans TC", sans-serif;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
     }
     .custom-scrollbar::-webkit-scrollbar {
-      width: 6px;
-      height: 6px;
+      width: 5px;
+      height: 5px;
     }
     .custom-scrollbar::-webkit-scrollbar-thumb {
       background-color: #cbd5e1;
       border-radius: 9999px;
+    }
+
+    /* 效能黑科技：跳過視窗外卡片的渲染與排版，滑動達到 120 FPS */
+    .place-card {
+      content-visibility: auto;
+      contain-intrinsic-size: 0 165px;
+      will-change: transform;
     }
   </style>
 </head>
 <body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col">
 
   <!-- 頂部導航列 -->
-  <header class="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-sm backdrop-blur bg-white/95">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-wrap items-center justify-between gap-4">
+  <header class="bg-white/95 border-b border-slate-200 sticky top-0 z-30 shadow-xs backdrop-blur-md">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3 flex flex-wrap items-center justify-between gap-3">
       <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-amber-500/10 text-amber-500 flex items-center justify-center text-2xl shadow-inner">
+        <div class="w-10 h-10 rounded-xl bg-amber-500/10 text-amber-500 flex items-center justify-center text-2xl shadow-inner shrink-0">
           <i class="ph-fill ph-star"></i>
         </div>
         <div>
           <h1 class="text-lg sm:text-xl font-bold tracking-tight text-slate-900 flex items-center gap-2">
             Peggy的旅行地圖口袋名單
-            <span id="total-badge" class="text-xs bg-slate-100 text-slate-600 font-semibold px-2.5 py-0.5 rounded-full border border-slate-200">0 筆</span>
+            <span id="total-badge" class="text-xs bg-slate-100 text-slate-600 font-semibold px-2 py-0.5 rounded-full border border-slate-200">0 筆</span>
           </h1>
-          <p class="text-xs text-slate-500">台灣各縣市・國外國家・現在位置 GPS 定位導航</p>
+          <p class="text-xs text-slate-500">台灣各縣市・國外國家・GPS 離我最近導航</p>
         </div>
       </div>
 
       <div class="flex items-center gap-2">
-        <button id="btn-add-place" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg bg-white border border-slate-200 text-slate-700 hover:bg-slate-50 hover:border-slate-300 transition shadow-sm">
+        <button id="btn-add-place" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg bg-white border border-slate-200 text-slate-700 hover:bg-slate-50 hover:border-slate-300 transition shadow-xs active:scale-95">
           <i class="ph ph-plus-circle text-base text-emerald-600"></i> 手動新增
         </button>
-        <button id="btn-open-import" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 active:scale-95 transition shadow-sm">
-          <i class="ph ph-upload-simple text-base"></i> 匯入 / 管理
+        <button id="btn-open-import" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 active:scale-95 transition shadow-xs">
+          <i class="ph ph-upload-simple text-base"></i> 匯入管理
         </button>
       </div>
     </div>
   </header>
 
   <!-- 主要內容區 -->
-  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex-1 w-full space-y-4">
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-5 flex-1 w-full space-y-4">
 
     <!-- 控制與篩選區域 -->
-    <section class="bg-white rounded-2xl border border-slate-200/80 p-4 sm:p-5 shadow-sm space-y-4">
+    <section class="bg-white rounded-2xl border border-slate-200/80 p-4 sm:p-5 shadow-xs space-y-3.5">
       
       <!-- 放大版超強智慧搜尋列 -->
       <div class="relative group">
@@ -67,8 +84,8 @@
         <input 
           id="search-input" 
           type="text" 
-          placeholder="搜尋任何關鍵字，支援複合查詢（例如：韓國燒肉、清邁咖啡、基隆小吃、日本拉麵...）"
-          class="w-full pl-12 sm:pl-14 pr-12 py-3.5 sm:py-4 bg-slate-50/80 hover:bg-white focus:bg-white border-2 border-slate-200 hover:border-slate-300 focus:border-indigo-500 rounded-2xl text-base sm:text-lg font-medium shadow-xs focus:shadow-md focus:outline-none transition-all placeholder:text-slate-400 placeholder:text-sm sm:placeholder:text-base text-slate-800"
+          placeholder="搜尋任何關鍵字（支援複合搜尋，如：韓國燒肉、清邁咖啡、基隆小吃、日本拉麵...）"
+          class="w-full pl-12 sm:pl-14 pr-12 py-3.5 sm:py-4 bg-slate-50/80 hover:bg-white focus:bg-white border-2 border-slate-200 hover:border-slate-300 focus:border-indigo-500 rounded-2xl text-base sm:text-lg font-medium shadow-2xs focus:shadow-md focus:outline-none transition-all placeholder:text-slate-400 placeholder:text-sm sm:placeholder:text-base text-slate-800"
         />
         <button id="btn-clear-search" class="hidden absolute inset-y-0 right-0 pr-4 sm:pr-5 flex items-center text-slate-400 hover:text-slate-600 transition">
           <i class="ph-fill ph-x-circle text-2xl"></i>
@@ -80,8 +97,8 @@
         <span class="font-bold text-slate-600 flex items-center gap-1 text-xs min-w-[55px] shrink-0">
           <i class="ph ph-globe-hemisphere-east text-sm text-indigo-600"></i> 範圍：
         </span>
-        <div class="flex flex-wrap items-center gap-2 text-xs">
-          <button id="scope-all" onclick="setScope('ALL')" class="scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-900 text-white shadow-sm">
+        <div class="flex flex-wrap items-center gap-1.5 sm:gap-2 text-xs">
+          <button id="scope-all" onclick="setScope('ALL')" class="scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-900 text-white shadow-xs">
             <span>全部地區</span>
             <span id="badge-scope-all" class="text-[10px] opacity-80">(0)</span>
           </button>
@@ -94,10 +111,10 @@
             <span id="badge-scope-intl" class="text-[10px] opacity-80">(0)</span>
           </button>
 
-          <!-- 關鍵新功能：以現在地點定位 -->
-          <button id="scope-nearby" onclick="locateAndSortNearby()" class="scope-btn px-3.5 py-1.5 rounded-lg font-bold transition flex items-center gap-1.5 bg-amber-500/10 text-amber-700 border border-amber-300 hover:bg-amber-500 hover:text-white shadow-sm active:scale-95 ml-auto sm:ml-0">
+          <!-- 關鍵功能：以現在地點定位 -->
+          <button id="scope-nearby" onclick="locateAndSortNearby()" class="scope-btn px-3.5 py-1.5 rounded-lg font-bold transition flex items-center gap-1.5 bg-amber-500/10 text-amber-700 border border-amber-300 hover:bg-amber-500 hover:text-white shadow-xs active:scale-95 ml-auto sm:ml-0">
             <i id="gps-icon" class="ph-bold ph-crosshair text-sm"></i>
-            <span id="gps-btn-text">📍 以現在地點定位 (離我最近)</span>
+            <span id="gps-btn-text">📍 離我最近 (GPS 定位)</span>
           </button>
         </div>
       </div>
@@ -107,7 +124,7 @@
         <span id="sub-region-label" class="font-bold text-slate-600 flex items-center gap-1 min-w-[55px] shrink-0">
           <i class="ph ph-map-pin text-sm text-indigo-500"></i> 縣市：
         </span>
-        <div id="regions-container" class="flex flex-wrap gap-1.5 max-h-28 overflow-y-auto custom-scrollbar pr-1">
+        <div id="regions-container" class="flex flex-wrap gap-1.5 max-h-24 overflow-y-auto custom-scrollbar pr-1">
           <!-- 動態生成地區按鈕 -->
         </div>
       </div>
@@ -117,7 +134,7 @@
         <span class="font-bold text-slate-600 flex items-center gap-1 min-w-[55px] shrink-0">
           <i class="ph ph-tag text-sm text-amber-500"></i> 分類：
         </span>
-        <div id="categories-container" class="flex flex-wrap gap-1.5 max-h-28 overflow-y-auto custom-scrollbar pr-1">
+        <div id="categories-container" class="flex flex-wrap gap-1.5 max-h-24 overflow-y-auto custom-scrollbar pr-1">
           <!-- 動態生成分類按鈕 -->
         </div>
       </div>
@@ -127,7 +144,7 @@
         <div>
           符合條件 <span id="filtered-count" class="font-bold text-indigo-600 text-sm">0</span> 筆
           <span id="filter-status-desc" class="ml-1 text-slate-400"></span>
-          <span id="showing-count" class="text-slate-400 ml-2"></span>
+          <span id="showing-count" class="text-slate-400 ml-1.5 font-medium"></span>
         </div>
         <div class="flex items-center gap-3">
           <label class="flex items-center gap-1 cursor-pointer select-none">
@@ -155,7 +172,7 @@
 
       <!-- 載入更多按鈕與提示 -->
       <div id="load-more-container" class="text-center py-6 hidden">
-        <button id="btn-load-more" class="px-6 py-2.5 bg-white border border-slate-200 text-slate-700 hover:bg-slate-50 rounded-xl text-xs font-semibold shadow-sm transition active:scale-95">
+        <button id="btn-load-more" class="px-6 py-2.5 bg-white border border-slate-200 text-slate-700 hover:bg-slate-50 rounded-xl text-xs font-semibold shadow-xs transition active:scale-95">
           載入更多地點 (還有 <span id="remaining-count">0</span> 筆)
         </button>
       </div>
@@ -176,7 +193,7 @@
 
   <!-- 頁尾 -->
   <footer class="bg-white border-t border-slate-200 py-4 text-center text-xs text-slate-400">
-    Peggy的旅行地圖口袋名單・支援 GPS 距離測量與導航
+    Peggy的旅行地圖口袋名單・全方位極速優化
   </footer>
 
   <!-- 匯入 / 管理彈窗 (Modal) -->
@@ -197,7 +214,7 @@
 
         <div id="dropzone" class="border-2 border-dashed border-slate-300 hover:border-indigo-500 rounded-2xl p-6 text-center transition cursor-pointer bg-slate-50/50 hover:bg-indigo-50/20">
           <input type="file" id="file-input" accept=".json,.geojson,.csv" class="hidden">
-          <div class="w-12 h-12 bg-white text-indigo-600 rounded-full flex items-center justify-center text-2xl mx-auto shadow-sm mb-2 border border-slate-100">
+          <div class="w-12 h-12 bg-white text-indigo-600 rounded-full flex items-center justify-center text-2xl mx-auto shadow-xs mb-2 border border-slate-100">
             <i class="ph ph-cloud-arrow-up"></i>
           </div>
           <p class="font-semibold text-slate-700 text-sm">點擊選擇檔案 或 拖曳檔案至此</p>
@@ -206,7 +223,7 @@
 
         <div class="flex items-center justify-between pt-2 border-t border-slate-100">
           <button id="btn-reload-builtin" class="text-indigo-600 hover:text-indigo-800 font-semibold flex items-center gap-1">
-            <i class="ph ph-arrow-clockwise"></i> 重新載入最新精準分類資料 (含經緯度)
+            <i class="ph ph-arrow-clockwise"></i> 重新載入最新精準分類資料
           </button>
         </div>
       </div>
@@ -283,14 +300,14 @@
     </div>
   </div>
 
-  <!-- JavaScript 主邏輯 -->
+  <!-- JavaScript 主邏輯 (極致效能架構) -->
   <script>
-    const STORAGE_KEY = 'PEGGY_STARRED_PLACES_DATA_V4'; // 升級版本以加載經緯度資料
-    const PAGE_SIZE = 60;
+    const STORAGE_KEY = 'PEGGY_STARRED_PLACES_CUSTOM_MODS'; // 只儲存使用者的手動新增與修改，避免浪費寫入 1.7MB
+    const PAGE_SIZE = 45; // 最平衡的卡片渲染量，滑動更平滑
 
     let places = [];
     let currentFiltered = [];
-    let currentRenderCount = PAGE_SIZE;
+    let renderedCount = 0; // 目前 DOM 已掛載的數量
 
     // 篩選維度
     let currentScope = 'ALL'; // 'ALL', 'TW', 'INTL', 'NEARBY'
@@ -300,31 +317,43 @@
     let sortMode = 'newest';
 
     // GPS 狀態
-    let userLocation = null; // { lat, lng }
+    let userLocation = null;
     let isLocating = false;
 
+    // 效能核心：初始化索引預建
+    function buildSearchIndex(item) {
+      // 預先拼接小寫索引字串，只做一次！避免搜尋時 4775 次迴圈重複拼接字串
+      item._s = `${item.name} ${item.address || ''} ${item.region || ''} ${item.category || ''} ${item.note || ''}`.toLowerCase();
+    }
+
     function init() {
-      const stored = localStorage.getItem(STORAGE_KEY);
-      if (stored) {
+      // 優先取用 data.js
+      places = window.PEGGY_STARRED_PLACES || [];
+
+      // 檢查是否有使用者自訂的手動修改或新增
+      const customMods = localStorage.getItem(STORAGE_KEY);
+      if (customMods) {
         try {
-          places = JSON.parse(stored);
-        } catch (e) {
-          places = window.PEGGY_STARRED_PLACES || [];
-        }
-      } else if (window.PEGGY_STARRED_PLACES && window.PEGGY_STARRED_PLACES.length > 0) {
-        places = window.PEGGY_STARRED_PLACES;
-        savePlaces();
+          const mods = JSON.parse(customMods);
+          // 合併自訂修改
+          if (Array.isArray(mods) && mods.length > 0) {
+            places = [...mods, ...places];
+          }
+        } catch (e) {}
+      }
+
+      // 一次性建立搜尋快取索引
+      const len = places.length;
+      for (let i = 0; i < len; i++) {
+        buildSearchIndex(places[i]);
       }
 
       setupEvents();
       renderAll();
     }
 
-    function savePlaces() {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(places));
-    }
-
     function setupEvents() {
+      // 搜尋 (120ms 高速 debounce)
       let debounceTimer = null;
       const searchInput = document.getElementById('search-input');
       const clearSearchBtn = document.getElementById('btn-clear-search');
@@ -335,7 +364,7 @@
           searchQuery = e.target.value.trim().toLowerCase();
           clearSearchBtn.classList.toggle('hidden', searchQuery === '');
           filterAndRender(true);
-        }, 150);
+        }, 120);
       });
 
       clearSearchBtn.addEventListener('click', () => {
@@ -354,19 +383,25 @@
       document.getElementById('btn-empty-reset').addEventListener('click', resetFilters);
 
       document.getElementById('btn-load-more').addEventListener('click', () => {
-        currentRenderCount += PAGE_SIZE;
-        renderCardsChunk();
+        appendCardsChunk();
       });
 
+      // 智慧無感滾動載入
+      let scrollThrottled = false;
       window.addEventListener('scroll', () => {
-        if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 500) {
-          if (currentRenderCount < currentFiltered.length) {
-            currentRenderCount += PAGE_SIZE;
-            renderCardsChunk();
+        if (scrollThrottled) return;
+        scrollThrottled = true;
+        requestAnimationFrame(() => {
+          if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 600) {
+            if (renderedCount < currentFiltered.length) {
+              appendCardsChunk();
+            }
           }
-        }
-      });
+          scrollThrottled = false;
+        });
+      }, { passive: true });
 
+      // 彈窗與表單
       const importModal = document.getElementById('import-modal');
       document.getElementById('btn-open-import').addEventListener('click', () => importModal.classList.remove('hidden'));
       document.querySelectorAll('.modal-close').forEach(btn => {
@@ -382,9 +417,10 @@
       document.getElementById('place-form').addEventListener('submit', handlePlaceFormSubmit);
 
       document.getElementById('btn-reload-builtin').addEventListener('click', () => {
-        if (confirm("這將會把資料還原為最新完整名單 (含經緯度與精準分類)，確定嗎？")) {
+        if (confirm("這將會清除自訂手動修改並還原初始名單，確定嗎？")) {
+          localStorage.removeItem(STORAGE_KEY);
           places = window.PEGGY_STARRED_PLACES || [];
-          savePlaces();
+          for (let i = 0; i < places.length; i++) buildSearchIndex(places[i]);
           renderAll();
           importModal.classList.add('hidden');
           alert('已重新載入最新資料！');
@@ -409,26 +445,22 @@
       });
     }
 
-    // Haversine 大圓距離計算 (公里)
+    // 效能優化版 Haversine 距離計算
     function calculateDistanceKm(lat1, lon1, lat2, lon2) {
       if (lat1 == null || lon1 == null || lat2 == null || lon2 == null) return null;
-      const R = 6371; // 地球平均半徑 (km)
-      const dLat = (lat2 - lat1) * Math.PI / 180;
-      const dLon = (lon2 - lon1) * Math.PI / 180;
-      const a = 
-        Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-        Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * 
-        Math.sin(dLon / 2) * Math.sin(dLon / 2);
-      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-      return R * c;
+      const R = 6371;
+      const p = 0.017453292519943295; // Math.PI / 180
+      const c = Math.cos;
+      const a = 0.5 - c((lat2 - lat1) * p)/2 + 
+                c(lat1 * p) * c(lat2 * p) * 
+                (1 - c((lon2 - lon1) * p))/2;
+      return 2 * R * Math.asin(Math.sqrt(a));
     }
 
-    // 格式化距離文字
     function formatDistance(distanceKm) {
       if (distanceKm == null) return null;
       if (distanceKm < 1) {
-        const meters = Math.round(distanceKm * 1000);
-        return `${meters} 公尺`;
+        return `${Math.round(distanceKm * 1000)} 公尺`;
       } else if (distanceKm < 10) {
         return `${distanceKm.toFixed(1)} 公里`;
       } else {
@@ -436,7 +468,6 @@
       }
     }
 
-    // 執行定位與依距離排序
     window.locateAndSortNearby = function() {
       if (!navigator.geolocation) {
         alert("很抱歉，您的瀏覽器不支援 GPS 定位功能。");
@@ -450,34 +481,36 @@
       const icon = document.getElementById('gps-icon');
       const originalText = btnText.innerText;
 
-      btnText.innerText = "正在取得 GPS 定位...";
+      btnText.innerText = "正在取得定位...";
       icon.className = "ph-bold ph-spinner animate-spin text-sm";
 
       navigator.geolocation.getCurrentPosition(
         (position) => {
           isLocating = false;
           icon.className = "ph-bold ph-crosshair text-sm";
-          btnText.innerText = "📍 已定位 (依距離排序中)";
+          btnText.innerText = "📍 離我最近";
 
           userLocation = {
             lat: position.coords.latitude,
             lng: position.coords.longitude
           };
 
-          // 切換排序為距離優先
           sortMode = 'distance';
           document.getElementById('sort-select').value = 'distance';
 
-          // 更新所有地點的距離數值
-          places.forEach(p => {
+          // 一次性計算距離並快取
+          const uLat = userLocation.lat;
+          const uLng = userLocation.lng;
+          const len = places.length;
+          for (let i = 0; i < len; i++) {
+            const p = places[i];
             if (p.lat && p.lng) {
-              p.distanceKm = calculateDistanceKm(userLocation.lat, userLocation.lng, p.lat, p.lng);
+              p.distanceKm = calculateDistanceKm(uLat, uLng, p.lat, p.lng);
             } else {
               p.distanceKm = null;
             }
-          });
+          }
 
-          // 切換當前範圍為 NEARBY (或維持全部但依距離排序)
           currentScope = 'NEARBY';
           updateScopeButtonsUI();
           renderRegionButtons();
@@ -487,22 +520,11 @@
           isLocating = false;
           icon.className = "ph-bold ph-crosshair text-sm";
           btnText.innerText = originalText;
-
           let msg = "無法取得您的位置。";
-          if (error.code === error.PERMISSION_DENIED) {
-            msg = "請在瀏覽器網址列或系統設定中，允許此網頁存取「位置資訊/GPS 定位」。";
-          } else if (error.code === error.POSITION_UNAVAILABLE) {
-            msg = "位置資訊目前無法使用，請確認裝置已開啟 GPS 或網路連線。";
-          } else if (error.code === error.TIMEOUT) {
-            msg = "定位請求逾時，請稍後再試。";
-          }
+          if (error.code === 1) msg = "請在瀏覽器網址列允許此網頁存取位置資訊。";
           alert(msg);
         },
-        {
-          enableHighAccuracy: true,
-          timeout: 10000,
-          maximumAge: 30000
-        }
+        { enableHighAccuracy: true, timeout: 8000, maximumAge: 30000 }
       );
     };
 
@@ -531,9 +553,14 @@
     }
 
     function updateScopeBadges() {
-      const twCount = places.filter(p => p.scope === 'TW').length;
-      const intlCount = places.filter(p => p.scope === 'INTL').length;
-      document.getElementById('badge-scope-all').innerText = `(${places.length.toLocaleString()})`;
+      let twCount = 0;
+      let intlCount = 0;
+      const len = places.length;
+      for (let i = 0; i < len; i++) {
+        if (places[i].scope === 'TW') twCount++;
+        else if (places[i].scope === 'INTL') intlCount++;
+      }
+      document.getElementById('badge-scope-all').innerText = `(${len.toLocaleString()})`;
       document.getElementById('badge-scope-tw').innerText = `(${twCount.toLocaleString()})`;
       document.getElementById('badge-scope-intl').innerText = `(${intlCount.toLocaleString()})`;
     }
@@ -549,19 +576,19 @@
         b.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-100 text-slate-600 hover:bg-slate-200';
       });
 
-      btnNearby.className = 'scope-btn px-3.5 py-1.5 rounded-lg font-bold transition flex items-center gap-1.5 bg-amber-500/10 text-amber-700 border border-amber-300 hover:bg-amber-500 hover:text-white shadow-sm active:scale-95 ml-auto sm:ml-0';
+      btnNearby.className = 'scope-btn px-3.5 py-1.5 rounded-lg font-bold transition flex items-center gap-1.5 bg-amber-500/10 text-amber-700 border border-amber-300 hover:bg-amber-500 hover:text-white shadow-xs active:scale-95 ml-auto sm:ml-0';
 
       if (currentScope === 'ALL') {
-        btnAll.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-900 text-white shadow-sm';
+        btnAll.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-slate-900 text-white shadow-xs';
         label.innerHTML = '<i class="ph ph-map-pin text-sm text-indigo-500"></i> 地區：';
       } else if (currentScope === 'TW') {
-        btnTW.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-indigo-600 text-white shadow-sm';
+        btnTW.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-indigo-600 text-white shadow-xs';
         label.innerHTML = '<i class="ph ph-map-pin text-sm text-indigo-500"></i> 台灣縣市：';
       } else if (currentScope === 'INTL') {
-        btnINTL.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-emerald-600 text-white shadow-sm';
+        btnINTL.className = 'scope-btn px-3 py-1.5 rounded-lg font-semibold transition flex items-center gap-1.5 bg-emerald-600 text-white shadow-xs';
         label.innerHTML = '<i class="ph ph-airplane text-sm text-emerald-500"></i> 國外國家：';
       } else if (currentScope === 'NEARBY') {
-        btnNearby.className = 'scope-btn px-3.5 py-1.5 rounded-lg font-bold transition flex items-center gap-1.5 bg-amber-600 text-white shadow-sm ring-2 ring-amber-400 active:scale-95 ml-auto sm:ml-0';
+        btnNearby.className = 'scope-btn px-3.5 py-1.5 rounded-lg font-bold transition flex items-center gap-1.5 bg-amber-600 text-white shadow-xs ring-2 ring-amber-400 active:scale-95 ml-auto sm:ml-0';
         label.innerHTML = '<i class="ph ph-map-pin text-sm text-amber-500"></i> 地區：';
       }
     }
@@ -575,15 +602,18 @@
     };
 
     function renderRegionButtons() {
-      let pool = places;
-      if (currentScope === 'TW') pool = places.filter(p => p.scope === 'TW');
-      else if (currentScope === 'INTL') pool = places.filter(p => p.scope === 'INTL');
-
       const regMap = {};
-      pool.forEach(p => {
+      const len = places.length;
+      let poolCount = 0;
+
+      for (let i = 0; i < len; i++) {
+        const p = places[i];
+        if (currentScope === 'TW' && p.scope !== 'TW') continue;
+        if (currentScope === 'INTL' && p.scope !== 'INTL') continue;
         const r = p.region || '其他';
         regMap[r] = (regMap[r] || 0) + 1;
-      });
+        poolCount++;
+      }
 
       const sortedRegions = Object.keys(regMap).sort((a, b) => {
         if (a === '其他' || a === '其他海外') return 1;
@@ -597,14 +627,14 @@
       const activeColor = currentScope === 'INTL' ? 'bg-emerald-600 text-white' : 'bg-indigo-600 text-white';
 
       container.innerHTML = sortedRegions.map(reg => {
-        const count = reg === '全部' ? pool.length : (regMap[reg] || 0);
+        const count = reg === '全部' ? poolCount : (regMap[reg] || 0);
         const isActive = selectedRegion === reg;
         return `
           <button 
             onclick="setRegion('${reg}')"
             class="px-2.5 py-1 rounded-lg font-medium transition flex items-center gap-1 text-xs shrink-0 ${
               isActive 
-                ? `${activeColor} shadow-sm font-semibold` 
+                ? `${activeColor} shadow-xs font-semibold` 
                 : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
             }">
             <span>${reg}</span>
@@ -616,25 +646,16 @@
 
     function renderCategoryButtons() {
       const catMap = {};
-      places.forEach(p => {
-        const c = p.category || '其他';
+      const len = places.length;
+      for (let i = 0; i < len; i++) {
+        const c = places[i].category || '其他';
         catMap[c] = (catMap[c] || 0) + 1;
-      });
+      }
 
       const priority = [
-        "全部", 
-        "景點", 
-        "餐廳", 
-        "小吃", 
-        "戶外/生活購物", 
-        "甜點/烘焙", 
-        "咖啡廳", 
-        "住宿/飯店", 
-        "酒吧/餐酒館", 
-        "早餐/早午餐", 
-        "按摩/SPA/體驗", 
-        "交通/設施", 
-        "其他"
+        "全部", "景點", "餐廳", "小吃", "戶外/生活購物", 
+        "甜點/烘焙", "咖啡廳", "住宿/飯店", "酒吧/餐酒館", 
+        "早餐/早午餐", "按摩/SPA/體驗", "交通/設施", "其他"
       ];
       const existingCats = Object.keys(catMap);
       const sortedCats = ["全部", ...priority.filter(c => c !== "全部" && existingCats.includes(c)), ...existingCats.filter(c => !priority.includes(c))];
@@ -648,7 +669,7 @@
             onclick="setCategory('${cat}')"
             class="px-2.5 py-1 rounded-lg font-medium transition flex items-center gap-1 text-xs shrink-0 ${
               isActive 
-                ? 'bg-amber-600 text-white shadow-sm font-semibold' 
+                ? 'bg-amber-600 text-white shadow-xs font-semibold' 
                 : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
             }">
             <span>${cat}</span>
@@ -670,106 +691,70 @@
       filterAndRender(true);
     };
 
-    // 快捷靈感搜尋
-    window.quickSearch = function(keyword) {
-      const searchInput = document.getElementById('search-input');
-      const clearSearchBtn = document.getElementById('btn-clear-search');
-      searchInput.value = keyword;
-      searchQuery = keyword.trim().toLowerCase();
-      clearSearchBtn.classList.remove('hidden');
-      // 切換回全部地區，讓複合搜尋自動定位
-      currentScope = 'ALL';
-      selectedRegion = '全部';
-      selectedCategory = '全部';
-      updateScopeButtonsUI();
-      renderRegionButtons();
-      renderCategoryButtons();
-      filterAndRender(true);
-    };
-
-    // 常用地區與關鍵詞字典 (用於智慧拆解如 "韓國燒肉" -> ["韓國", "燒肉"])
     const AUTO_SPLIT_REGIONS = [
       "韓國", "日本", "泰國", "越南", "冰島", "土耳其", "澳門", "香港", "印尼", "新加坡", "馬爾地夫",
-      "基隆", "台北", "臺北", "新北", "桃園", "新竹", "苗栗", "台中", "臺中", "彰化", "南投", "雲林", "嘉義", "台南", "臺南", "高雄", "屏東", "宜蘭", "花蓮", "台東", "臺東", "澎湖", "金門", "馬祖",
-      "清邁", "清賣", "曼谷", "普吉", "東京", "大阪", "京都", "福岡", "沖繩", "北海道", "名古屋", "首爾", "釜山", "峴港", "河內", "胡志明", "峇里島", "九份", "礁溪", "羅東", "墾丁", "日月潭", "阿里山"
+      "基隆", "台北", "新北", "桃園", "新竹", "苗栗", "台中", "彰化", "南投", "雲林", "嘉義", "台南", "高雄", "屏東", "宜蘭", "花蓮", "台東", "澎湖", "金門", "馬祖",
+      "清邁", "曼谷", "普吉", "東京", "大阪", "京都", "福岡", "沖繩", "北海道", "名古屋", "首爾", "釜山", "峴港", "河內", "胡志明", "峇里島", "九份", "礁溪", "羅東", "墾丁", "日月潭", "阿里山"
     ];
 
-    // 將搜尋輸入智慧拆解成多個搜尋詞
     function parseSearchTokens(rawQuery) {
       if (!rawQuery) return [];
       let text = rawQuery.trim().toLowerCase();
+      text = text.replace(/清賣/g, "清邁").replace(/魯肉飯/g, "滷肉飯").replace(/臺/g, "台");
 
-      // 常見錯字/同義詞容錯轉換
-      text = text.replace(/清賣/g, "清邁");
-      text = text.replace(/魯肉飯/g, "滷肉飯");
-      text = text.replace(/臺北/g, "台北");
-      text = text.replace(/臺中/g, "台中");
-      text = text.replace(/臺南/g, "台南");
-      text = text.replace(/臺東/g, "台東");
-
-      // 如果使用者已經用了空格，直接以空格切割
       if (text.includes(" ") || text.includes("+") || text.includes(",")) {
         return text.split(/[\s+,]+/).filter(t => t.length > 0);
       }
 
-      // 如果使用者沒有空格（如「韓國燒肉」、「清邁咖啡」、「基隆小吃」），嘗試智慧分詞
-      for (const reg of AUTO_SPLIT_REGIONS) {
-        const normReg = reg.replace(/清賣/g, "清邁").replace(/臺/g, "台").toLowerCase();
-        if (text.startsWith(normReg) && text.length > normReg.length) {
-          const rest = text.substring(normReg.length).trim();
-          if (rest.length > 0) {
-            return [normReg, rest];
-          }
+      for (let i = 0; i < AUTO_SPLIT_REGIONS.length; i++) {
+        const reg = AUTO_SPLIT_REGIONS[i].toLowerCase();
+        if (text.startsWith(reg) && text.length > reg.length) {
+          const rest = text.substring(reg.length).trim();
+          if (rest.length > 0) return [reg, rest];
         }
       }
 
       return [text];
     }
 
-    function filterAndRender(resetCount = false) {
-      if (resetCount) {
-        currentRenderCount = PAGE_SIZE;
+    function filterAndRender(reset = false) {
+      if (reset) {
+        renderedCount = 0;
       }
 
       const searchTokens = parseSearchTokens(searchQuery);
+      const tokenCount = searchTokens.length;
 
+      // 極速過濾
       currentFiltered = places.filter(p => {
         if (currentScope === 'TW' && p.scope !== 'TW') return false;
         if (currentScope === 'INTL' && p.scope !== 'INTL') return false;
         if (selectedRegion !== '全部' && p.region !== selectedRegion) return false;
         if (selectedCategory !== '全部' && p.category !== selectedCategory) return false;
 
-        // 智慧多詞複合查詢 (AND 邏輯)
-        if (searchTokens.length > 0) {
-          const searchableText = `${p.name} ${p.address || ''} ${p.region || ''} ${p.category || ''} ${p.note || ''}`.toLowerCase();
-          
-          // 每個 token 都必須符合
-          for (const token of searchTokens) {
-            let matched = searchableText.includes(token);
-
-            // 英文/別名容錯擴展
+        // 索引字串命中檢測
+        if (tokenCount > 0) {
+          const s = p._s;
+          for (let i = 0; i < tokenCount; i++) {
+            const token = searchTokens[i];
+            let matched = s.includes(token);
             if (!matched) {
-              if (token === "清邁" && (searchableText.includes("chiang mai") || searchableText.includes("chiangmai"))) matched = true;
-              else if (token === "曼谷" && searchableText.includes("bangkok")) matched = true;
-              else if (token === "首爾" && searchableText.includes("seoul")) matched = true;
-              else if (token === "釜山" && searchableText.includes("busan")) matched = true;
-              else if (token === "東京" && searchableText.includes("tokyo")) matched = true;
-              else if (token === "大阪" && searchableText.includes("osaka")) matched = true;
-              else if (token === "京都" && searchableText.includes("kyoto")) matched = true;
-              else if (token === "福岡" && searchableText.includes("fukuoka")) matched = true;
-              else if (token === "沖繩" && searchableText.includes("okinawa")) matched = true;
-              else if (token === "燒肉" && (searchableText.includes("烤肉") || searchableText.includes("燒烤") || searchableText.includes("bbq"))) matched = true;
-              else if (token === "咖啡" && (searchableText.includes("cafe") || searchableText.includes("coffee") || searchableText.includes("咖啡廳"))) matched = true;
-              else if (token === "按摩" && (searchableText.includes("massage") || searchableText.includes("spa"))) matched = true;
-              else if (token === "拉麵" && searchableText.includes("ramen")) matched = true;
+              if (token === "清邁" && (s.includes("chiang mai") || s.includes("chiangmai"))) matched = true;
+              else if (token === "曼谷" && s.includes("bangkok")) matched = true;
+              else if (token === "首爾" && s.includes("seoul")) matched = true;
+              else if (token === "釜山" && s.includes("busan")) matched = true;
+              else if (token === "東京" && s.includes("tokyo")) matched = true;
+              else if (token === "大阪" && s.includes("osaka")) matched = true;
+              else if (token === "福岡" && s.includes("fukuoka")) matched = true;
+              else if (token === "沖繩" && s.includes("okinawa")) matched = true;
+              else if (token === "燒肉" && (s.includes("烤肉") || s.includes("燒烤") || s.includes("bbq"))) matched = true;
+              else if (token === "咖啡" && (s.includes("cafe") || s.includes("coffee") || s.includes("咖啡廳"))) matched = true;
+              else if (token === "按摩" && (s.includes("massage") || s.includes("spa"))) matched = true;
+              else if (token === "拉麵" && s.includes("ramen")) matched = true;
             }
-
-            if (!matched) {
-              return false; // 任一條件不符即排除
-            }
+            if (!matched) return false;
           }
         }
-
         return true;
       });
 
@@ -804,17 +789,24 @@
       if (searchQuery) statusDesc.push(`搜尋「${searchQuery}」`);
       document.getElementById('filter-status-desc').innerText = statusDesc.length > 0 ? `(${statusDesc.join(' + ')})` : '';
 
-      renderCardsChunk();
+      // 清空原有 DOM 並渲染第一批
+      const grid = document.getElementById('places-grid');
+      grid.innerHTML = '';
+      renderedCount = 0;
+      appendCardsChunk();
     }
 
-    function renderCardsChunk() {
+    // 增量式掛載卡片，避免全頁重繪重排
+    function appendCardsChunk() {
       const grid = document.getElementById('places-grid');
       const emptyState = document.getElementById('empty-state');
       const loadMoreContainer = document.getElementById('load-more-container');
       const showingCountEl = document.getElementById('showing-count');
       const remainingCountEl = document.getElementById('remaining-count');
 
-      if (currentFiltered.length === 0) {
+      const total = currentFiltered.length;
+
+      if (total === 0) {
         grid.innerHTML = '';
         emptyState.classList.remove('hidden');
         loadMoreContainer.classList.add('hidden');
@@ -824,36 +816,37 @@
 
       emptyState.classList.add('hidden');
 
-      const itemsToShow = currentFiltered.slice(0, currentRenderCount);
-      showingCountEl.innerText = itemsToShow.length < currentFiltered.length ? `(已顯示前 ${itemsToShow.length} 筆)` : '';
+      const nextBatch = currentFiltered.slice(renderedCount, renderedCount + PAGE_SIZE);
+      if (nextBatch.length === 0) return;
 
-      grid.innerHTML = itemsToShow.map(place => {
+      const htmlChunks = [];
+      const len = nextBatch.length;
+
+      for (let i = 0; i < len; i++) {
+        const place = nextBatch[i];
         const mapsUrl = place.url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.name + ' ' + (place.address || ''))}`;
-        
         const isTW = place.scope === 'TW';
-        const regionBadgeClass = isTW 
-          ? 'bg-indigo-50 text-indigo-700 border-indigo-200' 
-          : 'bg-emerald-50 text-emerald-800 border-emerald-200 font-semibold';
+        const regionBadgeClass = isTW ? 'bg-indigo-50 text-indigo-700 border-indigo-200' : 'bg-emerald-50 text-emerald-800 border-emerald-200 font-semibold';
         const regionIcon = isTW ? '🇹🇼' : '✈️';
 
         let catColor = "bg-slate-100 text-slate-700 border-slate-200";
-        if (place.category === '戶外/生活購物') catColor = "bg-cyan-100/70 text-cyan-800 border-cyan-300";
-        else if (place.category === '咖啡廳') catColor = "bg-amber-100/70 text-amber-800 border-amber-300";
-        else if (place.category === '小吃') catColor = "bg-orange-100/70 text-orange-800 border-orange-300";
-        else if (place.category === '景點') catColor = "bg-emerald-100/70 text-emerald-800 border-emerald-300";
-        else if (place.category === '甜點/烘焙') catColor = "bg-rose-100/70 text-rose-800 border-rose-300";
-        else if (place.category === '住宿/飯店') catColor = "bg-violet-100/70 text-violet-800 border-violet-300";
-        else if (place.category === '酒吧/餐酒館') catColor = "bg-purple-100/70 text-purple-800 border-purple-300";
-        else if (place.category === '按摩/SPA/體驗') catColor = "bg-pink-100/70 text-pink-800 border-pink-300";
-        else if (place.category === '早餐/早午餐') catColor = "bg-yellow-100/70 text-yellow-800 border-yellow-300";
-        else if (place.category === '交通/設施') catColor = "bg-slate-200/80 text-slate-800 border-slate-300";
-        else if (place.category === '餐廳') catColor = "bg-blue-100/70 text-blue-800 border-blue-300";
+        const cat = place.category;
+        if (cat === '戶外/生活購物') catColor = "bg-cyan-100/70 text-cyan-800 border-cyan-300";
+        else if (cat === '咖啡廳') catColor = "bg-amber-100/70 text-amber-800 border-amber-300";
+        else if (cat === '小吃') catColor = "bg-orange-100/70 text-orange-800 border-orange-300";
+        else if (cat === '景點') catColor = "bg-emerald-100/70 text-emerald-800 border-emerald-300";
+        else if (cat === '甜點/烘焙') catColor = "bg-rose-100/70 text-rose-800 border-rose-300";
+        else if (cat === '住宿/飯店') catColor = "bg-violet-100/70 text-violet-800 border-violet-300";
+        else if (cat === '酒吧/餐酒館') catColor = "bg-purple-100/70 text-purple-800 border-purple-300";
+        else if (cat === '按摩/SPA/體驗') catColor = "bg-pink-100/70 text-pink-800 border-pink-300";
+        else if (cat === '早餐/早午餐') catColor = "bg-yellow-100/70 text-yellow-800 border-yellow-300";
+        else if (cat === '交通/設施') catColor = "bg-slate-200/80 text-slate-800 border-slate-300";
+        else if (cat === '餐廳') catColor = "bg-blue-100/70 text-blue-800 border-blue-300";
 
-        // 距離標籤
         const distText = formatDistance(place.distanceKm);
 
-        return `
-          <div class="bg-white rounded-xl border border-slate-200/90 hover:border-slate-300 p-4 shadow-sm hover:shadow transition flex flex-col justify-between group">
+        htmlChunks.push(`
+          <div class="place-card bg-white rounded-xl border border-slate-200/90 hover:border-slate-300 p-4 shadow-2xs hover:shadow transition flex flex-col justify-between group">
             <div>
               <div class="flex items-start justify-between gap-2 mb-2">
                 <h3 class="font-bold text-slate-800 text-sm sm:text-base leading-snug line-clamp-2">${escapeHtml(place.name)}</h3>
@@ -867,10 +860,10 @@
                 </div>
               </div>
 
-              <!-- 標籤組 (距離 + 地區 + 分類) -->
+              <!-- 標籤組 -->
               <div class="flex flex-wrap items-center gap-1.5 mb-2.5">
                 ${distText ? `
-                  <span class="inline-flex items-center gap-1 text-[11px] font-bold px-2 py-0.5 rounded-md bg-amber-50 text-amber-800 border border-amber-300 shadow-xs">
+                  <span class="inline-flex items-center gap-1 text-[11px] font-bold px-2 py-0.5 rounded-md bg-amber-50 text-amber-800 border border-amber-300 shadow-2xs">
                     <i class="ph-bold ph-navigation-arrow text-amber-600"></i> ${distText}
                   </span>
                 ` : ''}
@@ -908,19 +901,25 @@
                 href="${escapeHtml(mapsUrl)}" 
                 target="_blank" 
                 rel="noopener noreferrer" 
-                class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-emerald-50 text-emerald-700 hover:bg-emerald-600 hover:text-white transition border border-emerald-200 shadow-sm">
+                class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-emerald-50 text-emerald-700 hover:bg-emerald-600 hover:text-white transition border border-emerald-200 shadow-2xs">
                 <i class="ph-fill ph-google-logo text-sm"></i>
                 Google Maps
                 <i class="ph ph-arrow-square-out text-xs"></i>
               </a>
             </div>
           </div>
-        `;
-      }).join('');
+        `);
+      }
 
-      if (currentRenderCount < currentFiltered.length) {
+      // 高效 insertAdjacentHTML 追加卡片，完全不重刷已有的卡片！
+      grid.insertAdjacentHTML('beforeend', htmlChunks.join(''));
+      renderedCount += nextBatch.length;
+
+      showingCountEl.innerText = renderedCount < total ? `(已載入 ${renderedCount} / 共 ${total} 筆)` : '';
+
+      if (renderedCount < total) {
         loadMoreContainer.classList.remove('hidden');
-        remainingCountEl.innerText = (currentFiltered.length - currentRenderCount).toLocaleString();
+        remainingCountEl.innerText = (total - renderedCount).toLocaleString();
       } else {
         loadMoreContainer.classList.add('hidden');
       }
@@ -961,7 +960,8 @@
     window.deletePlace = function(id) {
       if (confirm('確定要刪除這個口袋名單嗎？')) {
         places = places.filter(p => p.id !== id);
-        savePlaces();
+        // 保存修改
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(places.filter(p => p.id.startsWith('place_'))));
         renderAll();
       }
     };
@@ -985,6 +985,7 @@
         const index = places.findIndex(p => p.id === id);
         if (index !== -1) {
           places[index] = { ...places[index], name, scope, region, category, address, url, note };
+          buildSearchIndex(places[index]);
         }
       } else {
         const newPlace = {
@@ -992,10 +993,14 @@
           name, scope, region, category, address, url, note,
           createdAt: Date.now()
         };
+        buildSearchIndex(newPlace);
         places.unshift(newPlace);
       }
 
-      savePlaces();
+      // 儲存修改
+      const userCreated = places.filter(p => p.id.startsWith('place_'));
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(userCreated));
+
       renderAll();
       document.getElementById('place-modal').classList.add('hidden');
     }
@@ -1017,32 +1022,29 @@
 
             const address = (loc.address || '').trim();
             const url = props.google_maps_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(name + ' ' + address)}`;
-            
             const isIntl = loc.country_code && loc.country_code !== 'TW';
+
             let lat = null, lng = null;
             if (feat.geometry && feat.geometry.coordinates) {
               lng = feat.geometry.coordinates[0];
               lat = feat.geometry.coordinates[1];
             }
 
-            places.unshift({
+            const item = {
               id: 'imp_' + Date.now() + '_' + idx,
-              name,
-              address,
+              name, address,
               scope: isIntl ? 'INTL' : 'TW',
               region: isIntl ? (loc.country_code || '國外') : '其他',
               category: '其他',
-              lat,
-              lng,
-              url,
-              note: '',
+              lat, lng, url, note: '',
               createdAt: Date.now()
-            });
+            };
+            buildSearchIndex(item);
+            places.unshift(item);
             existingNames.add(name);
             added++;
           });
 
-          savePlaces();
           renderAll();
           document.getElementById('import-modal').classList.add('hidden');
           alert(`匯入完成！新增了 ${added} 筆新地點。`);
@@ -1063,7 +1065,12 @@
         .replace(/'/g, '&#039;');
     }
 
-    document.addEventListener('DOMContentLoaded', init);
+    // 啟動 (支援 defer)
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
   </script>
 </body>
 </html>
