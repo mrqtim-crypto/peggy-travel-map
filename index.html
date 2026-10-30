@@ -21,13 +21,6 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- Phosphor Icons -->
   <script src="https://unpkg.com/@phosphor-icons/web" defer></script>
-  
-  <!-- Leaflet 地圖與點聚合套件 (CSS + JS) -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 
   <!-- 完整資料檔 -->
   <script src="data.js" defer></script>
@@ -50,18 +43,6 @@
       content-visibility: auto;
       contain-intrinsic-size: 0 165px;
     }
-    /* 地圖 Popup 美化 */
-    .leaflet-popup-content-wrapper {
-      border-radius: 1rem;
-      padding: 0;
-      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
-      border: 1px solid #e2e8f0;
-      overflow: hidden;
-    }
-    .leaflet-popup-content {
-      margin: 0;
-      line-height: 1.5;
-    }
   </style>
 </head>
 <body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col">
@@ -78,7 +59,7 @@
             Peggy的旅行地圖口袋名單
             <span id="total-badge" class="text-xs bg-slate-100 text-slate-600 font-semibold px-2 py-0.5 rounded-full border border-slate-200">0 筆</span>
           </h1>
-          <p class="text-xs text-slate-500">互動大地圖・台灣與國外・PWA 離線手機 App</p>
+          <p class="text-xs text-slate-500">台灣與國外・即時測距・PWA 離線手機 App</p>
         </div>
       </div>
 
@@ -160,7 +141,7 @@
         </div>
       </div>
 
-      <!-- 結果狀態與檢視模式切換 (清單 vs 大地圖) -->
+      <!-- 結果狀態與排序篩選 -->
       <div class="flex flex-wrap items-center justify-between gap-3 text-xs text-slate-500 pt-2 border-t border-slate-100">
         <div>
           符合條件 <span id="filtered-count" class="font-bold text-indigo-600 text-sm">0</span> 筆
@@ -169,16 +150,6 @@
         </div>
 
         <div class="flex flex-wrap items-center gap-3">
-          <!-- 核心功能：模式切換 (清單 vs 大地圖) -->
-          <div class="bg-slate-100 p-0.5 rounded-xl flex items-center border border-slate-200 shadow-2xs">
-            <button id="view-mode-list" onclick="setViewMode('list')" class="px-3 py-1.5 rounded-lg font-bold text-xs flex items-center gap-1.5 bg-white text-indigo-700 shadow-xs transition">
-              <i class="ph-bold ph-cards"></i> 清單檢視
-            </button>
-            <button id="view-mode-map" onclick="setViewMode('map')" class="px-3 py-1.5 rounded-lg font-semibold text-xs flex items-center gap-1.5 text-slate-600 hover:text-slate-900 transition">
-              <i class="ph-bold ph-map-trifold"></i> 🗺️ 互動大地圖
-            </button>
-          </div>
-
           <label id="sort-control" class="flex items-center gap-1 cursor-pointer select-none">
             <span class="text-slate-400">排序：</span>
             <select id="sort-select" class="bg-transparent font-medium text-slate-700 outline-none cursor-pointer">
@@ -192,17 +163,6 @@
           <button id="btn-reset-filters" class="hover:text-indigo-600 font-semibold text-indigo-500 hidden flex items-center gap-0.5">
             <i class="ph ph-arrow-counter-clockwise"></i> 清除篩選
           </button>
-        </div>
-      </div>
-    </section>
-
-    <!-- 大地圖檢視區 (點離我最近時自動置頂顯示) -->
-    <section id="map-view-section" class="hidden space-y-3">
-      <div class="bg-white rounded-2xl border border-slate-200 shadow-sm p-2 overflow-hidden relative">
-        <div id="map" class="w-full h-[45vh] min-h-[350px] max-h-[500px] rounded-xl z-10"></div>
-        <div class="absolute bottom-4 right-4 z-20 bg-white/90 backdrop-blur-md px-3 py-1.5 rounded-lg border border-slate-200 text-[11px] font-semibold text-slate-700 shadow-xs flex items-center gap-1.5">
-          <span class="w-2.5 h-2.5 rounded-full bg-blue-600 animate-ping"></span>
-          已定位為中心・點擊圖釘或下方卡片皆可查看
         </div>
       </div>
     </section>
@@ -237,7 +197,7 @@
 
   <!-- 頁尾 -->
   <footer class="bg-white border-t border-slate-200 py-4 text-center text-xs text-slate-400">
-    Peggy的旅行地圖口袋名單・支援 PWA 離線手機 App 與大地圖探索
+    Peggy的旅行地圖口袋名單・支援 PWA 離線手機 App 與即時測距
   </footer>
 
   <!-- JavaScript 主邏輯 -->
@@ -248,12 +208,6 @@
     let places = [];
     let currentFiltered = [];
     let renderedCount = 0;
-
-    // 檢視模式：'list' 或 'map'
-    let currentViewMode = 'list';
-    let map = null;
-    let markerCluster = null;
-    let userMarker = null;
 
     // 篩選維度
     let currentScope = 'ALL';
@@ -327,140 +281,6 @@
       });
     }
 
-    // 模式切換：清單 vs 大地圖
-    window.setViewMode = function(mode) {
-      currentViewMode = mode;
-      const listSec = document.getElementById('list-view-section');
-      const mapSec = document.getElementById('map-view-section');
-      const btnList = document.getElementById('view-mode-list');
-      const btnMap = document.getElementById('view-mode-map');
-      const sortCtrl = document.getElementById('sort-control');
-
-      if (mode === 'list') {
-        listSec.classList.remove('hidden');
-        mapSec.classList.add('hidden');
-        btnList.className = 'px-3 py-1.5 rounded-lg font-bold text-xs flex items-center gap-1.5 bg-white text-indigo-700 shadow-xs transition';
-        btnMap.className = 'px-3 py-1.5 rounded-lg font-semibold text-xs flex items-center gap-1.5 text-slate-600 hover:text-slate-900 transition';
-        sortCtrl.classList.remove('hidden');
-      } else {
-        listSec.classList.add('hidden');
-        mapSec.classList.remove('hidden');
-        btnList.className = 'px-3 py-1.5 rounded-lg font-semibold text-xs flex items-center gap-1.5 text-slate-600 hover:text-slate-900 transition';
-        btnMap.className = 'px-3 py-1.5 rounded-lg font-bold text-xs flex items-center gap-1.5 bg-indigo-600 text-white shadow-xs transition';
-        sortCtrl.classList.add('hidden');
-
-        // 初始化或更新地圖
-        setTimeout(() => {
-          initOrUpdateMap();
-        }, 50);
-      }
-    };
-
-    // 修復 Leaflet 預設圖標在 CDN 環境下的 404 問題
-    if (typeof L !== 'undefined') {
-      delete L.Icon.Default.prototype._getIconUrl;
-      L.Icon.Default.mergeOptions({
-        iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
-        iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-        shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png'
-      });
-    }
-
-    // 初始化與繪製 Leaflet 大地圖
-    function initOrUpdateMap() {
-      const mapContainer = document.getElementById('map');
-      if (!mapContainer) return;
-
-      if (!map) {
-        // 預設以台北/台灣為初始中心
-        map = L.map('map', {
-          zoomControl: true,
-          attributionControl: false
-        }).setView([25.0478, 121.5318], 13);
-
-        // 使用高可靠度 OpenStreetMap 底圖
-        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          maxZoom: 19
-        }).addTo(map);
-
-        markerCluster = L.markerClusterGroup({
-          chunkedLoading: true,
-          maxClusterRadius: 40,
-          spiderfyOnMaxZoom: true,
-          showCoverageOnHover: false
-        });
-        map.addLayer(markerCluster);
-      }
-
-      // 觸發容器尺寸重算，防止切換時出現灰色區塊
-      setTimeout(() => {
-        if (map) {
-          map.invalidateSize(true);
-        }
-      }, 60);
-
-      renderMapMarkers();
-    }
-
-    function renderMapMarkers() {
-      if (!map || !markerCluster) return;
-
-      markerCluster.clearLayers();
-
-      const validPlaces = currentFiltered.filter(p => p.lat != null && p.lng != null);
-      const markers = [];
-
-      validPlaces.forEach(p => {
-        const mapsUrl = p.url || `https://www.google.com/maps/search/?api=1&query=${p.lat},${p.lng}`;
-        const isTW = p.scope === 'TW';
-        const distText = formatDistance(p.distanceKm);
-
-        const popupContent = `
-          <div class="p-3.5 space-y-2 min-w-[210px] max-w-[280px]">
-            <h4 class="font-bold text-slate-800 text-sm leading-snug">${escapeHtml(p.name)}</h4>
-            <div class="flex flex-wrap items-center gap-1 text-[11px]">
-              ${distText ? `<span class="bg-amber-100 text-amber-800 font-bold px-1.5 py-0.5 rounded">📍 ${distText}</span>` : ''}
-              <span class="bg-indigo-50 text-indigo-700 px-1.5 py-0.5 rounded border border-indigo-100">${isTW ? '🇹🇼' : '✈️'} ${escapeHtml(p.region)}</span>
-              <span class="bg-slate-100 text-slate-700 px-1.5 py-0.5 rounded border border-slate-200">${escapeHtml(p.category)}</span>
-            </div>
-            ${p.address ? `<p class="text-xs text-slate-500 line-clamp-2">${escapeHtml(p.address)}</p>` : ''}
-            <div class="pt-2 border-t border-slate-100">
-              <a href="${escapeHtml(mapsUrl)}" target="_blank" rel="noopener" class="w-full inline-flex items-center justify-center gap-1.5 py-1.5 px-3 rounded-lg text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white transition shadow-xs">
-                <i class="ph-fill ph-navigation-arrow"></i> 開啟 Google Maps 導航
-              </a>
-            </div>
-          </div>
-        `;
-
-        const marker = L.marker([p.lat, p.lng]).bindPopup(popupContent);
-        markers.push(marker);
-      });
-
-      markerCluster.addLayers(markers);
-
-      // 標示使用者當前位置 (醒目藍色脈衝圖釘)
-      if (userLocation) {
-        if (userMarker) map.removeLayer(userMarker);
-        userMarker = L.circleMarker([userLocation.lat, userLocation.lng], {
-          radius: 10,
-          fillColor: '#2563eb',
-          color: '#ffffff',
-          weight: 3,
-          opacity: 1,
-          fillOpacity: 0.9
-        }).bindPopup("<div class='p-2 text-xs font-bold text-slate-800'>📍 您目前的位置</div>").addTo(map);
-
-        // 離我最近模式：嚴格保證以使用者定位為正中心！
-        map.setView([userLocation.lat, userLocation.lng], 14);
-      } else {
-        // 非定位模式才依地點邊界自適應
-        if (markers.length > 0 && currentScope !== 'NEARBY') {
-          const group = L.featureGroup(markers);
-          map.fitBounds(group.getBounds().pad(0.1), { maxZoom: 15 });
-        }
-      }
-    }
-
     function setupEvents() {
       let debounceTimer = null;
       const searchInput = document.getElementById('search-input');
@@ -496,7 +316,7 @@
 
       let scrollThrottled = false;
       window.addEventListener('scroll', () => {
-        if (scrollThrottled || currentViewMode === 'map') return;
+        if (scrollThrottled) return;
         scrollThrottled = true;
         requestAnimationFrame(() => {
           if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 600) {
@@ -532,19 +352,7 @@
     }
 
     window.locateAndSortNearby = function() {
-      // 1. 無論如何第一時間立即展開上方大地圖！
-      const mapSec = document.getElementById('map-view-section');
-      const listSec = document.getElementById('list-view-section');
-      mapSec.classList.remove('hidden');
-      listSec.classList.remove('hidden');
-      currentViewMode = 'nearby';
       currentScope = 'NEARBY';
-
-      // 立即初始化並刷新地圖尺寸
-      initOrUpdateMap();
-      setTimeout(() => {
-        if (map) map.invalidateSize(true);
-      }, 100);
 
       const btnText = document.getElementById('gps-btn-text');
       const icon = document.getElementById('gps-icon');
@@ -552,7 +360,7 @@
       icon.className = "ph-bold ph-spinner animate-spin text-sm";
 
       if (!navigator.geolocation) {
-        alert("您的裝置未開放 GPS 定位，已為您在地圖上顯示台灣中心點。");
+        alert("您的裝置未開放 GPS 定位。");
         btnText.innerText = "📍 離我最近";
         icon.className = "ph-bold ph-crosshair text-sm";
         updateScopeButtonsUI();
@@ -589,26 +397,17 @@
           updateScopeButtonsUI();
           renderRegionButtons();
           filterAndRender(true);
-
-          // 核心：精確且強制以定位點為正中心！
-          setTimeout(() => {
-            if (map) {
-              map.invalidateSize(true);
-              map.setView([userLocation.lat, userLocation.lng], 14, { animate: true });
-            }
-          }, 150);
         },
         (error) => {
           icon.className = "ph-bold ph-crosshair text-sm";
           btnText.innerText = "📍 離我最近";
 
-          let msg = "尚未取得您的精確定位，地圖已為您開啟！";
+          let msg = "尚未取得您的精確定位。";
           if (error.code === 1) {
             msg = "瀏覽器已封鎖位置權限，請在網址列左側點擊「鎖頭/網站設定」允許位置存取以進行即時測距。";
           }
           alert(msg);
 
-          // 即使沒授權 GPS，地圖依然展示！以預設台北為中心
           userLocation = { lat: 25.0478, lng: 121.5318 };
           sortMode = 'distance';
           const uLat = userLocation.lat;
@@ -620,12 +419,6 @@
           updateScopeButtonsUI();
           renderRegionButtons();
           filterAndRender(true);
-          setTimeout(() => {
-            if (map) {
-              map.invalidateSize(true);
-              map.setView([userLocation.lat, userLocation.lng], 13);
-            }
-          }, 150);
         },
         { enableHighAccuracy: true, timeout: 8000, maximumAge: 30000 }
       );
@@ -633,7 +426,6 @@
 
     function resetFilters() {
       currentScope = 'ALL';
-      currentViewMode = 'list';
       selectedRegion = '全部';
       selectedCategory = '全部';
       searchQuery = '';
@@ -641,10 +433,6 @@
       document.getElementById('sort-select').value = sortMode;
       document.getElementById('search-input').value = '';
       document.getElementById('btn-clear-search').classList.add('hidden');
-
-      // 收起地圖，回到純清單
-      document.getElementById('map-view-section').classList.add('hidden');
-      document.getElementById('list-view-section').classList.remove('hidden');
 
       updateScopeButtonsUI();
       renderRegionButtons();
@@ -705,13 +493,6 @@
     window.setScope = function(scope) {
       currentScope = scope;
       selectedRegion = '全部';
-
-      // 其餘時候皆收起地圖，以清單檢視為準
-      if (scope !== 'NEARBY') {
-        currentViewMode = 'list';
-        document.getElementById('map-view-section').classList.add('hidden');
-        document.getElementById('list-view-section').classList.remove('hidden');
-      }
 
       updateScopeButtonsUI();
       renderRegionButtons();
@@ -903,15 +684,10 @@
       if (searchQuery) statusDesc.push(`搜尋「${searchQuery}」`);
       document.getElementById('filter-status-desc').innerText = statusDesc.length > 0 ? `(${statusDesc.join(' + ')})` : '';
 
-      // 依當前檢視模式更新畫面
-      if (currentViewMode === 'list') {
-        const grid = document.getElementById('places-grid');
-        grid.innerHTML = '';
-        renderedCount = 0;
-        appendCardsChunk();
-      } else {
-        renderMapMarkers();
-      }
+      const grid = document.getElementById('places-grid');
+      grid.innerHTML = '';
+      renderedCount = 0;
+      appendCardsChunk();
     }
 
     function appendCardsChunk() {
@@ -965,13 +741,8 @@
         htmlChunks.push(`
           <div class="place-card bg-white rounded-xl border border-slate-200/90 hover:border-slate-300 p-4 shadow-2xs hover:shadow transition flex flex-col justify-between group">
             <div>
-              <div class="mb-2 flex items-start justify-between gap-2">
+              <div class="mb-2">
                 <h3 class="font-bold text-slate-800 text-sm sm:text-base leading-snug line-clamp-2">${escapeHtml(place.name)}</h3>
-                ${place.lat && place.lng ? `
-                  <button onclick="focusOnMap(${place.lat}, ${place.lng}, '${escapeHtml(place.name)}')" title="在地圖上查看" class="shrink-0 text-slate-400 hover:text-indigo-600 p-1 rounded-md hover:bg-slate-100 transition">
-                    <i class="ph ph-map-pin text-base"></i>
-                  </button>
-                ` : ''}
               </div>
 
               <!-- 標籤組 -->
@@ -1037,18 +808,6 @@
         loadMoreContainer.classList.add('hidden');
       }
     }
-
-    // 點擊卡片地圖按鈕，平滑聚焦地圖
-    window.focusOnMap = function(lat, lng, name) {
-      const mapSec = document.getElementById('map-view-section');
-      mapSec.classList.remove('hidden');
-      initOrUpdateMap();
-      setTimeout(() => {
-        map.invalidateSize();
-        map.flyTo([lat, lng], 16, { duration: 1 });
-        mapSec.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      }, 50);
-    };
 
     function escapeHtml(string) {
       if (!string) return '';
