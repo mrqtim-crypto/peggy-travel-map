@@ -196,7 +196,18 @@
       </div>
     </section>
 
-    <!-- 檢視模式一：卡片列表區 -->
+    <!-- 大地圖檢視區 (點離我最近時自動置頂顯示) -->
+    <section id="map-view-section" class="hidden space-y-3">
+      <div class="bg-white rounded-2xl border border-slate-200 shadow-sm p-2 overflow-hidden relative">
+        <div id="map" class="w-full h-[45vh] min-h-[350px] max-h-[500px] rounded-xl z-10"></div>
+        <div class="absolute bottom-4 right-4 z-20 bg-white/90 backdrop-blur-md px-3 py-1.5 rounded-lg border border-slate-200 text-[11px] font-semibold text-slate-700 shadow-xs flex items-center gap-1.5">
+          <span class="w-2.5 h-2.5 rounded-full bg-blue-600 animate-ping"></span>
+          已定位為中心・點擊圖釘或下方卡片皆可查看
+        </div>
+      </div>
+    </section>
+
+    <!-- 卡片列表區 -->
     <section id="list-view-section">
       <div id="places-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5">
         <!-- 卡片動態渲染 -->
@@ -219,17 +230,6 @@
         <button id="btn-empty-reset" class="px-4 py-2 text-xs font-semibold rounded-lg bg-indigo-50 text-indigo-600 hover:bg-indigo-100 transition">
           清除所有條件
         </button>
-      </div>
-    </section>
-
-    <!-- 檢視模式二：互動大地圖檢視區 -->
-    <section id="map-view-section" class="hidden space-y-3">
-      <div class="bg-white rounded-2xl border border-slate-200 shadow-sm p-2 overflow-hidden relative">
-        <div id="map" class="w-full h-[68vh] min-h-[500px] rounded-xl z-10"></div>
-        <div class="absolute bottom-5 right-5 z-20 bg-white/90 backdrop-blur-md px-3 py-1.5 rounded-lg border border-slate-200 text-[11px] font-semibold text-slate-600 shadow-sm flex items-center gap-1.5">
-          <span class="w-2.5 h-2.5 rounded-full bg-indigo-500 animate-ping"></span>
-          點擊地圖泡泡可放大展開鄰近星星
-        </div>
       </div>
     </section>
 
@@ -554,6 +554,23 @@
           }
 
           currentScope = 'NEARBY';
+          currentViewMode = 'nearby';
+
+          // 核心體驗：自動展開置頂大地圖，並同時保留下方距離排序清單！
+          const mapSec = document.getElementById('map-view-section');
+          const listSec = document.getElementById('list-view-section');
+          mapSec.classList.remove('hidden');
+          listSec.classList.remove('hidden');
+
+          // 更新地圖並以使用者當前定位為中心
+          setTimeout(() => {
+            initOrUpdateMap();
+            if (map) {
+              map.invalidateSize();
+              map.setView([userLocation.lat, userLocation.lng], 14);
+            }
+          }, 50);
+
           updateScopeButtonsUI();
           renderRegionButtons();
           filterAndRender(true);
@@ -572,6 +589,7 @@
 
     function resetFilters() {
       currentScope = 'ALL';
+      currentViewMode = 'list';
       selectedRegion = '全部';
       selectedCategory = '全部';
       searchQuery = '';
@@ -579,6 +597,11 @@
       document.getElementById('sort-select').value = sortMode;
       document.getElementById('search-input').value = '';
       document.getElementById('btn-clear-search').classList.add('hidden');
+
+      // 收起地圖，回到純清單
+      document.getElementById('map-view-section').classList.add('hidden');
+      document.getElementById('list-view-section').classList.remove('hidden');
+
       updateScopeButtonsUI();
       renderRegionButtons();
       renderCategoryButtons();
@@ -638,6 +661,14 @@
     window.setScope = function(scope) {
       currentScope = scope;
       selectedRegion = '全部';
+
+      // 其餘時候皆收起地圖，以清單檢視為準
+      if (scope !== 'NEARBY') {
+        currentViewMode = 'list';
+        document.getElementById('map-view-section').classList.add('hidden');
+        document.getElementById('list-view-section').classList.remove('hidden');
+      }
+
       updateScopeButtonsUI();
       renderRegionButtons();
       filterAndRender(true);
@@ -890,8 +921,13 @@
         htmlChunks.push(`
           <div class="place-card bg-white rounded-xl border border-slate-200/90 hover:border-slate-300 p-4 shadow-2xs hover:shadow transition flex flex-col justify-between group">
             <div>
-              <div class="mb-2">
+              <div class="mb-2 flex items-start justify-between gap-2">
                 <h3 class="font-bold text-slate-800 text-sm sm:text-base leading-snug line-clamp-2">${escapeHtml(place.name)}</h3>
+                ${place.lat && place.lng ? `
+                  <button onclick="focusOnMap(${place.lat}, ${place.lng}, '${escapeHtml(place.name)}')" title="在地圖上查看" class="shrink-0 text-slate-400 hover:text-indigo-600 p-1 rounded-md hover:bg-slate-100 transition">
+                    <i class="ph ph-map-pin text-base"></i>
+                  </button>
+                ` : ''}
               </div>
 
               <!-- 標籤組 -->
@@ -957,6 +993,18 @@
         loadMoreContainer.classList.add('hidden');
       }
     }
+
+    // 點擊卡片地圖按鈕，平滑聚焦地圖
+    window.focusOnMap = function(lat, lng, name) {
+      const mapSec = document.getElementById('map-view-section');
+      mapSec.classList.remove('hidden');
+      initOrUpdateMap();
+      setTimeout(() => {
+        map.invalidateSize();
+        map.flyTo([lat, lng], 16, { duration: 1 });
+        mapSec.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }, 50);
+    };
 
     function escapeHtml(string) {
       if (!string) return '';
