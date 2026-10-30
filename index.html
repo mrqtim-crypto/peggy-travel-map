@@ -8,6 +8,7 @@
   <!-- PWA 支援 -->
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#4f46e5">
+  <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Peggy地圖">
@@ -281,18 +282,35 @@
       });
     }
 
+    let activeDebounceTimer = null;
+
     function setupEvents() {
-      let debounceTimer = null;
       const searchInput = document.getElementById('search-input');
       const clearSearchBtn = document.getElementById('btn-clear-search');
 
       searchInput.addEventListener('input', (e) => {
-        clearTimeout(debounceTimer);
-        debounceTimer = setTimeout(() => {
+        if (activeDebounceTimer) clearTimeout(activeDebounceTimer);
+        activeDebounceTimer = setTimeout(() => {
           searchQuery = e.target.value.trim().toLowerCase();
           clearSearchBtn.classList.toggle('hidden', searchQuery === '');
           filterAndRender(true);
         }, 120);
+      });
+
+      // iOS App 生命週期管理：當 App 切換至背景或使用者離開時，立即進入休眠，不執行任何背景工作
+      document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'hidden') {
+          if (activeDebounceTimer) {
+            clearTimeout(activeDebounceTimer);
+            activeDebounceTimer = null;
+          }
+        }
+      });
+      window.addEventListener('pagehide', () => {
+        if (activeDebounceTimer) {
+          clearTimeout(activeDebounceTimer);
+          activeDebounceTimer = null;
+        }
       });
 
       clearSearchBtn.addEventListener('click', () => {
