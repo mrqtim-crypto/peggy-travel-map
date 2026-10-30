@@ -1,4 +1,4 @@
-const CACHE_NAME = 'peggy-travel-map-v1';
+const CACHE_NAME = 'peggy-travel-map-v2';
 const STATIC_ASSETS = [
   './',
   './index.html',

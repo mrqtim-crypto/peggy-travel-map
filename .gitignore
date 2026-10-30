@@ -1,2 +1,10 @@
-analyze.ps1
-convert.ps1
+analyze*.ps1
+convert*.ps1
+dump*.ps1
+pocket*.ps1
+sample*.ps1
+test*.ps1
+word_freq.ps1
+build_smart_categorize.ps1
+others_dump.txt
+*.txt
