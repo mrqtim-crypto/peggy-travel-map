@@ -5,7 +5,7 @@
         "address":  "204台灣基隆市安樂區內寮里湖海路二段71號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4261185664047064222",
         "note":  "",
         "createdAt":  1793190790000
@@ -16,7 +16,7 @@
         "address":  "6-17 Nishinakasu, Chuo Ward, Fukuoka, 810-0002日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3506534535511288643",
         "note":  "",
         "createdAt":  1793171443000
@@ -60,7 +60,7 @@
         "address":  "400台灣臺中市中區大墩里臺灣大道一段395號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=4516471355723401727",
         "note":  "",
         "createdAt":  1793011391000
@@ -93,7 +93,7 @@
         "address":  "71542台灣臺南市楠西區灣丘里29號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3210450769133148679",
         "note":  "",
         "createdAt":  1792742785000
@@ -137,7 +137,7 @@
         "address":  "920台灣屏東縣潮州鎮三星里壽星路72-13號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7672156890158610673",
         "note":  "",
         "createdAt":  1792504993000
@@ -148,7 +148,7 @@
         "address":  "114台灣臺北市內湖區港墘里瑞光路188巷43號1F",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9970575342640245975",
         "note":  "",
         "createdAt":  1792466030000
@@ -159,7 +159,7 @@
         "address":  "251台灣新北市淡水區水碓里學府路211-9號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4046505975630878966",
         "note":  "",
         "createdAt":  1792422905000
@@ -170,7 +170,7 @@
         "address":  "433台灣臺中市沙鹿區興仁里鎮南路二段617號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=644217815463769966",
         "note":  "",
         "createdAt":  1792398658000
@@ -181,7 +181,7 @@
         "address":  "408台灣臺中市南屯區三和里黎明路二段282號一樓",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15859231493066978442",
         "note":  "",
         "createdAt":  1792329460000
@@ -192,7 +192,7 @@
         "address":  "403台灣臺中市西區公民里金山路35號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12706905768149003944",
         "note":  "",
         "createdAt":  1792329429000
@@ -214,7 +214,7 @@
         "address":  "No. 7號, Lane 54, Ai 2nd Rd, 仁德里仁愛區基隆市台灣 200",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2067059572873242257",
         "note":  "",
         "createdAt":  1792074506000
@@ -247,7 +247,7 @@
         "address":  "111台灣臺北市士林區德行東路109巷25號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13627012851380091568",
         "note":  "",
         "createdAt":  1792071763000
@@ -258,7 +258,7 @@
         "address":  "114台灣臺北市內湖區港墘里江南街14號",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4216170688118216599",
         "note":  "",
         "createdAt":  1792071361000
@@ -269,7 +269,7 @@
         "address":  "114台灣臺北市內湖區紫星里康寧路一段93號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=18356596477519802402",
         "note":  "",
         "createdAt":  1792049643000
@@ -280,7 +280,7 @@
         "address":  "114台灣臺北市內湖區內湖里成功路四段16號號旁",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8531024290731965914",
         "note":  "",
         "createdAt":  1792048866000
@@ -291,7 +291,7 @@
         "address":  "114台灣臺北市內湖區五分里東湖路160巷10弄42號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10572628369858250377",
         "note":  "",
         "createdAt":  1792047411000
@@ -302,7 +302,7 @@
         "address":  "No. 8號, Xinhu 2nd Rd, 湖元里內湖區臺北市台灣 114",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3641006852618211732",
         "note":  "",
         "createdAt":  1791970147000
@@ -313,7 +313,7 @@
         "address":  "114台灣臺北市內湖區港富里內湖路一段737巷51弄9號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6403876102782514523",
         "note":  "",
         "createdAt":  1791951145000
@@ -324,7 +324,7 @@
         "address":  "114台灣臺北市內湖區清白里金湖路34號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5747480420539006282",
         "note":  "",
         "createdAt":  1791950577000
@@ -335,7 +335,7 @@
         "address":  "114台灣臺北市內湖區港富里內湖路一段737巷79號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10814421639128666677",
         "note":  "",
         "createdAt":  1791950232000
@@ -357,7 +357,7 @@
         "address":  "114台灣臺北市內湖區西安里文湖街73號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8738937235802543114",
         "note":  "",
         "createdAt":  1791903130000
@@ -368,7 +368,7 @@
         "address":  "114台灣臺北市內湖區港富里內湖路一段737巷12號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3291753016166546358",
         "note":  "",
         "createdAt":  1791902764000
@@ -390,7 +390,7 @@
         "address":  "114台灣臺北市內湖區港墘里洲子街12號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5878300600892803134",
         "note":  "",
         "createdAt":  1791902033000
@@ -412,7 +412,7 @@
         "address":  "201台灣基隆市信義區義昭里信二路204號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=13143999292878408614",
         "note":  "",
         "createdAt":  1791896929000
@@ -445,7 +445,7 @@
         "address":  "847台灣高雄市甲仙區西安里文化路76號 號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17173214891505649904",
         "note":  "",
         "createdAt":  1791703337000
@@ -456,7 +456,7 @@
         "address":  "847台灣高雄市甲仙區西安里文化路88號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16841133556420078440",
         "note":  "",
         "createdAt":  1791702752000
@@ -467,7 +467,7 @@
         "address":  "847台灣高雄市甲仙區西安里中正路2號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15626996440749691496",
         "note":  "",
         "createdAt":  1791672309000
@@ -478,7 +478,7 @@
         "address":  "950台灣臺東縣臺東市卑南里更生北路76號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=421350160495001008",
         "note":  "",
         "createdAt":  1791612760000
@@ -489,7 +489,7 @@
         "address":  "950台灣臺東縣臺東市卑南里更生北路182號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7655851022570301180",
         "note":  "",
         "createdAt":  1791612740000
@@ -500,7 +500,7 @@
         "address":  "237台灣新北市三峽區龍埔里民生街21號1 樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7380486629890876882",
         "note":  "",
         "createdAt":  1791376772000
@@ -511,7 +511,7 @@
         "address":  "106063台灣臺北市大安區敦煌里安和路一段135巷10號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11364980782540833575",
         "note":  "",
         "createdAt":  1791373689000
@@ -522,7 +522,7 @@
         "address":  "No. 385號, Jilin Rd, 新喜里中山區臺北市台灣 104",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17607846578467472519",
         "note":  "",
         "createdAt":  1791259060000
@@ -533,7 +533,7 @@
         "address":  "106台灣臺北市大安區車層里忠孝東路四段216巷33弄9號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6157362517476452413",
         "note":  "",
         "createdAt":  1791259006000
@@ -555,7 +555,7 @@
         "address":  "404台灣臺中市北區永興街6號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=18194706753889896459",
         "note":  "",
         "createdAt":  1791179836000
@@ -566,7 +566,7 @@
         "address":  "413台灣臺中市霧峰區民權街56號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1898572434962044643",
         "note":  "",
         "createdAt":  1791158076000
@@ -610,7 +610,7 @@
         "address":  "406台灣臺中市北屯區東山路一段503巷",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7872207435856409353",
         "note":  "",
         "createdAt":  1791003308000
@@ -621,7 +621,7 @@
         "address":  "九, 大坑一號登山步道大坑里北屯區臺中市台灣 406",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14476033445062454962",
         "note":  "",
         "createdAt":  1791003277000
@@ -654,7 +654,7 @@
         "address":  "404台灣臺中市北區育德里健行路443-2號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6113600010816755821",
         "note":  "",
         "createdAt":  1790752104000
@@ -665,7 +665,7 @@
         "address":  "406台灣臺中市北屯區新平里中清路二段903號1樓",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12514946191392460625",
         "note":  "",
         "createdAt":  1790643665000
@@ -687,7 +687,7 @@
         "address":  "551台灣南投縣名間鄉萬丹村新丹巷56-1號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=14875313374708138143",
         "note":  "",
         "createdAt":  1790501785000
@@ -709,7 +709,7 @@
         "address":  "No, No. 51號草鞋墩一街中山里草屯鎮南投縣台灣 542",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10633137857069895214",
         "note":  "",
         "createdAt":  1790396901000
@@ -720,7 +720,7 @@
         "address":  "No. 297-1號, Nanyang Rd, 南陽里豐原區臺中市台灣 420",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6885929147470463493",
         "note":  "",
         "createdAt":  1790396720000
@@ -731,7 +731,7 @@
         "address":  "221台灣新北市汐止區烘內里汐萬路三段306號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11760804155766457920",
         "note":  "",
         "createdAt":  1790239699000
@@ -775,7 +775,7 @@
         "address":  "110台灣臺北市信義區松光里松山路541巷29號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=18320526928094437666",
         "note":  "",
         "createdAt":  1789814067000
@@ -797,7 +797,7 @@
         "address":  "110台灣臺北市信義區永春里松山路415號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10827916265167099616",
         "note":  "",
         "createdAt":  1789812374000
@@ -819,7 +819,7 @@
         "address":  "404台灣臺中市北區六合里成功路432號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15312839991597266293",
         "note":  "",
         "createdAt":  1789804174000
@@ -874,7 +874,7 @@
         "address":  "200台灣基隆市仁愛區仁德里愛二路55號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7586617109542349421",
         "note":  "",
         "createdAt":  1789312996000
@@ -885,7 +885,7 @@
         "address":  "202台灣基隆市中正區中正路704號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1778795606048468187",
         "note":  "",
         "createdAt":  1789296888000
@@ -896,7 +896,7 @@
         "address":  "206台灣基隆市七堵區瑪南里大華二路94號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4324252243039244972",
         "note":  "",
         "createdAt":  1788781760000
@@ -907,7 +907,7 @@
         "address":  "106台灣臺北市大安區全安里安和路二段217巷1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=14514140498152196251",
         "note":  "",
         "createdAt":  1788418470000
@@ -940,7 +940,7 @@
         "address":  "221台灣新北市汐止區厚德里樟樹一路268之3號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=11100301927191485698",
         "note":  "",
         "createdAt":  1788149489000
@@ -951,7 +951,7 @@
         "address":  "106台灣臺北市大安區光武里復興南路一段107巷19號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8577906875756712356",
         "note":  "",
         "createdAt":  1788062253000
@@ -984,7 +984,7 @@
         "address":  "251台灣新北市淡水區新生里中正路233-2號1樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11913051596156420423",
         "note":  "",
         "createdAt":  1787723675000
@@ -995,7 +995,7 @@
         "address":  "251台灣新北市淡水區漁人碼頭商店街",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=802573745896545336",
         "note":  "",
         "createdAt":  1787648450000
@@ -1039,7 +1039,7 @@
         "address":  "106台灣臺北市大安區住安里四維路112號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17434973382408083476",
         "note":  "",
         "createdAt":  1786605049000
@@ -1050,7 +1050,7 @@
         "address":  "403台灣臺中市西區大忠里存中街161巷1號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15872889962864982625",
         "note":  "",
         "createdAt":  1786603114000
@@ -1061,7 +1061,7 @@
         "address":  "406台灣臺中市北屯區軍功里松竹路一段959號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15795957069261228652",
         "note":  "",
         "createdAt":  1786602644000
@@ -1072,7 +1072,7 @@
         "address":  "330台灣桃園市桃園區慈文里慈光街164巷16號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13101006416365214177",
         "note":  "",
         "createdAt":  1786596325000
@@ -1127,7 +1127,7 @@
         "address":  "106台灣臺北市大安區龍圖里信義路三段168號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14649379587801491531",
         "note":  "",
         "createdAt":  1786537222000
@@ -1171,7 +1171,7 @@
         "address":  "106台灣臺北市大安區通安里安和路二段69巷18號一樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17546814699273972097",
         "note":  "",
         "createdAt":  1786459991000
@@ -1193,7 +1193,7 @@
         "address":  "100台灣臺北市中正區光復里衡陽路101號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=964204236494153761",
         "note":  "",
         "createdAt":  1786457546000
@@ -1226,7 +1226,7 @@
         "address":  "487號, No. 487號中正東路竹義里竹北市新竹縣台灣 30252",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17691130370897222003",
         "note":  "",
         "createdAt":  1786430416000
@@ -1248,7 +1248,7 @@
         "address":  "206台灣基隆市七堵區正光里明德一路167號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=15551908229864727603",
         "note":  "",
         "createdAt":  1786323549000
@@ -1259,7 +1259,7 @@
         "address":  "202台灣基隆市中正區真砂里正豐街93號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12066454743999853327",
         "note":  "",
         "createdAt":  1786322999000
@@ -1336,7 +1336,7 @@
         "address":  "115台灣臺北市南港區經貿二路131號Mitsui Shopping Park LaLaport 南港5樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "景點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1370142249073820785",
         "note":  "",
         "createdAt":  1785896747000
@@ -1358,7 +1358,7 @@
         "address":  "27241台灣宜蘭縣南澳鄉大通路",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=50202847062998124",
         "note":  "",
         "createdAt":  1785818469000
@@ -1369,7 +1369,7 @@
         "address":  "224台灣新北市瑞芳區魚桀魚坑路195號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14270297041941900816",
         "note":  "",
         "createdAt":  1785816077000
@@ -1380,7 +1380,7 @@
         "address":  "920台灣屏東縣潮州鎮新榮里民權路2-1號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5789604552829658572",
         "note":  "",
         "createdAt":  1785763146000
@@ -1391,7 +1391,7 @@
         "address":  "263台灣宜蘭縣壯圍鄉美福村新南路四段142號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7014343801542906950",
         "note":  "",
         "createdAt":  1785740279000
@@ -1402,7 +1402,7 @@
         "address":  "224台灣新北市瑞芳區鼻頭路43-1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6217221765943771456",
         "note":  "",
         "createdAt":  1785655574000
@@ -1424,7 +1424,7 @@
         "address":  "206台灣基隆市七堵區堵北里福一街148號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4644162037178598101",
         "note":  "",
         "createdAt":  1785543033000
@@ -1446,7 +1446,7 @@
         "address":  "249台灣新北市八里區訊塘里中山路二段558號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12565869495295057259",
         "note":  "",
         "createdAt":  1785467834000
@@ -1479,7 +1479,7 @@
         "address":  "22447台灣新北市瑞芳區深澳里建基路二段83號之一",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11629059799868095375",
         "note":  "",
         "createdAt":  1785075974000
@@ -1508,11 +1508,11 @@
     },
     {
         "id":  "star_138",
-        "name":  "口袋名單地點 138",
+        "name":  "口袋地點 138",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.6854433,121.77147859999998",
         "note":  "",
         "createdAt":  1785018364000
@@ -1523,7 +1523,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉時潮村玉龍路二段495號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13654167225515429142",
         "note":  "",
         "createdAt":  1784992233000
@@ -1567,7 +1567,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉白鵝村柴圍路77-1號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14738208311239660880",
         "note":  "",
         "createdAt":  1784909655000
@@ -1589,7 +1589,7 @@
         "address":  "270台灣宜蘭縣蘇澳鎮蘇東里港區路8號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "景點",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10000318091661943473",
         "note":  "",
         "createdAt":  1784884006000
@@ -1600,7 +1600,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉德陽村德陽路12號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7634497424895827628",
         "note":  "",
         "createdAt":  1784882679000
@@ -1622,7 +1622,7 @@
         "address":  "260台灣宜蘭縣宜蘭市新民里康樂路140號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9739518019131147411",
         "note":  "",
         "createdAt":  1784878656000
@@ -1666,7 +1666,7 @@
         "address":  "265台灣宜蘭縣羅東鎮集祥里民生路6號4樓",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18271980006347454973",
         "note":  "",
         "createdAt":  1784859981000
@@ -1677,7 +1677,7 @@
         "address":  "266台灣宜蘭縣三星鄉富貴二路516號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8924064010125354199",
         "note":  "",
         "createdAt":  1784859588000
@@ -1699,7 +1699,7 @@
         "address":  "268台灣宜蘭縣五結鄉利澤村利成路二段400號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9445392643353195674",
         "note":  "",
         "createdAt":  1784790230000
@@ -1732,18 +1732,18 @@
         "address":  "106台灣臺北市大安區永康街4巷5號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=798106837993571780",
         "note":  "",
         "createdAt":  1784703268000
     },
     {
         "id":  "star_159",
-        "name":  "口袋名單地點 159",
+        "name":  "口袋地點 159",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=428%E8%87%BA%E4%B8%AD%E5%B8%82%E5%A4%A7%E9%9B%85%E5%8D%80%E4%B8%8A%E9%9B%85%E9%87%8C%E9%9B%85%E7%92%B0%E8%B7%AF%E4%BA%8C%E6%AE%B564%E5%B7%B746%E5%BC%8431%E8%99%9F2\u0026ftid=0x346916e588d10b3f:0x36a9f18f3370ca9",
         "note":  "",
         "createdAt":  1784565929000
@@ -1765,7 +1765,7 @@
         "address":  "No. 37號, Section 3, Rehe Rd, 北屯區臺中市台灣 406",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10569946887038802950",
         "note":  "",
         "createdAt":  1784537174000
@@ -1776,7 +1776,7 @@
         "address":  "224台灣新北市瑞芳區鼻頭里鼻頭路227之4號1樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4785185896251501304",
         "note":  "",
         "createdAt":  1784372851000
@@ -1838,11 +1838,11 @@
     },
     {
         "id":  "star_168",
-        "name":  "口袋名單地點 168",
+        "name":  "口袋地點 168",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BC%BB%E9%A0%AD%E8%A7%92\u0026ftid=0x345d439129fb8879:0x1e9b06304564e5b4",
         "note":  "",
         "createdAt":  1784277857000
@@ -1853,7 +1853,7 @@
         "address":  "403台灣臺中市西區後龍里民生北路157號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7728182366987362634",
         "note":  "",
         "createdAt":  1784262746000
@@ -1864,7 +1864,7 @@
         "address":  "No. 8號, Daren St, 民龍里西區臺中市台灣 403",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5968371470395771953",
         "note":  "",
         "createdAt":  1784262319000
@@ -1875,7 +1875,7 @@
         "address":  "402台灣臺中市南區新榮里學府路133-10號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13921600813662624433",
         "note":  "",
         "createdAt":  1784262097000
@@ -1897,7 +1897,7 @@
         "address":  "116台灣臺北市文山區博嘉里木柵路四段143之3號木柵捷運站出口直行60公尺",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=17049008596111186425",
         "note":  "",
         "createdAt":  1784212794000
@@ -2007,7 +2007,7 @@
         "address":  "No. 3號, Xinyi Rd, 義和里信義區基隆市台灣 201",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17261387798059319636",
         "note":  "",
         "createdAt":  1784092936000
@@ -2084,7 +2084,7 @@
         "address":  "400台灣臺中市中區興民街36號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7621326686114133296",
         "note":  "",
         "createdAt":  1784085138000
@@ -2095,7 +2095,7 @@
         "address":  "404台灣臺中市北區建興里崇德路一段190號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3528406364977552295",
         "note":  "",
         "createdAt":  1784084144000
@@ -2117,7 +2117,7 @@
         "address":  "404台灣臺中市北區邱厝里崇德路一段55號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5561268063446090973",
         "note":  "",
         "createdAt":  1784041207000
@@ -2172,7 +2172,7 @@
         "address":  "100台灣臺北市中正區文盛里汀州路三段57號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=218603531020653371",
         "note":  "",
         "createdAt":  1783951010000
@@ -2194,7 +2194,7 @@
         "address":  "404台灣臺中市北區大湖里大誠街138號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12720017960896479274",
         "note":  "",
         "createdAt":  1783926746000
@@ -2205,7 +2205,7 @@
         "address":  "403025台灣臺中市西區五權西二街112號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5412084452737552991",
         "note":  "",
         "createdAt":  1783926560000
@@ -2227,7 +2227,7 @@
         "address":  "404台灣臺中市北區賴村里梅亭街464號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=80570950067796795",
         "note":  "",
         "createdAt":  1783738439000
@@ -2238,7 +2238,7 @@
         "address":  "104台灣臺北市中山區行仁里五常街53巷10號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4069594381166915411",
         "note":  "",
         "createdAt":  1783737787000
@@ -2304,7 +2304,7 @@
         "address":  "404台灣臺中市北區賴興里天津一街42號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5445000577057909740",
         "note":  "",
         "createdAt":  1783587110000
@@ -2326,7 +2326,7 @@
         "address":  "402008台灣臺中市南區新榮里復興路三段116巷5弄7號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17528843528970031561",
         "note":  "",
         "createdAt":  1783582778000
@@ -2359,7 +2359,7 @@
         "address":  "406台灣臺中市北屯區仁美里崇德路三段865號b1",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12649530728548249901",
         "note":  "",
         "createdAt":  1783225340000
@@ -2370,7 +2370,7 @@
         "address":  "406台灣臺中市北屯區仁美里崇德路三段865號5F",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15328305390995463235",
         "note":  "",
         "createdAt":  1783225165000
@@ -2381,7 +2381,7 @@
         "address":  "227台灣新北市雙溪區雙溪里太平路55號1樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12872112070610495470",
         "note":  "",
         "createdAt":  1783066719000
@@ -2392,7 +2392,7 @@
         "address":  "264台灣宜蘭縣員山鄉尚德村八甲路15之16號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "景點",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=411440059738173386",
         "note":  "",
         "createdAt":  1782809421000
@@ -2403,7 +2403,7 @@
         "address":  "200台灣基隆市仁愛區博愛里孝一路107號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4838904640595035505",
         "note":  "",
         "createdAt":  1782799301000
@@ -2447,7 +2447,7 @@
         "address":  "62 Thanon Charoenrajd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3657634342993759932",
         "note":  "",
         "createdAt":  1782464742000
@@ -2458,7 +2458,7 @@
         "address":  "202台灣基隆市中正區砂灣里祥豐街187號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13382985787076901973",
         "note":  "",
         "createdAt":  1782401177000
@@ -2491,7 +2491,7 @@
         "address":  "265台灣宜蘭縣羅東鎮賢文里公正路171巷9號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2461696399610796837",
         "note":  "",
         "createdAt":  1782291189000
@@ -2524,7 +2524,7 @@
         "address":  "263台灣宜蘭縣壯圍鄉吉祥村莊敬路30號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6687436797532897328",
         "note":  "",
         "createdAt":  1782276635000
@@ -2546,7 +2546,7 @@
         "address":  "263台灣宜蘭縣壯圍鄉吉祥村壯五路278-1號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14895291836702167075",
         "note":  "",
         "createdAt":  1782270690000
@@ -2579,7 +2579,7 @@
         "address":  "114台灣臺北市內湖區港富里內湖路一段737巷67號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4882366171362373274",
         "note":  "",
         "createdAt":  1782219699000
@@ -2590,7 +2590,7 @@
         "address":  "No. 33號, Gangqian Rd, 港富里內湖區臺北市台灣 114",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11828032181154959172",
         "note":  "",
         "createdAt":  1782219663000
@@ -2612,7 +2612,7 @@
         "address":  "114台灣臺北市內湖區港墘里港墘路127巷18號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14629400822736973490",
         "note":  "",
         "createdAt":  1782219558000
@@ -2623,7 +2623,7 @@
         "address":  "200台灣基隆市仁愛區文昌里孝三路57號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4845625706870290581",
         "note":  "",
         "createdAt":  1782218680000
@@ -2667,7 +2667,7 @@
         "address":  "545台灣南投縣埔里鎮清新里河南路213之1號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=7853753356131060295",
         "note":  "",
         "createdAt":  1781961014000
@@ -2678,7 +2678,7 @@
         "address":  "545台灣南投縣埔里鎮大城里大城路146號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17872571237321646708",
         "note":  "",
         "createdAt":  1781960956000
@@ -2689,7 +2689,7 @@
         "address":  "545台灣南投縣埔里鎮薰化里西康路80號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8645563172821312089",
         "note":  "",
         "createdAt":  1781960869000
@@ -2700,7 +2700,7 @@
         "address":  "545台灣南投縣埔里鎮杷城里南興街9之10號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=11313863273027419150",
         "note":  "",
         "createdAt":  1781960450000
@@ -2755,7 +2755,7 @@
         "address":  "237/34-35 เมือง Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2107248839621677974",
         "note":  "",
         "createdAt":  1781774139000
@@ -2766,7 +2766,7 @@
         "address":  "55/5 Huay Kaew Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2634136185446806142",
         "note":  "",
         "createdAt":  1781708507000
@@ -2799,7 +2799,7 @@
         "address":  "545台灣南投縣埔里鎮北門里中山路二段227號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15383374323563994970",
         "note":  "",
         "createdAt":  1781698769000
@@ -2810,7 +2810,7 @@
         "address":  "545台灣南投縣埔里鎮南興街105號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=4266710220715735620",
         "note":  "",
         "createdAt":  1781698686000
@@ -2843,7 +2843,7 @@
         "address":  "1 Chome-6-1 Nishi, Naha, Okinawa 900-0036日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2336227886502914950",
         "note":  "",
         "createdAt":  1781696443000
@@ -2854,7 +2854,7 @@
         "address":  "107 1 Chang Moi Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4378290600335481563",
         "note":  "",
         "createdAt":  1781695830000
@@ -2876,7 +2876,7 @@
         "address":  "หอนาฬิกา 429/7-8 Thanon Baanpa Pragarn Road, Tambon Wiang, Mueang Chiang Rai District, Chiang Rai 57000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1819392297295091696",
         "note":  "",
         "createdAt":  1781683163000
@@ -2887,7 +2887,7 @@
         "address":  "15/4 Nimmana Haeminda Rd Lane 3 Nimmanhaemin Suthep, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8565551177080252642",
         "note":  "",
         "createdAt":  1781681886000
@@ -2898,7 +2898,7 @@
         "address":  "380 หมู่26 Phaholyothin Rd, Rop Wiang Sub-district, เมือง Chiang Rai 57000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1318552016926734858",
         "note":  "",
         "createdAt":  1781680974000
@@ -2909,7 +2909,7 @@
         "address":  "38 Taeparak Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17079849443741521831",
         "note":  "",
         "createdAt":  1781680173000
@@ -2920,7 +2920,7 @@
         "address":  "23 Charoen Muang Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8367835840750804742",
         "note":  "",
         "createdAt":  1781680131000
@@ -2931,7 +2931,7 @@
         "address":  "14 Nimmana Haeminda Rd Lane 1 Nimmanhaemin Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7955972112904620012",
         "note":  "",
         "createdAt":  1781679798000
@@ -2953,7 +2953,7 @@
         "address":  "78 Chiang Mai-Lam Phun Rd, Tambon Chang Khlan, Mueang Chiang Mai District, Chiang Mai 50100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=4106058810102034409",
         "note":  "",
         "createdAt":  1781679424000
@@ -2975,7 +2975,7 @@
         "address":  "ประตูเมือง Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15225640847527951629",
         "note":  "",
         "createdAt":  1781679223000
@@ -2986,7 +2986,7 @@
         "address":  "262 Chang Moi Rd, Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15621572199722561941",
         "note":  "",
         "createdAt":  1781678511000
@@ -2997,7 +2997,7 @@
         "address":  "175, 2 Rachadamnoen Rd Old City Tambon Si Phum, Mueang Chiang Mai District, Chang Wat Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13620790050376515434",
         "note":  "",
         "createdAt":  1781678327000
@@ -3008,7 +3008,7 @@
         "address":  "252 13 Prapokklao Road Old City Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6777272003159547528",
         "note":  "",
         "createdAt":  1781677962000
@@ -3030,7 +3030,7 @@
         "address":  "191/1 Sridonchai Rd, Chang Khlan Sub-district, Mueang Chiang Mai District, Chang Wat Chiang Mai 50100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12796758020200088400",
         "note":  "",
         "createdAt":  1781676445000
@@ -3041,7 +3041,7 @@
         "address":  "17 3 Samlan Soi 7 Old City Tambon Phra Sing, เมือง Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12588947476483563612",
         "note":  "",
         "createdAt":  1781676420000
@@ -3063,7 +3063,7 @@
         "address":  "Q2P4+RWQ, Charoen Muang Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17627658038790758945",
         "note":  "",
         "createdAt":  1781676272000
@@ -3074,7 +3074,7 @@
         "address":  "67 2 Soi 1 n Ban Mai Lang Mo Tambon Su Thep, เมือง Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=999217704551272426",
         "note":  "",
         "createdAt":  1781613479000
@@ -3096,7 +3096,7 @@
         "address":  "169 Chang Moi Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10951202512917300415",
         "note":  "",
         "createdAt":  1781612307000
@@ -3107,7 +3107,7 @@
         "address":  "27 Arak Rd Old City Tambon Si Phum, Mueang Chiang Mai District, Chang Wat Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6867201850100785439",
         "note":  "",
         "createdAt":  1781612240000
@@ -3129,7 +3129,7 @@
         "address":  "191 บ้านข้างวัด หมู่ 5 ถนน สุเทพ, Mueang Chiang Mai District, 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5180327046634702446",
         "note":  "",
         "createdAt":  1781612206000
@@ -3140,7 +3140,7 @@
         "address":  "53/2 Khang Ruan Jum Rd Old City Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13077766777525477045",
         "note":  "",
         "createdAt":  1781612188000
@@ -3151,7 +3151,7 @@
         "address":  "235 Chiang Mai Soi 3, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1678401529689323684",
         "note":  "",
         "createdAt":  1781612097000
@@ -3184,7 +3184,7 @@
         "address":  "180, 4 Chang Moi Rd, Tambon Chang Moi, เมือง Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1565332214197498873",
         "note":  "",
         "createdAt":  1781611678000
@@ -3195,7 +3195,7 @@
         "address":  "172 m 5 T. Mae Sapok A, Mae Wang District, Chiang Mai 50360泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "咖啡廳",
+        "category":  "住宿/飯店",
         "url":  "http://maps.google.com/?cid=9294032666574863603",
         "note":  "",
         "createdAt":  1781595002000
@@ -3239,7 +3239,7 @@
         "address":  "25/4 Ratvithi Rd Lane 1 Old City Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17914067261512327844",
         "note":  "",
         "createdAt":  1781591770000
@@ -3250,7 +3250,7 @@
         "address":  "14 Phra Pok Klao Rd Soi 4 Old City Phra Sing, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "住宿/飯店",
         "url":  "http://maps.google.com/?cid=3278052818213295748",
         "note":  "",
         "createdAt":  1781591138000
@@ -3261,7 +3261,7 @@
         "address":  "บ้านห้วยผาลาด 101, Sriwichai Alley, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6768799580990171272",
         "note":  "",
         "createdAt":  1781590381000
@@ -3272,7 +3272,7 @@
         "address":  "268 270 Chang Moi Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6400893529629929150",
         "note":  "",
         "createdAt":  1781590174000
@@ -3283,7 +3283,7 @@
         "address":  "261台灣宜蘭縣頭城鎮新建里開蘭東路5巷30-6號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11861748598012792062",
         "note":  "",
         "createdAt":  1781589380000
@@ -3294,7 +3294,7 @@
         "address":  "119/2 Tha Phae Road, Chang Khlan Sub-district, อ.เมือง, Chiang Mai 50100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10494763144936179538",
         "note":  "",
         "createdAt":  1781585913000
@@ -3305,7 +3305,7 @@
         "address":  "94 หมู่ที่ 3 ซอย บ้านโต้ง 2, Fa Ham, Mueang Chiang Mai District, Chiang Mai 50000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6813936026664290723",
         "note":  "",
         "createdAt":  1781584594000
@@ -3316,7 +3316,7 @@
         "address":  "Ratvithi Rd Old City Si Phum, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=9569536743916409913",
         "note":  "",
         "createdAt":  1781584448000
@@ -3360,7 +3360,7 @@
         "address":  "225 Tambon Mae Sa, Mae Rim District, Chiang Mai 50108泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7131216108706460746",
         "note":  "",
         "createdAt":  1781577277000
@@ -3371,7 +3371,7 @@
         "address":  "นพรัตน์, Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5309668056955332396",
         "note":  "",
         "createdAt":  1781451357000
@@ -3382,7 +3382,7 @@
         "address":  "158 Ratchapakhinai Rd Old City Si Phum, Mueang Chiang Mai District, Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3963590747256098937",
         "note":  "",
         "createdAt":  1781451118000
@@ -3437,7 +3437,7 @@
         "address":  "29, 1 Ratchaphuek Alley, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5039605543517047272",
         "note":  "",
         "createdAt":  1781448500000
@@ -3448,7 +3448,7 @@
         "address":  "53 Suriyawong 5 Rd, Tambon Hai Ya, Mueang Chiang Mai District, Chiang Mai 50100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10880399687154584811",
         "note":  "",
         "createdAt":  1781448473000
@@ -3459,7 +3459,7 @@
         "address":  "หายยา 8 Ragang 1 Alley, Tambon Hai Ya, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10790207722132587261",
         "note":  "",
         "createdAt":  1781448101000
@@ -3481,7 +3481,7 @@
         "address":  "199 Mun Mueang Rd Old City Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9900522049030851356",
         "note":  "",
         "createdAt":  1781447497000
@@ -3492,7 +3492,7 @@
         "address":  "1 1/4 ถนน Sripoom 7 4 Alley Sub-District Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3148667615675779444",
         "note":  "",
         "createdAt":  1781446998000
@@ -3514,7 +3514,7 @@
         "address":  "25, 7 Nimmana Haeminda Rd Lane 15 Nimmanhaemin Suthep, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=13641872289968493929",
         "note":  "",
         "createdAt":  1781409370000
@@ -3525,7 +3525,7 @@
         "address":  "Lane 4/1 Alleyway Phra Pok Klao Rd, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1311598085321476544",
         "note":  "",
         "createdAt":  1781409152000
@@ -3536,7 +3536,7 @@
         "address":  "200台灣基隆市仁愛區南榮路391號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4151089598427380123",
         "note":  "",
         "createdAt":  1781343552000
@@ -3580,7 +3580,7 @@
         "address":  "105台灣臺北市松山區復盛里市民大道五段175號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5245880973146932900",
         "note":  "",
         "createdAt":  1781167626000
@@ -3591,7 +3591,7 @@
         "address":  "249台灣新北市八里區中山路二段335號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17498094250902119300",
         "note":  "",
         "createdAt":  1781165128000
@@ -3602,7 +3602,7 @@
         "address":  "114台灣臺北市內湖區五分里五分街三號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4663401934868120680",
         "note":  "",
         "createdAt":  1781101518000
@@ -3613,7 +3613,7 @@
         "address":  "114台灣臺北市內湖區內湖里內湖路二段293號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7282610908559115386",
         "note":  "",
         "createdAt":  1781090534000
@@ -3635,7 +3635,7 @@
         "address":  "325台灣桃園市龍潭區龍潭里東龍路200巷7號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2242901974901116165",
         "note":  "",
         "createdAt":  1781012017000
@@ -3646,7 +3646,7 @@
         "address":  "100台灣臺北市中正區龍福里羅斯福路一段8號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1993526282970441028",
         "note":  "",
         "createdAt":  1781011800000
@@ -3712,7 +3712,7 @@
         "address":  "200台灣基隆市仁愛區和明里仁二路141號2樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4336143947833287493",
         "note":  "",
         "createdAt":  1780806133000
@@ -3723,7 +3723,7 @@
         "address":  "200台灣基隆市仁愛區光華里獅球路24號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5151260166515841119",
         "note":  "",
         "createdAt":  1780804617000
@@ -3734,7 +3734,7 @@
         "address":  "103台灣臺北市大同區雙連里萬全街8巷",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6792061407002984794",
         "note":  "",
         "createdAt":  1780673314000
@@ -3756,7 +3756,7 @@
         "address":  "408023台灣臺中市南屯區新生里龍富路四段199號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10443894201548672987",
         "note":  "",
         "createdAt":  1780558704000
@@ -3778,7 +3778,7 @@
         "address":  "270台灣宜蘭縣蘇澳鎮蘇北里中山路一段98-1號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6987152990070981447",
         "note":  "",
         "createdAt":  1780555221000
@@ -3789,7 +3789,7 @@
         "address":  "228台灣新北市貢寮區雙玉里下雙溪街24號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4785749040805147829",
         "note":  "",
         "createdAt":  1780541251000
@@ -3800,7 +3800,7 @@
         "address":  "406台灣臺中市北屯區平順里昌平路一段408號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11721606915562662983",
         "note":  "",
         "createdAt":  1780456169000
@@ -3811,7 +3811,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉德陽村德陽路95號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8959044806267367328",
         "note":  "",
         "createdAt":  1780404092000
@@ -3822,7 +3822,7 @@
         "address":  "203台灣基隆市中山區西榮里西定路19號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10143047374929841452",
         "note":  "",
         "createdAt":  1780401938000
@@ -3833,7 +3833,7 @@
         "address":  "103台灣臺北市大同區國順里迪化街二段172巷12-2號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14759170672249442706",
         "note":  "",
         "createdAt":  1780381559000
@@ -3844,7 +3844,7 @@
         "address":  "110台灣臺北市信義區三張里吳興街345巷6號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11145250201549746530",
         "note":  "",
         "createdAt":  1780316708000
@@ -3866,7 +3866,7 @@
         "address":  "台灣基隆市仁愛區200仁愛市場2樓C61攤位",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5890661750896654386",
         "note":  "",
         "createdAt":  1780116533000
@@ -3877,7 +3877,7 @@
         "address":  "320台灣桃園市中壢區光明里新明路143號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7377421697598771161",
         "note":  "",
         "createdAt":  1779978386000
@@ -3888,7 +3888,7 @@
         "address":  "106台灣臺北市大安區昌隆里忠孝東路三段205-1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1256617984535679323",
         "note":  "",
         "createdAt":  1779950565000
@@ -3899,7 +3899,7 @@
         "address":  "No. 2號, Alley 22, Lane 553, Section 4, Zhongxiao E Rd, 新仁里信義區臺北市台灣 11072",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14296853322543943552",
         "note":  "",
         "createdAt":  1779950549000
@@ -3921,7 +3921,7 @@
         "address":  "111台灣臺北市士林區德行里 Ln 166, Fuhua Rd, 4號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9875751028768750981",
         "note":  "",
         "createdAt":  1779685006000
@@ -3976,7 +3976,7 @@
         "address":  "B2, No. 101松仁路信義區臺北市台灣 11073",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15784854410529566593",
         "note":  "",
         "createdAt":  1779534057000
@@ -4009,7 +4009,7 @@
         "address":  "251台灣新北市淡水區新生里中正路205號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1091134462391099327",
         "note":  "",
         "createdAt":  1779460593000
@@ -4053,7 +4053,7 @@
         "address":  "100台灣臺北市中正區光復里武昌街一段16巷2號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17191473614876386940",
         "note":  "",
         "createdAt":  1779431151000
@@ -4086,7 +4086,7 @@
         "address":  "356台灣苗栗縣後龍鎮Unnamed Road",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17532615094694916276",
         "note":  "",
         "createdAt":  1779007360000
@@ -4097,7 +4097,7 @@
         "address":  "350台灣苗栗縣竹南鎮90號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10019742815127136402",
         "note":  "",
         "createdAt":  1779007255000
@@ -4108,7 +4108,7 @@
         "address":  "356台灣苗栗縣後龍鎮埔頂里中華路1021號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6002993458107385702",
         "note":  "",
         "createdAt":  1779007171000
@@ -4152,7 +4152,7 @@
         "address":  "356台灣苗栗縣海寶里56-1號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2760352959970095777",
         "note":  "",
         "createdAt":  1778979658000
@@ -4174,7 +4174,7 @@
         "address":  "401台灣臺中市東區東英里十甲路470號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2262751416524548178",
         "note":  "",
         "createdAt":  1778890369000
@@ -4185,7 +4185,7 @@
         "address":  "350台灣苗栗縣竹南鎮公義里公義路2452號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12782082430186800238",
         "note":  "",
         "createdAt":  1778827901000
@@ -4218,7 +4218,7 @@
         "address":  "350台灣苗栗縣竹南鎮竹興里竹圍街90號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8395576829565332863",
         "note":  "",
         "createdAt":  1778827637000
@@ -4229,7 +4229,7 @@
         "address":  "357台灣苗栗縣通霄鎮新埔里8鄰56之三號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=10667817109549548075",
         "note":  "",
         "createdAt":  1778826757000
@@ -4240,7 +4240,7 @@
         "address":  "357台灣苗栗縣通霄鎮白西里白西67-3號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9624968693958381126",
         "note":  "",
         "createdAt":  1778826702000
@@ -4251,7 +4251,7 @@
         "address":  "357台灣苗栗縣通霄鎮白西里67-3號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15271922936478774855",
         "note":  "",
         "createdAt":  1778826660000
@@ -4295,7 +4295,7 @@
         "address":  "356台灣苗栗縣後龍鎮中龍里三民路120號慈雲亭廣場肉圓攤旁",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "小吃",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9098485750995484443",
         "note":  "",
         "createdAt":  1778826489000
@@ -4328,7 +4328,7 @@
         "address":  "台灣苗栗縣通霄鎮新埔里、357",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4278849134263863497",
         "note":  "",
         "createdAt":  1778825953000
@@ -4339,7 +4339,7 @@
         "address":  "357台灣苗栗縣通霄鎮台一線",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6141899069883674900",
         "note":  "",
         "createdAt":  1778825578000
@@ -4361,7 +4361,7 @@
         "address":  "350台灣苗栗縣竹南鎮竹興里",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17439723297528465248",
         "note":  "",
         "createdAt":  1778773509000
@@ -4372,7 +4372,7 @@
         "address":  "300台灣新竹市香山區",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=10933957492408980787",
         "note":  "",
         "createdAt":  1778772755000
@@ -4383,7 +4383,7 @@
         "address":  "357台灣苗栗縣通霄鎮",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=5955887095671966971",
         "note":  "",
         "createdAt":  1778772601000
@@ -4394,7 +4394,7 @@
         "address":  "202台灣基隆市中正區德義里義二路97號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15126461270815865957",
         "note":  "",
         "createdAt":  1778768704000
@@ -4416,7 +4416,7 @@
         "address":  "200001台灣基隆市仁愛區文昌里忠二路68號2樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4533065495014878596",
         "note":  "",
         "createdAt":  1778654228000
@@ -4438,7 +4438,7 @@
         "address":  "545台灣南投縣埔里鎮大城里信義路1073號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14973951002069489121",
         "note":  "",
         "createdAt":  1778424904000
@@ -4449,7 +4449,7 @@
         "address":  "351台灣苗栗縣頭份市合興里八德一路254號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6020820270284137872",
         "note":  "",
         "createdAt":  1778424156000
@@ -4460,7 +4460,7 @@
         "address":  "411031台灣臺中市太平區新高里樹德路50號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7864256135179605684",
         "note":  "",
         "createdAt":  1778410655000
@@ -4471,7 +4471,7 @@
         "address":  "401台灣臺中市東區富仁里進德路154號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2128674604909515183",
         "note":  "",
         "createdAt":  1778410627000
@@ -4493,7 +4493,7 @@
         "address":  "357台灣苗栗縣通霄鎮白東里白東里5鄰38號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12579840095561086756",
         "note":  "",
         "createdAt":  1778401620000
@@ -4504,7 +4504,7 @@
         "address":  "110台灣臺北市信義區正和里仁愛路四段506號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15999708593898650649",
         "note":  "",
         "createdAt":  1778335872000
@@ -4515,7 +4515,7 @@
         "address":  "369台灣苗栗縣卓蘭鎮中街里中正路50號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5702788284241813419",
         "note":  "",
         "createdAt":  1778332852000
@@ -4537,7 +4537,7 @@
         "address":  "106台灣臺北市大安區建安里忠孝東路四段177號2樓之2",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10468796283391481550",
         "note":  "",
         "createdAt":  1778228300000
@@ -4559,7 +4559,7 @@
         "address":  "437台灣臺中市大甲區順天里蔣公路126號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13584960705496953047",
         "note":  "",
         "createdAt":  1778038049000
@@ -4592,7 +4592,7 @@
         "address":  "110台灣臺北市信義區雅祥里基隆路一段83巷12號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1011103030169963479",
         "note":  "",
         "createdAt":  1777988771000
@@ -4603,7 +4603,7 @@
         "address":  "號 No, No. 30汐碇路380巷 汐止區, 新北市台灣 221",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14959348820340410459",
         "note":  "",
         "createdAt":  1777974575000
@@ -4636,7 +4636,7 @@
         "address":  "No. 134號, Zhongzheng Rd, 老庄里卓蘭鎮苗栗縣台灣 369",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=18268030596647079285",
         "note":  "",
         "createdAt":  1777686950000
@@ -4669,7 +4669,7 @@
         "address":  "369台灣苗栗縣卓蘭鎮中街里中正路89號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14982674471219680189",
         "note":  "",
         "createdAt":  1777624416000
@@ -4680,7 +4680,7 @@
         "address":  "648台灣雲林縣西螺鎮建興路64號忠正豆漿隔壁",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9674526581554246454",
         "note":  "",
         "createdAt":  1777621297000
@@ -4691,7 +4691,7 @@
         "address":  "227台灣新北市雙溪區雙溪里中正路17號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3619032536430454363",
         "note":  "",
         "createdAt":  1777619084000
@@ -4702,7 +4702,7 @@
         "address":  "202台灣基隆市中正區調和街3號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2374838269084841757",
         "note":  "",
         "createdAt":  1777548888000
@@ -4724,7 +4724,7 @@
         "address":  "114台灣臺北市內湖區西安里環山路一段90號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7007825276211317882",
         "note":  "",
         "createdAt":  1777473462000
@@ -4746,7 +4746,7 @@
         "address":  "261台灣宜蘭縣頭城鎮石城里石城路117號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2386706994360499912",
         "note":  "",
         "createdAt":  1777382772000
@@ -4757,7 +4757,7 @@
         "address":  "11485台灣臺北市內湖區明湖里康寧路三段103-3號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=16028400760154311196",
         "note":  "",
         "createdAt":  1777348980000
@@ -4768,7 +4768,7 @@
         "address":  "33043台灣桃園市桃園區東埔里正康二街163號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4398888082306576383",
         "note":  "",
         "createdAt":  1777346692000
@@ -4812,7 +4812,7 @@
         "address":  "110台灣臺北市信義區興雅里永吉路30巷158弄16號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17194108810017758050",
         "note":  "",
         "createdAt":  1776950639000
@@ -4856,7 +4856,7 @@
         "address":  "360台灣苗栗縣苗栗市玉苗里博愛街58號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14974155550106876944",
         "note":  "",
         "createdAt":  1776777456000
@@ -4878,7 +4878,7 @@
         "address":  "56 Dalgubeol-daero 415-gil, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10952214887944466017",
         "note":  "",
         "createdAt":  1776504482000
@@ -4900,7 +4900,7 @@
         "address":  "114台灣臺北市內湖區紫星里成功路四段61巷25弄7號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2013812348311141619",
         "note":  "",
         "createdAt":  1775811046000
@@ -4911,7 +4911,7 @@
         "address":  "산50-1 Daeyeon-dong, Nam-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=9894731693206159625",
         "note":  "",
         "createdAt":  1775795945000
@@ -4922,7 +4922,7 @@
         "address":  "772 Gaya-daero, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5123128155957466971",
         "note":  "",
         "createdAt":  1775789026000
@@ -4933,7 +4933,7 @@
         "address":  "南韓 Busan, Jung-gu, Gwangbokjungang-ro 24beon-gil, 9 1층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2782542631978577363",
         "note":  "",
         "createdAt":  1775735763000
@@ -4944,7 +4944,7 @@
         "address":  "13 Gwanganhaebyeon-ro 279beon-gil, Suyeong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12563027350627650296",
         "note":  "",
         "createdAt":  1775735740000
@@ -4955,7 +4955,7 @@
         "address":  "106台灣臺北市大安區法治里通化街263號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14704900628752360778",
         "note":  "",
         "createdAt":  1775724476000
@@ -4966,7 +4966,7 @@
         "address":  "261台灣宜蘭縣頭城鎮外澳里濱海路二段562號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14861428880800439244",
         "note":  "",
         "createdAt":  1775700296000
@@ -4977,7 +4977,7 @@
         "address":  "242-7 부전제2동 Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16436000749603842147",
         "note":  "",
         "createdAt":  1775618488000
@@ -4999,7 +4999,7 @@
         "address":  "114台灣臺北市內湖區東湖里東湖路119巷49弄8號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10377695397162427427",
         "note":  "",
         "createdAt":  1775551155000
@@ -5010,7 +5010,7 @@
         "address":  "34-20 Yangnyeong-gil, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17929773509820562014",
         "note":  "",
         "createdAt":  1775388348000
@@ -5021,7 +5021,7 @@
         "address":  "25 Keunjang-ro 28-gil, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18138195088724183409",
         "note":  "",
         "createdAt":  1775376512000
@@ -5032,7 +5032,7 @@
         "address":  "45 Dongseong-ro 1-gil, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3952569085091367484",
         "note":  "",
         "createdAt":  1775370683000
@@ -5043,7 +5043,7 @@
         "address":  "南韓 Daegu, Suseong District, 범어1동 Dalgubeol-daero 480-gil, 28 1층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12527247036385169992",
         "note":  "",
         "createdAt":  1775363489000
@@ -5098,7 +5098,7 @@
         "address":  "202台灣基隆市中正區德義里信二路311號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=8446055398149730991",
         "note":  "",
         "createdAt":  1775214174000
@@ -5120,7 +5120,7 @@
         "address":  "115台灣臺北市南港區南港里新民街76號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6121034136487661819",
         "note":  "",
         "createdAt":  1775102474000
@@ -5131,7 +5131,7 @@
         "address":  "202台灣基隆市中正區港通里信五路45號1樓",
         "scope":  "INTL",
         "region":  "歐洲/其他海外",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9392110085376479885",
         "note":  "",
         "createdAt":  1775097026000
@@ -5164,7 +5164,7 @@
         "address":  "59 World Cup buk-ro, Mapo-gu, Seoul, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17789799640554663347",
         "note":  "",
         "createdAt":  1774791613000
@@ -5186,7 +5186,7 @@
         "address":  "221台灣新北市汐止區福山里弘道街10號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13346054446895873743",
         "note":  "",
         "createdAt":  1774773608000
@@ -5252,7 +5252,7 @@
         "address":  "201台灣基隆市信義區仁壽里信二路247巷8號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10214226706163088234",
         "note":  "",
         "createdAt":  1774401207000
@@ -5263,7 +5263,7 @@
         "address":  "42 Jagalchi-ro, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8918985796756456430",
         "note":  "",
         "createdAt":  1774273969000
@@ -5285,7 +5285,7 @@
         "address":  "700台灣臺南市中西區赤嵌里民族路二段282號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13555794267425807052",
         "note":  "",
         "createdAt":  1774070095000
@@ -5296,7 +5296,7 @@
         "address":  "221台灣新北市汐止區大同路二段512號2樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17983545042233615960",
         "note":  "",
         "createdAt":  1773907614000
@@ -5307,7 +5307,7 @@
         "address":  "252台灣新北市三芝區埔坪里淡金路二段21號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7724548413490348484",
         "note":  "",
         "createdAt":  1773902016000
@@ -5318,7 +5318,7 @@
         "address":  "251台灣新北市淡水區水碓里中山北路一段120之4號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12545659206700194202",
         "note":  "",
         "createdAt":  1773901885000
@@ -5329,7 +5329,7 @@
         "address":  "11 Gwangbok-ro 6beon-gil, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7271563682552362361",
         "note":  "",
         "createdAt":  1773844234000
@@ -5340,7 +5340,7 @@
         "address":  "14 Gwangbok-ro 6beon-gil, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4637708471535823239",
         "note":  "",
         "createdAt":  1773844187000
@@ -5351,7 +5351,7 @@
         "address":  "南韓 Busan, Saha-gu, Gamnae 1-ro, 200 리틀프린스하우스(구 감내어울터",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15162309486674746973",
         "note":  "",
         "createdAt":  1773801050000
@@ -5362,7 +5362,7 @@
         "address":  "63 1F Dongcheon-ro, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6027123905158672073",
         "note":  "",
         "createdAt":  1773730822000
@@ -5373,7 +5373,7 @@
         "address":  "南韓 Busan, Haeundae-gu, Gunam-ro, 16 2층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6164168793006014182",
         "note":  "",
         "createdAt":  1773718722000
@@ -5384,7 +5384,7 @@
         "address":  "36 BIFF gwangjang-ro, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11875067571965763027",
         "note":  "",
         "createdAt":  1773678469000
@@ -5395,7 +5395,7 @@
         "address":  "3 Gamnae 1-ro 243beon-gil, Saha-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1551019396578338032",
         "note":  "",
         "createdAt":  1773652925000
@@ -5406,7 +5406,7 @@
         "address":  "100台灣臺北市中正區古莊里羅斯福路三段171號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8839409363638460711",
         "note":  "",
         "createdAt":  1773473447000
@@ -5417,7 +5417,7 @@
         "address":  "南韓 Busan, Busanjin District, Dongcheon-ro, 66 1 층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14128704974907750937",
         "note":  "",
         "createdAt":  1773366802000
@@ -5472,7 +5472,7 @@
         "address":  "260台灣宜蘭縣宜蘭市西門里西門路46號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=564238637070342901",
         "note":  "",
         "createdAt":  1773236934000
@@ -5483,7 +5483,7 @@
         "address":  "234台灣新北市永和區頂溪里文化路6號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10846273279995728217",
         "note":  "",
         "createdAt":  1773154684000
@@ -5494,7 +5494,7 @@
         "address":  "106台灣臺北市大安區建倫里 Alley 6, Lane 170, Section 4, Zhongxiao E Rd, 1號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11796412537147937414",
         "note":  "",
         "createdAt":  1773122714000
@@ -5505,7 +5505,7 @@
         "address":  "南韓 Seoul, Mapo-gu, World Cup-ro 13-gil, 73 1층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2379307653846727294",
         "note":  "",
         "createdAt":  1773115799000
@@ -5516,7 +5516,7 @@
         "address":  "70060台灣臺南市中西區淺草里環河街129巷27號2樓",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2312023536751268482",
         "note":  "",
         "createdAt":  1773114527000
@@ -5527,7 +5527,7 @@
         "address":  "73141台灣臺南市後壁區上茄苳里12之66號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9888903438876872865",
         "note":  "",
         "createdAt":  1773111528000
@@ -5549,7 +5549,7 @@
         "address":  "700台灣臺南市中西區藥王里民生路二段120號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1312984711470041748",
         "note":  "",
         "createdAt":  1772891764000
@@ -5615,7 +5615,7 @@
         "address":  "700台灣臺南市中西區郡王里大埔街47號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2072473965704847836",
         "note":  "",
         "createdAt":  1772864068000
@@ -5626,7 +5626,7 @@
         "address":  "No. 51號, Dabu St, 郡王里中西區臺南市台灣 700280",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11923642219772103542",
         "note":  "",
         "createdAt":  1772856922000
@@ -5637,7 +5637,7 @@
         "address":  "700台灣臺南市中西區淺草里環河街122號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3035508647490225748",
         "note":  "",
         "createdAt":  1772856804000
@@ -5648,7 +5648,7 @@
         "address":  "708台灣臺南市安平區",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=15576554873686776633",
         "note":  "",
         "createdAt":  1772784482000
@@ -5659,7 +5659,7 @@
         "address":  "701台灣臺南市東區崇信里崇善路227-3號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3672681673564940182",
         "note":  "",
         "createdAt":  1772505196000
@@ -5670,7 +5670,7 @@
         "address":  "22 Dalmaji-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11069684082202054459",
         "note":  "",
         "createdAt":  1772421489000
@@ -5681,7 +5681,7 @@
         "address":  "700台灣臺南市中西區淺草里正興街80號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8483142696291736422",
         "note":  "",
         "createdAt":  1772362604000
@@ -5692,7 +5692,7 @@
         "address":  "202台灣基隆市中正區中正里中正路680-1號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17111385994118299823",
         "note":  "",
         "createdAt":  1772360014000
@@ -5736,7 +5736,7 @@
         "address":  "700台灣臺南市中西區南廠里郡西路47號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=17957211962402241186",
         "note":  "",
         "createdAt":  1772202153000
@@ -5747,7 +5747,7 @@
         "address":  "709台灣臺南市安南區總頭里總安街二段370號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7872149745813769038",
         "note":  "",
         "createdAt":  1772201287000
@@ -5791,7 +5791,7 @@
         "address":  "708台灣臺南市安平區文平里建平七街182巷48號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11229971335124439959",
         "note":  "",
         "createdAt":  1772036499000
@@ -5824,7 +5824,7 @@
         "address":  "710台灣臺南市永康區埔園里埔園街115號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=8882516860317322309",
         "note":  "",
         "createdAt":  1772024361000
@@ -5835,7 +5835,7 @@
         "address":  "No. 60號, Zunwang Rd, 中西區臺南市台灣 70062",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13190751101230769464",
         "note":  "",
         "createdAt":  1772023522000
@@ -5846,7 +5846,7 @@
         "address":  "700台灣臺南市中西區保安路174號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=12675701126187150354",
         "note":  "",
         "createdAt":  1772023381000
@@ -5857,7 +5857,7 @@
         "address":  "700台灣臺南市中西區府前里府前路二段228號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=16010091803446646121",
         "note":  "",
         "createdAt":  1772020823000
@@ -5868,7 +5868,7 @@
         "address":  "704台灣臺南市北區長勝里開元路73巷34號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4427247622069344527",
         "note":  "",
         "createdAt":  1772019259000
@@ -5890,7 +5890,7 @@
         "address":  "700台灣臺南市中西區友愛街232號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6381953526334402314",
         "note":  "",
         "createdAt":  1772013480000
@@ -5923,7 +5923,7 @@
         "address":  "700台灣臺南市中西區府前里尊王路71-6號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8930878946063167033",
         "note":  "",
         "createdAt":  1772002309000
@@ -5956,7 +5956,7 @@
         "address":  "700台灣臺南市中西區赤嵌里西門路二段300巷33號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7005357459295656512",
         "note":  "",
         "createdAt":  1772001434000
@@ -5978,7 +5978,7 @@
         "address":  "178-10 Millak-dong, Suyeong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=389710669884273469",
         "note":  "",
         "createdAt":  1771987480000
@@ -6000,7 +6000,7 @@
         "address":  "700台灣臺南市中西區赤嵌里民權路二段71號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=16221108663322875580",
         "note":  "",
         "createdAt":  1771946483000
@@ -6044,7 +6044,7 @@
         "address":  "700台灣臺南市中西區兌悅里金華路四段134號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=15370542312975289527",
         "note":  "",
         "createdAt":  1771945434000
@@ -6055,7 +6055,7 @@
         "address":  "702台灣臺南市南區國宅里金華路二段15巷1號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=14633664427572059713",
         "note":  "",
         "createdAt":  1771945343000
@@ -6066,7 +6066,7 @@
         "address":  "725台灣臺南市將軍區鯤溟里鯤溟6-50號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4181931065276337692",
         "note":  "",
         "createdAt":  1771934578000
@@ -6077,7 +6077,7 @@
         "address":  "725台灣臺南市將軍區",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10579624016480006266",
         "note":  "",
         "createdAt":  1771934436000
@@ -6088,7 +6088,7 @@
         "address":  "700台灣臺南市中西區郡王里慶中街114號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2992909578147801073",
         "note":  "",
         "createdAt":  1771928216000
@@ -6099,7 +6099,7 @@
         "address":  "701台灣臺南市東區龍山里東門路二段306號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9340173790570036819",
         "note":  "",
         "createdAt":  1771927565000
@@ -6132,7 +6132,7 @@
         "address":  "No. 19號, Zhongyong St, 中華里永康區臺南市台灣 710",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=356202653493601447",
         "note":  "",
         "createdAt":  1771920634000
@@ -6253,7 +6253,7 @@
         "address":  "103台灣臺北市大同區雙連里民生西路231號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5727248180344925277",
         "note":  "",
         "createdAt":  1771678670000
@@ -6297,7 +6297,7 @@
         "address":  "251台灣新北市淡水區草東里中正路33號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13137646347593140711",
         "note":  "",
         "createdAt":  1771637490000
@@ -6352,7 +6352,7 @@
         "address":  "201台灣基隆市信義區東光里東信路140號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=922106043228386540",
         "note":  "",
         "createdAt":  1771560263000
@@ -6363,7 +6363,7 @@
         "address":  "320台灣桃園市中壢區文化里吉林路73巷5號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17919808775413493815",
         "note":  "",
         "createdAt":  1771500065000
@@ -6374,7 +6374,7 @@
         "address":  "306台灣新竹縣關西鎮西安里中山路82號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7060235098339386744",
         "note":  "",
         "createdAt":  1771495609000
@@ -6407,7 +6407,7 @@
         "address":  "653台灣雲林縣口湖鄉拔拉路50-9號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9628317108470860366",
         "note":  "",
         "createdAt":  1771026957000
@@ -6418,7 +6418,7 @@
         "address":  "242台灣新北市新莊區仁愛里福壽街63號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=13032911279547349392",
         "note":  "",
         "createdAt":  1770961347000
@@ -6429,7 +6429,7 @@
         "address":  "234台灣新北市永和區永平路81巷6號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=10801599598311130984",
         "note":  "",
         "createdAt":  1770954723000
@@ -6440,7 +6440,7 @@
         "address":  "103台灣臺北市大同區大有里歸綏街218號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=8308141296971569217",
         "note":  "",
         "createdAt":  1770954530000
@@ -6484,7 +6484,7 @@
         "address":  "224台灣新北市瑞芳區深澳里建基路二段71之2號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3081088006521178588",
         "note":  "",
         "createdAt":  1770904229000
@@ -6506,7 +6506,7 @@
         "address":  "206台灣基隆市七堵區正光里南興路44號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=6115811242923593139",
         "note":  "",
         "createdAt":  1770879482000
@@ -6517,7 +6517,7 @@
         "address":  "180 Haeyang-ro 195beon-gil, is, Yeongdo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10550152994019528233",
         "note":  "",
         "createdAt":  1770852723000
@@ -6539,7 +6539,7 @@
         "address":  "545台灣南投縣埔里鎮西門里西安路一段145號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=6132732035216746552",
         "note":  "",
         "createdAt":  1770809202000
@@ -6550,7 +6550,7 @@
         "address":  "No. 153, Section 1, Dihua St, 大有里大同區臺北市台灣 103",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3008183372419656815",
         "note":  "",
         "createdAt":  1770790926000
@@ -6561,7 +6561,7 @@
         "address":  "201台灣基隆市信義區東明里東信路27號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15914435005281015188",
         "note":  "",
         "createdAt":  1770703946000
@@ -6638,7 +6638,7 @@
         "address":  "366台灣苗栗縣銅鑼鄉銅鑼村永樂路22號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4312088161691719498",
         "note":  "",
         "createdAt":  1770351039000
@@ -6649,7 +6649,7 @@
         "address":  "366台灣苗栗縣銅鑼鄉樟樹村樟樹村竹圍1-2號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15645922454631104304",
         "note":  "",
         "createdAt":  1770350444000
@@ -6671,7 +6671,7 @@
         "address":  "367台灣苗栗縣三義鄉勝興村水美街118號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6720572207201090337",
         "note":  "",
         "createdAt":  1770350166000
@@ -6704,7 +6704,7 @@
         "address":  "103台灣臺北市大同區隆和里民權西路237之1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6721105929198251457",
         "note":  "",
         "createdAt":  1770208518000
@@ -6715,7 +6715,7 @@
         "address":  "26 Dongseong-ro 1-gil, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5738641336435669145",
         "note":  "",
         "createdAt":  1769998390000
@@ -6737,7 +6737,7 @@
         "address":  "167 Anguk-dong, Jongno District, Seoul, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10814689217370554038",
         "note":  "",
         "createdAt":  1769611675000
@@ -6748,7 +6748,7 @@
         "address":  "51-1 Dongcheon-ro, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16924391571103414340",
         "note":  "",
         "createdAt":  1769507593000
@@ -6759,7 +6759,7 @@
         "address":  "408台灣臺中市南屯區溝墘里大墩路653號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1970964843152211265",
         "note":  "",
         "createdAt":  1769427945000
@@ -6770,7 +6770,7 @@
         "address":  "39 Hasinbeonyeong-ro 157beon-gil, Saha-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7946509055158132884",
         "note":  "",
         "createdAt":  1769180965000
@@ -6825,7 +6825,7 @@
         "address":  "46 Gunam-ro 41beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17875480895709150251",
         "note":  "",
         "createdAt":  1769150969000
@@ -6836,7 +6836,7 @@
         "address":  "6 Jungdong 2-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2272155132064694426",
         "note":  "",
         "createdAt":  1769150875000
@@ -6847,7 +6847,7 @@
         "address":  "50 Gukchaebosang-ro 102-gil, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=9542644608675512426",
         "note":  "",
         "createdAt":  1769143498000
@@ -6858,7 +6858,7 @@
         "address":  "261 Dongsan-dong, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=9484553504589713495",
         "note":  "",
         "createdAt":  1769143490000
@@ -6869,7 +6869,7 @@
         "address":  "2029 Dalgubeol-daero, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16789136746877862934",
         "note":  "",
         "createdAt":  1769143487000
@@ -6880,7 +6880,7 @@
         "address":  "19-5 Haedong-ro 3-gil, Jijeo-dong, Dong-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12517494306147021579",
         "note":  "",
         "createdAt":  1769096707000
@@ -6891,7 +6891,7 @@
         "address":  "406-8 Jungang-daero, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15952800806693490754",
         "note":  "",
         "createdAt":  1769091158000
@@ -6902,7 +6902,7 @@
         "address":  "81-2 동성로 Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12210252398024572948",
         "note":  "",
         "createdAt":  1769091100000
@@ -6913,7 +6913,7 @@
         "address":  "35-7 Dongil-dong, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3719680193198803453",
         "note":  "",
         "createdAt":  1769090734000
@@ -6924,7 +6924,7 @@
         "address":  "63 Daemyeong-ro 36-gil, Nam-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7929635397964191555",
         "note":  "",
         "createdAt":  1769073612000
@@ -6935,7 +6935,7 @@
         "address":  "73 Sincheon-daero 62beon-gil, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11273630370938831437",
         "note":  "",
         "createdAt":  1769071886000
@@ -6946,7 +6946,7 @@
         "address":  "40-1 Gunam-ro 41beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10409487763953669629",
         "note":  "",
         "createdAt":  1769067980000
@@ -6957,7 +6957,7 @@
         "address":  "3 Jeonpo-daero 210beon-gil, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10993647489351277349",
         "note":  "",
         "createdAt":  1769065447000
@@ -6968,7 +6968,7 @@
         "address":  "337-11 Jeonpo-dong, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5873458817852222585",
         "note":  "",
         "createdAt":  1769065160000
@@ -6990,7 +6990,7 @@
         "address":  "산42-66 Jung-dong, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2245928936789182566",
         "note":  "",
         "createdAt":  1769052888000
@@ -7012,7 +7012,7 @@
         "address":  "1117 Yulha-dong, Dong-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4342490326314512544",
         "note":  "",
         "createdAt":  1769008581000
@@ -7023,7 +7023,7 @@
         "address":  "221 Gonghang-ro, Dong-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14953356253892016360",
         "note":  "",
         "createdAt":  1769007247000
@@ -7034,7 +7034,7 @@
         "address":  "149 Dongbu-ro, Dong-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4705046993120503247",
         "note":  "",
         "createdAt":  1769007204000
@@ -7056,7 +7056,7 @@
         "address":  "19-2 광복로 Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8734315328597709042",
         "note":  "",
         "createdAt":  1768979746000
@@ -7067,7 +7067,7 @@
         "address":  "56 Dongcheon-ro, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=327850551260150821",
         "note":  "",
         "createdAt":  1768975871000
@@ -7078,7 +7078,7 @@
         "address":  "7-6 Sajeong-ro 57beon-gil, Hwangnam-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11674588326148332753",
         "note":  "",
         "createdAt":  1768975681000
@@ -7089,7 +7089,7 @@
         "address":  "620 Haeun-daero, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15208528455487352100",
         "note":  "",
         "createdAt":  1768967859000
@@ -7100,7 +7100,7 @@
         "address":  "31 Jungdong 1-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4539935439931728009",
         "note":  "",
         "createdAt":  1768967802000
@@ -7111,7 +7111,7 @@
         "address":  "14 Gunam-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8093800947327207492",
         "note":  "",
         "createdAt":  1768967795000
@@ -7122,7 +7122,7 @@
         "address":  "6 Dalmaji-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1046093571398461612",
         "note":  "",
         "createdAt":  1768963912000
@@ -7144,7 +7144,7 @@
         "address":  "2077 Dalgubeol-daero, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10086733497569863033",
         "note":  "",
         "createdAt":  1768910020000
@@ -7166,7 +7166,7 @@
         "address":  "南韓 Busan, Haeundae-gu, Udong 1-ro 20beon-gil, 29 2층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17091789182164976991",
         "note":  "",
         "createdAt":  1768815964000
@@ -7177,7 +7177,7 @@
         "address":  "20 Gunam-ro 24beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15859114634999843643",
         "note":  "",
         "createdAt":  1768814285000
@@ -7188,7 +7188,7 @@
         "address":  "31 Gwangbokjungang-ro, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1341495052099093792",
         "note":  "",
         "createdAt":  1768804769000
@@ -7210,7 +7210,7 @@
         "address":  "180-1 Gamnae 2-ro, Gamcheon-dong, Saha-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14092268104340433282",
         "note":  "",
         "createdAt":  1768735805000
@@ -7232,7 +7232,7 @@
         "address":  "2 Jungang-daero, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8917637603255555730",
         "note":  "",
         "createdAt":  1768536244000
@@ -7243,7 +7243,7 @@
         "address":  "南韓 Daegu, Buk-gu, Taepyeong-ro, 161 B1층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11771069300745052506",
         "note":  "",
         "createdAt":  1768536068000
@@ -7254,7 +7254,7 @@
         "address":  "南韓 Busan, Haeundae-gu, Gunam-ro 24beon-gil, 391층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=9168759189494534788",
         "note":  "",
         "createdAt":  1768478128000
@@ -7265,7 +7265,7 @@
         "address":  "177 Amnamgongwon-ro, Seo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8367646828853399798",
         "note":  "",
         "createdAt":  1768466722000
@@ -7276,7 +7276,7 @@
         "address":  "南韓 Busan, Haeundae-gu, Centum 4-ro, 15 신세계센텀시티몰 1F",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10685523065095779086",
         "note":  "",
         "createdAt":  1768459615000
@@ -7287,7 +7287,7 @@
         "address":  "12 Bujeon-ro 66beon-gil, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2757687831443754102",
         "note":  "",
         "createdAt":  1768395307000
@@ -7298,7 +7298,7 @@
         "address":  "南韓 Busan, Suyeong-gu, Gwangan-ro 61beon-gil, 60 3층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16540023437485839050",
         "note":  "",
         "createdAt":  1768382387000
@@ -7320,7 +7320,7 @@
         "address":  "11 Jeonpo-daero 209beon-gil, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18025388806928992831",
         "note":  "",
         "createdAt":  1768378903000
@@ -7331,7 +7331,7 @@
         "address":  "160-2 Noseo-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14006239611134838828",
         "note":  "",
         "createdAt":  1768373698000
@@ -7342,7 +7342,7 @@
         "address":  "Gamnae Byeolmaru Sports Center, Roof top, 5-8 Gamcheon-dong, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7828215642192691209",
         "note":  "",
         "createdAt":  1768365662000
@@ -7353,7 +7353,7 @@
         "address":  "83-1 광복로 Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7020588576007411954",
         "note":  "",
         "createdAt":  1768359678000
@@ -7375,7 +7375,7 @@
         "address":  "167 Cheongsapo-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11067325892596502436",
         "note":  "",
         "createdAt":  1768319984000
@@ -7386,7 +7386,7 @@
         "address":  "23 Geumganggongwon-ro 20beon-gil, Dongnae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10776420957000615553",
         "note":  "",
         "createdAt":  1768319977000
@@ -7397,7 +7397,7 @@
         "address":  "333 Haeundaehaebyeon-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3464819347378224185",
         "note":  "",
         "createdAt":  1768319949000
@@ -7408,7 +7408,7 @@
         "address":  "10 Seoseong-ro, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1755433661970896628",
         "note":  "",
         "createdAt":  1768319838000
@@ -7419,7 +7419,7 @@
         "address":  "45 Keunjang-ro 26-gil, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1973930584881181529",
         "note":  "",
         "createdAt":  1768319834000
@@ -7430,7 +7430,7 @@
         "address":  "129-4 암남동 Seo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13587005647522247584",
         "note":  "",
         "createdAt":  1768319778000
@@ -7441,7 +7441,7 @@
         "address":  "137 Oryukdo-ro, Nam-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1845854642909928305",
         "note":  "",
         "createdAt":  1768319771000
@@ -7452,7 +7452,7 @@
         "address":  "203 Gamnae 2-ro, Saha-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10916164570297726627",
         "note":  "",
         "createdAt":  1768319760000
@@ -7463,7 +7463,7 @@
         "address":  "40 Namseong-ro, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5521837703356438138",
         "note":  "",
         "createdAt":  1768319373000
@@ -7474,7 +7474,7 @@
         "address":  "51 Palgongsan-ro 185-gil, Yongsu-dong, Dong-gu, Daegu, 南韓",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3775495119391306692",
         "note":  "",
         "createdAt":  1768319370000
@@ -7496,7 +7496,7 @@
         "address":  "21-1 Cheomseong-ro 81beon-gil, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16182433541471199065",
         "note":  "",
         "createdAt":  1768319359000
@@ -7507,7 +7507,7 @@
         "address":  "南韓 Busan, Busanjin District, Jungang-daero 691beon-gil, 44 1층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=913168283929099510",
         "note":  "",
         "createdAt":  1768319322000
@@ -7518,7 +7518,7 @@
         "address":  "21-2 Gwangbok-ro, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1414749226347847735",
         "note":  "",
         "createdAt":  1768319317000
@@ -7529,7 +7529,7 @@
         "address":  "205 Gijanghaean-ro, Gijang-gun, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5698744613970180327",
         "note":  "",
         "createdAt":  1768319243000
@@ -7540,7 +7540,7 @@
         "address":  "南韓 Busan, Busanjin District, Seojeon-ro, 11 1 1F",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7659985917474245629",
         "note":  "",
         "createdAt":  1768319198000
@@ -7551,7 +7551,7 @@
         "address":  "36 Bujeon-ro 66beon-gil, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16061217431328944263",
         "note":  "",
         "createdAt":  1768286332000
@@ -7562,7 +7562,7 @@
         "address":  "627-1 U-dong, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16587963154613251973",
         "note":  "",
         "createdAt":  1768276212000
@@ -7573,7 +7573,7 @@
         "address":  "南韓 Daegu, Jung-gu, Namil-dong, 111번지 1층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17464387868183444097",
         "note":  "",
         "createdAt":  1768226979000
@@ -7584,7 +7584,7 @@
         "address":  "22-1 Dongseong-ro, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13606973256768551271",
         "note":  "",
         "createdAt":  1768224103000
@@ -7595,7 +7595,7 @@
         "address":  "83-1 Seomunno 1(il)-ga, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4002676778936349914",
         "note":  "",
         "createdAt":  1768223939000
@@ -7606,7 +7606,7 @@
         "address":  "22 Jungang-daero 77-gil, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2357672100829614385",
         "note":  "",
         "createdAt":  1768223916000
@@ -7617,7 +7617,7 @@
         "address":  "70 Songjeonggudeokpo-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14238775286373013228",
         "note":  "",
         "createdAt":  1768193254000
@@ -7628,7 +7628,7 @@
         "address":  "495-9 Seobyeon-dong, Buk-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "歐洲/其他海外",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12976573853394648679",
         "note":  "",
         "createdAt":  1768190457000
@@ -7639,7 +7639,7 @@
         "address":  "772 Gaya-daero, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8919030743954603138",
         "note":  "",
         "createdAt":  1768187938000
@@ -7650,7 +7650,7 @@
         "address":  "36 BIFF gwangjang-ro, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=416784293552806745",
         "note":  "",
         "createdAt":  1768187183000
@@ -7661,7 +7661,7 @@
         "address":  "南韓 Busan, Yeongdo-gu, Dongsam-dong, 1126 1126-9 11",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10209948899815547734",
         "note":  "",
         "createdAt":  1768183961000
@@ -7672,7 +7672,7 @@
         "address":  "南韓 Busan, Haeundae-gu, Cheongsapo-ro, 116 청사포정거장 2F",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5330431299439421123",
         "note":  "",
         "createdAt":  1768153578000
@@ -7683,7 +7683,7 @@
         "address":  "산3-2 Jung-dong, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10281016504251826250",
         "note":  "",
         "createdAt":  1768153153000
@@ -7694,7 +7694,7 @@
         "address":  "328-1 Hwangnam-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15471324211906688935",
         "note":  "",
         "createdAt":  1768137210000
@@ -7705,7 +7705,7 @@
         "address":  "20-2 Poseok-ro 1068beon-gil, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14352532115630316738",
         "note":  "",
         "createdAt":  1768066705000
@@ -7727,7 +7727,7 @@
         "address":  "206台灣基隆市七堵區正明里自治街42號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=10755763410575537077",
         "note":  "",
         "createdAt":  1768047928000
@@ -7749,7 +7749,7 @@
         "address":  "南韓 Busan, Haeundae-gu, Marine city 1-ro, 9 1, Marine City Xi Apt., 층 103,104호",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3908862436955917283",
         "note":  "",
         "createdAt":  1768043459000
@@ -7760,7 +7760,7 @@
         "address":  "203台灣基隆市中山區西康里西定路421-31號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3339831832078452210",
         "note":  "",
         "createdAt":  1768034324000
@@ -7771,7 +7771,7 @@
         "address":  "193-14 Jingwan-dong, Eunpyeong District, Seoul, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7444977371899879014",
         "note":  "",
         "createdAt":  1768018544000
@@ -7782,7 +7782,7 @@
         "address":  "4 Jungang-daero 533beon-gil, Dong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6144348589411115218",
         "note":  "",
         "createdAt":  1767975422000
@@ -7793,7 +7793,7 @@
         "address":  "8 Gwangnam-ro 120beon-gil, Suyeong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8799230500550108198",
         "note":  "",
         "createdAt":  1767971880000
@@ -7804,7 +7804,7 @@
         "address":  "22 Jeonpo-daero 216beon-gil, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3892330564862095006",
         "note":  "",
         "createdAt":  1767968266000
@@ -7826,7 +7826,7 @@
         "address":  "56 Millaksubyeon-ro 17beon-gil, Suyeong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17578868822348237571",
         "note":  "",
         "createdAt":  1767967648000
@@ -7837,7 +7837,7 @@
         "address":  "南韓 Busan, Busanjin District, Seojeon-ro 68beon-gil, 109 브라켓테이블 1층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1659135581306132302",
         "note":  "",
         "createdAt":  1767967205000
@@ -7848,7 +7848,7 @@
         "address":  "23 Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6909054721802227143",
         "note":  "",
         "createdAt":  1767965948000
@@ -7859,7 +7859,7 @@
         "address":  "3 Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4346575724147925265",
         "note":  "",
         "createdAt":  1767965228000
@@ -7870,7 +7870,7 @@
         "address":  "16-1 Gukjesijang 2-gil, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18179862376068514055",
         "note":  "",
         "createdAt":  1767964510000
@@ -7881,7 +7881,7 @@
         "address":  "256-13 부전제2동 Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3185132273201661171",
         "note":  "",
         "createdAt":  1767964496000
@@ -7892,7 +7892,7 @@
         "address":  "南韓 Busan, Busanjin District, Jungang-daero, 672 삼정타워 1F",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16231718582432012412",
         "note":  "",
         "createdAt":  1767964404000
@@ -7903,7 +7903,7 @@
         "address":  "南韓 Busan, Busanjin District, Seojeon-ro 10beon-gil, 61 1 층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=567023509785803099",
         "note":  "",
         "createdAt":  1767964210000
@@ -7914,7 +7914,7 @@
         "address":  "45 Jungang-daero 81-gil, 성내2동 Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14828347281415028879",
         "note":  "",
         "createdAt":  1767963649000
@@ -7925,7 +7925,7 @@
         "address":  "136-31 Bongsan-dong, Jung-gu, Daegu, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3914646316050135159",
         "note":  "",
         "createdAt":  1767963111000
@@ -7936,7 +7936,7 @@
         "address":  "22 Jeoryeong-ro, Yeongdo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3165016184749932602",
         "note":  "",
         "createdAt":  1767962277000
@@ -7947,7 +7947,7 @@
         "address":  "627 Dongsam-dong, Yeongdo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14956248942557760388",
         "note":  "",
         "createdAt":  1767962007000
@@ -7958,7 +7958,7 @@
         "address":  "163 Haeundaehaebyeon-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4208506977306458033",
         "note":  "",
         "createdAt":  1767961743000
@@ -7969,7 +7969,7 @@
         "address":  "南韓 Busan, Yeongdo-gu, Taejong-ro 836beon-gil, 55 태종대 오션 플라잉 테마파크(하부-짚와이어",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=188464921139136903",
         "note":  "",
         "createdAt":  1767960599000
@@ -7980,7 +7980,7 @@
         "address":  "30 Dalmaji-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3434649452560647979",
         "note":  "",
         "createdAt":  1767952164000
@@ -7991,7 +7991,7 @@
         "address":  "17 Millak-ro, Suyeong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8315832291035279989",
         "note":  "",
         "createdAt":  1767945871000
@@ -8002,7 +8002,7 @@
         "address":  "87-53 Dongdaesin-dong 2(i)-ga, Seo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8543738177364288845",
         "note":  "",
         "createdAt":  1767942218000
@@ -8013,7 +8013,7 @@
         "address":  "125 Cheomseong-ro, Hwangnam-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=978738747300797399",
         "note":  "",
         "createdAt":  1767927241000
@@ -8024,7 +8024,7 @@
         "address":  "18-19 Dalmaji-gil 104beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7626888485287753113",
         "note":  "",
         "createdAt":  1767927060000
@@ -8035,7 +8035,7 @@
         "address":  "1394-24 Jung-dong, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3094434874091403216",
         "note":  "",
         "createdAt":  1767926980000
@@ -8057,7 +8057,7 @@
         "address":  "48 Gyo-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14772591377768146715",
         "note":  "",
         "createdAt":  1767925843000
@@ -8068,7 +8068,7 @@
         "address":  "839-1 Inwang-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2930106534155773058",
         "note":  "",
         "createdAt":  1767925826000
@@ -8079,7 +8079,7 @@
         "address":  "南韓 Gyeongsangbuk-do, Gyeongju-si, Hwangnam-dong, Poseok-ro, 일대",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9338205888403222332",
         "note":  "",
         "createdAt":  1767925627000
@@ -8090,7 +8090,7 @@
         "address":  "39-2 Gyochon-gil, Gyo-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14111852888231137499",
         "note":  "",
         "createdAt":  1767925568000
@@ -8101,7 +8101,7 @@
         "address":  "14 Gyerim-ro, Hwangnam-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "歐洲/其他海外",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3224996614738374963",
         "note":  "",
         "createdAt":  1767925449000
@@ -8112,7 +8112,7 @@
         "address":  "31-1 Hwangnam-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "歐洲/其他海外",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14699789675987716613",
         "note":  "",
         "createdAt":  1767925437000
@@ -8123,7 +8123,7 @@
         "address":  "235 Geumseong-ro, Sajeong-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "歐洲/其他海外",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=917385263798765347",
         "note":  "",
         "createdAt":  1767925409000
@@ -8134,7 +8134,7 @@
         "address":  "17 Sajeong-ro 57beon-gil, Hwangnam-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11182318862011465081",
         "note":  "",
         "createdAt":  1767925305000
@@ -8145,7 +8145,7 @@
         "address":  "71 Cheomseong-ro, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13303974670221323131",
         "note":  "",
         "createdAt":  1767925142000
@@ -8156,7 +8156,7 @@
         "address":  "305-9 Hwangnam-dong, Gyeongju-si, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11795007655569207432",
         "note":  "",
         "createdAt":  1767925118000
@@ -8167,7 +8167,7 @@
         "address":  "12-1 Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18127148190779801209",
         "note":  "",
         "createdAt":  1767924729000
@@ -8178,7 +8178,7 @@
         "address":  "60 Gwanganhaebyeon-ro 312beon-gil, Suyeong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8285458870216252825",
         "note":  "",
         "createdAt":  1767924330000
@@ -8189,7 +8189,7 @@
         "address":  "34 Gunam-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13938554872599866791",
         "note":  "",
         "createdAt":  1767885474000
@@ -8200,7 +8200,7 @@
         "address":  "27 Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6089581944132767995",
         "note":  "",
         "createdAt":  1767884340000
@@ -8222,7 +8222,7 @@
         "address":  "620-53 Amnam-dong, Seo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16438102432158299609",
         "note":  "",
         "createdAt":  1767881587000
@@ -8233,7 +8233,7 @@
         "address":  "12 Cheongsapo-ro 128beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1506184513829649317",
         "note":  "",
         "createdAt":  1767880775000
@@ -8244,7 +8244,7 @@
         "address":  "33-7 Jungang-daero 680beonga-gil, Busanjin District, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11264547367715689136",
         "note":  "",
         "createdAt":  1767880378000
@@ -8255,7 +8255,7 @@
         "address":  "58-1 Gudeok-ro, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11392161306117764293",
         "note":  "",
         "createdAt":  1767879025000
@@ -8266,7 +8266,7 @@
         "address":  "250 Beomeosa-ro, Geumjeong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18309267319440499010",
         "note":  "",
         "createdAt":  1767878993000
@@ -8277,7 +8277,7 @@
         "address":  "28 Gunam-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7854488705827307182",
         "note":  "",
         "createdAt":  1767877157000
@@ -8288,7 +8288,7 @@
         "address":  "南韓 Busan, Haeundae-gu, Dalmaji-gil 62beon-gil, 12-21층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14876637638979979813",
         "note":  "",
         "createdAt":  1767877048000
@@ -8299,7 +8299,7 @@
         "address":  "286 Haemaji-ro, Gijang-gun, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=9825571913241467386",
         "note":  "",
         "createdAt":  1767876859000
@@ -8310,7 +8310,7 @@
         "address":  "26 Gunam-ro 29beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6882042910587409409",
         "note":  "",
         "createdAt":  1767876755000
@@ -8332,18 +8332,18 @@
         "address":  "1043 Yeongseon-dong 4(sa)-ga, Yeongdo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3504597675723064970",
         "note":  "",
         "createdAt":  1767876352000
     },
     {
         "id":  "star_759",
-        "name":  "口袋名單地點 759",
+        "name":  "口袋地點 759",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Gwangalli+Beach,+Busan,+%E5%8D%97%E9%9F%93\u0026ftid=0x3568ed2f27c70ec7:0xff6df0e14d9216fb",
         "note":  "",
         "createdAt":  1767876310000
@@ -8354,7 +8354,7 @@
         "address":  "205 Gijanghaean-ro, Gijang-eup, Gijang-gun, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3889128317768284521",
         "note":  "",
         "createdAt":  1767876270000
@@ -8365,7 +8365,7 @@
         "address":  "29 Haeyang-ro 247beon-gil, Yeongdo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6009483150161506123",
         "note":  "",
         "createdAt":  1767876206000
@@ -8376,7 +8376,7 @@
         "address":  "180 Haeyang-ro 195beon-gil, Yeongdo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15661325924694665620",
         "note":  "",
         "createdAt":  1767876161000
@@ -8387,7 +8387,7 @@
         "address":  "16 Eumnae-ro 104beon-gil, Gijang-gun, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14242268523246629633",
         "note":  "",
         "createdAt":  1767876075000
@@ -8398,7 +8398,7 @@
         "address":  "86 Yonggung-gil, Gijang-gun, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11619639352351600220",
         "note":  "",
         "createdAt":  1767876050000
@@ -8409,7 +8409,7 @@
         "address":  "산3-9 Jung-dong, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16474630453593542182",
         "note":  "",
         "createdAt":  1767876000000
@@ -8420,7 +8420,7 @@
         "address":  "南韓 Busan, Yeongdo-gu, 해양힐링로 55",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16273008775726855553",
         "note":  "",
         "createdAt":  1767875921000
@@ -8431,7 +8431,7 @@
         "address":  "171 Songdohaebyeon-ro, Seo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10851715231874527315",
         "note":  "",
         "createdAt":  1767875851000
@@ -8442,7 +8442,7 @@
         "address":  "129-4 Amnam-dong, Seo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3307864877128054194",
         "note":  "",
         "createdAt":  1767875839000
@@ -8453,7 +8453,7 @@
         "address":  "35 Centum nam-daero, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=9755277617178528652",
         "note":  "",
         "createdAt":  1767875781000
@@ -8464,7 +8464,7 @@
         "address":  "35 Centum nam-daero, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=2241287086947397469",
         "note":  "",
         "createdAt":  1767875757000
@@ -8475,7 +8475,7 @@
         "address":  "108 Gonghangjinip-ro, Gangseo-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1559275999526138604",
         "note":  "",
         "createdAt":  1767875659000
@@ -8486,7 +8486,7 @@
         "address":  "170-1 Gamnae 2-ro, Saha-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12090374635800152188",
         "note":  "",
         "createdAt":  1767875626000
@@ -8497,7 +8497,7 @@
         "address":  "2-347 Gamcheon-dong, Saha-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3361703501325631842",
         "note":  "",
         "createdAt":  1767875595000
@@ -8508,7 +8508,7 @@
         "address":  "128 Gamnae 2-ro, Saha-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10693513811972810408",
         "note":  "",
         "createdAt":  1767875575000
@@ -8519,7 +8519,7 @@
         "address":  "48 Bupyeong 1-gil, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16142825574107245865",
         "note":  "",
         "createdAt":  1767875325000
@@ -8530,7 +8530,7 @@
         "address":  "38 Jungdong 1-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13230252806511494609",
         "note":  "",
         "createdAt":  1767875232000
@@ -8541,7 +8541,7 @@
         "address":  "49 Bupyeong 1-gil, Jung-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3331108897260842212",
         "note":  "",
         "createdAt":  1767875175000
@@ -8552,7 +8552,7 @@
         "address":  "3 B1 Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2836048555935532957",
         "note":  "",
         "createdAt":  1767875092000
@@ -8574,7 +8574,7 @@
         "address":  "南韓 Busan, Haeundae-gu, U-dong, 635-14 맛찬들 왕소금구이",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8127659556834015518",
         "note":  "",
         "createdAt":  1767875007000
@@ -8585,7 +8585,7 @@
         "address":  "南韓 Busan, Haeundae-gu, Udong 1-ro 20beon-gil, 21 1층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7763532555757233199",
         "note":  "",
         "createdAt":  1767874918000
@@ -8596,7 +8596,7 @@
         "address":  "10 Jwadong-ro 91beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=9993713764598011819",
         "note":  "",
         "createdAt":  1767874879000
@@ -8607,7 +8607,7 @@
         "address":  "494 Jwadongsunhwan-ro, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13459690069632836470",
         "note":  "",
         "createdAt":  1767874853000
@@ -8618,7 +8618,7 @@
         "address":  "30 Dalmaji-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11728812178197656284",
         "note":  "",
         "createdAt":  1767874706000
@@ -8629,7 +8629,7 @@
         "address":  "13 Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5191000921095413519",
         "note":  "",
         "createdAt":  1767874681000
@@ -8640,7 +8640,7 @@
         "address":  "971 Jung-dong, Haeundae-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6619304109291141571",
         "note":  "",
         "createdAt":  1767874668000
@@ -8673,7 +8673,7 @@
         "address":  "202台灣基隆市中正區德義里義二路83號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4077316482889979258",
         "note":  "",
         "createdAt":  1767788771000
@@ -8684,7 +8684,7 @@
         "address":  "203台灣基隆市中山區西定里西定路321號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "景點",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=11412827641568515533",
         "note":  "",
         "createdAt":  1767761008000
@@ -8695,7 +8695,7 @@
         "address":  "b1, No. 327號, Songlong Rd, 信義區臺北市台灣 110",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2196573453450265901",
         "note":  "",
         "createdAt":  1767759728000
@@ -8706,7 +8706,7 @@
         "address":  "9 P. Hàng Phèn, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6260768094081244801",
         "note":  "",
         "createdAt":  1767715161000
@@ -8717,7 +8717,7 @@
         "address":  "61 P. Bát Sứ, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 10000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7887621871287122072",
         "note":  "",
         "createdAt":  1767715119000
@@ -8728,7 +8728,7 @@
         "address":  "P. Mai Hắc Đế/76A P. Bùi Thị Xuân, Hai Bà Trưng, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9684280300411317034",
         "note":  "",
         "createdAt":  1767712810000
@@ -8739,7 +8739,7 @@
         "address":  "Hàng Điếu/76 P. Cửa Đông, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7929958813361618005",
         "note":  "",
         "createdAt":  1767703241000
@@ -8750,7 +8750,7 @@
         "address":  "30 P. Hàng Giầy, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9286723739036339303",
         "note":  "",
         "createdAt":  1767702801000
@@ -8761,7 +8761,7 @@
         "address":  "19 Đào Duy Từ, Hội An, Đà Nẵng 51000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=956427933737206408",
         "note":  "",
         "createdAt":  1767701277000
@@ -8794,7 +8794,7 @@
         "address":  "19 P. Chân Cầm, Hoàn Kiếm, Hà Nội 10000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4970021112436814163",
         "note":  "",
         "createdAt":  1767602433000
@@ -8805,7 +8805,7 @@
         "address":  "202台灣基隆市中正區德義里義二路83號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3697986763118445269",
         "note":  "",
         "createdAt":  1767593713000
@@ -8827,7 +8827,7 @@
         "address":  "307台灣新竹縣芎林鄉1鄰號倒別牛23號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=181007450181196155",
         "note":  "",
         "createdAt":  1767545459000
@@ -8849,7 +8849,7 @@
         "address":  "223台灣新北市石碇區潭邊里碇坪路一段180號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16090464598023898130",
         "note":  "",
         "createdAt":  1767519944000
@@ -8889,11 +8889,11 @@
     },
     {
         "id":  "star_809",
-        "name":  "口袋名單地點 809",
+        "name":  "口袋地點 809",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.878662,121.662808",
         "note":  "",
         "createdAt":  1767512697000
@@ -8904,7 +8904,7 @@
         "address":  "403台灣臺中市西區五權西六街96巷13號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18103828921595330577",
         "note":  "",
         "createdAt":  1767504692000
@@ -8915,7 +8915,7 @@
         "address":  "360台灣苗栗縣苗栗市上苗里中正路133號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14731755301091913180",
         "note":  "",
         "createdAt":  1767369563000
@@ -8926,7 +8926,7 @@
         "address":  "1 P. Bát Đàn, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3658830719977621305",
         "note":  "",
         "createdAt":  1767359420000
@@ -8948,7 +8948,7 @@
         "address":  "26號, 鄉友街鄉長里汐止區新北市台灣 221",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7082873980409081011",
         "note":  "",
         "createdAt":  1767331557000
@@ -8959,7 +8959,7 @@
         "address":  "201台灣基隆市信義區東安里培德路2巷93號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6596243705937089987",
         "note":  "",
         "createdAt":  1767314903000
@@ -8981,7 +8981,7 @@
         "address":  "94 P. Hàng Mã, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10851884184912692703",
         "note":  "",
         "createdAt":  1767279785000
@@ -8992,7 +8992,7 @@
         "address":  "79 Hàng Điếu, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3983959644900537435",
         "note":  "",
         "createdAt":  1767279610000
@@ -9014,7 +9014,7 @@
         "address":  "9C P. Đinh Liệt, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 100000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6730598994825194736",
         "note":  "",
         "createdAt":  1767199695000
@@ -9025,7 +9025,7 @@
         "address":  "45 P. Lý Quốc Sư, Hoàn Kiếm, Hà Nội 100000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6394701983855066656",
         "note":  "",
         "createdAt":  1767199683000
@@ -9036,7 +9036,7 @@
         "address":  "XX3G+657, Nghĩa Trụ, Hưng Yên, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2437709927375279173",
         "note":  "",
         "createdAt":  1767169173000
@@ -9047,7 +9047,7 @@
         "address":  "27-29 Hà Trung, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12388630113991019378",
         "note":  "",
         "createdAt":  1767155026000
@@ -9058,7 +9058,7 @@
         "address":  "49 P. Bát Đàn, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=423869191187880331",
         "note":  "",
         "createdAt":  1767154990000
@@ -9069,7 +9069,7 @@
         "address":  "1 Hàng Điếu, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17245409769494870054",
         "note":  "",
         "createdAt":  1767154898000
@@ -9080,7 +9080,7 @@
         "address":  "thị, Bãi Đá Cổ, Tả Van, Lào Cai 31722越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16864615713626081703",
         "note":  "",
         "createdAt":  1767154606000
@@ -9091,7 +9091,7 @@
         "address":  "32 Ng. Hội Vũ, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9307435087026319210",
         "note":  "",
         "createdAt":  1767154431000
@@ -9113,7 +9113,7 @@
         "address":  "10 P. Nam Ngư, Cửa Nam, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15667276357159721298",
         "note":  "",
         "createdAt":  1767153289000
@@ -9124,7 +9124,7 @@
         "address":  "24 P. Lê Văn Hưu, Cửa Nam, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9108413969528951015",
         "note":  "",
         "createdAt":  1767151523000
@@ -9135,7 +9135,7 @@
         "address":  "5b P. Phủ Doãn, Hoàn Kiếm, Hà Nội 100000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5936599318829522866",
         "note":  "",
         "createdAt":  1767151448000
@@ -9146,7 +9146,7 @@
         "address":  "1 P. Phan Bội Châu, Cửa Nam, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10422465432496976454",
         "note":  "",
         "createdAt":  1767151316000
@@ -9157,7 +9157,7 @@
         "address":  "54 P. Lý Quốc Sư, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7972373333861783061",
         "note":  "",
         "createdAt":  1767150926000
@@ -9168,7 +9168,7 @@
         "address":  "2A P. Hàng Bồ, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7085872956432954060",
         "note":  "",
         "createdAt":  1767144297000
@@ -9179,7 +9179,7 @@
         "address":  "8B Tạ Hiện, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14960983667875486012",
         "note":  "",
         "createdAt":  1767144268000
@@ -9190,7 +9190,7 @@
         "address":  "25 P. Hàng Cá, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 100000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17004396853142544051",
         "note":  "",
         "createdAt":  1767144240000
@@ -9201,18 +9201,18 @@
         "address":  "Thôn Giàng Tả Chải, Ta Van, Lao Cai, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10996208753559309918",
         "note":  "",
         "createdAt":  1767117256000
     },
     {
         "id":  "star_838",
-        "name":  "口袋名單地點 838",
+        "name":  "口袋地點 838",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Cat+Cat+Village,+San+S%E1%BA%A3+H%E1%BB%93,+%E6%B2%99%E5%A3%A9%E7%B8%A3%E8%80%81%E8%A1%97%E8%B6%8A%E5%8D%97\u0026ftid=0x36cd4142ca3d7545:0xef763b1d2cb7b28e",
         "note":  "",
         "createdAt":  1767109364000
@@ -9223,7 +9223,7 @@
         "address":  "5 Kamphaeng Din 3 Alley, Haiya Sub-district, Mueang Chiang Mai District, Chiang Mai 50100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7417503703553927432",
         "note":  "",
         "createdAt":  1767108493000
@@ -9234,7 +9234,7 @@
         "address":  "11 Nimmana Haeminda Rd Lane 13 Nimmanhaemin Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17702298077137349945",
         "note":  "",
         "createdAt":  1767108432000
@@ -9245,7 +9245,7 @@
         "address":  "1 P. Nhà Thờ, Phường, Hoàn Kiếm, Hà Nội 100000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10427370394078927246",
         "note":  "",
         "createdAt":  1767107373000
@@ -9289,7 +9289,7 @@
         "address":  "14/2 ชั้น 5 Nimmana Haeminda Rd Lane 5 Nimmanhaemin Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11435696960525320939",
         "note":  "",
         "createdAt":  1767091631000
@@ -9311,7 +9311,7 @@
         "address":  "36 Loi Kroh Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3557274674706129051",
         "note":  "",
         "createdAt":  1767091276000
@@ -9333,7 +9333,7 @@
         "address":  "Pansook Quality Condo, Ratchaphuek Alley, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=8813393748405093590",
         "note":  "",
         "createdAt":  1767090393000
@@ -9344,7 +9344,7 @@
         "address":  "175 8-10 Rachadamnoen Rd Old City Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4922575791746551176",
         "note":  "",
         "createdAt":  1767090347000
@@ -9377,7 +9377,7 @@
         "address":  "165 เมือง Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3061786834404394764",
         "note":  "",
         "createdAt":  1767088591000
@@ -9388,7 +9388,7 @@
         "address":  "128 130 Thapae Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15527227859864667254",
         "note":  "",
         "createdAt":  1767088470000
@@ -9399,7 +9399,7 @@
         "address":  "191-197 ซอย วัดอุโมงค์ Suthep, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6561582910531882655",
         "note":  "",
         "createdAt":  1767088288000
@@ -9410,7 +9410,7 @@
         "address":  "139 Kampangdin Rd, Haiya Sub-district, Mueang Chiang Mai District, Chiang Mai 50000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3464493532252213709",
         "note":  "",
         "createdAt":  1767088160000
@@ -9421,7 +9421,7 @@
         "address":  "2 Rattanakosin Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16163705700356556329",
         "note":  "",
         "createdAt":  1767088021000
@@ -9432,7 +9432,7 @@
         "address":  "228 Palgaksan-ro, Juwangsan-myeon, Cheongsong-gun, Gyeongsangbuk-do, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16309424409415596945",
         "note":  "",
         "createdAt":  1767070780000
@@ -9443,7 +9443,7 @@
         "address":  "41 Siri Mangkalajarn Rd, Tambon Su Thep, เมือง Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=14257202560760264244",
         "note":  "",
         "createdAt":  1767066348000
@@ -9454,7 +9454,7 @@
         "address":  "43 19-20 Sodsueksa Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13903277443736509261",
         "note":  "",
         "createdAt":  1767066096000
@@ -9465,7 +9465,7 @@
         "address":  "38 P. Đinh Liệt, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 100000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11494698124193515454",
         "note":  "",
         "createdAt":  1767025589000
@@ -9487,7 +9487,7 @@
         "address":  "29 P. Cầu Gỗ, Hoàn Kiếm, Hà Nội 100000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11820334552672528502",
         "note":  "",
         "createdAt":  1767025175000
@@ -9505,11 +9505,11 @@
     },
     {
         "id":  "star_865",
-        "name":  "口袋名單地點 865",
+        "name":  "口袋地點 865",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=21.019570,105.856485",
         "note":  "",
         "createdAt":  1767024106000
@@ -9520,7 +9520,7 @@
         "address":  "21 P. Nguyễn Hữu Huân, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2042414514811757339",
         "note":  "",
         "createdAt":  1767022641000
@@ -9531,7 +9531,7 @@
         "address":  "201 D. Đình Nghệ, An Hải, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=3697329826264097745",
         "note":  "",
         "createdAt":  1767015717000
@@ -9542,7 +9542,7 @@
         "address":  "200 Nguyễn Tri Phương, Rẽ trái, Hội An, Đà Nẵng 560000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13188427962945185160",
         "note":  "",
         "createdAt":  1767012592000
@@ -9553,7 +9553,7 @@
         "address":  "29 Nguyễn Thái Học, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13582393752139220405",
         "note":  "",
         "createdAt":  1767011271000
@@ -9564,7 +9564,7 @@
         "address":  "15L Nguyễn Thị Minh Khai, Sài Gòn, Hồ Chí Minh, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16842746882580944436",
         "note":  "",
         "createdAt":  1767008838000
@@ -9586,7 +9586,7 @@
         "address":  "99/3 Ratchapakhinai Rd Old City Si Phum, เมือง Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=16219763002277833275",
         "note":  "",
         "createdAt":  1766986699000
@@ -9597,7 +9597,7 @@
         "address":  "135 Rattanakosin Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10662105016301669018",
         "note":  "",
         "createdAt":  1766986383000
@@ -9608,7 +9608,7 @@
         "address":  "46 Atsadathon Rd, Pa Tan Sub-district, Mueang Chiang Mai District, Chiang Mai 50300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11511114691515616006",
         "note":  "",
         "createdAt":  1766985193000
@@ -9619,7 +9619,7 @@
         "address":  "9 ซอย 9 ถนนนิมมานต์เหมินทร์ เมือง Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7647671152914298080",
         "note":  "",
         "createdAt":  1766985164000
@@ -9630,7 +9630,7 @@
         "address":  "2 Nimmana Haeminda Rd Lane 13 Nimmanhaemin Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15207313471536731425",
         "note":  "",
         "createdAt":  1766985152000
@@ -9641,7 +9641,7 @@
         "address":  "2736+PR8, Ngũ Hành Sơn, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=796251691520211428",
         "note":  "",
         "createdAt":  1766983286000
@@ -9652,7 +9652,7 @@
         "address":  "35 Phan Châu Trinh, Old Town, Hội An, Đà Nẵng, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14082392426454009659",
         "note":  "",
         "createdAt":  1766982528000
@@ -9663,7 +9663,7 @@
         "address":  "120A Nguyễn Văn Thoại, Ngũ Hành Sơn, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14010126071782464479",
         "note":  "",
         "createdAt":  1766982389000
@@ -9685,7 +9685,7 @@
         "address":  "70 Trần Quang Khải, Hội An Đông, Đà Nẵng 51000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=17338185895041128220",
         "note":  "",
         "createdAt":  1766981971000
@@ -9696,7 +9696,7 @@
         "address":  "26 Tô Hiến Thành, An Hải, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2059427300039139311",
         "note":  "",
         "createdAt":  1766981295000
@@ -9707,7 +9707,7 @@
         "address":  "15 Lâm Hoành, An Hải, Đà Nẵng 50000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=11006641893025749534",
         "note":  "",
         "createdAt":  1766980826000
@@ -9718,18 +9718,18 @@
         "address":  "94 Võ Nguyên Giáp, Sơn Trà, Đà Nẵng 55000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=9261490050408366544",
         "note":  "",
         "createdAt":  1766980772000
     },
     {
         "id":  "star_885",
-        "name":  "口袋名單地點 885",
+        "name":  "口袋地點 885",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Son+Tra,+Th%E1%BB%8D+Quang,+%E5%B1%B1%E8%8C%B6%E9%83%A1%E5%B3%B4%E6%B8%AF%E8%B6%8A%E5%8D%97\u0026ftid=0x31423d9de8038243:0x639567b7f472d85c",
         "note":  "",
         "createdAt":  1766978560000
@@ -9762,7 +9762,7 @@
         "address":  "130 P. Hàng Bạc, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8745706810439273565",
         "note":  "",
         "createdAt":  1766973546000
@@ -9773,7 +9773,7 @@
         "address":  "10 P. Lý Quốc Sư, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17916388403015504363",
         "note":  "",
         "createdAt":  1766972695000
@@ -9784,7 +9784,7 @@
         "address":  "27 Đ. Cổ Linh, Long Biên, Hà Nội 100000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12907994454948412854",
         "note":  "",
         "createdAt":  1766970187000
@@ -9806,7 +9806,7 @@
         "address":  "39 P. Nguyễn Hữu Huân, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18204465083517399907",
         "note":  "",
         "createdAt":  1766969961000
@@ -9817,7 +9817,7 @@
         "address":  "17 P. Hàng Buồm, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6872094593308897910",
         "note":  "",
         "createdAt":  1766969906000
@@ -9828,7 +9828,7 @@
         "address":  "Lao Chải, Sa Pa, Lào Cai, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9628630599244260552",
         "note":  "",
         "createdAt":  1766969708000
@@ -9846,11 +9846,11 @@
     },
     {
         "id":  "star_896",
-        "name":  "口袋名單地點 896",
+        "name":  "口袋地點 896",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E8%B6%8A%E5%8D%97%E8%90%8A%E5%B7%9E%E4%B8%89%E5%A0%82%E7%B8%A3%E7%95%AA%E8%A5%BF%E9%82%A6%E5%B3%B0\u0026ftid=0x36cd448786c84543:0x98e9595d4892bc5a",
         "note":  "",
         "createdAt":  1766969501000
@@ -9861,7 +9861,7 @@
         "address":  "77 P. Lò Sũ, Phường, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17327332576664021598",
         "note":  "",
         "createdAt":  1766969334000
@@ -9872,7 +9872,7 @@
         "address":  "41 An Thượng 30, Ngũ Hành Sơn, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=15296242698740813036",
         "note":  "",
         "createdAt":  1766936219000
@@ -9894,7 +9894,7 @@
         "address":  "92 Trần Phú, Old Town, Hội An, Đà Nẵng 564007越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "咖啡廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=12074658425311378374",
         "note":  "",
         "createdAt":  1766936084000
@@ -9905,7 +9905,7 @@
         "address":  "600台灣嘉義市東區過溝里興中街6之5號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=5603580055340744320",
         "note":  "",
         "createdAt":  1766933182000
@@ -9927,7 +9927,7 @@
         "address":  "1 Chome-7-16 Hakata Ekimae, Hakata Ward, Fukuoka, 812-0011日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17556969307799144608",
         "note":  "",
         "createdAt":  1766932705000
@@ -9971,7 +9971,7 @@
         "address":  "Tha Phae Road, Chang Khlan Sub-district, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11329807256011745014",
         "note":  "",
         "createdAt":  1766929607000
@@ -10015,7 +10015,7 @@
         "address":  "102 Nguyễn Thị Minh Khai, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12827485488514749685",
         "note":  "",
         "createdAt":  1766927174000
@@ -10059,7 +10059,7 @@
         "address":  "366J+8M, An Hải, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17975406506852954505",
         "note":  "",
         "createdAt":  1766926339000
@@ -10081,7 +10081,7 @@
         "address":  "318 Ông Ích Khiêm, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10781674139268864710",
         "note":  "",
         "createdAt":  1766925120000
@@ -10092,7 +10092,7 @@
         "address":  "130 Nguyễn Chí Thanh, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11391046248309752281",
         "note":  "",
         "createdAt":  1766925072000
@@ -10114,7 +10114,7 @@
         "address":  "W87R+C7R, Đ. Hai Bà Trưng, Hội An Tây, Đà Nẵng, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17081483334039810543",
         "note":  "",
         "createdAt":  1766922807000
@@ -10136,7 +10136,7 @@
         "address":  "280/23 Hoàng Diệu, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16504230407304081311",
         "note":  "",
         "createdAt":  1766920285000
@@ -10147,7 +10147,7 @@
         "address":  "106 Nguyễn Thái Học, Phường, Hội An, Đà Nẵng, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14036831278781836377",
         "note":  "",
         "createdAt":  1766919640000
@@ -10158,7 +10158,7 @@
         "address":  "150 Trần Phú, Old Town, Hội An, Đà Nẵng, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1233279068816506047",
         "note":  "",
         "createdAt":  1766919379000
@@ -10169,7 +10169,7 @@
         "address":  "2b Phan Châu Trinh, Hội An, Đà Nẵng 560000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15137967760032164311",
         "note":  "",
         "createdAt":  1766919275000
@@ -10191,7 +10191,7 @@
         "address":  "100台灣臺北市中正區東門里濟南路一段2-2號號3~5樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5458630268775368970",
         "note":  "",
         "createdAt":  1766902109000
@@ -10209,22 +10209,22 @@
     },
     {
         "id":  "star_929",
-        "name":  "口袋名單地點 929",
+        "name":  "口袋地點 929",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92606-0000+%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8D%80+Ichijoji+Idegadanichosenguchi,+%E6%AF%94%E5%8F%A1%E5%B1%B1\u0026ftid=0x60010a26bf288311:0xe255a69c5e4cefef",
         "note":  "",
         "createdAt":  1766899075000
     },
     {
         "id":  "star_930",
-        "name":  "口袋名單地點 930",
+        "name":  "口袋地點 930",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Mt.+Taisen,+Kujumachi+Oaza+Ariuji,+%E7%AB%B9%E7%94%B0%E5%B8%82%E5%A4%A7%E5%88%86%E7%B8%A3+878-0202%E6%97%A5%E6%9C%AC\u0026ftid=0x35413534cdce32d3:0xf033d15edcf4185e",
         "note":  "",
         "createdAt":  1766898990000
@@ -10290,7 +10290,7 @@
         "address":  "Mukoyama, Takachiho, Nishiusuki District, Miyazaki 882-1103日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6375229180841893771",
         "note":  "",
         "createdAt":  1766845629000
@@ -10312,7 +10312,7 @@
         "address":  "3 Chome-1-6 Hakataekihigashi, Hakata Ward, Fukuoka, 812-0013日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=14997510692567609889",
         "note":  "",
         "createdAt":  1766845393000
@@ -10356,7 +10356,7 @@
         "address":  "12 Funaoka, Shibata, Shibata District, Miyagi 989-1603日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10152241007720720773",
         "note":  "",
         "createdAt":  1766813351000
@@ -10367,7 +10367,7 @@
         "address":  "日本〒812-0011 Fukuoka, Hakata Ward, Hakata Ekimae, 4 Chome−14−1 博多深見パークビルディング",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3049944856696640556",
         "note":  "",
         "createdAt":  1766792487000
@@ -10389,7 +10389,7 @@
         "address":  "日本〒812-0012 Fukuoka, Hakata Ward, Hakataekichuogai, 1−1 ＪＲ博多駅構内 １階",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8377880423158289525",
         "note":  "",
         "createdAt":  1766755888000
@@ -10411,7 +10411,7 @@
         "address":  "West 12th Block, 2-地下-10-1 Tenjin, Chuo Ward, Fukuoka, 810-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9919604917635229346",
         "note":  "",
         "createdAt":  1766754112000
@@ -10422,7 +10422,7 @@
         "address":  "日本〒818-0117 Fukuoka, Dazaifu, Saifu, 2 Chome−7−5 ７−５ Nishikimachi01",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12767009184599337734",
         "note":  "",
         "createdAt":  1766754028000
@@ -10433,7 +10433,7 @@
         "address":  "No. 1-1號, Lishui St, 永康里大安區臺北市台灣 10650",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17535759633470509341",
         "note":  "",
         "createdAt":  1766670830000
@@ -10455,7 +10455,7 @@
         "address":  "40443台灣臺中市北區六合里成功路415號1-3樓",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13579168749991333070",
         "note":  "",
         "createdAt":  1766660730000
@@ -10466,7 +10466,7 @@
         "address":  "303台灣新竹縣湖口鄉愛勢村民族街125號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15601408523880157682",
         "note":  "",
         "createdAt":  1766580020000
@@ -10554,7 +10554,7 @@
         "address":  "314台灣新竹縣北埔鄉南埔村30號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13069767649809420079",
         "note":  "",
         "createdAt":  1766262986000
@@ -10576,7 +10576,7 @@
         "address":  "408台灣臺中市南屯區溝墘里大英街607號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5229322050769261087",
         "note":  "",
         "createdAt":  1766127845000
@@ -10587,7 +10587,7 @@
         "address":  "400台灣臺中市中區公園里市府路73-1號1樓",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3834835003785316407",
         "note":  "",
         "createdAt":  1766111143000
@@ -10598,7 +10598,7 @@
         "address":  "106台灣臺北市大安區光武里大安路一段51巷16號一樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15903698383481067355",
         "note":  "",
         "createdAt":  1766065451000
@@ -10609,7 +10609,7 @@
         "address":  "269台灣宜蘭縣冬山鄉南興村冬山路一段1024號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7433405931876485243",
         "note":  "",
         "createdAt":  1766024375000
@@ -10620,7 +10620,7 @@
         "address":  "220台灣新北市板橋區公舘里漢生西路128號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=18334188692262002550",
         "note":  "",
         "createdAt":  1765975685000
@@ -10631,7 +10631,7 @@
         "address":  "545台灣南投縣埔里鎮 Donghua Rd, 第三市場",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=13361036430626416313",
         "note":  "",
         "createdAt":  1765975182000
@@ -10653,7 +10653,7 @@
         "address":  "241台灣新北市三重區正德里大同北路57號1樓",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5175343942348414360",
         "note":  "",
         "createdAt":  1765899114000
@@ -10697,7 +10697,7 @@
         "address":  "115台灣臺北市南港區新富里研究院路一段88號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=3471802123936195966",
         "note":  "",
         "createdAt":  1765877008000
@@ -10708,7 +10708,7 @@
         "address":  "115台灣臺北市南港區南港里南港路一段152-4號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7121352795171784776",
         "note":  "",
         "createdAt":  1765876901000
@@ -10719,7 +10719,7 @@
         "address":  "115台灣臺北市南港區西新里南港路三段16巷3弄8號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6336391860450772894",
         "note":  "",
         "createdAt":  1765876584000
@@ -10741,7 +10741,7 @@
         "address":  "220台灣新北市板橋區華江里民生路二段226巷44號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1012652202533502542",
         "note":  "",
         "createdAt":  1765811374000
@@ -10785,7 +10785,7 @@
         "address":  "200台灣基隆市仁愛區博愛里愛三路49巷",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4037102372718534911",
         "note":  "",
         "createdAt":  1765802173000
@@ -10796,7 +10796,7 @@
         "address":  "No. 1號, Changji St, 斯文里大同區臺北市台灣 103",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=942287538685213699",
         "note":  "",
         "createdAt":  1765789139000
@@ -10818,7 +10818,7 @@
         "address":  "103台灣大同區永樂里民生西路330號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8547138159206023383",
         "note":  "",
         "createdAt":  1765787477000
@@ -10829,7 +10829,7 @@
         "address":  "103台灣臺北市大同區大有里迪化街一段145號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14061946903913538730",
         "note":  "",
         "createdAt":  1765787443000
@@ -10851,7 +10851,7 @@
         "address":  "103台灣臺北市大同區大有里民生西路389號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8668087787141273199",
         "note":  "",
         "createdAt":  1765787261000
@@ -10862,7 +10862,7 @@
         "address":  "103台灣臺北市大同區星明里民生西路198-83號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6993352472766537885",
         "note":  "",
         "createdAt":  1765783358000
@@ -10884,7 +10884,7 @@
         "address":  "220台灣新北市板橋區溪頭里長江路二段35號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=804638007947280331",
         "note":  "",
         "createdAt":  1765768720000
@@ -10939,7 +10939,7 @@
         "address":  "206台灣基隆市七堵區堵北里福一街150號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5598952492128822246",
         "note":  "",
         "createdAt":  1765554007000
@@ -10950,7 +10950,7 @@
         "address":  "201台灣基隆市信義區信一路141巷15號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4112303038619520848",
         "note":  "",
         "createdAt":  1765549437000
@@ -10961,7 +10961,7 @@
         "address":  "237台灣新北市三峽區永舘里和平街54號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4017438708160169392",
         "note":  "",
         "createdAt":  1765524725000
@@ -11027,7 +11027,7 @@
         "address":  "261台灣宜蘭縣頭城鎮大坑里協天路636巷30號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10715484000493160020",
         "note":  "",
         "createdAt":  1765350545000
@@ -11038,7 +11038,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉光武村武暖路52-1號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17713935623201165434",
         "note":  "",
         "createdAt":  1765350509000
@@ -11049,7 +11049,7 @@
         "address":  "335台灣桃園市大溪區一德里康莊路三段456號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2995078957477005276",
         "note":  "",
         "createdAt":  1765345899000
@@ -11060,7 +11060,7 @@
         "address":  "500台灣彰化縣彰化市大竹里彰南路二段169號169-171號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17396002894948139082",
         "note":  "",
         "createdAt":  1765337277000
@@ -11082,7 +11082,7 @@
         "address":  "500台灣彰化縣彰化市信義里中正路一段486號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18254019347244730084",
         "note":  "",
         "createdAt":  1765337162000
@@ -11093,7 +11093,7 @@
         "address":  "265台灣宜蘭縣羅東鎮中山里中山路三段213號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14797033587814934636",
         "note":  "",
         "createdAt":  1765104474000
@@ -11104,7 +11104,7 @@
         "address":  "265台灣宜蘭縣羅東鎮中山里民權路31號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=11475197377936069681",
         "note":  "",
         "createdAt":  1765103800000
@@ -11148,7 +11148,7 @@
         "address":  "No. 213號, Minquan Rd, 漢民里羅東鎮宜蘭縣台灣 265",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9365171207293448483",
         "note":  "",
         "createdAt":  1765015216000
@@ -11159,7 +11159,7 @@
         "address":  "260台灣宜蘭縣宜蘭市復興里健康路二段149號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10551404785448789610",
         "note":  "",
         "createdAt":  1764994018000
@@ -11192,7 +11192,7 @@
         "address":  "505台灣彰化縣鹿港鎮玉順里中山路426-1號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "景點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15898110251696979921",
         "note":  "",
         "createdAt":  1764989182000
@@ -11203,7 +11203,7 @@
         "address":  "234台灣新北市永和區永和路一段176-1號1樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14600830879738649592",
         "note":  "",
         "createdAt":  1764989022000
@@ -11236,7 +11236,7 @@
         "address":  "260台灣宜蘭縣宜蘭市民族里泰山路25-2號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=695382816618136669",
         "note":  "",
         "createdAt":  1764977403000
@@ -11269,7 +11269,7 @@
         "address":  "265台灣宜蘭縣羅東鎮南昌里中正南路33號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=175655113538152196",
         "note":  "",
         "createdAt":  1764949915000
@@ -11324,7 +11324,7 @@
         "address":  "260台灣宜蘭縣宜蘭市泰山里泰山路239之1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16490996067351406480",
         "note":  "",
         "createdAt":  1764948533000
@@ -11335,7 +11335,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉德陽村仁愛路15巷16號隔壁",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1594860898821476647",
         "note":  "",
         "createdAt":  1764948374000
@@ -11346,7 +11346,7 @@
         "address":  "260台灣宜蘭縣宜蘭市泰山里泰山路196號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6695758727518963711",
         "note":  "",
         "createdAt":  1764948194000
@@ -11423,7 +11423,7 @@
         "address":  "106台灣臺北市大安區建安里忠孝東路四段205巷7弄11號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17441457611420373824",
         "note":  "",
         "createdAt":  1764944857000
@@ -11456,7 +11456,7 @@
         "address":  "262002台灣宜蘭縣礁溪鄉湯圍街一號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6694734063514757709",
         "note":  "",
         "createdAt":  1764858120000
@@ -11489,7 +11489,7 @@
         "address":  "260台灣宜蘭縣宜蘭市梅洲里梅洲二路122號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8659642337099478631",
         "note":  "",
         "createdAt":  1764777739000
@@ -11500,7 +11500,7 @@
         "address":  "267台灣宜蘭縣大同鄉松羅村泰雅路二段40-1號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13611729060691512056",
         "note":  "",
         "createdAt":  1764777514000
@@ -11511,7 +11511,7 @@
         "address":  "265台灣宜蘭縣羅東鎮仁和里南門路32號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=6364101966567402474",
         "note":  "",
         "createdAt":  1764777489000
@@ -11522,7 +11522,7 @@
         "address":  "264台灣宜蘭縣員山鄉員山村員山路一段",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15840950647552820823",
         "note":  "",
         "createdAt":  1764777447000
@@ -11566,7 +11566,7 @@
         "address":  "270台灣宜蘭縣蘇澳鎮南寧里江夏路12號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2183308946225172540",
         "note":  "",
         "createdAt":  1764775944000
@@ -11599,7 +11599,7 @@
         "address":  "115台灣臺北市南港區環河里經貿二路131號B1",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4360279839693067638",
         "note":  "",
         "createdAt":  1764774818000
@@ -11610,7 +11610,7 @@
         "address":  "261台灣宜蘭縣頭城鎮城南里沙成路83號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8970495513009976618",
         "note":  "",
         "createdAt":  1764773424000
@@ -11621,7 +11621,7 @@
         "address":  "26060台灣宜蘭縣宜蘭市黎明里女中路一段52號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7945704073800470616",
         "note":  "",
         "createdAt":  1764772969000
@@ -11632,7 +11632,7 @@
         "address":  "266台灣宜蘭縣三星鄉行健村行健溪一路一段105號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14619733648175739564",
         "note":  "",
         "createdAt":  1764772469000
@@ -11665,7 +11665,7 @@
         "address":  "22050台灣新北市板橋區民權里民權路202巷12弄12號1樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17495457644643975908",
         "note":  "",
         "createdAt":  1764758439000
@@ -11709,7 +11709,7 @@
         "address":  "330台灣桃園市桃園區青溪里鎮三街52號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4427719991851049603",
         "note":  "",
         "createdAt":  1764396365000
@@ -11753,7 +11753,7 @@
         "address":  "No. 234號, Zhongshan 1st Rd, 樹德里蘆洲區新北市台灣 247",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13826918827525028083",
         "note":  "",
         "createdAt":  1764147499000
@@ -11764,7 +11764,7 @@
         "address":  "106台灣臺北市大安區羅斯福路二段15巷",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8114034237330138059",
         "note":  "",
         "createdAt":  1763984319000
@@ -11797,7 +11797,7 @@
         "address":  "261台灣宜蘭縣頭城鎮大溪里濱海路五段212號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8737362432948591532",
         "note":  "",
         "createdAt":  1763784123000
@@ -11808,7 +11808,7 @@
         "address":  "114台灣臺北市內湖區港墘里港墘路167號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8739304775302658968",
         "note":  "",
         "createdAt":  1763729590000
@@ -11819,7 +11819,7 @@
         "address":  "100台灣臺北市中正區龍興里汀州路一段149巷20號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14277776235914288377",
         "note":  "",
         "createdAt":  1763709075000
@@ -11830,7 +11830,7 @@
         "address":  "961台灣臺東縣成功鎮三民里大同路67號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4457449197251288076",
         "note":  "",
         "createdAt":  1763689833000
@@ -11841,7 +11841,7 @@
         "address":  "114台灣臺北市內湖區港墘里江南街89巷2號1F",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2069781384221093968",
         "note":  "",
         "createdAt":  1763689771000
@@ -11852,7 +11852,7 @@
         "address":  "330台灣桃園市桃園區莊敬里新埔七街173巷8號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4269870943689610546",
         "note":  "",
         "createdAt":  1763653539000
@@ -11929,7 +11929,7 @@
         "address":  "252台灣新北市三芝區木屐寮38-1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14072348899215701602",
         "note":  "",
         "createdAt":  1763622303000
@@ -11940,7 +11940,7 @@
         "address":  "103台灣臺北市大同區建功里長安西路145巷54號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17489897290462336863",
         "note":  "",
         "createdAt":  1763622263000
@@ -11951,7 +11951,7 @@
         "address":  "1樓, No. 26號承德路一段77巷建泰里大同區臺北市台灣 103",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2677856104728163850",
         "note":  "",
         "createdAt":  1763619824000
@@ -11962,7 +11962,7 @@
         "address":  "10681台灣臺北市大安區義安里信義路四段164號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8611028251720676574",
         "note":  "",
         "createdAt":  1763619693000
@@ -11973,7 +11973,7 @@
         "address":  "108台灣臺北市萬華區忠貞里青年路68巷26號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14486384033321733014",
         "note":  "",
         "createdAt":  1763619591000
@@ -11984,7 +11984,7 @@
         "address":  "330台灣桃園市桃園區自強里天祥七街6號1樓",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=734379323340446380",
         "note":  "",
         "createdAt":  1763557141000
@@ -12017,7 +12017,7 @@
         "address":  "633台灣雲林縣土庫鎮光明路166號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11207446894964463568",
         "note":  "",
         "createdAt":  1763521382000
@@ -12039,7 +12039,7 @@
         "address":  "700台灣臺南市中西區府前里中正路271巷11號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14338506609627753432",
         "note":  "",
         "createdAt":  1763518453000
@@ -12050,7 +12050,7 @@
         "address":  "700台灣臺南市中西區五條港里民權路三段50號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12304429822002035098",
         "note":  "",
         "createdAt":  1763518415000
@@ -12094,7 +12094,7 @@
         "address":  "426台灣臺中市新社區協成里協中街211巷1號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2792162523910414658",
         "note":  "",
         "createdAt":  1763449369000
@@ -12171,7 +12171,7 @@
         "address":  "613台灣嘉義縣朴子市第二市場十棟4號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=15761649698576260546",
         "note":  "",
         "createdAt":  1763440672000
@@ -12182,7 +12182,7 @@
         "address":  "741台灣臺南市善化區蓮潭里陽光大道220號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2050962422317087937",
         "note":  "",
         "createdAt":  1763440659000
@@ -12226,7 +12226,7 @@
         "address":  "106台灣臺北市大安區錦安里金華街",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9174465890725769901",
         "note":  "",
         "createdAt":  1763277750000
@@ -12248,7 +12248,7 @@
         "address":  "32067台灣桃園市中壢區中原里成章一街101巷1號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11089424774833528694",
         "note":  "",
         "createdAt":  1763268934000
@@ -12259,7 +12259,7 @@
         "address":  "700台灣臺南市中西區赤嵌里赤嵌街45巷3號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16591364917790494899",
         "note":  "",
         "createdAt":  1763264747000
@@ -12270,7 +12270,7 @@
         "address":  "708台灣臺南市安平區平安里安平路372號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14204355873924758913",
         "note":  "",
         "createdAt":  1763199535000
@@ -12292,7 +12292,7 @@
         "address":  "600台灣嘉義市東區東興里忠孝路166號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13793586750832333829",
         "note":  "",
         "createdAt":  1763172035000
@@ -12314,18 +12314,18 @@
         "address":  "700台灣臺南市中西區赤嵌里民權路二段78號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9669262333292043569",
         "note":  "",
         "createdAt":  1763104301000
     },
     {
         "id":  "star_1121",
-        "name":  "口袋名單地點 1121",
+        "name":  "口袋地點 1121",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=221%E6%96%B0%E5%8C%97%E5%B8%82%E6%B1%90%E6%AD%A2%E5%8D%80%E5%A4%A7%E5%90%8C%E8%B7%AF%E4%BA%8C%E6%AE%B5542%E8%99%9F\u0026ftid=0x345d531290c94dd3:0x3bda2a3bff03c75b",
         "note":  "",
         "createdAt":  1763095500000
@@ -12380,7 +12380,7 @@
         "address":  "704台灣臺南市北區立人里西門路三段45巷42弄10號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9067872642385021751",
         "note":  "",
         "createdAt":  1763015647000
@@ -12424,7 +12424,7 @@
         "address":  "701台灣臺南市東區富裕里裕豐街35號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4646244212242574288",
         "note":  "",
         "createdAt":  1763004956000
@@ -12468,7 +12468,7 @@
         "address":  "600台灣嘉義市東區朝陽里垂楊路100號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5856452445998335547",
         "note":  "",
         "createdAt":  1762963688000
@@ -12490,7 +12490,7 @@
         "address":  "603台灣嘉義縣梅山鄉梅東村中山路21號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4369768268259277852",
         "note":  "",
         "createdAt":  1762962030000
@@ -12512,7 +12512,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉德陽村德陽路30號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7658981771169583428",
         "note":  "",
         "createdAt":  1762950014000
@@ -12589,7 +12589,7 @@
         "address":  "702台灣臺南市南區鹽埕里新興路407號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3354068697337636443",
         "note":  "",
         "createdAt":  1762929506000
@@ -12600,7 +12600,7 @@
         "address":  "702台灣臺南市南區國民路13號（靠近號大同路",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=17401211576329529197",
         "note":  "",
         "createdAt":  1762926985000
@@ -12611,7 +12611,7 @@
         "address":  "708台灣臺南市安平區文平里文平路270號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10587156746160216902",
         "note":  "",
         "createdAt":  1762767378000
@@ -12655,7 +12655,7 @@
         "address":  "106台灣臺北市大安區建安里忠孝東路四段155號11樓-2",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17855926318044841871",
         "note":  "",
         "createdAt":  1762526320000
@@ -12666,7 +12666,7 @@
         "address":  "624台灣嘉義縣義竹鄉仁里村421號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4249673770676098515",
         "note":  "",
         "createdAt":  1762525343000
@@ -12688,7 +12688,7 @@
         "address":  "106台灣臺北市大安區光武里大安路一段59號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4186424387835334248",
         "note":  "",
         "createdAt":  1762418005000
@@ -12699,7 +12699,7 @@
         "address":  "10491台灣臺北市中山區民安里中山北路二段36巷31號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=339392600313851352",
         "note":  "",
         "createdAt":  1762417975000
@@ -12710,7 +12710,7 @@
         "address":  "300台灣新竹市東區東門里文昌街32之1號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=256766689112554279",
         "note":  "",
         "createdAt":  1762225279000
@@ -12721,7 +12721,7 @@
         "address":  "300台灣新竹市東區成功里文昌街39號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3829884046515707196",
         "note":  "",
         "createdAt":  1762225163000
@@ -12743,7 +12743,7 @@
         "address":  "305台灣新竹縣新埔鎮鹿鳴里黃梨園5鄰35-6號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15101451216789223588",
         "note":  "",
         "createdAt":  1762179966000
@@ -12754,7 +12754,7 @@
         "address":  "106台灣臺北市大安區光武里忠孝東路四段97號B1",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9431950476549538191",
         "note":  "",
         "createdAt":  1762078195000
@@ -12798,7 +12798,7 @@
         "address":  "105台灣臺北市松山區中華里敦化北路165巷1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8183579306168588869",
         "note":  "",
         "createdAt":  1761633123000
@@ -12809,7 +12809,7 @@
         "address":  "100台灣臺北市中正區建國里衡陽路124號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5899979148809232118",
         "note":  "",
         "createdAt":  1761631108000
@@ -12820,7 +12820,7 @@
         "address":  "115台灣臺北市南港區",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5828191791361295979",
         "note":  "",
         "createdAt":  1761462073000
@@ -12831,7 +12831,7 @@
         "address":  "108057台灣臺北市萬華區壽德里萬青街130號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17704189910899192416",
         "note":  "",
         "createdAt":  1761447172000
@@ -12842,7 +12842,7 @@
         "address":  "403台灣臺中市西區忠誠里博館路212號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13326925834565627803",
         "note":  "",
         "createdAt":  1761447132000
@@ -12853,7 +12853,7 @@
         "address":  "111台灣臺北市士林區克強路17號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11826668817162266132",
         "note":  "",
         "createdAt":  1761447114000
@@ -12864,7 +12864,7 @@
         "address":  "224台灣新北市瑞芳區永慶里街頂巷51號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6509391070418365077",
         "note":  "",
         "createdAt":  1761213191000
@@ -12886,7 +12886,7 @@
         "address":  "330台灣桃園市桃園區同安里中正路878號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11725157432997477715",
         "note":  "",
         "createdAt":  1761189047000
@@ -12897,7 +12897,7 @@
         "address":  "261台灣宜蘭縣頭城鎮大溪里濱海路五段456號在7-11隔壁",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4089618129714979720",
         "note":  "",
         "createdAt":  1761118734000
@@ -12908,7 +12908,7 @@
         "address":  "970台灣花蓮縣花蓮市國風里林榮街116巷21號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14038439555398449164",
         "note":  "",
         "createdAt":  1760911041000
@@ -12941,7 +12941,7 @@
         "address":  "114台灣臺北市內湖區東湖路113巷59號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11826874888296625236",
         "note":  "",
         "createdAt":  1760693155000
@@ -12952,7 +12952,7 @@
         "address":  "11552台灣臺北市南港區中南里中南街127號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8809737946868439361",
         "note":  "",
         "createdAt":  1760692781000
@@ -12974,7 +12974,7 @@
         "address":  "220台灣新北市板橋區湳興里南雅東路29巷2弄1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=4050043483794836196",
         "note":  "",
         "createdAt":  1760692276000
@@ -12985,7 +12985,7 @@
         "address":  "114台灣臺北市內湖區瑞陽里文德路22巷44弄1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16680659768901296016",
         "note":  "",
         "createdAt":  1760684723000
@@ -12996,7 +12996,7 @@
         "address":  "114台灣臺北市內湖區安湖里東湖路43巷19號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8517365356323487471",
         "note":  "",
         "createdAt":  1760684523000
@@ -13007,7 +13007,7 @@
         "address":  "114台灣臺北市內湖區安湖里東湖路33巷3號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1128505562273743640",
         "note":  "",
         "createdAt":  1760684368000
@@ -13018,7 +13018,7 @@
         "address":  "100台灣臺北市中正區水源里羅斯福路四段90巷2號",
         "scope":  "INTL",
         "region":  "歐洲/其他海外",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13902598075712460244",
         "note":  "",
         "createdAt":  1760682488000
@@ -13029,7 +13029,7 @@
         "address":  "241台灣新北市三重區正德里大同北路57號1樓",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=16908775469363722221",
         "note":  "",
         "createdAt":  1760682396000
@@ -13040,7 +13040,7 @@
         "address":  "110台灣臺北市信義區松山路197號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14658150345818227311",
         "note":  "",
         "createdAt":  1760682315000
@@ -13051,7 +13051,7 @@
         "address":  "111台灣臺北市士林區蘭雅里德行東路45號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1608898619815014346",
         "note":  "",
         "createdAt":  1760682259000
@@ -13117,7 +13117,7 @@
         "address":  "No. 1號, Miaoqian St, 南興村北埔鄉新竹縣台灣 314",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15689723169462231211",
         "note":  "",
         "createdAt":  1760523723000
@@ -13227,7 +13227,7 @@
         "address":  "10491台灣臺北市中山區朱崙里龍江路21巷13號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13418646312996571037",
         "note":  "",
         "createdAt":  1760424063000
@@ -13238,7 +13238,7 @@
         "address":  "242台灣新北市新莊區昌平里榮華路一段50號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8373715379240324748",
         "note":  "",
         "createdAt":  1760409625000
@@ -13249,7 +13249,7 @@
         "address":  "244台灣新北市林口區仁愛里文化一路一段135巷7號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2814359358844542729",
         "note":  "",
         "createdAt":  1760409602000
@@ -13260,7 +13260,7 @@
         "address":  "241台灣新北市三重區光明里重新路四段86號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10913180898354004296",
         "note":  "",
         "createdAt":  1760409577000
@@ -13271,7 +13271,7 @@
         "address":  "244台灣新北市林口區南勢里文化三路一段617巷59號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11952500135660567308",
         "note":  "",
         "createdAt":  1760409559000
@@ -13304,7 +13304,7 @@
         "address":  "110台灣臺北市信義區西村里信義路五段7號88樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13566748696002057059",
         "note":  "",
         "createdAt":  1760366584000
@@ -13326,7 +13326,7 @@
         "address":  "110台灣臺北市信義區景新里吳興街189號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=11138507443088747470",
         "note":  "",
         "createdAt":  1760364927000
@@ -13337,7 +13337,7 @@
         "address":  "242台灣新北市新莊區榮和里新莊路218號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1810025788157832678",
         "note":  "",
         "createdAt":  1760364857000
@@ -13359,7 +13359,7 @@
         "address":  "100台灣臺北市中正區中華路二段36號攤位號南機場夜市第",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=9954335055888094010",
         "note":  "",
         "createdAt":  1760364570000
@@ -13392,7 +13392,7 @@
         "address":  "223台灣新北市石碇區石碇里石碇東街85號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15916507278960052016",
         "note":  "",
         "createdAt":  1760344829000
@@ -13447,7 +13447,7 @@
         "address":  "223台灣新北市石碇區格頭里北宜路五段42號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6876050969868235456",
         "note":  "",
         "createdAt":  1760191081000
@@ -13458,7 +13458,7 @@
         "address":  "300台灣新竹市東區南門里西大路280號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=962761339487492477",
         "note":  "",
         "createdAt":  1760185971000
@@ -13480,7 +13480,7 @@
         "address":  "Lane 81, Yongping Rd, 永和區新北市台灣 234",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=16615455957487446583",
         "note":  "",
         "createdAt":  1760175111000
@@ -13524,7 +13524,7 @@
         "address":  "100台灣臺北市中正區忠勤里中華路二段307巷20-3號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=8746652934235134913",
         "note":  "",
         "createdAt":  1760171332000
@@ -13557,7 +13557,7 @@
         "address":  "557台灣雲林縣古坑鄉草嶺村",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5147870379392458696",
         "note":  "",
         "createdAt":  1760164483000
@@ -13568,7 +13568,7 @@
         "address":  "646台灣雲林縣古坑鄉草嶺村81-5號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15050152287850729892",
         "note":  "",
         "createdAt":  1760164468000
@@ -13601,7 +13601,7 @@
         "address":  "260台灣宜蘭縣宜蘭市民族里民族路257號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6315348231185691330",
         "note":  "",
         "createdAt":  1760023027000
@@ -13612,7 +13612,7 @@
         "address":  "106台灣臺北市大安區正聲里仁愛路四段409-1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=9569144819193727485",
         "note":  "",
         "createdAt":  1760006439000
@@ -13634,7 +13634,7 @@
         "address":  "542台灣南投縣草屯鎮明正里中山街359號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4116263549095171006",
         "note":  "",
         "createdAt":  1759975840000
@@ -13667,7 +13667,7 @@
         "address":  "300台灣新竹市北區中興里北門街63號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=275188047385309850",
         "note":  "",
         "createdAt":  1759815152000
@@ -13733,7 +13733,7 @@
         "address":  "300台灣新竹市東區埔頂里慈濟路193號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=886298889653316920",
         "note":  "",
         "createdAt":  1759803083000
@@ -13744,7 +13744,7 @@
         "address":  "300台灣新竹市東區關東里關新東路278號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2094480696919752677",
         "note":  "",
         "createdAt":  1759803011000
@@ -13777,7 +13777,7 @@
         "address":  "542台灣南投縣草屯鎮北勢里",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7844679427456645611",
         "note":  "",
         "createdAt":  1759797545000
@@ -13799,7 +13799,7 @@
         "address":  "646台灣雲林縣古坑鄉永光村光華路160號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6383405052190168452",
         "note":  "",
         "createdAt":  1759757708000
@@ -13832,7 +13832,7 @@
         "address":  "542台灣南投縣草屯鎮明正里博愛路501號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2205577954433492299",
         "note":  "",
         "createdAt":  1759727170000
@@ -13854,7 +13854,7 @@
         "address":  "542台灣南投縣草屯鎮和平里碧山路109號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8775811030702880424",
         "note":  "",
         "createdAt":  1759724601000
@@ -13876,7 +13876,7 @@
         "address":  "500台灣彰化縣彰化市西勢里忠孝街41號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6389144846052249218",
         "note":  "",
         "createdAt":  1759709543000
@@ -13887,7 +13887,7 @@
         "address":  "540台灣南投縣南投市營南里南營路717號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11868683727682116855",
         "note":  "",
         "createdAt":  1759644764000
@@ -13931,7 +13931,7 @@
         "address":  "542台灣南投縣草屯鎮中正里和平街40號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17113302614573003032",
         "note":  "",
         "createdAt":  1759558452000
@@ -13964,7 +13964,7 @@
         "address":  "540台灣南投縣南投市漳和里文化路559巷32弄3號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14083727399044767506",
         "note":  "",
         "createdAt":  1759475911000
@@ -13975,7 +13975,7 @@
         "address":  "553台灣南投縣水里鄉南光村民族路111號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=18299705697204635165",
         "note":  "",
         "createdAt":  1759475789000
@@ -13986,7 +13986,7 @@
         "address":  "403台灣臺中市西區後龍里民生北路127號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11150994130189566432",
         "note":  "",
         "createdAt":  1759434774000
@@ -14008,7 +14008,7 @@
         "address":  "106台灣臺北市大安區光武里大安路一段19巷20號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4366130130405333927",
         "note":  "",
         "createdAt":  1759366609000
@@ -14030,7 +14030,7 @@
         "address":  "No. 18號, Jianguo St, 炎峰里草屯鎮南投縣台灣 542",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12526739079537696193",
         "note":  "",
         "createdAt":  1759309328000
@@ -14041,7 +14041,7 @@
         "address":  "950台灣臺東縣臺東市台東市正氣路115號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14819797469442336018",
         "note":  "",
         "createdAt":  1759306022000
@@ -14052,7 +14052,7 @@
         "address":  "52642台灣彰化縣二林鎮東和里儒林路二段103號市場內",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18019321782024162512",
         "note":  "",
         "createdAt":  1759305449000
@@ -14063,7 +14063,7 @@
         "address":  "403台灣臺中市西區公益里中美街193巷40號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=904134120824504701",
         "note":  "",
         "createdAt":  1759283900000
@@ -14074,7 +14074,7 @@
         "address":  "232台灣新北市坪林區19-1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7894803116293339861",
         "note":  "",
         "createdAt":  1759219776000
@@ -14085,7 +14085,7 @@
         "address":  "No. 34, Zhenzheng Rd, 大甲里大甲區臺中市台灣 437",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3940518067076698577",
         "note":  "",
         "createdAt":  1759218804000
@@ -14096,7 +14096,7 @@
         "address":  "407台灣臺中市西屯區何仁里文心路三段107-16號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2943353805371130638",
         "note":  "",
         "createdAt":  1759215544000
@@ -14118,7 +14118,7 @@
         "address":  "100台灣臺北市中正區南門里中華路二段75巷44號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6411589880005279482",
         "note":  "",
         "createdAt":  1759148376000
@@ -14140,7 +14140,7 @@
         "address":  "108台灣臺北市萬華區糖廍里大理街133巷8號一樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3338511822159527224",
         "note":  "",
         "createdAt":  1758948196000
@@ -14151,7 +14151,7 @@
         "address":  "335台灣桃園市大溪區南興里浮筧街150巷49號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15309964393048858398",
         "note":  "",
         "createdAt":  1758883807000
@@ -14162,7 +14162,7 @@
         "address":  "208台灣新北市金山區慈護街35號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11944077582769875504",
         "note":  "",
         "createdAt":  1758855436000
@@ -14173,7 +14173,7 @@
         "address":  "114台灣臺北市內湖區明湖里康寧路三段99巷17弄26號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14046598883902636062",
         "note":  "",
         "createdAt":  1758788481000
@@ -14184,7 +14184,7 @@
         "address":  "411台灣臺中市太平區永隆里光興路652號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8054995159285585425",
         "note":  "",
         "createdAt":  1758729973000
@@ -14195,7 +14195,7 @@
         "address":  "557台灣南投縣竹山鎮竹山里下橫街59-1號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2623076332848717035",
         "note":  "",
         "createdAt":  1758595877000
@@ -14206,7 +14206,7 @@
         "address":  "435台灣臺中市梧棲區中正里梧棲路170號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6798821255709577840",
         "note":  "",
         "createdAt":  1758426565000
@@ -14228,7 +14228,7 @@
         "address":  "P8XP+2P5, Batur Sel., Kec. Kintamani, Kabupaten Bangli, Bali 80652印尼",
         "scope":  "INTL",
         "region":  "印尼",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13816833263040482131",
         "note":  "",
         "createdAt":  1758266568000
@@ -14239,7 +14239,7 @@
         "address":  "950台灣臺東縣臺東市中華里四維路一段522號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=338962766094643040",
         "note":  "",
         "createdAt":  1758265960000
@@ -14250,7 +14250,7 @@
         "address":  "232台灣新北市坪林區坪林里北宜路八段235號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10220211082849833421",
         "note":  "",
         "createdAt":  1758216669000
@@ -14261,7 +14261,7 @@
         "address":  "407台灣臺中市西屯區大河里河南路二段74巷13弄17號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1059961184577911987",
         "note":  "",
         "createdAt":  1758185915000
@@ -14272,7 +14272,7 @@
         "address":  "403台灣臺中市西區忠誠里臺灣大道二段562號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14849689563707566816",
         "note":  "",
         "createdAt":  1758185215000
@@ -14283,7 +14283,7 @@
         "address":  "407台灣臺中市西屯區西安里漢翔路235號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7080971623970321899",
         "note":  "",
         "createdAt":  1758184590000
@@ -14294,7 +14294,7 @@
         "address":  "406台灣臺中市北屯區安順東六街13號1樓",
         "scope":  "INTL",
         "region":  "歐洲/其他海外",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1427313402787911603",
         "note":  "",
         "createdAt":  1758182598000
@@ -14305,7 +14305,7 @@
         "address":  "404台灣臺中市北區賴村里梅亭街307號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7594451730375802499",
         "note":  "",
         "createdAt":  1758182552000
@@ -14316,7 +14316,7 @@
         "address":  "407台灣臺中市西屯區惠來里河南路四段199號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17597229574575334707",
         "note":  "",
         "createdAt":  1758182056000
@@ -14338,7 +14338,7 @@
         "address":  "407台灣臺中市西屯區潮洋里朝貴路199號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8155167897578766745",
         "note":  "",
         "createdAt":  1758168399000
@@ -14371,7 +14371,7 @@
         "address":  "436台灣臺中市清水區清水里鎮北街9號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1635653134045731932",
         "note":  "",
         "createdAt":  1758090356000
@@ -14393,7 +14393,7 @@
         "address":  "No. 73號, Gong\u0027an Rd, 墩西里后里區臺中市台灣 42151",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1313143207628381202",
         "note":  "",
         "createdAt":  1758083902000
@@ -14426,7 +14426,7 @@
         "address":  "42146台灣臺中市后里區墩北里月湖路90巷16號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15339922313350719647",
         "note":  "",
         "createdAt":  1758083205000
@@ -14437,7 +14437,7 @@
         "address":  "421台灣臺中市后里區后里里甲后路一段311號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15901888198221988394",
         "note":  "",
         "createdAt":  1758082613000
@@ -14470,7 +14470,7 @@
         "address":  "401台灣臺中市東區旱溪里旱溪三街22巷6號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15619197443103968716",
         "note":  "",
         "createdAt":  1757861987000
@@ -14514,7 +14514,7 @@
         "address":  "320台灣桃園市中壢區龍平里龍平路173號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9390199715115466436",
         "note":  "",
         "createdAt":  1757774908000
@@ -14525,7 +14525,7 @@
         "address":  "320台灣桃園市中壢區龍平里前龍街38號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=847648715346915921",
         "note":  "",
         "createdAt":  1757774884000
@@ -14536,7 +14536,7 @@
         "address":  "320台灣桃園市中壢區龍平里龍平路209號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=782645179104285169",
         "note":  "",
         "createdAt":  1757774869000
@@ -14547,7 +14547,7 @@
         "address":  "320台灣桃園市中壢區前龍街35號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3841166530183741982",
         "note":  "",
         "createdAt":  1757774852000
@@ -14565,11 +14565,11 @@
     },
     {
         "id":  "star_1325",
-        "name":  "口袋名單地點 1325",
+        "name":  "口袋地點 1325",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.184321999999998,120.63923419999999",
         "note":  "",
         "createdAt":  1757761793000
@@ -14580,7 +14580,7 @@
         "address":  "403台灣臺中市西區中興里公正路156巷5號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14525348540642131397",
         "note":  "",
         "createdAt":  1757760251000
@@ -14602,7 +14602,7 @@
         "address":  "408台灣臺中市南屯區南屯里黎明路一段998號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6796536347627616638",
         "note":  "",
         "createdAt":  1757757422000
@@ -14613,7 +14613,7 @@
         "address":  "403台灣臺中市西區後龍里民權路229巷21-3號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6381129092937553203",
         "note":  "",
         "createdAt":  1757756562000
@@ -14635,7 +14635,7 @@
         "address":  "403台灣臺中市西區公益里華美街251號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=16472920683231764099",
         "note":  "",
         "createdAt":  1757686996000
@@ -14646,7 +14646,7 @@
         "address":  "403台灣臺中市西區土庫里五權三街301號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=16524253826221684811",
         "note":  "",
         "createdAt":  1757686842000
@@ -14657,7 +14657,7 @@
         "address":  "404台灣臺中市北區賴興里文昌一街20號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15716843347881756711",
         "note":  "",
         "createdAt":  1757686735000
@@ -14701,18 +14701,18 @@
         "address":  "40445台灣臺中市北區樂英里錦中街27號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9865127823097459076",
         "note":  "",
         "createdAt":  1757514655000
     },
     {
         "id":  "star_1338",
-        "name":  "口袋名單地點 1338",
+        "name":  "口袋地點 1338",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.128869,121.738754",
         "note":  "",
         "createdAt":  1757480288000
@@ -14734,7 +14734,7 @@
         "address":  "204台灣基隆市安樂區慈仁里安一路188號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6322150133991570374",
         "note":  "",
         "createdAt":  1757392349000
@@ -14756,7 +14756,7 @@
         "address":  "700台灣臺南市中西區府前里府前路二段72號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8508712094109485493",
         "note":  "",
         "createdAt":  1757316729000
@@ -14778,7 +14778,7 @@
         "address":  "237台灣新北市三峽區竹崙里竹崙路238號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9173273700856966599",
         "note":  "",
         "createdAt":  1757304295000
@@ -14789,7 +14789,7 @@
         "address":  "545台灣南投縣埔里鎮水頭里九成街117巷24弄55號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2119053428595843969",
         "note":  "",
         "createdAt":  1757300247000
@@ -14800,7 +14800,7 @@
         "address":  "204台灣基隆市安樂區定邦里安一路100巷2號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15807321404190660247",
         "note":  "",
         "createdAt":  1757244153000
@@ -14822,7 +14822,7 @@
         "address":  "709台灣臺南市安南區海東里海東七街49號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3409726569893852931",
         "note":  "",
         "createdAt":  1757122636000
@@ -14877,7 +14877,7 @@
         "address":  "435台灣臺中市梧棲區福德里中央路二段2-7號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1794454998772400905",
         "note":  "",
         "createdAt":  1756895967000
@@ -14899,7 +14899,7 @@
         "address":  "435台灣臺中市梧棲區中和里西建路70號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4623824014050404308",
         "note":  "",
         "createdAt":  1756895363000
@@ -14921,7 +14921,7 @@
         "address":  "201台灣基隆市信義區孝忠里深溪路82號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7468132280073815487",
         "note":  "",
         "createdAt":  1756811747000
@@ -14943,7 +14943,7 @@
         "address":  "261台灣宜蘭縣頭城鎮城西里纘祥路14-1號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15001023115520588743",
         "note":  "",
         "createdAt":  1756788576000
@@ -14987,7 +14987,7 @@
         "address":  "436台灣臺中市清水區南寧里鎮南街81-2號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4865535888349567626",
         "note":  "",
         "createdAt":  1756719711000
@@ -15020,7 +15020,7 @@
         "address":  "435台灣臺中市梧棲區中和里梧棲路142號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11955442234161977500",
         "note":  "",
         "createdAt":  1756630486000
@@ -15031,7 +15031,7 @@
         "address":  "100台灣臺北市中正區羅斯福路四段92號水源市場32號攤位一樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15173161983883340616",
         "note":  "",
         "createdAt":  1756537322000
@@ -15064,7 +15064,7 @@
         "address":  "545台灣南投縣埔里鎮蜈蚣里埔霧公路173-2號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6942908050920608522",
         "note":  "",
         "createdAt":  1756013404000
@@ -15086,7 +15086,7 @@
         "address":  "103台灣臺北市大同區建明里承德路一段1號地下三樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13012846200757056753",
         "note":  "",
         "createdAt":  1755140885000
@@ -15097,7 +15097,7 @@
         "address":  "546台灣南投縣仁愛鄉大同村壽亭巷20-1號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=16249234899276238889",
         "note":  "",
         "createdAt":  1755067940000
@@ -15163,7 +15163,7 @@
         "address":  "108台灣臺北市萬華區雙園里萬大路124號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=4975948422185653338",
         "note":  "",
         "createdAt":  1754821826000
@@ -15174,7 +15174,7 @@
         "address":  "403台灣臺中市西區雙龍里模範街1巷1號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=14692163377379777760",
         "note":  "",
         "createdAt":  1754713074000
@@ -15196,7 +15196,7 @@
         "address":  "249台灣新北市八里區米倉里龍米路二段179號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11481836227632888910",
         "note":  "",
         "createdAt":  1754551037000
@@ -15218,7 +15218,7 @@
         "address":  "251台灣新北市淡水區新生里中正路282號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1391487151719228217",
         "note":  "",
         "createdAt":  1754547988000
@@ -15284,7 +15284,7 @@
         "address":  "20048台灣基隆市仁愛區仁德里仁四路16號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14704038652320631023",
         "note":  "",
         "createdAt":  1753700567000
@@ -15313,11 +15313,11 @@
     },
     {
         "id":  "star_1393",
-        "name":  "口袋名單地點 1393",
+        "name":  "口袋地點 1393",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=542%E5%8D%97%E6%8A%95%E7%B8%A3%E8%8D%89%E5%B1%AF%E9%8E%AE%E5%AF%8C%E6%98%A5%E8%B7%AF73%E8%99%9F\u0026ftid=0x346930058e1c83d1:0x4dfb8420bf8a11ef",
         "note":  "",
         "createdAt":  1753242750000
@@ -15372,7 +15372,7 @@
         "address":  "500台灣彰化縣彰化市成功里大埔路619-1號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13291357167770501726",
         "note":  "",
         "createdAt":  1752587111000
@@ -15405,7 +15405,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉紅頭村4號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4085618707476854028",
         "note":  "",
         "createdAt":  1752094302000
@@ -15438,7 +15438,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉朗島村17-9號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17010183425527982017",
         "note":  "",
         "createdAt":  1752072336000
@@ -15449,7 +15449,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉78",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4304170388302689947",
         "note":  "",
         "createdAt":  1752043218000
@@ -15460,7 +15460,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉925號1樓",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13281540481379831961",
         "note":  "",
         "createdAt":  1752032857000
@@ -15471,7 +15471,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13570963683416478326",
         "note":  "",
         "createdAt":  1751982772000
@@ -15522,11 +15522,11 @@
     },
     {
         "id":  "star_1412",
-        "name":  "口袋名單地點 1412",
+        "name":  "口袋地點 1412",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.061522,121.510217",
         "note":  "",
         "createdAt":  1751683336000
@@ -15537,7 +15537,7 @@
         "address":  "95241台灣臺東縣蘭嶼鄉紅頭151-2號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9116357164150311677",
         "note":  "",
         "createdAt":  1751683323000
@@ -15559,7 +15559,7 @@
         "address":  "950台灣臺東縣臺東市岩灣里岩灣路101巷598號C櫃",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=16811682229712968093",
         "note":  "",
         "createdAt":  1751469414000
@@ -15570,7 +15570,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉紅頭村",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11788703120983457366",
         "note":  "",
         "createdAt":  1751467040000
@@ -15592,7 +15592,7 @@
         "address":  "95058台灣臺東縣臺東市台東市新站路139號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=15571833745385473520",
         "note":  "",
         "createdAt":  1751438916000
@@ -15614,7 +15614,7 @@
         "address":  "No. 172號, Lane 120, Hulin St, 長春里信義區臺北市台灣 110",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4909932138468452522",
         "note":  "",
         "createdAt":  1751437007000
@@ -15625,7 +15625,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉紅頭村朗島國小門口旁欖仁樹下",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "酒吧/餐酒館",
+        "category":  "住宿/飯店",
         "url":  "http://maps.google.com/?cid=10336029710526566120",
         "note":  "",
         "createdAt":  1751426951000
@@ -15636,7 +15636,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉朗島村39-1號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6002458529751261619",
         "note":  "",
         "createdAt":  1751426936000
@@ -15647,7 +15647,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉朗島村32之1號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6521917543183722379",
         "note":  "",
         "createdAt":  1751426923000
@@ -15658,7 +15658,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉椰油村",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4643786704372534968",
         "note":  "",
         "createdAt":  1751303954000
@@ -15680,18 +15680,18 @@
         "address":  "952台灣臺東縣蘭嶼鄉18號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6858628829078373151",
         "note":  "",
         "createdAt":  1751303877000
     },
     {
         "id":  "star_1427",
-        "name":  "口袋名單地點 1427",
+        "name":  "口袋地點 1427",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.080848,121.538771",
         "note":  "",
         "createdAt":  1751303618000
@@ -15702,7 +15702,7 @@
         "address":  "95241台灣臺東縣蘭嶼鄉紅頭村25之1號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7800800747364648522",
         "note":  "",
         "createdAt":  1751202133000
@@ -15724,7 +15724,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10212366213492640037",
         "note":  "",
         "createdAt":  1751201528000
@@ -15735,7 +15735,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉東清村164號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12333106936785119290",
         "note":  "",
         "createdAt":  1751201101000
@@ -15746,7 +15746,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉東清村12-1號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6547224868652762046",
         "note":  "",
         "createdAt":  1751200818000
@@ -15757,7 +15757,7 @@
         "address":  "961No. 191號, Zhonghua Rd, 忠智里成功鎮臺東縣台灣 961",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5566363816830264354",
         "note":  "",
         "createdAt":  1750781185000
@@ -15779,7 +15779,7 @@
         "address":  "963台灣臺東縣太麻里鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10723073014144870478",
         "note":  "",
         "createdAt":  1750779738000
@@ -15823,7 +15823,7 @@
         "address":  "961006台灣臺東縣成功鎮忠仁里中華路66號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=9779814698401980601",
         "note":  "",
         "createdAt":  1750778611000
@@ -15834,7 +15834,7 @@
         "address":  "No. 39號, Zhongshan Rd, 忠智里成功鎮臺東縣台灣 961",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12958184652738172834",
         "note":  "",
         "createdAt":  1750778044000
@@ -15867,7 +15867,7 @@
         "address":  "950台灣臺東縣臺東市中正里中正路184號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5802162767665608571",
         "note":  "",
         "createdAt":  1750750532000
@@ -15878,7 +15878,7 @@
         "address":  "950台灣臺東縣臺東市新興里長沙街105號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9178714565829097786",
         "note":  "",
         "createdAt":  1750750437000
@@ -15900,7 +15900,7 @@
         "address":  "963台灣臺東縣太麻里鄉金崙村金崙路4鄰119之2號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8638449264376280375",
         "note":  "",
         "createdAt":  1750746603000
@@ -15922,7 +15922,7 @@
         "address":  "96344台灣臺東縣太麻里鄉金崙村8鄰354號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9414229768396384643",
         "note":  "",
         "createdAt":  1750745642000
@@ -15944,18 +15944,18 @@
         "address":  "963台灣臺東縣太麻里鄉香蘭村2號 No. 2, Xinxianglan, Xianglan Vil., Taimali Township, Taitung County",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9359858907383396424",
         "note":  "",
         "createdAt":  1750744546000
     },
     {
         "id":  "star_1451",
-        "name":  "口袋名單地點 1451",
+        "name":  "口袋地點 1451",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.647394,121.014170",
         "note":  "",
         "createdAt":  1750744415000
@@ -15999,7 +15999,7 @@
         "address":  "950台灣臺東縣臺東市新生里更生路359號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13733847459989855868",
         "note":  "",
         "createdAt":  1750742453000
@@ -16021,7 +16021,7 @@
         "address":  "961台灣臺東縣成功鎮忠仁里港邊路19之8號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=723274634440576059",
         "note":  "",
         "createdAt":  1750740994000
@@ -16032,7 +16032,7 @@
         "address":  "959台灣臺東縣東河鄉132-2號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17817294762956124173",
         "note":  "",
         "createdAt":  1750740750000
@@ -16043,7 +16043,7 @@
         "address":  "414台灣臺中市烏日區學田里學田路405巷36號汽車請停放至學田停車場",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=9594501006791299402",
         "note":  "",
         "createdAt":  1750734610000
@@ -16054,7 +16054,7 @@
         "address":  "950台灣臺東縣臺東市文化里鐵花路350號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4114782869372900979",
         "note":  "",
         "createdAt":  1750732596000
@@ -16065,7 +16065,7 @@
         "address":  "961台灣臺東縣成功鎮忠智里中華路195號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8621151038166847260",
         "note":  "",
         "createdAt":  1750732249000
@@ -16120,7 +16120,7 @@
         "address":  "961台灣臺東縣成功鎮",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4472520885321760087",
         "note":  "",
         "createdAt":  1750731543000
@@ -16153,7 +16153,7 @@
         "address":  "963台灣臺東縣太麻里鄉華源村",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=5570209889078062250",
         "note":  "",
         "createdAt":  1750692453000
@@ -16175,7 +16175,7 @@
         "address":  "961台灣臺東縣成功鎮忠智里中山路63號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2982193092002115672",
         "note":  "",
         "createdAt":  1750692114000
@@ -16197,18 +16197,18 @@
         "address":  "40444台灣臺中市北區太平路75巷1-3號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3403867395532676654",
         "note":  "",
         "createdAt":  1750403056000
     },
     {
         "id":  "star_1474",
-        "name":  "口袋名單地點 1474",
+        "name":  "口袋地點 1474",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.668294,121.02881699999998",
         "note":  "",
         "createdAt":  1750396102000
@@ -16230,7 +16230,7 @@
         "address":  "200台灣基隆市仁愛區博愛里愛二路9號1號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17901781911428213569",
         "note":  "",
         "createdAt":  1750061791000
@@ -16241,7 +16241,7 @@
         "address":  "106台灣臺北市大安區敦安里安和路一段102巷8號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1567267029423546899",
         "note":  "",
         "createdAt":  1750055562000
@@ -16263,7 +16263,7 @@
         "address":  "103台灣臺北市大同區隆和里延平北路三段64-2號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6516731337281807577",
         "note":  "",
         "createdAt":  1749901840000
@@ -16285,7 +16285,7 @@
         "address":  "110台灣臺北市信義區新仁里忠孝東路四段553巷6弄3號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=6428479857581193381",
         "note":  "",
         "createdAt":  1749825057000
@@ -16318,7 +16318,7 @@
         "address":  "104台灣臺北市中山區民安里中山北路二段20巷20號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13545716286582959935",
         "note":  "",
         "createdAt":  1749657552000
@@ -16340,7 +16340,7 @@
         "address":  "10690台灣臺北市大安區光武里敦化南路一段190巷11號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=18317827862823126033",
         "note":  "",
         "createdAt":  1749441761000
@@ -16351,7 +16351,7 @@
         "address":  "974台灣花蓮縣壽豐鄉壽豐村壽豐路一段3號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9107171246465769992",
         "note":  "",
         "createdAt":  1749303103000
@@ -16362,7 +16362,7 @@
         "address":  "235台灣新北市中和區內南里興南路二段399巷106之1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3838401942549548708",
         "note":  "",
         "createdAt":  1749199020000
@@ -16406,7 +16406,7 @@
         "address":  "221台灣新北市汐止區福山里弘道街10號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14206048452237066627",
         "note":  "",
         "createdAt":  1748529308000
@@ -16417,7 +16417,7 @@
         "address":  "108台灣臺北市萬華區新起里康定路83號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15730391089461907591",
         "note":  "",
         "createdAt":  1748363185000
@@ -16439,7 +16439,7 @@
         "address":  "241台灣新北市三重區光華里信義街73號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9698005481822460520",
         "note":  "",
         "createdAt":  1748361601000
@@ -16450,7 +16450,7 @@
         "address":  "241台灣新北市三重區錦通里信義街39號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12076047500370468051",
         "note":  "",
         "createdAt":  1748361420000
@@ -16461,7 +16461,7 @@
         "address":  "311台灣新竹縣五峰鄉花園村",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5340826280134927297",
         "note":  "",
         "createdAt":  1748233739000
@@ -16472,7 +16472,7 @@
         "address":  "260台灣宜蘭縣宜蘭市復興路二段42號全聯旁邊",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "小吃",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6449152820324848349",
         "note":  "",
         "createdAt":  1747814762000
@@ -16494,7 +16494,7 @@
         "address":  "335台灣桃園市大溪區仁和里員林路一段489號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10023764574151038798",
         "note":  "",
         "createdAt":  1746966179000
@@ -16505,7 +16505,7 @@
         "address":  "335台灣桃園市大溪區復興里承恩路583巷50號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16705134531690253412",
         "note":  "",
         "createdAt":  1746966150000
@@ -16516,7 +16516,7 @@
         "address":  "106台灣臺北市大安區通安里文昌街181號一樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3856788868594343583",
         "note":  "",
         "createdAt":  1746925775000
@@ -16527,7 +16527,7 @@
         "address":  "103台灣臺北市大同區光能里赤峰街47巷12號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6066153908908793978",
         "note":  "",
         "createdAt":  1746768352000
@@ -16538,7 +16538,7 @@
         "address":  "10491台灣臺北市中山區中央里四平街93號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10762206829675138804",
         "note":  "",
         "createdAt":  1746713369000
@@ -16549,7 +16549,7 @@
         "address":  "103台灣臺北市大同區光能里赤峰街41巷5號2F",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4761423982850720841",
         "note":  "",
         "createdAt":  1746713174000
@@ -16560,7 +16560,7 @@
         "address":  "10491台灣臺北市中山區中山北路二段20巷20號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "景點",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=3637613594711641660",
         "note":  "",
         "createdAt":  1746691132000
@@ -16571,7 +16571,7 @@
         "address":  "166號, 成功路得勝里蘆洲區新北市台灣 247",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17192147614496794061",
         "note":  "",
         "createdAt":  1746685182000
@@ -16593,7 +16593,7 @@
         "address":  "313台灣新竹縣尖石鄉義興村沙坪段17.18號北角吊橋旁風味餐廳媽媽的店",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12151044037438437405",
         "note":  "",
         "createdAt":  1746628794000
@@ -16615,7 +16615,7 @@
         "address":  "312台灣新竹縣橫山鄉內灣村中正路30-45號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16640073260220192739",
         "note":  "",
         "createdAt":  1746626996000
@@ -16648,7 +16648,7 @@
         "address":  "976台灣花蓮縣光復鄉大馬村林森路630號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8263956660601366554",
         "note":  "",
         "createdAt":  1746617274000
@@ -16736,7 +16736,7 @@
         "address":  "973台灣花蓮縣吉安鄉北昌村自強路476號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "咖啡廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=491338692922263093",
         "note":  "",
         "createdAt":  1746585330000
@@ -16758,7 +16758,7 @@
         "address":  "10353台灣臺北市大同區光能里赤峰街49巷25號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7088404531019131387",
         "note":  "",
         "createdAt":  1746546111000
@@ -16780,7 +16780,7 @@
         "address":  "103台灣臺北市大同區光能里赤峰街47巷16號2樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18238584468478555196",
         "note":  "",
         "createdAt":  1746539961000
@@ -16802,7 +16802,7 @@
         "address":  "103台灣臺北市大同區光能里赤峰街49巷2號2樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13959990392697350075",
         "note":  "",
         "createdAt":  1746535563000
@@ -16824,7 +16824,7 @@
         "address":  "353台灣苗栗縣南庄鄉西村民權街5號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16362504720243461208",
         "note":  "",
         "createdAt":  1746418948000
@@ -16846,7 +16846,7 @@
         "address":  "353台灣苗栗縣南庄鄉西村中山路77號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4317484944896612909",
         "note":  "",
         "createdAt":  1746281604000
@@ -16857,7 +16857,7 @@
         "address":  "358台灣苗栗縣苑裡鎮苑南里仁愛街2-6號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9714446200528992672",
         "note":  "",
         "createdAt":  1746155456000
@@ -16879,7 +16879,7 @@
         "address":  "353台灣苗栗縣南庄鄉蓬萊村八卦力16-8號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9031424062557279491",
         "note":  "",
         "createdAt":  1746013262000
@@ -16890,7 +16890,7 @@
         "address":  "106台灣臺北市大安區古莊里師大路126巷7號1 樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=963483314078869145",
         "note":  "",
         "createdAt":  1745995064000
@@ -16934,7 +16934,7 @@
         "address":  "106台灣臺北市大安區通化里通化街39巷19號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15766182251384341104",
         "note":  "",
         "createdAt":  1745750241000
@@ -16989,7 +16989,7 @@
         "address":  "234台灣新北市永和區民治里民有街12號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=2804047471549976682",
         "note":  "",
         "createdAt":  1745402540000
@@ -17033,7 +17033,7 @@
         "address":  "202台灣基隆市中正區正船里中船路98號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10591357874266948450",
         "note":  "",
         "createdAt":  1744988922000
@@ -17044,7 +17044,7 @@
         "address":  "108台灣臺北市萬華區青山里廣州街192號中間段前",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3073144563177880244",
         "note":  "",
         "createdAt":  1744954326000
@@ -17055,7 +17055,7 @@
         "address":  "3 Chome-1-17 Minatomachi, Naha, Okinawa 900-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4499325997721726074",
         "note":  "",
         "createdAt":  1744949168000
@@ -17088,7 +17088,7 @@
         "address":  "108台灣臺北市萬華區西門里成都路27巷11號地下一樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6244364826604142301",
         "note":  "",
         "createdAt":  1744893269000
@@ -17110,7 +17110,7 @@
         "address":  "704台灣臺南市北區北華里長北街66號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2592595347392038772",
         "note":  "",
         "createdAt":  1744813049000
@@ -17143,7 +17143,7 @@
         "address":  "106台灣臺北市大安區大學里羅斯福路三段283巷28號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9522327191824822291",
         "note":  "",
         "createdAt":  1744689682000
@@ -17154,7 +17154,7 @@
         "address":  "100台灣臺北市中正區忠勤里中華路二段313巷5弄20-1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11179305081263907431",
         "note":  "",
         "createdAt":  1744624373000
@@ -17165,7 +17165,7 @@
         "address":  "108台灣臺北市萬華區西門里峨眉街52號誠品生活 西門店5F",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3732795949942869829",
         "note":  "",
         "createdAt":  1744619712000
@@ -17176,7 +17176,7 @@
         "address":  "No. 82號, Linjiang St, 臨江里大安區臺北市台灣 106",
         "scope":  "INTL",
         "region":  "歐洲/其他海外",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5234051459639452159",
         "note":  "",
         "createdAt":  1744543382000
@@ -17209,7 +17209,7 @@
         "address":  "106台灣臺北市大安區臨江里基隆路二段144巷3號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12495071466830171508",
         "note":  "",
         "createdAt":  1744538452000
@@ -17231,7 +17231,7 @@
         "address":  "106台灣臺北市大安區正聲里光復南路308巷21號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10778448312644670817",
         "note":  "",
         "createdAt":  1744516068000
@@ -17253,7 +17253,7 @@
         "address":  "407台灣臺中市西屯區何源里華美西街二段235號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=15675924574495849220",
         "note":  "",
         "createdAt":  1744380129000
@@ -17275,7 +17275,7 @@
         "address":  "251台灣新北市淡水區長庚里清水街9號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=726201532823718640",
         "note":  "",
         "createdAt":  1744191865000
@@ -17286,7 +17286,7 @@
         "address":  "台灣基隆市廟 口 7 號 攤",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1930707438875197975",
         "note":  "",
         "createdAt":  1744186778000
@@ -17308,7 +17308,7 @@
         "address":  "103台灣臺北市大同區光能里承德路二段53巷13號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11413126950885051904",
         "note":  "",
         "createdAt":  1744016449000
@@ -17341,7 +17341,7 @@
         "address":  "114台灣臺北市內湖區麗山里內湖路一段591巷8號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14416279545799631544",
         "note":  "",
         "createdAt":  1743687856000
@@ -17363,7 +17363,7 @@
         "address":  "401台灣臺中市東區富台里自由路三段193號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14852935356379562948",
         "note":  "",
         "createdAt":  1743686390000
@@ -17385,7 +17385,7 @@
         "address":  "400台灣臺中市中區繼光里繼光街132號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1217185435994439764",
         "note":  "",
         "createdAt":  1743684845000
@@ -17396,7 +17396,7 @@
         "address":  "105台灣臺北市松山區中正里敦化北路120巷19號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6562216838706175956",
         "note":  "",
         "createdAt":  1743607165000
@@ -17407,7 +17407,7 @@
         "address":  "111台灣臺北市士林區福安里延平北路七段150巷口號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7676607137012874180",
         "note":  "",
         "createdAt":  1743603142000
@@ -17473,7 +17473,7 @@
         "address":  "237台灣新北市三峽區秀川里民生街149號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14029199046101582426",
         "note":  "",
         "createdAt":  1743567759000
@@ -17495,7 +17495,7 @@
         "address":  "106台灣臺北市大安區光信里延吉街242之1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5418526326104715467",
         "note":  "",
         "createdAt":  1743130296000
@@ -17506,7 +17506,7 @@
         "address":  "105台灣臺北市松山區南京東路五段291巷20弄3-2號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12127930473267135940",
         "note":  "",
         "createdAt":  1743086520000
@@ -17517,7 +17517,7 @@
         "address":  "10491台灣臺北市中山區恆安里雙城街12號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=461920252275534704",
         "note":  "",
         "createdAt":  1743086461000
@@ -17528,7 +17528,7 @@
         "address":  "104台灣臺北市中山區恆安里農安街2巷20號之33",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=558918537317096546",
         "note":  "",
         "createdAt":  1743085832000
@@ -17539,7 +17539,7 @@
         "address":  "10491台灣臺北市中山區晴光里雙城街17-2號中央攤販(榮昌藥局對面",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=38530256331975283",
         "note":  "",
         "createdAt":  1743085690000
@@ -17550,7 +17550,7 @@
         "address":  "116台灣臺北市文山區景行里景美街8號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12218720727245467195",
         "note":  "",
         "createdAt":  1743081810000
@@ -17568,11 +17568,11 @@
     },
     {
         "id":  "star_1598",
-        "name":  "口袋名單地點 1598",
+        "name":  "口袋地點 1598",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=10491%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%8C%A6%E5%B7%9E%E8%A1%97404%E8%99%9F\u0026ftid=0x3442abe396bd84d7:0x2269f8c84c849390",
         "note":  "",
         "createdAt":  1743071298000
@@ -17583,18 +17583,18 @@
         "address":  "231台灣新北市新店區寶橋路235巷長頸鹿停車場",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=1372794096735279623",
         "note":  "",
         "createdAt":  1743068122000
     },
     {
         "id":  "star_1600",
-        "name":  "口袋名單地點 1600",
+        "name":  "口袋地點 1600",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.025494,121.551843",
         "note":  "",
         "createdAt":  1743043824000
@@ -17649,7 +17649,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉紅頭村漁人77號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15228010378970670718",
         "note":  "",
         "createdAt":  1743043627000
@@ -17682,7 +17682,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉朗島村17之6號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11104603071130122399",
         "note":  "",
         "createdAt":  1743043489000
@@ -17726,7 +17726,7 @@
         "address":  "231台灣新北市新店區百和里中正路438號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2161594596776339944",
         "note":  "",
         "createdAt":  1742892219000
@@ -17737,7 +17737,7 @@
         "address":  "103台灣臺北市大同區永樂里永昌街9號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10756608308330349692",
         "note":  "",
         "createdAt":  1742888963000
@@ -17759,7 +17759,7 @@
         "address":  "950台灣臺東縣臺東市",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2841056614659946366",
         "note":  "",
         "createdAt":  1742887000000
@@ -17781,7 +17781,7 @@
         "address":  "200台灣基隆市仁愛區文昌里孝三路107號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=14516560636217041769",
         "note":  "",
         "createdAt":  1742886906000
@@ -17792,18 +17792,18 @@
         "address":  "108台灣臺北市萬華區日祥里萬大路423巷42號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3587537939722906718",
         "note":  "",
         "createdAt":  1742886886000
     },
     {
         "id":  "star_1619",
-        "name":  "口袋名單地點 1619",
+        "name":  "口袋地點 1619",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.055548,121.509636",
         "note":  "",
         "createdAt":  1742880719000
@@ -17836,7 +17836,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉東清124號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15280836363283010478",
         "note":  "",
         "createdAt":  1742878503000
@@ -17858,7 +17858,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉東清村23號之8號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4483001193381718506",
         "note":  "",
         "createdAt":  1742830089000
@@ -17869,7 +17869,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉東清村",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=14040550640599861708",
         "note":  "",
         "createdAt":  1742829572000
@@ -17880,7 +17880,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉東清村152號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11171954429682767915",
         "note":  "",
         "createdAt":  1742828132000
@@ -17891,7 +17891,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16371806708500509189",
         "note":  "",
         "createdAt":  1742826871000
@@ -17902,7 +17902,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉朗島村",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17173766444739556230",
         "note":  "",
         "createdAt":  1742826677000
@@ -17913,29 +17913,29 @@
         "address":  "952台灣臺東縣蘭嶼鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1441315845154520552",
         "note":  "",
         "createdAt":  1742826662000
     },
     {
         "id":  "star_1630",
-        "name":  "口袋名單地點 1630",
+        "name":  "口袋地點 1630",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.077429,121.510149",
         "note":  "",
         "createdAt":  1742826642000
     },
     {
         "id":  "star_1631",
-        "name":  "口袋名單地點 1631",
+        "name":  "口袋地點 1631",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=952%E5%8F%B0%E6%9D%B1%E7%B8%A3%E8%98%AD%E5%B6%BC%E9%84%89%E5%9D%A6%E5%85%8B%E5%B2%A9\u0026ftid=0x34700f6c524468cf:0xd4a9f215559f5351",
         "note":  "",
         "createdAt":  1742826631000
@@ -17946,7 +17946,7 @@
         "address":  "952台灣臺東縣椰油村 296之12號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1496644454963968475",
         "note":  "",
         "createdAt":  1742826563000
@@ -17957,7 +17957,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=385275172986931130",
         "note":  "",
         "createdAt":  1742826539000
@@ -17990,7 +17990,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12256297055676686263",
         "note":  "",
         "createdAt":  1742826050000
@@ -18001,7 +18001,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3870986719226763316",
         "note":  "",
         "createdAt":  1742825893000
@@ -18012,7 +18012,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12252549111322588710",
         "note":  "",
         "createdAt":  1742825734000
@@ -18023,18 +18023,18 @@
         "address":  "952台灣臺東縣蘭嶼鄉東清村",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2018539356714885041",
         "note":  "",
         "createdAt":  1742825675000
     },
     {
         "id":  "star_1640",
-        "name":  "口袋名單地點 1640",
+        "name":  "口袋地點 1640",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.061319,121.566946",
         "note":  "",
         "createdAt":  1742825648000
@@ -18056,7 +18056,7 @@
         "address":  "220台灣新北市板橋區深丘里海山路43號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6275454964731700149",
         "note":  "",
         "createdAt":  1742659047000
@@ -18089,7 +18089,7 @@
         "address":  "No. 212, Section 4, Chenggong Rd, 金龍里內湖區臺北市台灣 114",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16920854656707541866",
         "note":  "",
         "createdAt":  1742268970000
@@ -18144,7 +18144,7 @@
         "address":  "114台灣臺北市內湖區港富里內湖路一段737巷53號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14906169903601274214",
         "note":  "",
         "createdAt":  1742060623000
@@ -18155,7 +18155,7 @@
         "address":  "114台灣臺北市內湖區西康里內湖路一段231號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14199480793483807565",
         "note":  "",
         "createdAt":  1742060160000
@@ -18166,7 +18166,7 @@
         "address":  "114台灣臺北市內湖區西湖里內湖路一段323巷16弄2號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13207859914408243108",
         "note":  "",
         "createdAt":  1742059800000
@@ -18177,7 +18177,7 @@
         "address":  "114台灣臺北市內湖區瑞陽里江南街71巷16弄74號",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12400166550991909420",
         "note":  "",
         "createdAt":  1742059149000
@@ -18188,7 +18188,7 @@
         "address":  "114台灣臺北市內湖區港墘里內湖路一段600巷2號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13240351322499333072",
         "note":  "",
         "createdAt":  1742029342000
@@ -18199,7 +18199,7 @@
         "address":  "200台灣基隆市仁愛區愛四路",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=772696614310207055",
         "note":  "",
         "createdAt":  1741961549000
@@ -18210,7 +18210,7 @@
         "address":  "205台灣基隆市暖暖區碇內里源遠路211號 號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13015853712591358613",
         "note":  "",
         "createdAt":  1741955771000
@@ -18243,7 +18243,7 @@
         "address":  "236台灣新北市土城區裕生里裕民路32巷5號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3710623092696087517",
         "note":  "",
         "createdAt":  1741831173000
@@ -18272,11 +18272,11 @@
     },
     {
         "id":  "star_1662",
-        "name":  "口袋名單地點 1662",
+        "name":  "口袋地點 1662",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=555%E5%8D%97%E6%8A%95%E7%B8%A3%E9%AD%9A%E6%B1%A0%E9%84%89%E9%87%91%E9%BE%8D%E5%B1%B1%E8%A7%80%E6%99%AF%E6%AD%A5%E9%81%93\u0026ftid=0x3468d7d1f4b5cad3:0x103fbb300d34e3ac",
         "note":  "",
         "createdAt":  1741622925000
@@ -18287,7 +18287,7 @@
         "address":  "700台灣臺南市中西區赤嵌里西門路二段422號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=899973169239294627",
         "note":  "",
         "createdAt":  1741608028000
@@ -18309,7 +18309,7 @@
         "address":  "108台灣臺北市萬華區西門里康定路23號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10013226073254115375",
         "note":  "",
         "createdAt":  1741275112000
@@ -18342,7 +18342,7 @@
         "address":  "106台灣臺北市大安區龍生里和平東路二段157號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14388750235248525414",
         "note":  "",
         "createdAt":  1741243944000
@@ -18353,7 +18353,7 @@
         "address":  "110台灣臺北市信義區正和里光復南路427號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9509116690732273959",
         "note":  "",
         "createdAt":  1741188380000
@@ -18364,7 +18364,7 @@
         "address":  "236台灣新北市土城區峯廷里延吉街231號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14522667734544200660",
         "note":  "",
         "createdAt":  1741186605000
@@ -18397,7 +18397,7 @@
         "address":  "103台灣臺北市大同區鄰江里延平北路四段5號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3248065180453834429",
         "note":  "",
         "createdAt":  1741185599000
@@ -18430,7 +18430,7 @@
         "address":  "555台灣南投縣魚池鄉日月村 Yiyong St, 79號1樓",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8224112369660266818",
         "note":  "",
         "createdAt":  1741000608000
@@ -18441,7 +18441,7 @@
         "address":  "No. 31號, Lane 120, Guangfu N Rd, 復勢里松山區臺北市台灣 105",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8986942081638258240",
         "note":  "",
         "createdAt":  1740999150000
@@ -18452,7 +18452,7 @@
         "address":  "700015台灣臺南市中西區南美里忠義路二段49號1樓",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13345278560775667416",
         "note":  "",
         "createdAt":  1740990355000
@@ -18496,7 +18496,7 @@
         "address":  "103台灣臺北市大同區景星里延平北路三段32號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8926501199998767817",
         "note":  "",
         "createdAt":  1740911665000
@@ -18507,7 +18507,7 @@
         "address":  "103台灣臺北市大同區國慶里昌吉街107號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3542466321806269746",
         "note":  "",
         "createdAt":  1740911293000
@@ -18529,7 +18529,7 @@
         "address":  "103台灣臺北市大同區永樂里迪化街一段77號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13026893263903995604",
         "note":  "",
         "createdAt":  1740904673000
@@ -18540,7 +18540,7 @@
         "address":  "103台灣臺北市大同區迪化街一段240號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7279478927528857107",
         "note":  "",
         "createdAt":  1740902040000
@@ -18551,7 +18551,7 @@
         "address":  "103台灣臺北市大同區永樂里民樂街55號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10728733596854254562",
         "note":  "",
         "createdAt":  1740901080000
@@ -18628,7 +18628,7 @@
         "address":  "545台灣南投縣埔里鎮桃米里桃米路37-1號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16547282178553110605",
         "note":  "",
         "createdAt":  1740760785000
@@ -18639,7 +18639,7 @@
         "address":  "313台灣新竹縣尖石鄉",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15552613271384335181",
         "note":  "",
         "createdAt":  1740624796000
@@ -18650,7 +18650,7 @@
         "address":  "260台灣宜蘭縣宜蘭市小東里樹人路27號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10315549464317601880",
         "note":  "",
         "createdAt":  1740553510000
@@ -18661,7 +18661,7 @@
         "address":  "260台灣宜蘭縣宜蘭市新民里康樂路158號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9379070560042106442",
         "note":  "",
         "createdAt":  1740553466000
@@ -18683,7 +18683,7 @@
         "address":  "320台灣桃園市中壢區青溪里洽溪路357號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9668775004497666843",
         "note":  "",
         "createdAt":  1740202306000
@@ -18694,7 +18694,7 @@
         "address":  "108台灣臺北市萬華區日善里萬大路196號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6778992524274056128",
         "note":  "",
         "createdAt":  1740015127000
@@ -18705,7 +18705,7 @@
         "address":  "235台灣新北市中和區崇南里忠孝街128號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9119176190384733962",
         "note":  "",
         "createdAt":  1740015062000
@@ -18716,7 +18716,7 @@
         "address":  "235台灣新北市中和區泰安里中和路248號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11504411314614625651",
         "note":  "",
         "createdAt":  1739799879000
@@ -18749,7 +18749,7 @@
         "address":  "437台灣臺中市大甲區蔣公路188號三民路交叉路口",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12465989522701221865",
         "note":  "",
         "createdAt":  1739513636000
@@ -18760,7 +18760,7 @@
         "address":  "437台灣臺中市大甲區順天里蔣公路121號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11295154724251959334",
         "note":  "",
         "createdAt":  1739513402000
@@ -18771,7 +18771,7 @@
         "address":  "437台灣臺中市大甲區孔門里順天路299號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11035063292430619436",
         "note":  "",
         "createdAt":  1739511617000
@@ -18782,7 +18782,7 @@
         "address":  "437台灣臺中市大甲區文武里順天路274號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4319987455127138080",
         "note":  "",
         "createdAt":  1739511600000
@@ -18793,7 +18793,7 @@
         "address":  "421台灣臺中市后里區后里里三豐路四段199巷8號一樓",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7392344444630224911",
         "note":  "",
         "createdAt":  1739438081000
@@ -18815,7 +18815,7 @@
         "address":  "108台灣臺北市萬華區萬壽里漢口街二段20巷11號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7020263786496416191",
         "note":  "",
         "createdAt":  1739262077000
@@ -18848,7 +18848,7 @@
         "address":  "232台灣新北市坪林區上德里坪碇路171號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17308975830965394589",
         "note":  "",
         "createdAt":  1738629345000
@@ -18859,7 +18859,7 @@
         "address":  "241台灣新北市三重區長生里三和路二段40號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12059767146013933841",
         "note":  "",
         "createdAt":  1738513166000
@@ -18870,18 +18870,18 @@
         "address":  "No, No. 136三和路二段長安里三重區新北市台灣 241",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6227982754414847220",
         "note":  "",
         "createdAt":  1738513119000
     },
     {
         "id":  "star_1717",
-        "name":  "口袋名單地點 1717",
+        "name":  "口袋地點 1717",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.065825,121.500294",
         "note":  "",
         "createdAt":  1738513075000
@@ -18903,7 +18903,7 @@
         "address":  "241台灣新北市三重區錦安里中央北路66-60號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=8156301573237081593",
         "note":  "",
         "createdAt":  1738513035000
@@ -18914,7 +18914,7 @@
         "address":  "335台灣桃園市大溪區民權東路7號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4412440063930817295",
         "note":  "",
         "createdAt":  1738512292000
@@ -18925,7 +18925,7 @@
         "address":  "335台灣桃園市大溪區田心里忠孝路5號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12588520775276243980",
         "note":  "",
         "createdAt":  1738512272000
@@ -18980,7 +18980,7 @@
         "address":  "224台灣新北市瑞芳區鼻頭里鼻頭路245號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16894009061935998331",
         "note":  "",
         "createdAt":  1738245081000
@@ -18991,7 +18991,7 @@
         "address":  "237台灣新北市三峽區竹崙里竹崙路228號之一",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17115282668944061079",
         "note":  "",
         "createdAt":  1738241704000
@@ -19035,7 +19035,7 @@
         "address":  "427台灣臺中市潭子區嘉仁里嘉豐路276號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11583450836857842343",
         "note":  "",
         "createdAt":  1738228212000
@@ -19079,7 +19079,7 @@
         "address":  "220台灣新北市板橋區漢生里國光路184之1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=6720805158857952281",
         "note":  "",
         "createdAt":  1737896622000
@@ -19101,7 +19101,7 @@
         "address":  "505台灣彰化縣鹿港鎮媽祖路1號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=8435592167603730527",
         "note":  "",
         "createdAt":  1737867499000
@@ -19112,7 +19112,7 @@
         "address":  "505台灣彰化縣鹿港鎮新宮里中山路505號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12899302741202065201",
         "note":  "",
         "createdAt":  1737815560000
@@ -19123,7 +19123,7 @@
         "address":  "50547台灣彰化縣鹿港鎮泰興里彰鹿路八段4號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17568085063743930800",
         "note":  "",
         "createdAt":  1737815465000
@@ -19134,7 +19134,7 @@
         "address":  "505台灣彰化縣鹿港鎮興化里民族路189號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7800489851405316215",
         "note":  "",
         "createdAt":  1737808811000
@@ -19167,7 +19167,7 @@
         "address":  "320台灣桃園市中壢區新明里中央西路二段180號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4075087055277921412",
         "note":  "",
         "createdAt":  1737179886000
@@ -19178,7 +19178,7 @@
         "address":  "404台灣臺中市北區新北里一中街22號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13953745305909001658",
         "note":  "",
         "createdAt":  1737102658000
@@ -19211,7 +19211,7 @@
         "address":  "No. 170號, Fuxuan Rd, 福和里西屯區臺中市台灣 407",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10522252217350648081",
         "note":  "",
         "createdAt":  1737097048000
@@ -19222,7 +19222,7 @@
         "address":  "403台灣臺中市西區民龍里模範街31巷16號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13907877471771159738",
         "note":  "",
         "createdAt":  1737080013000
@@ -19376,7 +19376,7 @@
         "address":  "600台灣嘉義市西區竹圍里北興街383號 號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=1014147095256517537",
         "note":  "",
         "createdAt":  1736610847000
@@ -19420,7 +19420,7 @@
         "address":  "414台灣臺中市烏日區烏日里中山路二段371號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13608982563505742596",
         "note":  "",
         "createdAt":  1736322800000
@@ -19519,7 +19519,7 @@
         "address":  "10353台灣臺北市大同區赤峰街53巷23號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6730922622807508301",
         "note":  "",
         "createdAt":  1735458092000
@@ -19552,7 +19552,7 @@
         "address":  "106台灣臺北市大安區建安里忠孝東路四段181巷13號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17197828212317308290",
         "note":  "",
         "createdAt":  1734859400000
@@ -19596,7 +19596,7 @@
         "address":  "60 Nguyễn Chí Thanh, Hải Châu, Đà Nẵng 55000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10506716994224563810",
         "note":  "",
         "createdAt":  1734754426000
@@ -19618,18 +19618,18 @@
         "address":  "403台灣臺中市西區土庫里五權西六街69號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1013078244391932266",
         "note":  "",
         "createdAt":  1734506289000
     },
     {
         "id":  "star_1785",
-        "name":  "口袋名單地點 1785",
+        "name":  "口袋地點 1785",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=404%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80%E5%A4%AA%E5%B9%B3%E8%B7%AF75%E5%B7%B71-3%E8%99%9F\u0026ftid=0x34693d6947b7b73b:0xc25a8e07b4c58bcf",
         "note":  "",
         "createdAt":  1734505815000
@@ -19640,7 +19640,7 @@
         "address":  "No. 123號, Minzu Rd, 泰興里鹿港鎮彰化縣台灣 505",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7775079433364308727",
         "note":  "",
         "createdAt":  1734502869000
@@ -19651,7 +19651,7 @@
         "address":  "508台灣彰化縣和美鎮和東里仁化路75號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=16714826503625099369",
         "note":  "",
         "createdAt":  1734250073000
@@ -19662,7 +19662,7 @@
         "address":  "360台灣苗栗縣苗栗市新苗里日新街5號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6569576626148210590",
         "note":  "",
         "createdAt":  1734069819000
@@ -19673,7 +19673,7 @@
         "address":  "406台灣臺中市北屯區大坑里 Section 2, Dongshan Rd, 151之2號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10747557882548706991",
         "note":  "",
         "createdAt":  1733844828000
@@ -19684,7 +19684,7 @@
         "address":  "406台灣臺中市北屯區民德里東山路二段207-5號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2761180391276463022",
         "note":  "",
         "createdAt":  1733844698000
@@ -19695,7 +19695,7 @@
         "address":  "406台灣臺中市北屯區東山路二段 民興巷207-5號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14591721707499246884",
         "note":  "",
         "createdAt":  1733844244000
@@ -19706,7 +19706,7 @@
         "address":  "406台灣臺中市北屯區和平里東山路一段408-2號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13518122782483311793",
         "note":  "",
         "createdAt":  1733844139000
@@ -19728,7 +19728,7 @@
         "address":  "360台灣苗栗縣苗栗市新苗里新苗街61巷7號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11659783283650903272",
         "note":  "",
         "createdAt":  1733839952000
@@ -19739,7 +19739,7 @@
         "address":  "360台灣苗栗縣苗栗市北苗里英才路",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14257443086549608259",
         "note":  "",
         "createdAt":  1733839754000
@@ -19772,7 +19772,7 @@
         "address":  "357台灣苗栗縣通霄鎮內島里中山路127號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4157023551945271563",
         "note":  "",
         "createdAt":  1733830581000
@@ -19849,7 +19849,7 @@
         "address":  "252台灣新北市三芝區2-8號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=18311653242500408111",
         "note":  "",
         "createdAt":  1733614474000
@@ -19860,7 +19860,7 @@
         "address":  "110台灣臺北市信義區西村里松智路17號46F",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15631901118239228423",
         "note":  "",
         "createdAt":  1733585646000
@@ -19893,7 +19893,7 @@
         "address":  "700台灣臺南市中西區藥王里金華路四段78之1號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5010771747777523040",
         "note":  "",
         "createdAt":  1733323076000
@@ -19915,7 +19915,7 @@
         "address":  "103台灣臺北市大同區光能里赤峰街41巷13號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6638721730343899488",
         "note":  "",
         "createdAt":  1733294522000
@@ -19926,7 +19926,7 @@
         "address":  "103台灣臺北市大同區光能里赤峰街8巷22號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12148544181458210579",
         "note":  "",
         "createdAt":  1733294475000
@@ -19937,7 +19937,7 @@
         "address":  "No. 24號, Nuannuan St, 暖同里暖暖區基隆市台灣 205",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7590849876581365174",
         "note":  "",
         "createdAt":  1733248247000
@@ -20058,7 +20058,7 @@
         "address":  "100台灣臺北市中正區建國里重慶南路一段116號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14854926449067013560",
         "note":  "",
         "createdAt":  1733242154000
@@ -20091,7 +20091,7 @@
         "address":  "No. 412-6, No. 412-6號忠孝東路五段廣居里信義區臺北市台灣 110",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5725664519961950829",
         "note":  "",
         "createdAt":  1733241871000
@@ -20113,7 +20113,7 @@
         "address":  "103台灣臺北市大同區赤峰街14-1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17290525104690369646",
         "note":  "",
         "createdAt":  1733237870000
@@ -20190,7 +20190,7 @@
         "address":  "200台灣基隆市仁愛區文昌里忠三路56號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=7219110971842039446",
         "note":  "",
         "createdAt":  1732893870000
@@ -20234,7 +20234,7 @@
         "address":  "310台灣新竹縣竹東鎮榮樂里仁愛路312號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7052558716959212694",
         "note":  "",
         "createdAt":  1731560422000
@@ -20245,7 +20245,7 @@
         "address":  "357台灣苗栗縣通霄鎮通西里信義路119號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "小吃",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=2026172140838467508",
         "note":  "",
         "createdAt":  1731510526000
@@ -20267,7 +20267,7 @@
         "address":  "261台灣宜蘭縣頭城鎮城東里開蘭路197號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14168532476777272387",
         "note":  "",
         "createdAt":  1731227060000
@@ -20278,7 +20278,7 @@
         "address":  "No. 28號, Section 3, Zhongshan Rd, 新民里宜蘭市宜蘭縣台灣 260",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17290575948923397597",
         "note":  "",
         "createdAt":  1731062752000
@@ -20289,7 +20289,7 @@
         "address":  "265台灣宜蘭縣羅東鎮賢文里民權路160號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11985476481880983213",
         "note":  "",
         "createdAt":  1731057497000
@@ -20322,7 +20322,7 @@
         "address":  "260台灣宜蘭縣宜蘭市復興里復興路一段87號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=10561239492102372567",
         "note":  "",
         "createdAt":  1731051961000
@@ -20344,7 +20344,7 @@
         "address":  "360台灣苗栗縣苗栗市新苗里新苗街61巷40號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6486701017496347287",
         "note":  "",
         "createdAt":  1730993677000
@@ -20355,7 +20355,7 @@
         "address":  "200台灣基隆市仁愛區仁一路207號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=10312155625692365987",
         "note":  "",
         "createdAt":  1730965549000
@@ -20399,7 +20399,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉玉田村玉民路一段229-1號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16712339305779076137",
         "note":  "",
         "createdAt":  1730909130000
@@ -20421,7 +20421,7 @@
         "address":  "260台灣宜蘭縣宜蘭市擺厘里嵐峰路一段332號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5308888523709416789",
         "note":  "",
         "createdAt":  1730906650000
@@ -20432,7 +20432,7 @@
         "address":  "265台灣宜蘭縣羅東鎮賢文里民有街21巷11號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8180116716288221411",
         "note":  "",
         "createdAt":  1730903757000
@@ -20454,7 +20454,7 @@
         "address":  "260台灣宜蘭縣宜蘭市擺厘里女中路二段381號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4024856408313289847",
         "note":  "",
         "createdAt":  1730901869000
@@ -20465,7 +20465,7 @@
         "address":  "265台灣宜蘭縣羅東鎮成功里體育路9號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11096862878027668333",
         "note":  "",
         "createdAt":  1730901737000
@@ -20487,7 +20487,7 @@
         "address":  "300台灣新竹市東區高峰里寶山路128號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12977081320105983621",
         "note":  "",
         "createdAt":  1730880844000
@@ -20520,7 +20520,7 @@
         "address":  "221台灣新北市汐止區南昌街25號2樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=2998791205527341289",
         "note":  "",
         "createdAt":  1730794389000
@@ -20553,7 +20553,7 @@
         "address":  "105台灣臺北市松山區市民大道四段19號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "酒吧/餐酒館",
         "url":  "http://maps.google.com/?cid=4234473765171805495",
         "note":  "",
         "createdAt":  1730557712000
@@ -20564,7 +20564,7 @@
         "address":  "265台灣宜蘭縣羅東鎮仁德里興東南路222號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3140783120983044111",
         "note":  "",
         "createdAt":  1730550030000
@@ -20586,7 +20586,7 @@
         "address":  "265台灣宜蘭縣羅東鎮民權路211號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5578761476738976660",
         "note":  "",
         "createdAt":  1730549491000
@@ -20597,7 +20597,7 @@
         "address":  "106台灣臺北市大安區黎元里安居街124巷20號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14128397674239622561",
         "note":  "",
         "createdAt":  1730549385000
@@ -20608,7 +20608,7 @@
         "address":  "No. 17號, Lane 97, Section 2, Beixin Rd, 忠誠里新店區新北市台灣 231",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4550531230103084367",
         "note":  "",
         "createdAt":  1730549330000
@@ -20619,7 +20619,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉大忠村礁溪路四段128號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15815193535489451926",
         "note":  "",
         "createdAt":  1730541299000
@@ -20652,7 +20652,7 @@
         "address":  "108台灣臺北市萬華區西門里成都路10巷11號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11330318684496050528",
         "note":  "",
         "createdAt":  1730350231000
@@ -20674,7 +20674,7 @@
         "address":  "106台灣臺北市大安區光武里大安路一段26號號旁",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=14595273907409132117",
         "note":  "",
         "createdAt":  1730306921000
@@ -20707,7 +20707,7 @@
         "address":  "110台灣臺北市信義區五常里松信路70號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18269955389209745947",
         "note":  "",
         "createdAt":  1730306666000
@@ -20718,7 +20718,7 @@
         "address":  "110台灣臺北市信義區興雅里永吉路30巷158弄2號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14726022730375731449",
         "note":  "",
         "createdAt":  1730306646000
@@ -20740,7 +20740,7 @@
         "address":  "110台灣臺北市信義區興雅里永吉路30巷158弄1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=6439319213922402239",
         "note":  "",
         "createdAt":  1730306613000
@@ -20751,7 +20751,7 @@
         "address":  "350台灣苗栗縣竹南鎮公義里公義路",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2402075810659165782",
         "note":  "",
         "createdAt":  1730305960000
@@ -20762,7 +20762,7 @@
         "address":  "350台灣苗栗縣竹南鎮新竹市香山區公義路(二高香山交流道下左手邊",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=8829806188673410734",
         "note":  "",
         "createdAt":  1730305955000
@@ -20773,7 +20773,7 @@
         "address":  "403台灣臺中市西區吉龍里美村路一段598號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4843100920092542674",
         "note":  "",
         "createdAt":  1730305554000
@@ -20784,7 +20784,7 @@
         "address":  "103台灣臺北市大同區玉泉里延平北路一段66巷17號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15232974721064969373",
         "note":  "",
         "createdAt":  1730208672000
@@ -20806,7 +20806,7 @@
         "address":  "90 Hùng Vương, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5423764435960124639",
         "note":  "",
         "createdAt":  1730077169000
@@ -20817,7 +20817,7 @@
         "address":  "30 Hà Bổng, An Hải, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=503515239464057374",
         "note":  "",
         "createdAt":  1730077112000
@@ -20828,7 +20828,7 @@
         "address":  "55 P. Lò Sũ, French Quarter, Hoàn Kiếm, Hà Nội, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=18146268702732392013",
         "note":  "",
         "createdAt":  1730076894000
@@ -20861,7 +20861,7 @@
         "address":  "2 Singharat Rd Old City Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15080514022877085531",
         "note":  "",
         "createdAt":  1730047446000
@@ -20872,29 +20872,29 @@
         "address":  "228 Võ Nguyên Giáp, An Hải, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1280184014731027025",
         "note":  "",
         "createdAt":  1730044608000
     },
     {
         "id":  "star_1899",
-        "name":  "口袋名單地點 1899",
+        "name":  "口袋地點 1899",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=550000%E8%B6%8A%E5%8D%97%E5%B3%B4%E6%B8%AF%E5%B1%B1%E8%8C%B6%E9%83%A1+M%E1%BB%B9+An,+Ph%C6%B0%E1%BB%9Bc+M%E1%BB%B9,+%E7%BE%8E%E6%BA%AA%E6%B2%99%E7%81%98\u0026ftid=0x3142177a66590321:0xf36c13917474b9d",
         "note":  "",
         "createdAt":  1730040206000
     },
     {
         "id":  "star_1900",
-        "name":  "口袋名單地點 1900",
+        "name":  "口袋地點 1900",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=16.061633,108.231977",
         "note":  "",
         "createdAt":  1730040192000
@@ -20905,7 +20905,7 @@
         "address":  "119 Trần Phú, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10426483548095678271",
         "note":  "",
         "createdAt":  1730040148000
@@ -20916,7 +20916,7 @@
         "address":  "156 Trần Phú, Hải Châu, Đà Nẵng 551000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13445938970984098428",
         "note":  "",
         "createdAt":  1730039970000
@@ -20927,7 +20927,7 @@
         "address":  "114 Bạch Đằng, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15967010791412460319",
         "note":  "",
         "createdAt":  1730039949000
@@ -20938,7 +20938,7 @@
         "address":  "98-96 Bạch Đằng, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9168270420797327174",
         "note":  "",
         "createdAt":  1730039901000
@@ -20960,7 +20960,7 @@
         "address":  "34-36 Bạch Đằng, Hải Châu, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11966460888363394722",
         "note":  "",
         "createdAt":  1730039736000
@@ -20971,7 +20971,7 @@
         "address":  "79 Hà Bổng, An Hải, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16219618222821660480",
         "note":  "",
         "createdAt":  1730039693000
@@ -20993,7 +20993,7 @@
         "address":  "115 Đ. Trần Cao Vân, Hội An, Đà Nẵng, 越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4798232737550115239",
         "note":  "",
         "createdAt":  1730039545000
@@ -21011,11 +21011,11 @@
     },
     {
         "id":  "star_1911",
-        "name":  "口袋名單地點 1911",
+        "name":  "口袋地點 1911",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=21.033487,105.854762",
         "note":  "",
         "createdAt":  1730039377000
@@ -21033,11 +21033,11 @@
     },
     {
         "id":  "star_1913",
-        "name":  "口袋名單地點 1913",
+        "name":  "口袋地點 1913",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Duy+Ph%C3%BA,+%E7%B6%AD%E5%B7%9D%E7%B8%A3%E5%BB%A3%E5%8D%97%E7%9C%81%E8%B6%8A%E5%8D%97\u0026ftid=0x314200ef94441fab:0x51335c72930a68ac",
         "note":  "",
         "createdAt":  1730039000000
@@ -21048,7 +21048,7 @@
         "address":  "170 Nguyễn Duy Hiệu, Hội An Đông, Đà Nẵng 51000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18430754392021822776",
         "note":  "",
         "createdAt":  1730038953000
@@ -21059,7 +21059,7 @@
         "address":  "65/115, Tô Hiến Thành, An Hải, Đà Nẵng 550000越南",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1744476019116734442",
         "note":  "",
         "createdAt":  1730036892000
@@ -21136,7 +21136,7 @@
         "address":  "251台灣新北市淡水區長庚里中山路68-4號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15037694796349172806",
         "note":  "",
         "createdAt":  1730006551000
@@ -21147,7 +21147,7 @@
         "address":  "251台灣新北市淡水區中正路21巷8號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5359903169704294079",
         "note":  "",
         "createdAt":  1730006315000
@@ -21169,7 +21169,7 @@
         "address":  "25242台灣新北市三芝區土地公坑路54之6號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14838886732340787973",
         "note":  "",
         "createdAt":  1729998691000
@@ -21180,7 +21180,7 @@
         "address":  "252台灣新北市三芝區後厝里北勢子12-1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5710709788009210141",
         "note":  "",
         "createdAt":  1729998670000
@@ -21202,7 +21202,7 @@
         "address":  "962台灣臺東縣長濱鄉長濱村142-10號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6611006493905844377",
         "note":  "",
         "createdAt":  1729940582000
@@ -21213,7 +21213,7 @@
         "address":  "202台灣基隆市中正區北寧路369巷61號北棟橋區四樓空",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=339237841219353083",
         "note":  "",
         "createdAt":  1729870245000
@@ -21246,7 +21246,7 @@
         "address":  "33, 2 Sri Poom Rd Old City Si Phum, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=11761212821008606879",
         "note":  "",
         "createdAt":  1729611243000
@@ -21257,7 +21257,7 @@
         "address":  "Wat Chaiwattanaram, Tambon Ban Pom, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5830667865964981689",
         "note":  "",
         "createdAt":  1729591047000
@@ -21268,7 +21268,7 @@
         "address":  "110台灣臺北市信義區西村里松壽路12號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6986251514958499168",
         "note":  "",
         "createdAt":  1729413891000
@@ -21290,7 +21290,7 @@
         "address":  "110台灣臺北市信義區西村里松壽路20號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14293479417138097012",
         "note":  "",
         "createdAt":  1729235151000
@@ -21367,7 +21367,7 @@
         "address":  "202台灣基隆市中正區港通里義一路68號號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6410761739057216299",
         "note":  "",
         "createdAt":  1728889916000
@@ -21411,7 +21411,7 @@
         "address":  "555台灣南投縣魚池鄉新城村修正巷39-11號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "咖啡廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=13769022311559139006",
         "note":  "",
         "createdAt":  1728805270000
@@ -21466,7 +21466,7 @@
         "address":  "100台灣臺北市中正區建國里中華路一段77-2號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9927727583790807834",
         "note":  "",
         "createdAt":  1728369146000
@@ -21477,7 +21477,7 @@
         "address":  "10675台灣臺北市大安區虎嘯里和平東路三段70之3號2樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7484584903630826612",
         "note":  "",
         "createdAt":  1728369084000
@@ -21488,7 +21488,7 @@
         "address":  "110台灣臺北市信義區興雅里忠孝東路五段59號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15626691606087444598",
         "note":  "",
         "createdAt":  1727700137000
@@ -21499,7 +21499,7 @@
         "address":  "106台灣臺北市大安區仁慈里復興南路一段263號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18203910140661219091",
         "note":  "",
         "createdAt":  1727700126000
@@ -21510,7 +21510,7 @@
         "address":  "28 Gwangan-ro 61beon-gil, Suyeong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15695063149324087292",
         "note":  "",
         "createdAt":  1727501610000
@@ -21554,7 +21554,7 @@
         "address":  "553台灣南投縣水里鄉郡坑村水信路二段8號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15096568368243108207",
         "note":  "",
         "createdAt":  1726650291000
@@ -21576,7 +21576,7 @@
         "address":  "403台灣臺中市西區土庫里五權五街210巷26號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5898509780915060342",
         "note":  "",
         "createdAt":  1726277128000
@@ -21587,7 +21587,7 @@
         "address":  "No. 8號, Lane 181, Section 4, Zhongxiao E Rd, 建安里大安區臺北市台灣 106",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1269331312168866140",
         "note":  "",
         "createdAt":  1726267111000
@@ -21609,7 +21609,7 @@
         "address":  "221台灣新北市汐止區仁德里和平街46巷17號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=678545058713697932",
         "note":  "",
         "createdAt":  1726189222000
@@ -21642,7 +21642,7 @@
         "address":  "403台灣臺中市西區中興里公正路99號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15171251830698538621",
         "note":  "",
         "createdAt":  1725520034000
@@ -21664,7 +21664,7 @@
         "address":  "260台灣宜蘭縣宜蘭市進士里進士路二段8號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14205331809505381212",
         "note":  "",
         "createdAt":  1725283318000
@@ -21686,7 +21686,7 @@
         "address":  "10597台灣臺北市松山區安平里南京東路五段291巷",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11371043177572446134",
         "note":  "",
         "createdAt":  1724854514000
@@ -21697,7 +21697,7 @@
         "address":  "105台灣臺北市松山區吉仁里延吉街2號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17350739464299727476",
         "note":  "",
         "createdAt":  1724853978000
@@ -21741,7 +21741,7 @@
         "address":  "105台灣臺北市松山區民有里民權東路三段160巷15號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2361980975721757824",
         "note":  "",
         "createdAt":  1724567422000
@@ -21796,7 +21796,7 @@
         "address":  "112台灣臺北市北投區溫泉里公舘路5號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "景點",
+        "category":  "餐廳",
         "url":  "http://maps.google.com/?cid=6620514278128053048",
         "note":  "",
         "createdAt":  1724424859000
@@ -21851,7 +21851,7 @@
         "address":  "700台灣臺南市中西區開山里開山路317號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3577803294514236899",
         "note":  "",
         "createdAt":  1723645088000
@@ -21862,7 +21862,7 @@
         "address":  "305台灣新竹縣新埔鎮新生里廣和路3號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16515094885775047598",
         "note":  "",
         "createdAt":  1723219381000
@@ -21924,11 +21924,11 @@
     },
     {
         "id":  "star_1994",
-        "name":  "口袋名單地點 1994",
+        "name":  "口袋地點 1994",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=413%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%9C%A7%E5%B3%B0%E5%8D%80%E6%9E%97%E6%A3%AE%E8%B7%AF720%E8%99%9F\u0026ftid=0x34693b5b492363af:0xf75c59f99df421c6",
         "note":  "",
         "createdAt":  1722223697000
@@ -21939,7 +21939,7 @@
         "address":  "39 Suyeong-ro 680beon-gil, Suyeong-gu, Busan, 南韓",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7151643789735005725",
         "note":  "",
         "createdAt":  1721819410000
@@ -21950,7 +21950,7 @@
         "address":  "南韓 Busan, Haeundae-gu, Gunam-ro 24beon-gil, 391층",
         "scope":  "INTL",
         "region":  "韓國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3534191194405097975",
         "note":  "",
         "createdAt":  1721819341000
@@ -22005,7 +22005,7 @@
         "address":  "203台灣基隆市中山區安民里安一路No. 63",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=17099889513439179762",
         "note":  "",
         "createdAt":  1721275311000
@@ -22016,7 +22016,7 @@
         "address":  "231台灣新北市新店區中興路三段70號2樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3124086461913690913",
         "note":  "",
         "createdAt":  1721209950000
@@ -22060,7 +22060,7 @@
         "address":  "100台灣臺北市中正區南福里羅斯福路二段40號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=10112202705429212141",
         "note":  "",
         "createdAt":  1719539030000
@@ -22115,7 +22115,7 @@
         "address":  "10550台灣臺北市松山區中正里南京東路三段256巷24號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2263833370554495092",
         "note":  "",
         "createdAt":  1718969281000
@@ -22126,7 +22126,7 @@
         "address":  "115台灣臺北市南港區萬福里玉成街128號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=12940327846096104915",
         "note":  "",
         "createdAt":  1718546895000
@@ -22192,7 +22192,7 @@
         "address":  "400台灣臺中市中區中華里中華路一段81號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3692929914514302658",
         "note":  "",
         "createdAt":  1717666956000
@@ -22210,11 +22210,11 @@
     },
     {
         "id":  "star_2020",
-        "name":  "口袋名單地點 2020",
+        "name":  "口袋地點 2020",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=406%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%B1%AF%E5%8D%80%E6%95%A6%E5%AF%8C%E8%B7%AF739%E8%99%9F\u0026ftid=0x346917815b055fad:0x50f07ed32f28d5c9",
         "note":  "",
         "createdAt":  1717598370000
@@ -22225,7 +22225,7 @@
         "address":  "402台灣臺中市南區福興里美村路二段271號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3458584642215977467",
         "note":  "",
         "createdAt":  1717572164000
@@ -22247,7 +22247,7 @@
         "address":  "407台灣臺中市西屯區何源里成都路169號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8313797813471125276",
         "note":  "",
         "createdAt":  1717140057000
@@ -22258,7 +22258,7 @@
         "address":  "103台灣臺北市大同區延平里歸綏街181號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=14745929129741656979",
         "note":  "",
         "createdAt":  1717136488000
@@ -22280,7 +22280,7 @@
         "address":  "台灣新竹縣尖石鄉玉峰村1鄰9號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11504537433014089751",
         "note":  "",
         "createdAt":  1717061125000
@@ -22302,7 +22302,7 @@
         "address":  "433台灣臺中市沙鹿區鹿峰里錦衣街143號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3958925873155593178",
         "note":  "",
         "createdAt":  1716883783000
@@ -22324,18 +22324,18 @@
         "address":  "406台灣臺中市北屯區和平里環中東路二段125之3號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7149736121638917985",
         "note":  "",
         "createdAt":  1716716541000
     },
     {
         "id":  "star_2031",
-        "name":  "口袋名單地點 2031",
+        "name":  "口袋地點 2031",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=221%E6%96%B0%E5%8C%97%E5%B8%82%E6%B1%90%E6%AD%A2%E5%8D%80%E6%B0%B4%E6%BA%90%E8%B7%AF%E4%B8%80%E6%AE%B5291%E5%B7%B72%E5%BC%846%E8%99%9F\u0026ftid=0x345d5368828570ab:0xb28ec51fb62168fd",
         "note":  "",
         "createdAt":  1715322491000
@@ -22357,7 +22357,7 @@
         "address":  "270台灣宜蘭縣蘇澳鎮新城里新城一路30號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=8800767189676435141",
         "note":  "",
         "createdAt":  1714699825000
@@ -22379,7 +22379,7 @@
         "address":  "272台灣宜蘭縣南澳鄉",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13456315824517838557",
         "note":  "",
         "createdAt":  1714696235000
@@ -22412,7 +22412,7 @@
         "address":  "429台灣臺中市神岡區大社里大漢街134號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14036320422639340957",
         "note":  "",
         "createdAt":  1713011266000
@@ -22423,7 +22423,7 @@
         "address":  "633台灣雲林縣土庫鎮忠正里中山路157號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13851448077494696080",
         "note":  "",
         "createdAt":  1712976092000
@@ -22456,7 +22456,7 @@
         "address":  "203台灣基隆市安樂區安一路123號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=9181327137777558505",
         "note":  "",
         "createdAt":  1712762306000
@@ -22478,7 +22478,7 @@
         "address":  "108台灣臺北市萬華區萬壽里漢口街二段54-4號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9271254623128735527",
         "note":  "",
         "createdAt":  1712322599000
@@ -22500,7 +22500,7 @@
         "address":  "260台灣宜蘭縣宜蘭市民族里神農路二段17號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13825290310701222146",
         "note":  "",
         "createdAt":  1712038633000
@@ -22511,7 +22511,7 @@
         "address":  "100台灣臺北市中正區忠勤里中華路二段313巷29號1 樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=10455300008599922",
         "note":  "",
         "createdAt":  1711974185000
@@ -22522,7 +22522,7 @@
         "address":  "403台灣臺中市西區大忠里大忠南街49號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11219697177408808504",
         "note":  "",
         "createdAt":  1711021049000
@@ -22577,7 +22577,7 @@
         "address":  "242台灣新北市新莊區建福里後港一路127號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16031217964817707303",
         "note":  "",
         "createdAt":  1710167821000
@@ -22599,7 +22599,7 @@
         "address":  "No. 7號, Alley 4, Lane 345, Section 4, Ren\u0027ai Rd, 車層里大安區臺北市台灣 106",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1962296597599714601",
         "note":  "",
         "createdAt":  1709992115000
@@ -22610,7 +22610,7 @@
         "address":  "110台灣臺北市信義區中興里光復南路519巷9號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17522244035928102994",
         "note":  "",
         "createdAt":  1709990358000
@@ -22621,7 +22621,7 @@
         "address":  "600台灣嘉義市東區國華里北榮街113號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8927531384423309745",
         "note":  "",
         "createdAt":  1709466762000
@@ -22654,7 +22654,7 @@
         "address":  "600台灣嘉義市西區番社里中山路454號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17111533617857531233",
         "note":  "",
         "createdAt":  1709382344000
@@ -22676,7 +22676,7 @@
         "address":  "600台灣嘉義市東區民族里蘭井街78號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2604128354464378772",
         "note":  "",
         "createdAt":  1709374417000
@@ -22709,7 +22709,7 @@
         "address":  "207台灣新北市萬里區萬里里瑪鋉路69號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5480482841736612931",
         "note":  "",
         "createdAt":  1709087114000
@@ -22720,7 +22720,7 @@
         "address":  "203台灣基隆市中山區德安里復興路287號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10483529346807339909",
         "note":  "",
         "createdAt":  1709038123000
@@ -22808,7 +22808,7 @@
         "address":  "600台灣嘉義市東區民族里光華路47號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13912614680310074400",
         "note":  "",
         "createdAt":  1708687991000
@@ -22830,7 +22830,7 @@
         "address":  "242台灣新北市新莊區四維里四維路197巷",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=6754756881222332117",
         "note":  "",
         "createdAt":  1708498051000
@@ -22841,7 +22841,7 @@
         "address":  "600台灣嘉義市東區成仁街209號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7638910412035300763",
         "note":  "",
         "createdAt":  1708349283000
@@ -22885,7 +22885,7 @@
         "address":  "263台灣宜蘭縣壯圍鄉美城村美功路一段168號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13355357630027109683",
         "note":  "",
         "createdAt":  1708236219000
@@ -22896,7 +22896,7 @@
         "address":  "261台灣宜蘭縣頭城鎮和平街131號民鋒路街上店面 搬遷位置-頭城火車站直走3分鐘-公休日查詢FB頭城",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=4793077734499591283",
         "note":  "",
         "createdAt":  1708223861000
@@ -22940,7 +22940,7 @@
         "address":  "265台灣宜蘭縣羅東鎮集祥里公正街36號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10529360929194070258",
         "note":  "",
         "createdAt":  1708151162000
@@ -22951,7 +22951,7 @@
         "address":  "260台灣宜蘭縣宜蘭市中山里西後街120號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3865263175486707699",
         "note":  "",
         "createdAt":  1708065852000
@@ -22984,7 +22984,7 @@
         "address":  "600台灣嘉義市東區忠孝路口號光彩街",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=636722008248337846",
         "note":  "",
         "createdAt":  1708002661000
@@ -23050,7 +23050,7 @@
         "address":  "103台灣臺北市大同區南芳里迪化街一段311號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11052432299428360913",
         "note":  "",
         "createdAt":  1707377667000
@@ -23061,7 +23061,7 @@
         "address":  "242台灣新北市新莊區後港里後港一路72號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=12456376318654392512",
         "note":  "",
         "createdAt":  1707145677000
@@ -23072,7 +23072,7 @@
         "address":  "108台灣臺北市萬華區西門里昆明街109號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16236709468913057534",
         "note":  "",
         "createdAt":  1707145324000
@@ -23083,7 +23083,7 @@
         "address":  "104台灣臺北市中山區集英里天祥路39號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7017299214384653405",
         "note":  "",
         "createdAt":  1707125591000
@@ -23134,11 +23134,11 @@
     },
     {
         "id":  "star_2104",
-        "name":  "口袋名單地點 2104",
+        "name":  "口袋地點 2104",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.934295,121.643890",
         "note":  "",
         "createdAt":  1706768952000
@@ -23160,7 +23160,7 @@
         "address":  "110台灣臺北市信義區松友里松德路293號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12824642301209978705",
         "note":  "",
         "createdAt":  1706422888000
@@ -23171,7 +23171,7 @@
         "address":  "105台灣臺北市松山區中正里復興北路81巷33號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14059706587226717108",
         "note":  "",
         "createdAt":  1706187672000
@@ -23182,7 +23182,7 @@
         "address":  "600台灣嘉義市西區導明里民生南路54號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13481592336145709839",
         "note":  "",
         "createdAt":  1706167953000
@@ -23204,7 +23204,7 @@
         "address":  "600台灣嘉義市東區華南里民國路87號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14201883814467860035",
         "note":  "",
         "createdAt":  1706157598000
@@ -23233,11 +23233,11 @@
     },
     {
         "id":  "star_2113",
-        "name":  "口袋名單地點 2113",
+        "name":  "口袋地點 2113",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.226547,120.971781",
         "note":  "",
         "createdAt":  1705831472000
@@ -23288,11 +23288,11 @@
     },
     {
         "id":  "star_2118",
-        "name":  "口袋名單地點 2118",
+        "name":  "口袋地點 2118",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.169177,121.629549",
         "note":  "",
         "createdAt":  1705043043000
@@ -23325,7 +23325,7 @@
         "address":  "912台灣屏東縣內埔鄉內田村廣濟路171號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8269852209096053747",
         "note":  "",
         "createdAt":  1704874312000
@@ -23347,7 +23347,7 @@
         "address":  "600台灣嘉義市東區林森里忠孝路228號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14686723898233865206",
         "note":  "",
         "createdAt":  1702780617000
@@ -23358,7 +23358,7 @@
         "address":  "5 Chome-11-13 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2395771093022674045",
         "note":  "",
         "createdAt":  1702653519000
@@ -23369,18 +23369,18 @@
         "address":  "日本〒506-0017 Gifu, Takayama, Asahimachi, 11-4 ばらビル 1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3555872448019418553",
         "note":  "",
         "createdAt":  1702641231000
     },
     {
         "id":  "star_2126",
-        "name":  "口袋名單地點 2126",
+        "name":  "口袋地點 2126",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.206704,120.547316",
         "note":  "",
         "createdAt":  1702623670000
@@ -23402,7 +23402,7 @@
         "address":  "日本〒131-0045 Tokyo, Sumida City, Oshiage, 1 Chome−1−2 東京スカイツリータウン ソラマチ ３０F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2462583482041726728",
         "note":  "",
         "createdAt":  1702595746000
@@ -23413,7 +23413,7 @@
         "address":  "日本〒100-0011 Tokyo, Chiyoda City, Uchisaiwaicho, 1 Chome−7−1 日比谷オクロジＨ01",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14966269466568838706",
         "note":  "",
         "createdAt":  1702595616000
@@ -23424,7 +23424,7 @@
         "address":  "4 Chome-13-9 Tsukiji, Chuo City, Tokyo 104-0045日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12760659092900905890",
         "note":  "",
         "createdAt":  1702473642000
@@ -23435,7 +23435,7 @@
         "address":  "4 Chome-9-12 Tsukiji, Chuo City, Tokyo 104-0045日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10762732184996540674",
         "note":  "",
         "createdAt":  1702473550000
@@ -23457,7 +23457,7 @@
         "address":  "日本〒150-0042 Tokyo, Shibuya, Udagawacho, 15−1 渋谷パルコ B1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5819734270803457688",
         "note":  "",
         "createdAt":  1702470115000
@@ -23468,7 +23468,7 @@
         "address":  "600台灣嘉義市東區朝陽里民族路25號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11283850247032744433",
         "note":  "",
         "createdAt":  1702353322000
@@ -23490,7 +23490,7 @@
         "address":  "115014台灣臺北市南港區中南里中南街50號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3892332216968179724",
         "note":  "",
         "createdAt":  1701831784000
@@ -23501,7 +23501,7 @@
         "address":  "No.26 Lane, No. 727東坑路東勢區臺中市台灣 42345",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "住宿/飯店",
         "url":  "http://maps.google.com/?cid=8756451433230297467",
         "note":  "",
         "createdAt":  1701827725000
@@ -23523,7 +23523,7 @@
         "address":  "110台灣臺北市信義區黎平里崇德街38巷30號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2834629441669710908",
         "note":  "",
         "createdAt":  1701766222000
@@ -23545,7 +23545,7 @@
         "address":  "408台灣臺中市南屯區惠中里大英西二街71號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13662658138823502846",
         "note":  "",
         "createdAt":  1701544095000
@@ -23589,7 +23589,7 @@
         "address":  "10491台灣臺北市中山區中原里南京東路二段21巷9號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8412587890853079888",
         "note":  "",
         "createdAt":  1701266442000
@@ -23611,7 +23611,7 @@
         "address":  "100台灣臺北市中正區文盛里羅斯福路三段316巷8弄3號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10180140947890385693",
         "note":  "",
         "createdAt":  1701177904000
@@ -23633,7 +23633,7 @@
         "address":  "307台灣新竹縣芎林鄉芎林村文昌街250號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6513479811304121676",
         "note":  "",
         "createdAt":  1700898466000
@@ -23644,7 +23644,7 @@
         "address":  "365台灣苗栗縣泰安鄉梅園村大鹿林道東線",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5370190975671422354",
         "note":  "",
         "createdAt":  1700835586000
@@ -23655,7 +23655,7 @@
         "address":  "702台灣臺南市南區文南里南功街85巷20號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11502806032587750083",
         "note":  "",
         "createdAt":  1700664262000
@@ -23666,7 +23666,7 @@
         "address":  "700台灣臺南市中西區淺草里國華街三段48號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1852789902760662569",
         "note":  "",
         "createdAt":  1700663776000
@@ -23677,7 +23677,7 @@
         "address":  "95043台灣臺東縣臺東市大同路212巷4號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14471253989453319940",
         "note":  "",
         "createdAt":  1700463866000
@@ -23688,7 +23688,7 @@
         "address":  "No. 8號, Lane 194, Donglin Rd, 鷄林里竹東鎮新竹縣台灣 310",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=414924355400389138",
         "note":  "",
         "createdAt":  1700386353000
@@ -23699,7 +23699,7 @@
         "address":  "115台灣臺北市南港區南港里南港路一段255號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2226711451845070720",
         "note":  "",
         "createdAt":  1700383652000
@@ -23743,7 +23743,7 @@
         "address":  "970台灣花蓮縣花蓮市國治里三民街62號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11041861684896776683",
         "note":  "",
         "createdAt":  1700216663000
@@ -23754,7 +23754,7 @@
         "address":  "95941台灣臺東縣東河鄉都蘭村61號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17853797077428331277",
         "note":  "",
         "createdAt":  1700197320000
@@ -23776,7 +23776,7 @@
         "address":  "950台灣臺東縣臺東市民生里上海街14巷17弄2號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2493353020106253173",
         "note":  "",
         "createdAt":  1700180786000
@@ -23798,7 +23798,7 @@
         "address":  "959台灣臺東縣東河鄉東河村金樽產業道路80號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15468721340624127494",
         "note":  "",
         "createdAt":  1700145498000
@@ -23853,7 +23853,7 @@
         "address":  "956台灣臺東縣關山鎮中福里中華路60號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3188506662856026186",
         "note":  "",
         "createdAt":  1700109887000
@@ -23864,18 +23864,18 @@
         "address":  "956台灣臺東縣關山鎮中福里和平路87-5號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10368777415340825242",
         "note":  "",
         "createdAt":  1700109845000
     },
     {
         "id":  "star_2171",
-        "name":  "口袋名單地點 2171",
+        "name":  "口袋地點 2171",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.037182,121.558451",
         "note":  "",
         "createdAt":  1699855721000
@@ -23886,7 +23886,7 @@
         "address":  "962台灣臺東縣長濱鄉三間村4鄰70之15號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1408421919270655817",
         "note":  "",
         "createdAt":  1699778319000
@@ -23897,7 +23897,7 @@
         "address":  "961台灣臺東縣長濱鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15315931567442047760",
         "note":  "",
         "createdAt":  1699777950000
@@ -23908,7 +23908,7 @@
         "address":  "No. 269號, Zhongxiao Rd, 福原村池上鄉臺東縣台灣 95861",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10005733042573208906",
         "note":  "",
         "createdAt":  1699684118000
@@ -23941,7 +23941,7 @@
         "address":  "963台灣臺東縣太麻里鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1202492310730366742",
         "note":  "",
         "createdAt":  1699619212000
@@ -23952,7 +23952,7 @@
         "address":  "959台灣臺東縣東河鄉七里橋11號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13609159627643507416",
         "note":  "",
         "createdAt":  1699617194000
@@ -23996,7 +23996,7 @@
         "address":  "958台灣臺東縣池上鄉福原村中正路50號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13728215882787978272",
         "note":  "",
         "createdAt":  1699605616000
@@ -24018,7 +24018,7 @@
         "address":  "No. 17號, Zhejiang Rd, 民生里臺東市臺東縣台灣 950",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7026529138966023676",
         "note":  "",
         "createdAt":  1699549757000
@@ -24029,7 +24029,7 @@
         "address":  "96143台灣臺東縣成功鎮忠智里新生路53號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=985260288810187364",
         "note":  "",
         "createdAt":  1699548894000
@@ -24051,7 +24051,7 @@
         "address":  "974台灣花蓮縣壽豐鄉豐坪路三段289號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2707169257918513152",
         "note":  "",
         "createdAt":  1699547229000
@@ -24062,7 +24062,7 @@
         "address":  "974台灣花蓮縣壽豐鄉鹽寮村17號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8270745570105656407",
         "note":  "",
         "createdAt":  1699544405000
@@ -24073,7 +24073,7 @@
         "address":  "958台灣臺東縣池上鄉福原村新生路193號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11065639023376723186",
         "note":  "",
         "createdAt":  1699517480000
@@ -24084,7 +24084,7 @@
         "address":  "957台灣臺東縣海端鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "景點",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6351795502145837110",
         "note":  "",
         "createdAt":  1699517267000
@@ -24102,11 +24102,11 @@
     },
     {
         "id":  "star_2192",
-        "name":  "口袋名單地點 2192",
+        "name":  "口袋地點 2192",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=406%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8C%97%E5%B1%AF%E5%8D%80%E8%BB%8D%E7%A6%8F%E5%8D%81%E4%B8%89%E8%B7%AF258-1%E8%99%9F\u0026ftid=0x3469181834a2ec29:0xf145a001d9c67583",
         "note":  "",
         "createdAt":  1699501062000
@@ -24117,7 +24117,7 @@
         "address":  "106台灣臺北市大安區芳和里臥龍街151巷10號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=11248607532099100028",
         "note":  "",
         "createdAt":  1699452603000
@@ -24183,7 +24183,7 @@
         "address":  "106台灣臺北市大安區通安里通化街38巷4號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6960873967749187238",
         "note":  "",
         "createdAt":  1699096508000
@@ -24194,7 +24194,7 @@
         "address":  "106台灣臺北市大安區通化里臨江街87號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14796615381474180397",
         "note":  "",
         "createdAt":  1699096397000
@@ -24227,7 +24227,7 @@
         "address":  "104台灣臺北市中山區集英里中山北路二段116巷2-7號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13165077509696739308",
         "note":  "",
         "createdAt":  1699095040000
@@ -24249,7 +24249,7 @@
         "address":  "880台灣澎湖縣馬公市朝陽里三多路75-2號",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17600041633939299710",
         "note":  "",
         "createdAt":  1698847199000
@@ -24293,7 +24293,7 @@
         "address":  "403台灣臺中市西區中興里美村路一段203號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=13560397093329266659",
         "note":  "",
         "createdAt":  1698655393000
@@ -24304,7 +24304,7 @@
         "address":  "200台灣基隆市仁愛區文昌里港西街43號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=3324319960796994152",
         "note":  "",
         "createdAt":  1698500711000
@@ -24315,7 +24315,7 @@
         "address":  "221台灣新北市汐止區文化里水源路一段293號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2296791116884695451",
         "note":  "",
         "createdAt":  1698379983000
@@ -24370,7 +24370,7 @@
         "address":  "241台灣新北市三重區錦通里中央北路26號中央市場前",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8502256749166438062",
         "note":  "",
         "createdAt":  1698148918000
@@ -24381,7 +24381,7 @@
         "address":  "241台灣新北市三重區錦安里文化北路61-2號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "景點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4787697916136484092",
         "note":  "",
         "createdAt":  1698148727000
@@ -24392,7 +24392,7 @@
         "address":  "241台灣新北市三重區錦安里文化北路59號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8020823582917067207",
         "note":  "",
         "createdAt":  1698148694000
@@ -24425,7 +24425,7 @@
         "address":  "406台灣臺中市北屯區北平路四段68號東光市場內",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2488756504571711949",
         "note":  "",
         "createdAt":  1697946659000
@@ -24458,7 +24458,7 @@
         "address":  "110台灣臺北市信義區興雅里忠孝東路五段143號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=3357481888888724581",
         "note":  "",
         "createdAt":  1697620015000
@@ -24480,7 +24480,7 @@
         "address":  "306台灣新竹縣關西鎮東安里中山東路127號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13374495921565384698",
         "note":  "",
         "createdAt":  1697532240000
@@ -24491,7 +24491,7 @@
         "address":  "No. 52, Zhongshan Rd, 北斗里關西鎮新竹縣台灣 306",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17455146731343700460",
         "note":  "",
         "createdAt":  1697532230000
@@ -24513,7 +24513,7 @@
         "address":  "306台灣新竹縣關西鎮北斗里光復路27號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2691160491670436280",
         "note":  "",
         "createdAt":  1697531587000
@@ -24524,7 +24524,7 @@
         "address":  "306台灣新竹縣關西鎮北斗里南京路16號號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16366692612014789814",
         "note":  "",
         "createdAt":  1697531545000
@@ -24557,7 +24557,7 @@
         "address":  "335021台灣桃園市大溪區一心里慈湖路37號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14406077868873911890",
         "note":  "",
         "createdAt":  1697527695000
@@ -24579,7 +24579,7 @@
         "address":  "306台灣新竹縣關西鎮北斗里中興路14號5樓",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1987252139848600585",
         "note":  "",
         "createdAt":  1697527537000
@@ -24612,7 +24612,7 @@
         "address":  "306台灣新竹縣關西鎮北斗里南京路20號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11973570697427681737",
         "note":  "",
         "createdAt":  1697527465000
@@ -24634,7 +24634,7 @@
         "address":  "311台灣新竹縣五峰鄉大隘村五峰246之3號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10040187306952360129",
         "note":  "",
         "createdAt":  1697505655000
@@ -24645,7 +24645,7 @@
         "address":  "311台灣新竹縣五峰鄉大隘村五峰247之5號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5906702776747661256",
         "note":  "",
         "createdAt":  1697505649000
@@ -24656,7 +24656,7 @@
         "address":  "232台灣新北市坪林區坪林里坪林街34號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17490226711578422519",
         "note":  "",
         "createdAt":  1697379084000
@@ -24689,7 +24689,7 @@
         "address":  "110台灣臺北市信義區新仁里忠孝東路四段553巷22弄37號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8634321817906454836",
         "note":  "",
         "createdAt":  1697104922000
@@ -24744,7 +24744,7 @@
         "address":  "244台灣新北市林口區菁湖里林口路138號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7445274902517497459",
         "note":  "",
         "createdAt":  1696991870000
@@ -24755,7 +24755,7 @@
         "address":  "249台灣新北市八里區大崁里中山路一段98號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10089356744087719139",
         "note":  "",
         "createdAt":  1696991746000
@@ -24766,7 +24766,7 @@
         "address":  "249台灣新北市八里區訊塘里中山路二段572號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9966318861564679429",
         "note":  "",
         "createdAt":  1696986264000
@@ -24788,7 +24788,7 @@
         "address":  "110台灣臺北市信義區四育里松山路152號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11167176214886759016",
         "note":  "",
         "createdAt":  1696921044000
@@ -24821,7 +24821,7 @@
         "address":  "710台灣臺南市永康區東橋里東橋一路298號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=677780450403443130",
         "note":  "",
         "createdAt":  1696920684000
@@ -24865,7 +24865,7 @@
         "address":  "973台灣花蓮縣吉安鄉仁里村中正路一段95號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5348363341601517690",
         "note":  "",
         "createdAt":  1696850567000
@@ -24905,11 +24905,11 @@
     },
     {
         "id":  "star_2265",
-        "name":  "口袋名單地點 2265",
+        "name":  "口袋地點 2265",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=241%E6%96%B0%E5%8C%97%E5%B8%82%E4%B8%89%E9%87%8D%E5%8D%80%E9%9B%86%E8%B3%A2%E8%B7%AF137%E8%99%9F\u0026ftid=0x3442af2a4259ed8b:0x1674c62994446ed4",
         "note":  "",
         "createdAt":  1696581977000
@@ -24931,7 +24931,7 @@
         "address":  "408台灣臺中市南屯區南屯里五福街185號1F",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1356863676014679982",
         "note":  "",
         "createdAt":  1696319568000
@@ -24942,7 +24942,7 @@
         "address":  "436台灣臺中市清水區中興里中興街30-1號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8950535417995672563",
         "note":  "",
         "createdAt":  1696301836000
@@ -24953,7 +24953,7 @@
         "address":  "40444台灣臺中市北區新北里育才街4號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=14601251781602773009",
         "note":  "",
         "createdAt":  1696157354000
@@ -24964,7 +24964,7 @@
         "address":  "403台灣臺中市西區和龍里篤行路151號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14884992831736470692",
         "note":  "",
         "createdAt":  1696157077000
@@ -24997,18 +24997,18 @@
         "address":  "542台灣南投縣草屯鎮玉峰里中正路758號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7789550569905079979",
         "note":  "",
         "createdAt":  1696030394000
     },
     {
         "id":  "star_2274",
-        "name":  "口袋名單地點 2274",
+        "name":  "口袋地點 2274",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.955764,120.573884",
         "note":  "",
         "createdAt":  1695978172000
@@ -25063,7 +25063,7 @@
         "address":  "408台灣臺中市南屯區大同里大墩路264號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8527058433941004552",
         "note":  "",
         "createdAt":  1695825383000
@@ -25074,7 +25074,7 @@
         "address":  "404台灣臺中市北區健行里民權路480號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6745780748454437277",
         "note":  "",
         "createdAt":  1695822404000
@@ -25085,7 +25085,7 @@
         "address":  "436台灣臺中市清水區南寧里清水街49-1號隔壁",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13069260498389599515",
         "note":  "",
         "createdAt":  1695804425000
@@ -25107,7 +25107,7 @@
         "address":  "436台灣臺中市清水區中興里新興路268-1號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18186544203940427083",
         "note":  "",
         "createdAt":  1695803138000
@@ -25118,7 +25118,7 @@
         "address":  "436台灣臺中市清水區南寧里光華路206號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18383912776664288756",
         "note":  "",
         "createdAt":  1695802899000
@@ -25129,7 +25129,7 @@
         "address":  "號 No, No. 15中興街清水區臺中市台灣 436",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16347427928766152819",
         "note":  "",
         "createdAt":  1695802776000
@@ -25162,7 +25162,7 @@
         "address":  "632台灣雲林縣虎尾鎮新興里光復路223號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9070136855543382607",
         "note":  "",
         "createdAt":  1695794709000
@@ -25195,7 +25195,7 @@
         "address":  "234台灣新北市永和區店街里秀朗路一段44號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6698716015071730104",
         "note":  "",
         "createdAt":  1695694585000
@@ -25217,7 +25217,7 @@
         "address":  "No. 34號, Ganzhou St, 延平里大同區臺北市台灣 103",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17848569499085291022",
         "note":  "",
         "createdAt":  1695693503000
@@ -25228,7 +25228,7 @@
         "address":  "200台灣基隆市仁愛區和明里仁一路261號世紀首席大廈",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3926223946912970523",
         "note":  "",
         "createdAt":  1695648629000
@@ -25250,7 +25250,7 @@
         "address":  "717台灣臺南市仁德區後壁里德糖路376號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=285470692635976554",
         "note":  "",
         "createdAt":  1695469185000
@@ -25283,7 +25283,7 @@
         "address":  "400台灣臺中市中區綠川里綠川西街166號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11284468988475266511",
         "note":  "",
         "createdAt":  1695252679000
@@ -25367,11 +25367,11 @@
     },
     {
         "id":  "star_2307",
-        "name":  "口袋名單地點 2307",
+        "name":  "口袋地點 2307",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.174914,120.721153",
         "note":  "",
         "createdAt":  1694914581000
@@ -25393,7 +25393,7 @@
         "address":  "No. 34號（對面, Yumin 1st Rd, 振華里北投區臺北市台灣 112",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7959661047174487179",
         "note":  "",
         "createdAt":  1694701658000
@@ -25404,7 +25404,7 @@
         "address":  "732台灣臺南市白河區竹門里竹門114之1號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10611005036231267533",
         "note":  "",
         "createdAt":  1694591047000
@@ -25437,7 +25437,7 @@
         "address":  "No. 9號, Heping Rd, 福仁里大溪區桃園市台灣 335",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3886658179752576399",
         "note":  "",
         "createdAt":  1694326390000
@@ -25459,7 +25459,7 @@
         "address":  "239台灣新北市鶯歌區同慶里育英街67號3樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=16869559975308683757",
         "note":  "",
         "createdAt":  1694309614000
@@ -25470,7 +25470,7 @@
         "address":  "640台灣雲林縣斗六市公誠里長春路33號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9935466633190203245",
         "note":  "",
         "createdAt":  1694255251000
@@ -25481,7 +25481,7 @@
         "address":  "354台灣苗栗縣獅潭鄉新店村新店62號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14480480004899653779",
         "note":  "",
         "createdAt":  1693817681000
@@ -25492,7 +25492,7 @@
         "address":  "353台灣苗栗縣南庄鄉南富村29-11號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17037114117939810682",
         "note":  "",
         "createdAt":  1693814187000
@@ -25503,7 +25503,7 @@
         "address":  "408023台灣臺中市南屯區永定里永春東路1348號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10780201821500958801",
         "note":  "",
         "createdAt":  1693796207000
@@ -25536,7 +25536,7 @@
         "address":  "408台灣臺中市南屯區南屯里五權西路二段633號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=16991738703552820232",
         "note":  "",
         "createdAt":  1692613346000
@@ -25547,18 +25547,18 @@
         "address":  "249台灣新北市八里區2-16號2之16號後棟",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1328909644790597105",
         "note":  "",
         "createdAt":  1692340993000
     },
     {
         "id":  "star_2324",
-        "name":  "口袋名單地點 2324",
+        "name":  "口袋地點 2324",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=-8.422612,115.275188",
         "note":  "",
         "createdAt":  1692259259000
@@ -25587,11 +25587,11 @@
     },
     {
         "id":  "star_2327",
-        "name":  "口袋名單地點 2327",
+        "name":  "口袋地點 2327",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.153787,121.696949",
         "note":  "",
         "createdAt":  1690773550000
@@ -25613,7 +25613,7 @@
         "address":  "22158台灣新北市汐止區中興里 Zhongxing Rd, 152-1號2樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16085251354046035077",
         "note":  "",
         "createdAt":  1690538429000
@@ -25668,7 +25668,7 @@
         "address":  "714台灣臺南市玉井區玉井里",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7707103239213518923",
         "note":  "",
         "createdAt":  1689560100000
@@ -25756,7 +25756,7 @@
         "address":  "646台灣雲林縣古坑鄉東和村文化路175-1號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14770121811720414207",
         "note":  "",
         "createdAt":  1687790523000
@@ -25767,7 +25767,7 @@
         "address":  "No. 2號, Lane 281, Nuannuan St, 暖西里暖暖區基隆市台灣 205",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13529627582306753200",
         "note":  "",
         "createdAt":  1687768893000
@@ -25811,7 +25811,7 @@
         "address":  "717台灣臺南市仁德區仁德里文華路三段428巷111號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12025255883752336669",
         "note":  "",
         "createdAt":  1687704838000
@@ -25822,7 +25822,7 @@
         "address":  "200台灣基隆市仁愛區新店里孝二路93巷12號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6911309551323461948",
         "note":  "",
         "createdAt":  1687701227000
@@ -25884,33 +25884,33 @@
     },
     {
         "id":  "star_2354",
-        "name":  "口袋名單地點 2354",
+        "name":  "口袋地點 2354",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=38.642191,34.829439",
         "note":  "",
         "createdAt":  1687590522000
     },
     {
         "id":  "star_2355",
-        "name":  "口袋名單地點 2355",
+        "name":  "口袋地點 2355",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.741043,100.509946",
         "note":  "",
         "createdAt":  1686984300000
     },
     {
         "id":  "star_2356",
-        "name":  "口袋名單地點 2356",
+        "name":  "口袋地點 2356",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=34.980598,135.747786",
         "note":  "",
         "createdAt":  1686910392000
@@ -25954,7 +25954,7 @@
         "address":  "970台灣花蓮縣花蓮市民德里民權五街2號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8451094524588162540",
         "note":  "",
         "createdAt":  1686311122000
@@ -25965,7 +25965,7 @@
         "address":  "970台灣花蓮縣花蓮市國光里明禮路18-3號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2322427910628055288",
         "note":  "",
         "createdAt":  1686311060000
@@ -26009,7 +26009,7 @@
         "address":  "338台灣桃園市蘆竹區南榮里桃園街28號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4977218931913104631",
         "note":  "",
         "createdAt":  1685803723000
@@ -26031,7 +26031,7 @@
         "address":  "950台灣臺東縣臺東市文化里鐵花路258號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=835581567220373457",
         "note":  "",
         "createdAt":  1685701782000
@@ -26053,7 +26053,7 @@
         "address":  "105台灣臺北市松山區民有里敦化北路244巷51號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1044330364731420408",
         "note":  "",
         "createdAt":  1685548563000
@@ -26064,7 +26064,7 @@
         "address":  "200009台灣基隆市仁愛區愛四路",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6268421254688930718",
         "note":  "",
         "createdAt":  1685452885000
@@ -26075,7 +26075,7 @@
         "address":  "200001台灣基隆市仁愛區牛仔街123.124號攤販區",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=952891749257714049",
         "note":  "",
         "createdAt":  1685421675000
@@ -26097,7 +26097,7 @@
         "address":  "26051台灣宜蘭縣宜蘭市復興路一段38巷21號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3242350609447920577",
         "note":  "",
         "createdAt":  1685113894000
@@ -26141,7 +26141,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉三民村礁溪路三段56號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8782091773252520380",
         "note":  "",
         "createdAt":  1684982759000
@@ -26163,7 +26163,7 @@
         "address":  "221台灣新北市汐止區中興里福德二路169號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5207172483452199348",
         "note":  "",
         "createdAt":  1684907341000
@@ -26185,7 +26185,7 @@
         "address":  "No. 78, Sanmin St, 興德里三民區高雄市台灣 807",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17731735045725403474",
         "note":  "",
         "createdAt":  1684739066000
@@ -26214,11 +26214,11 @@
     },
     {
         "id":  "star_2384",
-        "name":  "口袋名單地點 2384",
+        "name":  "口袋地點 2384",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.029425,121.527608",
         "note":  "",
         "createdAt":  1684564918000
@@ -26240,7 +26240,7 @@
         "address":  "704台灣臺南市北區大興里公園路634巷21號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8175029358814789002",
         "note":  "",
         "createdAt":  1683976663000
@@ -26262,7 +26262,7 @@
         "address":  "700台灣臺南市中西區南門里南門路82號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=13052588845524378157",
         "note":  "",
         "createdAt":  1683976203000
@@ -26280,11 +26280,11 @@
     },
     {
         "id":  "star_2390",
-        "name":  "口袋名單地點 2390",
+        "name":  "口袋地點 2390",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.978337,121.607252",
         "note":  "",
         "createdAt":  1683618051000
@@ -26383,7 +26383,7 @@
         "address":  "900台灣屏東縣屏東市豐榮里廣東路63號號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=780902107775905676",
         "note":  "",
         "createdAt":  1682863742000
@@ -26394,7 +26394,7 @@
         "address":  "900台灣屏東縣屏東市光榮里信義路28號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15063972307039073178",
         "note":  "",
         "createdAt":  1682841965000
@@ -26416,7 +26416,7 @@
         "address":  "900台灣屏東縣屏東市信義路與號柳州街交叉口",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14009583936353278624",
         "note":  "",
         "createdAt":  1682747593000
@@ -26427,7 +26427,7 @@
         "address":  "407台灣臺中市西屯區西平里福星路461巷2號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7047306567756909746",
         "note":  "",
         "createdAt":  1682688174000
@@ -26438,18 +26438,18 @@
         "address":  "269台灣宜蘭縣冬山鄉武淵村武淵路103號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15699266454565824026",
         "note":  "",
         "createdAt":  1682680145000
     },
     {
         "id":  "star_2405",
-        "name":  "口袋名單地點 2405",
+        "name":  "口袋地點 2405",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=21.950810,120.795896",
         "note":  "",
         "createdAt":  1682650653000
@@ -26559,7 +26559,7 @@
         "address":  "700台灣臺南市中西區淺草里金華路三段208號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9110188463362244590",
         "note":  "",
         "createdAt":  1681919727000
@@ -26570,7 +26570,7 @@
         "address":  "700台灣臺南市中西區康樂街254號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18434585908437429015",
         "note":  "",
         "createdAt":  1681919629000
@@ -26614,7 +26614,7 @@
         "address":  "900台灣屏東縣屏東市永城里勝利路201號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=8507270814205977804",
         "note":  "",
         "createdAt":  1681873974000
@@ -26636,7 +26636,7 @@
         "address":  "900台灣屏東縣屏東市新生里和生路一段864-1號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16642037194729317963",
         "note":  "",
         "createdAt":  1681873823000
@@ -26691,7 +26691,7 @@
         "address":  "604台灣嘉義縣竹崎鄉中和村7鄰80號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1375907959047530760",
         "note":  "",
         "createdAt":  1681785831000
@@ -26702,7 +26702,7 @@
         "address":  "604台灣嘉義縣竹崎鄉中和村50-2號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=18438247133130528059",
         "note":  "",
         "createdAt":  1681785810000
@@ -26735,7 +26735,7 @@
         "address":  "600台灣嘉義市東區中山里民權路97號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10680760129881883605",
         "note":  "",
         "createdAt":  1681784271000
@@ -26746,7 +26746,7 @@
         "address":  "600台灣嘉義市東區蘭潭里大雅路二段581號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15424875803706730359",
         "note":  "",
         "createdAt":  1681784203000
@@ -26790,7 +26790,7 @@
         "address":  "621台灣嘉義縣民雄鄉中樂村昇平路1-1號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1550129066500383069",
         "note":  "",
         "createdAt":  1681747102000
@@ -26801,7 +26801,7 @@
         "address":  "605台灣嘉義縣阿里山鄉中正村",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=1969546008832065766",
         "note":  "",
         "createdAt":  1681703364000
@@ -26856,7 +26856,7 @@
         "address":  "616009台灣嘉義縣新港鄉大興村大興路19號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15084433768283395684",
         "note":  "",
         "createdAt":  1681612981000
@@ -26889,7 +26889,7 @@
         "address":  "710台灣臺南市永康區復國路85號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2923085311294317248",
         "note":  "",
         "createdAt":  1681483445000
@@ -26900,7 +26900,7 @@
         "address":  "710台灣臺南市永康區永康里永大五路151號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4871608126143899442",
         "note":  "",
         "createdAt":  1681483352000
@@ -26911,7 +26911,7 @@
         "address":  "710台灣臺南市永康區民族路536號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5433827840359697730",
         "note":  "",
         "createdAt":  1681483079000
@@ -26922,7 +26922,7 @@
         "address":  "600台灣嘉義市東區民族里忠孝路87號轉進來",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6613583897568699363",
         "note":  "",
         "createdAt":  1681429409000
@@ -26966,7 +26966,7 @@
         "address":  "823台灣高雄市田寮區日月禪寺",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=3070426967140643555",
         "note":  "",
         "createdAt":  1681394558000
@@ -26984,22 +26984,22 @@
     },
     {
         "id":  "star_2454",
-        "name":  "口袋名單地點 2454",
+        "name":  "口袋地點 2454",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=21.9179706,120.84300239999999",
         "note":  "",
         "createdAt":  1681387959000
     },
     {
         "id":  "star_2455",
-        "name":  "口袋名單地點 2455",
+        "name":  "口袋地點 2455",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Poelau+Pada,+Komodo,+%E8%A5%BF%E8%8A%92%E5%8A%A0%E8%90%8A%E7%B8%A3%E6%9D%B1%E5%8A%AA%E6%B2%99%E7%99%BB%E5%8A%A0%E6%8B%89%E5%8D%B0%E5%B0%BC\u0026ftid=0x2db4f84ff6cd01ab:0xf7e6fd33b692a898",
         "note":  "",
         "createdAt":  1681313808000
@@ -27054,7 +27054,7 @@
         "address":  "946台灣屏東縣恆春鎮500巷10號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7331454327562715881",
         "note":  "",
         "createdAt":  1681269748000
@@ -27065,7 +27065,7 @@
         "address":  "823台灣高雄市田寮區南安里",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11608764374018992283",
         "note":  "",
         "createdAt":  1681266634000
@@ -27109,18 +27109,18 @@
         "address":  "957台灣臺東縣海端鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10048574244811495772",
         "note":  "",
         "createdAt":  1681126504000
     },
     {
         "id":  "star_2466",
-        "name":  "口袋名單地點 2466",
+        "name":  "口袋地點 2466",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.257687840080155,120.91936022043228",
         "note":  "",
         "createdAt":  1681126410000
@@ -27138,33 +27138,33 @@
     },
     {
         "id":  "star_2468",
-        "name":  "口袋名單地點 2468",
+        "name":  "口袋地點 2468",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=848%E9%AB%98%E9%9B%84%E5%B8%82%E6%A1%83%E6%BA%90%E5%8D%80%E5%BA%AB%E5%93%88%E8%AB%BE%E8%BE%9B%E5%B1%B1\u0026ftid=0x346f1d545f92d68f:0xec1469240260065f",
         "note":  "",
         "createdAt":  1681126146000
     },
     {
         "id":  "star_2469",
-        "name":  "口袋名單地點 2469",
+        "name":  "口袋地點 2469",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=957%E5%8F%B0%E6%9D%B1%E7%B8%A3%E6%B5%B7%E7%AB%AF%E9%84%89%E9%97%9C%E5%B1%B1\u0026ftid=0x346f02919fc28607:0x99ee4dffefe89f91",
         "note":  "",
         "createdAt":  1681126121000
     },
     {
         "id":  "star_2470",
-        "name":  "口袋名單地點 2470",
+        "name":  "口袋地點 2470",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=848%E9%AB%98%E9%9B%84%E5%B8%82%E6%A1%83%E6%BA%90%E5%8D%80%E9%97%9C%E5%B1%B1%E5%B6%BA%E5%B1%B1\u0026ftid=0x346f1cea2dc487a9:0xe6d5a06257f1765f",
         "note":  "",
         "createdAt":  1681126035000
@@ -27175,7 +27175,7 @@
         "address":  "848台灣高雄市桃源區梅山里848",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "甜點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12614270905782076910",
         "note":  "",
         "createdAt":  1681126025000
@@ -27263,7 +27263,7 @@
         "address":  "202台灣基隆市中正區",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10643733782168283232",
         "note":  "",
         "createdAt":  1680875154000
@@ -27285,7 +27285,7 @@
         "address":  "224台灣新北市瑞芳區",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15248817487158769024",
         "note":  "",
         "createdAt":  1680869892000
@@ -27296,7 +27296,7 @@
         "address":  "224台灣新北市瑞芳區濓新里",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17875525428955420396",
         "note":  "",
         "createdAt":  1680869883000
@@ -27307,7 +27307,7 @@
         "address":  "224台灣新北市瑞芳區南雅里",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7434174182270341383",
         "note":  "",
         "createdAt":  1680869876000
@@ -27329,7 +27329,7 @@
         "address":  "台灣屏東縣恆春鎮946",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12309267460193706304",
         "note":  "",
         "createdAt":  1680855510000
@@ -27351,18 +27351,18 @@
         "address":  "972台灣花蓮縣秀林鄉太魯閣",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6591396904581350585",
         "note":  "",
         "createdAt":  1680702658000
     },
     {
         "id":  "star_2488",
-        "name":  "口袋名單地點 2488",
+        "name":  "口袋地點 2488",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.193826,121.491318",
         "note":  "",
         "createdAt":  1680702511000
@@ -27395,7 +27395,7 @@
         "address":  "514台灣彰化縣溪湖鎮湖東里員鹿路二段416號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11981515750125219196",
         "note":  "",
         "createdAt":  1680515460000
@@ -27406,7 +27406,7 @@
         "address":  "514台灣彰化縣溪湖鎮光華里二溪路一段7號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11158188455178407779",
         "note":  "",
         "createdAt":  1680515099000
@@ -27417,7 +27417,7 @@
         "address":  "514台灣彰化縣溪湖鎮光華里光華街51號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9029864105391117658",
         "note":  "",
         "createdAt":  1680515080000
@@ -27450,7 +27450,7 @@
         "address":  "72263台灣臺南市佳里區佳里興458號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12646610806433644517",
         "note":  "",
         "createdAt":  1680358834000
@@ -27472,7 +27472,7 @@
         "address":  "715台灣臺南市楠西區楠西里中正路176號前面",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2865823375887825388",
         "note":  "",
         "createdAt":  1680326511000
@@ -27494,7 +27494,7 @@
         "address":  "640台灣雲林縣斗六市龍潭里八德路86號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=702351353409664442",
         "note":  "",
         "createdAt":  1680267136000
@@ -27505,18 +27505,18 @@
         "address":  "722台灣臺南市佳里區建南里成功路13號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3329635774814578184",
         "note":  "",
         "createdAt":  1680245647000
     },
     {
         "id":  "star_2502",
-        "name":  "口袋名單地點 2502",
+        "name":  "口袋地點 2502",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=906%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%AB%98%E6%A8%B9%E9%84%89%E5%85%AC%E5%B9%B3%E8%B7%AF6-1%E8%99%9F\u0026ftid=0x346e3f79538323d3:0x36fcebef29dd92a6",
         "note":  "",
         "createdAt":  1680239119000
@@ -27545,11 +27545,11 @@
     },
     {
         "id":  "star_2505",
-        "name":  "口袋名單地點 2505",
+        "name":  "口袋地點 2505",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=848%E9%AB%98%E9%9B%84%E5%B8%82%E6%A1%83%E6%BA%90%E5%8D%80%E5%A1%94%E9%97%9C%E5%B1%B1\u0026ftid=0x346f1d2abba98a2b:0x1ddfbae19054debc",
         "note":  "",
         "createdAt":  1680182025000
@@ -27560,7 +27560,7 @@
         "address":  "716台灣臺南市南化區",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=208112435384892101",
         "note":  "",
         "createdAt":  1680181908000
@@ -27571,7 +27571,7 @@
         "address":  "715台灣臺南市楠西區龜丹里",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9399278404122185250",
         "note":  "",
         "createdAt":  1680181897000
@@ -27615,7 +27615,7 @@
         "address":  "No, No. 36號憲政街玉井里玉井區臺南市台灣 714",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12760436383449304863",
         "note":  "",
         "createdAt":  1680076601000
@@ -27633,11 +27633,11 @@
     },
     {
         "id":  "star_2513",
-        "name":  "口袋名單地點 2513",
+        "name":  "口袋地點 2513",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E8%8D%89%E5%B1%B1%E6%9C%88%E4%B8%96%E7%95%8C\u0026ftid=0x346e6f276714490f:0xcca661ff91537b56",
         "note":  "",
         "createdAt":  1680073157000
@@ -27648,7 +27648,7 @@
         "address":  "714台灣臺南市玉井區玉井里中正路88號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8639017187981001525",
         "note":  "",
         "createdAt":  1680073053000
@@ -27659,7 +27659,7 @@
         "address":  "71445台灣臺南市玉井區竹圍里內山公路475巷13弄25號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "景點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15836336502768385039",
         "note":  "",
         "createdAt":  1680072570000
@@ -27692,7 +27692,7 @@
         "address":  "714002台灣臺南市玉井區層林里層林1之7號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=547884888836972284",
         "note":  "",
         "createdAt":  1680065924000
@@ -27747,7 +27747,7 @@
         "address":  "905台灣屏東縣里港鄉塔樓村里嶺路277號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5334158877824264234",
         "note":  "",
         "createdAt":  1679755231000
@@ -27758,7 +27758,7 @@
         "address":  "923台灣屏東縣萬巒鄉萬金村萬興路24號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14191428232221270446",
         "note":  "",
         "createdAt":  1679750481000
@@ -27824,7 +27824,7 @@
         "address":  "911台灣屏東縣竹田鄉履豐村豐明路26號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1498454483623773056",
         "note":  "",
         "createdAt":  1679728414000
@@ -27835,7 +27835,7 @@
         "address":  "923台灣屏東縣萬巒鄉村民和路32-1號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=3361939405867916957",
         "note":  "",
         "createdAt":  1679727566000
@@ -27890,7 +27890,7 @@
         "address":  "900台灣屏東縣屏東市永城里永勝巷3號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=13870334356856636346",
         "note":  "",
         "createdAt":  1679722345000
@@ -27901,7 +27901,7 @@
         "address":  "823台灣高雄市田寮區Unnamed Road",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8545164534810890045",
         "note":  "",
         "createdAt":  1679668757000
@@ -27923,7 +27923,7 @@
         "address":  "900台灣屏東縣屏東市永城里青島街106號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=66732381659554961",
         "note":  "",
         "createdAt":  1679666978000
@@ -27934,7 +27934,7 @@
         "address":  "903台灣屏東縣瑪家鄉瑪家村和平路一段63號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5987633816909380171",
         "note":  "",
         "createdAt":  1679665856000
@@ -27945,7 +27945,7 @@
         "address":  "823台灣高雄市田寮區七星里七星路80之20號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10835190255849831952",
         "note":  "",
         "createdAt":  1679664635000
@@ -27956,7 +27956,7 @@
         "address":  "901台灣屏東縣三地門鄉三地村中正路二段150號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8690360719731582879",
         "note":  "",
         "createdAt":  1679664151000
@@ -27989,7 +27989,7 @@
         "address":  "500台灣彰化縣彰化市信義里中正路一段462號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2423019059984550485",
         "note":  "",
         "createdAt":  1679660718000
@@ -28000,7 +28000,7 @@
         "address":  "434台灣臺中市龍井區新東里新興路1號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2591325415872496219",
         "note":  "",
         "createdAt":  1679659597000
@@ -28055,7 +28055,7 @@
         "address":  "542台灣南投縣草屯鎮和平里和興一街11號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13875493624665217768",
         "note":  "",
         "createdAt":  1679657499000
@@ -28084,11 +28084,11 @@
     },
     {
         "id":  "star_2554",
-        "name":  "口袋名單地點 2554",
+        "name":  "口袋地點 2554",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.990667,121.288102",
         "note":  "",
         "createdAt":  1678885518000
@@ -28106,11 +28106,11 @@
     },
     {
         "id":  "star_2556",
-        "name":  "口袋名單地點 2556",
+        "name":  "口袋地點 2556",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.749134,100.564766",
         "note":  "",
         "createdAt":  1678176220000
@@ -28143,7 +28143,7 @@
         "address":  "546台灣南投縣仁愛鄉Unnamed Road",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=347979311992511764",
         "note":  "",
         "createdAt":  1677158143000
@@ -28154,7 +28154,7 @@
         "address":  "546台灣南投縣仁愛鄉大同村仁和路14號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8950920502927483033",
         "note":  "",
         "createdAt":  1677154551000
@@ -28165,7 +28165,7 @@
         "address":  "546台灣南投縣仁愛鄉大同村仁和路43號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12086936765524856271",
         "note":  "",
         "createdAt":  1677154541000
@@ -28187,7 +28187,7 @@
         "address":  "367台灣苗栗縣三義鄉雙潭村 石崀58號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12321995369229718134",
         "note":  "",
         "createdAt":  1676899412000
@@ -28220,18 +28220,18 @@
         "address":  "556台灣南投縣信義鄉豐丘村敦福路126號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13256844031096165211",
         "note":  "",
         "createdAt":  1676799359000
     },
     {
         "id":  "star_2567",
-        "name":  "口袋名單地點 2567",
+        "name":  "口袋地點 2567",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=546%E5%8D%97%E6%8A%95%E7%B8%A3%E4%BB%81%E6%84%9B%E9%84%89%E5%BB%AC%E5%B1%B1%E6%BA%AB%E6%B3%89\u0026ftid=0x3468c1916c71c181:0xc0fb36c6aa626ba3",
         "note":  "",
         "createdAt":  1676516223000
@@ -28242,7 +28242,7 @@
         "address":  "Soi Sophon, Bang Na Nuea, Bang Na, Bangkok 10260泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8554152895699376109",
         "note":  "",
         "createdAt":  1676034212000
@@ -28260,11 +28260,11 @@
     },
     {
         "id":  "star_2570",
-        "name":  "口袋名單地點 2570",
+        "name":  "口袋地點 2570",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.504668,121.762759",
         "note":  "",
         "createdAt":  1675344183000
@@ -28275,7 +28275,7 @@
         "address":  "台灣嘉義縣阿里山鄉",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12221431791733132474",
         "note":  "",
         "createdAt":  1675063082000
@@ -28337,11 +28337,11 @@
     },
     {
         "id":  "star_2577",
-        "name":  "口袋名單地點 2577",
+        "name":  "口袋地點 2577",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=604%E5%98%89%E7%BE%A9%E7%B8%A3%E7%AB%B9%E5%B4%8E%E9%84%89%E7%8D%A8%E7%AB%8B%E5%B1%B1\u0026ftid=0x346ec19d5b37b62b:0xbbef10e659c444f6",
         "note":  "",
         "createdAt":  1674986261000
@@ -28352,7 +28352,7 @@
         "address":  "605台灣嘉義縣阿里山鄉",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=14801104060157347462",
         "note":  "",
         "createdAt":  1674986191000
@@ -28363,7 +28363,7 @@
         "address":  "605台灣嘉義縣阿里山鄉香林村17Town",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=9623035435916131302",
         "note":  "",
         "createdAt":  1674986160000
@@ -28374,7 +28374,7 @@
         "address":  "975台灣花蓮縣鳳林鎮大榮里中和路46-1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15158865605964724157",
         "note":  "",
         "createdAt":  1674905888000
@@ -28385,7 +28385,7 @@
         "address":  "708台灣臺南市安平區安平路270號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9831577822627064627",
         "note":  "",
         "createdAt":  1674809036000
@@ -28396,7 +28396,7 @@
         "address":  "507台灣彰化縣線西鄉線西村中正路281號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=2235883055339905968",
         "note":  "",
         "createdAt":  1674699163000
@@ -28414,11 +28414,11 @@
     },
     {
         "id":  "star_2584",
-        "name":  "口袋名單地點 2584",
+        "name":  "口袋地點 2584",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.741115,120.856495",
         "note":  "",
         "createdAt":  1674545776000
@@ -28429,7 +28429,7 @@
         "address":  "260台灣宜蘭縣宜蘭市民族里健康路三段99號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4199809520149795608",
         "note":  "",
         "createdAt":  1674480971000
@@ -28462,18 +28462,18 @@
         "address":  "203台灣基隆市中山區西榮里西定路39號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11205786320257416698",
         "note":  "",
         "createdAt":  1674135106000
     },
     {
         "id":  "star_2589",
-        "name":  "口袋名單地點 2589",
+        "name":  "口袋地點 2589",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.126986,121.742198",
         "note":  "",
         "createdAt":  1674135032000
@@ -28495,7 +28495,7 @@
         "address":  "103台灣臺北市大同區大有里安西街3號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1585759847310510522",
         "note":  "",
         "createdAt":  1674098274000
@@ -28517,7 +28517,7 @@
         "address":  "702台灣臺南市南區新昌里府緯街122號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4788712149083656023",
         "note":  "",
         "createdAt":  1673966571000
@@ -28546,11 +28546,11 @@
     },
     {
         "id":  "star_2596",
-        "name":  "口袋名單地點 2596",
+        "name":  "口袋地點 2596",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=26.332613,127.928745",
         "note":  "",
         "createdAt":  1672999311000
@@ -28572,7 +28572,7 @@
         "address":  "156 Naradhiwas Rajanagarindra Rd, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6617650513591116144",
         "note":  "",
         "createdAt":  1672881814000
@@ -28583,7 +28583,7 @@
         "address":  "970台灣花蓮縣花蓮市主工里仁愛街77號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7805760174609703979",
         "note":  "",
         "createdAt":  1672823088000
@@ -28623,11 +28623,11 @@
     },
     {
         "id":  "star_2603",
-        "name":  "口袋名單地點 2603",
+        "name":  "口袋地點 2603",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=306%E6%96%B0%E7%AB%B9%E7%B8%A3%E9%97%9C%E8%A5%BF%E9%8E%AE%E7%9F%B3%E7%89%9B%E5%B1%B1\u0026ftid=0x34683e0508718fd5:0x7294bb3cf92f4ced",
         "note":  "",
         "createdAt":  1672732009000
@@ -28649,18 +28649,18 @@
         "address":  "406台灣臺中市北屯區平昌里北平路四段104號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6232734768620385180",
         "note":  "",
         "createdAt":  1672582815000
     },
     {
         "id":  "star_2606",
-        "name":  "口袋名單地點 2606",
+        "name":  "口袋地點 2606",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.669876,139.706036",
         "note":  "",
         "createdAt":  1672489640000
@@ -28704,7 +28704,7 @@
         "address":  "114台灣臺北市內湖區港墘里港墘路119號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7936211761548498165",
         "note":  "",
         "createdAt":  1671606369000
@@ -28715,7 +28715,7 @@
         "address":  "558台灣南投縣鹿谷鄉內湖村興產路51號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=18126502728971976840",
         "note":  "",
         "createdAt":  1671503040000
@@ -28726,7 +28726,7 @@
         "address":  "553台灣南投縣水里鄉頂崁村回窯路16號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11102842550774757192",
         "note":  "",
         "createdAt":  1671502891000
@@ -28737,7 +28737,7 @@
         "address":  "553台灣南投縣水里鄉鉅工村二坪路20號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=3565140841316425849",
         "note":  "",
         "createdAt":  1671502782000
@@ -28759,7 +28759,7 @@
         "address":  "807台灣高雄市三民區興德里立德街1巷2號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6319178687422413953",
         "note":  "",
         "createdAt":  1671362821000
@@ -28770,7 +28770,7 @@
         "address":  "205台灣基隆市暖暖區暖同里暖暖街182號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3885312398962938022",
         "note":  "",
         "createdAt":  1671362671000
@@ -28799,22 +28799,22 @@
     },
     {
         "id":  "star_2619",
-        "name":  "口袋名單地點 2619",
+        "name":  "口袋地點 2619",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.143456,113.562799",
         "note":  "",
         "createdAt":  1670746885000
     },
     {
         "id":  "star_2620",
-        "name":  "口袋名單地點 2620",
+        "name":  "口袋地點 2620",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.143125,113.562300",
         "note":  "",
         "createdAt":  1670746870000
@@ -28858,7 +28858,7 @@
         "address":  "221台灣新北市汐止區信望里信義路17號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13096505402982708730",
         "note":  "",
         "createdAt":  1670737189000
@@ -28935,7 +28935,7 @@
         "address":  "700台灣臺南市中西區康樂市場82號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11757566788359304483",
         "note":  "",
         "createdAt":  1670111681000
@@ -28946,7 +28946,7 @@
         "address":  "二樓 國華街三段123-193號（市場, 國華街三段中西區臺南市台灣 700",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18229204060559666113",
         "note":  "",
         "createdAt":  1670070611000
@@ -28957,7 +28957,7 @@
         "address":  "700台灣臺南市中西區府前里尊王路6號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1507294016269729219",
         "note":  "",
         "createdAt":  1670026365000
@@ -28968,7 +28968,7 @@
         "address":  "709台灣臺南市安南區海佃里海佃路一段419號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11236433012353626411",
         "note":  "",
         "createdAt":  1669991870000
@@ -28979,7 +28979,7 @@
         "address":  "710台灣臺南市永康區大橋里大橋二街62-2號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4012907119837875774",
         "note":  "",
         "createdAt":  1669988281000
@@ -28990,7 +28990,7 @@
         "address":  "700台灣臺南市中西區小西門里府前路一段357號",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12115424468968101369",
         "note":  "",
         "createdAt":  1669987719000
@@ -29001,7 +29001,7 @@
         "address":  "83號, 國華街二段南廠里中西區臺南市台灣 700",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15510512292890624589",
         "note":  "",
         "createdAt":  1669987120000
@@ -29012,7 +29012,7 @@
         "address":  "712台灣臺南市新化區東榮里信義路199號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10916724870801945688",
         "note":  "",
         "createdAt":  1669975796000
@@ -29034,7 +29034,7 @@
         "address":  "905台灣屏東縣里港鄉大平村永樂路2號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=2044802979026445140",
         "note":  "",
         "createdAt":  1669974640000
@@ -29045,7 +29045,7 @@
         "address":  "905台灣屏東縣里港鄉大平村仁和路31號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3530372374538253388",
         "note":  "",
         "createdAt":  1669974491000
@@ -29067,7 +29067,7 @@
         "address":  "710台灣臺南市永康區大灣里大灣路286號對面號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17144785309296455559",
         "note":  "",
         "createdAt":  1669967070000
@@ -29100,7 +29100,7 @@
         "address":  "No. 23, Section 3, Ximen Rd, 立人里北區臺南市台灣 704",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=5458922433098880253",
         "note":  "",
         "createdAt":  1669966195000
@@ -29199,7 +29199,7 @@
         "address":  "700台灣臺南市中西區五條港里民權路三段44號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10445222767939816827",
         "note":  "",
         "createdAt":  1669881157000
@@ -29221,7 +29221,7 @@
         "address":  "708台灣臺南市安平區平安里安平路372-1號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=2576881717402993721",
         "note":  "",
         "createdAt":  1669878741000
@@ -29232,7 +29232,7 @@
         "address":  "700台灣臺南市中西區南美里忠義路二段99號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1117123087175132944",
         "note":  "",
         "createdAt":  1669872054000
@@ -29276,7 +29276,7 @@
         "address":  "702台灣臺南市南區興農里灣裡路211巷52號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11839259931454529010",
         "note":  "",
         "createdAt":  1669863274000
@@ -29331,7 +29331,7 @@
         "address":  "700台灣臺南市中西區府前里保安路74號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9089272520701498000",
         "note":  "",
         "createdAt":  1669820630000
@@ -29342,7 +29342,7 @@
         "address":  "251台灣新北市淡水區義山里淡金路三段347號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11121719320559704195",
         "note":  "",
         "createdAt":  1669788680000
@@ -29353,7 +29353,7 @@
         "address":  "40444台灣臺中市北區新興里一中街25-6號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6744149925185905047",
         "note":  "",
         "createdAt":  1669737365000
@@ -29364,7 +29364,7 @@
         "address":  "269台灣宜蘭縣冬山鄉南興村成興路19號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=10304899328336257601",
         "note":  "",
         "createdAt":  1669647744000
@@ -29375,7 +29375,7 @@
         "address":  "269台灣宜蘭縣冬山鄉香和村香和路269號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12522974649090240058",
         "note":  "",
         "createdAt":  1669647633000
@@ -29386,7 +29386,7 @@
         "address":  "106台灣臺北市大安區基隆路二段234號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=2543538265348420225",
         "note":  "",
         "createdAt":  1669647605000
@@ -29397,18 +29397,18 @@
         "address":  "26948台灣宜蘭縣冬山鄉冬山村中正路42號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10531614867031674494",
         "note":  "",
         "createdAt":  1669646113000
     },
     {
         "id":  "star_2674",
-        "name":  "口袋名單地點 2674",
+        "name":  "口袋地點 2674",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=270%E5%AE%9C%E8%98%AD%E7%B8%A3%E8%98%87%E6%BE%B3%E9%8E%AE%E4%B8%AD%E8%88%88%E4%B8%80%E5%B7%B763%E8%99%9F\u0026ftid=0x3467e88e5e101253:0xda63b04da23e43b5",
         "note":  "",
         "createdAt":  1669620142000
@@ -29419,7 +29419,7 @@
         "address":  "270No. 69號, Datong Rd, 永榮里蘇澳鎮宜蘭縣台灣 270",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15612682993915487743",
         "note":  "",
         "createdAt":  1669618337000
@@ -29430,7 +29430,7 @@
         "address":  "267台灣宜蘭縣大同鄉",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10541840318804519831",
         "note":  "",
         "createdAt":  1669607845000
@@ -29452,7 +29452,7 @@
         "address":  "72746台灣臺南市北門區蚵寮里976號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5698524408887702393",
         "note":  "",
         "createdAt":  1669371690000
@@ -29470,11 +29470,11 @@
     },
     {
         "id":  "star_2680",
-        "name":  "口袋名單地點 2680",
+        "name":  "口袋地點 2680",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=957%E5%8F%B0%E6%9D%B1%E7%B8%A3%E6%B5%B7%E7%AB%AF%E9%84%89%E5%98%89%E6%98%8E%E6%B9%96\u0026ftid=0x346f1a4ac5651a03:0xb87cf34edb4575f5",
         "note":  "",
         "createdAt":  1669279050000
@@ -29485,7 +29485,7 @@
         "address":  "848台灣高雄市嘉明湖登山步道",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5235160060920106852",
         "note":  "",
         "createdAt":  1669278559000
@@ -29551,7 +29551,7 @@
         "address":  "406台灣臺中市北屯區廓子路",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16156149635207957970",
         "note":  "",
         "createdAt":  1669086781000
@@ -29562,7 +29562,7 @@
         "address":  "556台灣南投縣信義鄉同富村",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16579332120523734502",
         "note":  "",
         "createdAt":  1669084818000
@@ -29584,7 +29584,7 @@
         "address":  "556台灣南投縣信義鄉祝山火車站",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=7982590717508225286",
         "note":  "",
         "createdAt":  1669082148000
@@ -29639,7 +29639,7 @@
         "address":  "No. 207之6號, Renhe Rd, 大同村仁愛鄉南投縣台灣 546",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16148992103460523653",
         "note":  "",
         "createdAt":  1668579599000
@@ -29650,7 +29650,7 @@
         "address":  "546台灣南投縣仁愛鄉仁和路",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=2038102178597233038",
         "note":  "",
         "createdAt":  1668565701000
@@ -29661,7 +29661,7 @@
         "address":  "546台灣南投縣仁愛鄉台14甲線30號7k處",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=18287684289131319042",
         "note":  "",
         "createdAt":  1668565691000
@@ -29672,7 +29672,7 @@
         "address":  "260台灣宜蘭縣宜蘭市中山里舊城北路171-2號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15803183869361920860",
         "note":  "",
         "createdAt":  1668511645000
@@ -29727,7 +29727,7 @@
         "address":  "320台灣桃園市中壢區普強里環中東路二段64號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4486373780249663609",
         "note":  "",
         "createdAt":  1667563227000
@@ -29760,7 +29760,7 @@
         "address":  "100台灣臺北市中正區文祥里金山南路一段124號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15423839066098012274",
         "note":  "",
         "createdAt":  1667373860000
@@ -29771,7 +29771,7 @@
         "address":  "32046台灣桃園市中壢區光明里中央西路二段163號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8099750268458090994",
         "note":  "",
         "createdAt":  1667372523000
@@ -29789,22 +29789,22 @@
     },
     {
         "id":  "star_2709",
-        "name":  "口袋名單地點 2709",
+        "name":  "口袋地點 2709",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.739055,100.557279",
         "note":  "",
         "createdAt":  1667129752000
     },
     {
         "id":  "star_2710",
-        "name":  "口袋名單地點 2710",
+        "name":  "口袋地點 2710",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.941795,120.570763",
         "note":  "",
         "createdAt":  1666947362000
@@ -29815,7 +29815,7 @@
         "address":  "106台灣臺北市大安區通安里安和路二段35巷5號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17100947619960523503",
         "note":  "",
         "createdAt":  1666859737000
@@ -29826,7 +29826,7 @@
         "address":  "402台灣臺中市南區城隍里合作街47號忠孝夜市",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6052317580969971768",
         "note":  "",
         "createdAt":  1666432310000
@@ -29837,7 +29837,7 @@
         "address":  "651台灣雲林縣北港鎮共榮里中山路157號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3914670696583119499",
         "note":  "",
         "createdAt":  1666432254000
@@ -29892,7 +29892,7 @@
         "address":  "No. 23號, Yiliu Rd, 信義區基隆市台灣 201",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=3201595620667547534",
         "note":  "",
         "createdAt":  1666278665000
@@ -29903,7 +29903,7 @@
         "address":  "202台灣基隆市中正區義二路56號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4472830249129821963",
         "note":  "",
         "createdAt":  1666277462000
@@ -29914,7 +29914,7 @@
         "address":  "202台灣基隆市中正區正義里義二路121號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8590852230720157195",
         "note":  "",
         "createdAt":  1666277159000
@@ -30024,18 +30024,18 @@
         "address":  "600台灣嘉義市西區永和里垂楊路788號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=13799832583018286987",
         "note":  "",
         "createdAt":  1665667754000
     },
     {
         "id":  "star_2731",
-        "name":  "口袋名單地點 2731",
+        "name":  "口袋地點 2731",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.798567,120.976541",
         "note":  "",
         "createdAt":  1665656887000
@@ -30046,7 +30046,7 @@
         "address":  "407台灣臺中市西屯區上安里上仁街157號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18112918094407809090",
         "note":  "",
         "createdAt":  1665472030000
@@ -30079,7 +30079,7 @@
         "address":  "437台灣臺中市大甲區順天里蔣公路118號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5796397423308617374",
         "note":  "",
         "createdAt":  1665389568000
@@ -30112,18 +30112,18 @@
         "address":  "428台灣臺中市大雅區員林里大林路140巷55號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14318348560776180874",
         "note":  "",
         "createdAt":  1665332031000
     },
     {
         "id":  "star_2739",
-        "name":  "口袋名單地點 2739",
+        "name":  "口袋地點 2739",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.935174,120.461324",
         "note":  "",
         "createdAt":  1665322779000
@@ -30134,7 +30134,7 @@
         "address":  "526台灣彰化縣二林鎮東和里中正路36號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5692182477397530287",
         "note":  "",
         "createdAt":  1665321663000
@@ -30178,7 +30178,7 @@
         "address":  "600台灣嘉義市東區小雅路",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1718137617461423402",
         "note":  "",
         "createdAt":  1665285958000
@@ -30189,7 +30189,7 @@
         "address":  "600台灣嘉義市東區林森里共和路356巷3號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10497536504778918538",
         "note":  "",
         "createdAt":  1665285912000
@@ -30211,7 +30211,7 @@
         "address":  "600台灣嘉義市西區國華里國華街262號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7232227440930678095",
         "note":  "",
         "createdAt":  1665281811000
@@ -30222,7 +30222,7 @@
         "address":  "200台灣基隆市仁愛區吉仁里南榮路199號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6213939597537968010",
         "note":  "",
         "createdAt":  1665142941000
@@ -30233,7 +30233,7 @@
         "address":  "600台灣嘉義市西區西平里信義路48號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12744147180190464808",
         "note":  "",
         "createdAt":  1665119758000
@@ -30288,7 +30288,7 @@
         "address":  "600台灣嘉義市東區華南里民族路151號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=8274558637792883393",
         "note":  "",
         "createdAt":  1665106826000
@@ -30310,7 +30310,7 @@
         "address":  "365台灣苗栗縣泰安鄉大興村",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9616477331741535338",
         "note":  "",
         "createdAt":  1665069764000
@@ -30332,7 +30332,7 @@
         "address":  "600台灣嘉義市東區興中街6號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=13083357357514172806",
         "note":  "",
         "createdAt":  1665067418000
@@ -30343,7 +30343,7 @@
         "address":  "600台灣嘉義市西區文化路417號售完會提早打烊",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9153855518199610416",
         "note":  "",
         "createdAt":  1665067145000
@@ -30387,7 +30387,7 @@
         "address":  "600台灣嘉義市西區保生里興達路311號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=13373524304351620548",
         "note":  "",
         "createdAt":  1665064947000
@@ -30405,11 +30405,11 @@
     },
     {
         "id":  "star_2765",
-        "name":  "口袋名單地點 2765",
+        "name":  "口袋地點 2765",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.526626999999998,120.55603699999999",
         "note":  "",
         "createdAt":  1665063708000
@@ -30420,18 +30420,18 @@
         "address":  "600台灣嘉義市東區王田里公園街46號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8292132840157317169",
         "note":  "",
         "createdAt":  1665063471000
     },
     {
         "id":  "star_2767",
-        "name":  "口袋名單地點 2767",
+        "name":  "口袋地點 2767",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.515556,120.546111",
         "note":  "",
         "createdAt":  1665062088000
@@ -30464,7 +30464,7 @@
         "address":  "526台灣彰化縣二林鎮西平里中山路119號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "小吃",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2487003396730574367",
         "note":  "",
         "createdAt":  1665061422000
@@ -30508,7 +30508,7 @@
         "address":  "604台灣嘉義縣竹崎鄉鹿滿村嘉113鄉道56號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3357946151090243843",
         "note":  "",
         "createdAt":  1665049293000
@@ -30519,7 +30519,7 @@
         "address":  "404台灣臺中市北區大湖里光大街102號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12150184098804996231",
         "note":  "",
         "createdAt":  1664979165000
@@ -30552,7 +30552,7 @@
         "address":  "437台灣臺中市大甲區孔門里育德路68號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9425404178850159601",
         "note":  "",
         "createdAt":  1664978529000
@@ -30607,29 +30607,29 @@
         "address":  "556台灣南投縣信義鄉阿里山公路106.5K",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15686169965937825631",
         "note":  "",
         "createdAt":  1664935810000
     },
     {
         "id":  "star_2784",
-        "name":  "口袋名單地點 2784",
+        "name":  "口袋地點 2784",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=556%E5%8D%97%E6%8A%95%E7%B8%A3%E4%BF%A1%E7%BE%A9%E9%84%89%E9%BA%9F%E8%B6%BE%E5%B1%B1\u0026ftid=0x346edf7e5297e46d:0x6f9b6880ae298e65",
         "note":  "",
         "createdAt":  1664935796000
     },
     {
         "id":  "star_2785",
-        "name":  "口袋名單地點 2785",
+        "name":  "口袋地點 2785",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=8.103946,98.682523",
         "note":  "",
         "createdAt":  1664893678000
@@ -30640,7 +30640,7 @@
         "address":  "558台灣南投縣鹿谷鄉鹿谷村鹿彰路156號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9606505820961329364",
         "note":  "",
         "createdAt":  1664842995000
@@ -30651,7 +30651,7 @@
         "address":  "545台灣南投縣埔里鎮清新里河南路221號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=10946250973336609500",
         "note":  "",
         "createdAt":  1664798174000
@@ -30662,7 +30662,7 @@
         "address":  "542台灣南投縣草屯鎮玉屏路",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8775892134687386553",
         "note":  "",
         "createdAt":  1664765203000
@@ -30673,7 +30673,7 @@
         "address":  "424台灣臺中市和平區博愛里十文溪聯絡道路50號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12854672007603936840",
         "note":  "",
         "createdAt":  1664723969000
@@ -30706,18 +30706,18 @@
         "address":  "114台灣臺北市內湖區金湖里成功路五段85號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11519732035708810390",
         "note":  "",
         "createdAt":  1664545912000
     },
     {
         "id":  "star_2793",
-        "name":  "口袋名單地點 2793",
+        "name":  "口袋地點 2793",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.738758,121.279758",
         "note":  "",
         "createdAt":  1664445836000
@@ -30728,7 +30728,7 @@
         "address":  "5 Chome-1-1 Sakamoto, Otsu, Shiga 520-0113日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9301996864800081072",
         "note":  "",
         "createdAt":  1664284817000
@@ -30746,22 +30746,22 @@
     },
     {
         "id":  "star_2796",
-        "name":  "口袋名單地點 2796",
+        "name":  "口袋地點 2796",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Kotosanzan,+Hirayanagicho,+%E6%9D%B1%E8%BF%91%E6%B1%9F%E5%B8%82%E6%BB%8B%E8%B3%80%E7%B8%A3+527-0102%E6%97%A5%E6%9C%AC\u0026ftid=0x6003da693739d4e1:0xf3a9951340244af0",
         "note":  "",
         "createdAt":  1664284685000
     },
     {
         "id":  "star_2797",
-        "name":  "口袋名單地點 2797",
+        "name":  "口袋地點 2797",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.478884,120.449699",
         "note":  "",
         "createdAt":  1664270592000
@@ -30805,7 +30805,7 @@
         "address":  "404台灣臺中市北區新興里太平路89號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=11637145566034713233",
         "note":  "",
         "createdAt":  1663933770000
@@ -30816,7 +30816,7 @@
         "address":  "546台灣南投縣仁愛鄉博望巷48號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1304380037651405111",
         "note":  "",
         "createdAt":  1663900210000
@@ -30838,7 +30838,7 @@
         "address":  "558台灣南投縣鹿谷鄉和雅村羊灣巷800-11號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14617293938104547199",
         "note":  "",
         "createdAt":  1663245614000
@@ -30860,7 +30860,7 @@
         "address":  "112台灣臺北市北投區清江里清江路25巷54號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17579303080629790612",
         "note":  "",
         "createdAt":  1663157947000
@@ -30871,7 +30871,7 @@
         "address":  "112台灣臺北市北投區長安里光明路174之2號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14879981003335367766",
         "note":  "",
         "createdAt":  1663145946000
@@ -30882,7 +30882,7 @@
         "address":  "112台灣臺北市北投區永明里石牌路二段75巷8號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4438821563071615652",
         "note":  "",
         "createdAt":  1663145885000
@@ -30893,18 +30893,18 @@
         "address":  "424台灣臺中市和平區中興路三段23號（59.5k",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15997846030008305890",
         "note":  "",
         "createdAt":  1663137739000
     },
     {
         "id":  "star_2810",
-        "name":  "口袋名單地點 2810",
+        "name":  "口袋地點 2810",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.019053,121.641879",
         "note":  "",
         "createdAt":  1663056620000
@@ -30922,11 +30922,11 @@
     },
     {
         "id":  "star_2812",
-        "name":  "口袋名單地點 2812",
+        "name":  "口袋地點 2812",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=114%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80%E9%BE%8D%E8%88%B9%E5%B2%A9(%E7%9F%B3%E8%88%B9)\u0026ftid=0x3442ace3024ee393:0x2f5998cfc1d9077e",
         "note":  "",
         "createdAt":  1662967842000
@@ -30955,22 +30955,22 @@
     },
     {
         "id":  "star_2815",
-        "name":  "口袋名單地點 2815",
+        "name":  "口袋地點 2815",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=34.989335,135.760625",
         "note":  "",
         "createdAt":  1662800035000
     },
     {
         "id":  "star_2816",
-        "name":  "口袋名單地點 2816",
+        "name":  "口袋地點 2816",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%9D%89%E7%A6%8F%E6%BC%81%E6%B8%AF\u0026ftid=0x3471eff475ab7395:0x88bf72f5921bc7a8",
         "note":  "",
         "createdAt":  1662646589000
@@ -30981,7 +30981,7 @@
         "address":  "929台灣屏東縣琉球鄉環島公路",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2179582016925835136",
         "note":  "",
         "createdAt":  1662646539000
@@ -30992,7 +30992,7 @@
         "address":  "929台灣屏東縣琉球鄉",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11763934148163401920",
         "note":  "",
         "createdAt":  1662646501000
@@ -31014,7 +31014,7 @@
         "address":  "929台灣屏東縣琉球鄉",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2385813809242132670",
         "note":  "",
         "createdAt":  1662646354000
@@ -31025,7 +31025,7 @@
         "address":  "92942台灣屏東縣琉球鄉大福村和平路",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=6893657260460620422",
         "note":  "",
         "createdAt":  1662646288000
@@ -31036,7 +31036,7 @@
         "address":  "929台灣屏東縣琉球鄉天福村",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1029073441327376724",
         "note":  "",
         "createdAt":  1662646197000
@@ -31047,7 +31047,7 @@
         "address":  "929台灣屏東縣琉球鄉本福村民生路35-1號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14963790690822202125",
         "note":  "",
         "createdAt":  1662646055000
@@ -31058,7 +31058,7 @@
         "address":  "929台灣屏東縣琉球鄉大福村和平路",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9565925191719200923",
         "note":  "",
         "createdAt":  1662645807000
@@ -31069,7 +31069,7 @@
         "address":  "929台灣屏東縣琉球鄉南福村忠孝路1巷1-12號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2397415788806750311",
         "note":  "",
         "createdAt":  1662645769000
@@ -31080,18 +31080,18 @@
         "address":  "929台灣屏東縣琉球鄉本福村本漁路180號929",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6441680358638860337",
         "note":  "",
         "createdAt":  1662645732000
     },
     {
         "id":  "star_2827",
-        "name":  "口袋名單地點 2827",
+        "name":  "口袋地點 2827",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=929%E5%B1%8F%E6%9D%B1%E7%B8%A3%E7%90%89%E7%90%83%E9%84%89%E5%8E%9A%E7%9F%B3%E6%B5%B7%E5%B2%B8\u0026ftid=0x3471efea64f3e20d:0xd9b6b8a51d2caa0",
         "note":  "",
         "createdAt":  1662645661000
@@ -31102,7 +31102,7 @@
         "address":  "929台灣屏東縣琉球鄉",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9533846297475833975",
         "note":  "",
         "createdAt":  1662645576000
@@ -31124,7 +31124,7 @@
         "address":  "929台灣屏東縣琉球鄉杉福村美人路3號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13954761900011329860",
         "note":  "",
         "createdAt":  1662645475000
@@ -31135,7 +31135,7 @@
         "address":  "929台灣屏東縣琉球鄉",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14430365303717107391",
         "note":  "",
         "createdAt":  1662645415000
@@ -31146,7 +31146,7 @@
         "address":  "929台灣屏東縣琉球鄉漁福村三民路253-8號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11552259335802155244",
         "note":  "",
         "createdAt":  1662645394000
@@ -31157,7 +31157,7 @@
         "address":  "929台灣屏東縣琉球鄉",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9413718432382691866",
         "note":  "",
         "createdAt":  1662645360000
@@ -31175,11 +31175,11 @@
     },
     {
         "id":  "star_2835",
-        "name":  "口袋名單地點 2835",
+        "name":  "口袋地點 2835",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.714779,120.289170",
         "note":  "",
         "createdAt":  1662645216000
@@ -31208,33 +31208,33 @@
     },
     {
         "id":  "star_2838",
-        "name":  "口袋名單地點 2838",
+        "name":  "口袋地點 2838",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.952902,121.239843",
         "note":  "",
         "createdAt":  1661933849000
     },
     {
         "id":  "star_2839",
-        "name":  "口袋名單地點 2839",
+        "name":  "口袋地點 2839",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.061883,121.656320",
         "note":  "",
         "createdAt":  1661933848000
     },
     {
         "id":  "star_2840",
-        "name":  "口袋名單地點 2840",
+        "name":  "口袋地點 2840",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.663789,139.731967",
         "note":  "",
         "createdAt":  1661933811000
@@ -31256,7 +31256,7 @@
         "address":  "970台灣花蓮縣花蓮市主和里福建街205號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7984441611073609555",
         "note":  "",
         "createdAt":  1661587737000
@@ -31267,7 +31267,7 @@
         "address":  "970台灣花蓮縣花蓮市民權里菁華街35巷1弄18號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5105977884496644494",
         "note":  "",
         "createdAt":  1661492607000
@@ -31311,7 +31311,7 @@
         "address":  "970台灣花蓮縣花蓮市主工里民國路73號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5522321972281742977",
         "note":  "",
         "createdAt":  1661492396000
@@ -31344,7 +31344,7 @@
         "address":  "407台灣臺中市西屯區福林里西屯路三段159 之13 號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16741475854508034315",
         "note":  "",
         "createdAt":  1660990487000
@@ -31355,18 +31355,18 @@
         "address":  "500台灣彰化縣彰化市陽明里三民路402-2號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15948496845196879859",
         "note":  "",
         "createdAt":  1660566463000
     },
     {
         "id":  "star_2852",
-        "name":  "口袋名單地點 2852",
+        "name":  "口袋地點 2852",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=18.863970,98.958992",
         "note":  "",
         "createdAt":  1660467782000
@@ -31384,11 +31384,11 @@
     },
     {
         "id":  "star_2854",
-        "name":  "口袋名單地點 2854",
+        "name":  "口袋地點 2854",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=18.789667,98.965232",
         "note":  "",
         "createdAt":  1660387993000
@@ -31399,18 +31399,18 @@
         "address":  "970台灣花蓮縣花蓮市民運里化道路18-1號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6441578468322306130",
         "note":  "",
         "createdAt":  1659837764000
     },
     {
         "id":  "star_2856",
-        "name":  "口袋名單地點 2856",
+        "name":  "口袋地點 2856",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.749671,100.544174",
         "note":  "",
         "createdAt":  1659607920000
@@ -31443,7 +31443,7 @@
         "address":  "900台灣屏東縣屏東市光榮里博愛路26號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=3190420570300146935",
         "note":  "",
         "createdAt":  1659534907000
@@ -31465,7 +31465,7 @@
         "address":  "260台灣宜蘭縣宜蘭市中山里西後街140號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6098777857288279857",
         "note":  "",
         "createdAt":  1659534859000
@@ -31483,11 +31483,11 @@
     },
     {
         "id":  "star_2863",
-        "name":  "口袋名單地點 2863",
+        "name":  "口袋地點 2863",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.750983,100.538422",
         "note":  "",
         "createdAt":  1659511588000
@@ -31498,7 +31498,7 @@
         "address":  "No. 9號, Longxing 1st St, 龍源里八里區新北市台灣 249",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11624170277143639313",
         "note":  "",
         "createdAt":  1659504129000
@@ -31531,7 +31531,7 @@
         "address":  "970台灣花蓮縣花蓮市主商里南京街328號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17900962775314381129",
         "note":  "",
         "createdAt":  1659370657000
@@ -31542,7 +31542,7 @@
         "address":  "514台灣彰化縣溪湖鎮大竹里東環路155號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11264690352695205818",
         "note":  "",
         "createdAt":  1659344603000
@@ -31553,7 +31553,7 @@
         "address":  "944台灣屏東縣車城鄉新街村保新路64-13號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8395470119306666704",
         "note":  "",
         "createdAt":  1659317765000
@@ -31597,7 +31597,7 @@
         "address":  "202台灣基隆市中正區中濱里中正路560號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=202284988499536441",
         "note":  "",
         "createdAt":  1659126057000
@@ -31652,7 +31652,7 @@
         "address":  "950台灣臺東縣臺東市寶桑里博愛路186號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13497393556341279226",
         "note":  "",
         "createdAt":  1659108293000
@@ -31685,7 +31685,7 @@
         "address":  "407台灣臺中市西屯區西墩里環中路二段988號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15575930226526417462",
         "note":  "",
         "createdAt":  1659077663000
@@ -31707,7 +31707,7 @@
         "address":  "241台灣新北市三重區三安里三和路三段4號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1958114064573464514",
         "note":  "",
         "createdAt":  1658926839000
@@ -31751,7 +31751,7 @@
         "address":  "540台灣南投縣南投市光榮里光榮西路一街11號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10215646528156352226",
         "note":  "",
         "createdAt":  1658726220000
@@ -31762,7 +31762,7 @@
         "address":  "558台灣南投縣鹿谷鄉鳳凰村仁義路1號18",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=5885242320248106771",
         "note":  "",
         "createdAt":  1658725953000
@@ -31773,7 +31773,7 @@
         "address":  "558台灣南投縣鹿谷鄉和雅村愛鄉路1-2號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=5354466177710927702",
         "note":  "",
         "createdAt":  1658725300000
@@ -31795,7 +31795,7 @@
         "address":  "100台灣臺北市中正區永功里泉州街32之3號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16990795618530835403",
         "note":  "",
         "createdAt":  1658489211000
@@ -31806,7 +31806,7 @@
         "address":  "420台灣臺中市豐原區陽明里信義街28-1號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=18101549591521735674",
         "note":  "",
         "createdAt":  1658397129000
@@ -31835,11 +31835,11 @@
     },
     {
         "id":  "star_2895",
-        "name":  "口袋名單地點 2895",
+        "name":  "口袋地點 2895",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.719525,100.585100",
         "note":  "",
         "createdAt":  1658325099000
@@ -31850,7 +31850,7 @@
         "address":  "104台灣臺北市中山區恆安里中山北路二段183巷28號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11992006360066030046",
         "note":  "",
         "createdAt":  1658316261000
@@ -31861,7 +31861,7 @@
         "address":  "435台灣臺中市梧棲區大仁路二段四維路一段口",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1986433795269484672",
         "note":  "",
         "createdAt":  1658302675000
@@ -31872,7 +31872,7 @@
         "address":  "437台灣臺中市大甲區大甲里順天路146號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=16185925591469824672",
         "note":  "",
         "createdAt":  1658299633000
@@ -31905,18 +31905,18 @@
         "address":  "423台灣臺中市東勢區北興里東關路七段636號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12081273515081142951",
         "note":  "",
         "createdAt":  1658297547000
     },
     {
         "id":  "star_2902",
-        "name":  "口袋名單地點 2902",
+        "name":  "口袋地點 2902",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.744370,100.531818",
         "note":  "",
         "createdAt":  1658245494000
@@ -31949,7 +31949,7 @@
         "address":  "266台灣宜蘭縣三星鄉貴林村富貴三路233巷12號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3000431695159386432",
         "note":  "",
         "createdAt":  1658185345000
@@ -31982,7 +31982,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉龍潭村大坡路118號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13271830340602728851",
         "note":  "",
         "createdAt":  1658143548000
@@ -32081,7 +32081,7 @@
         "address":  "108台灣臺北市萬華區頂碩里艋舺大道138號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1150036638373299967",
         "note":  "",
         "createdAt":  1658034902000
@@ -32121,11 +32121,11 @@
     },
     {
         "id":  "star_2921",
-        "name":  "口袋名單地點 2921",
+        "name":  "口袋地點 2921",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.904673,121.487412",
         "note":  "",
         "createdAt":  1657948913000
@@ -32158,7 +32158,7 @@
         "address":  "108台灣臺北市萬華區新安里萬大路237巷8號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6871443600251774675",
         "note":  "",
         "createdAt":  1657784258000
@@ -32169,7 +32169,7 @@
         "address":  "404台灣臺中市北區健行里民權路578號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9985867204914098333",
         "note":  "",
         "createdAt":  1657783080000
@@ -32180,7 +32180,7 @@
         "address":  "404台灣臺中市北區精武路",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=12821514433884691888",
         "note":  "",
         "createdAt":  1657706748000
@@ -32213,18 +32213,18 @@
         "address":  "406台灣臺中市北屯區平田里旅順路二段351號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7586625719828952358",
         "note":  "",
         "createdAt":  1657705212000
     },
     {
         "id":  "star_2930",
-        "name":  "口袋名單地點 2930",
+        "name":  "口袋地點 2930",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.173999,120.888506",
         "note":  "",
         "createdAt":  1657500991000
@@ -32246,7 +32246,7 @@
         "address":  "403台灣臺中市西區吉龍里美村路一段596巷14號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7176803497767371936",
         "note":  "",
         "createdAt":  1657430000000
@@ -32257,7 +32257,7 @@
         "address":  "961台灣臺東縣成功鎮三仙里白蓮路43號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12733272016780849310",
         "note":  "",
         "createdAt":  1657280240000
@@ -32268,18 +32268,18 @@
         "address":  "959台灣臺東縣東河鄉都蘭村146-2號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5100357618014563460",
         "note":  "",
         "createdAt":  1657279971000
     },
     {
         "id":  "star_2935",
-        "name":  "口袋名單地點 2935",
+        "name":  "口袋地點 2935",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.735579,100.562258",
         "note":  "",
         "createdAt":  1657105029000
@@ -32290,7 +32290,7 @@
         "address":  "221台灣新北市汐止區新昌里新昌路64號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=7979471499406489066",
         "note":  "",
         "createdAt":  1657003513000
@@ -32301,7 +32301,7 @@
         "address":  "10693台灣臺北市大安區敦煌里仁愛路四段300巷20弄11號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=18355099792701113205",
         "note":  "",
         "createdAt":  1656941812000
@@ -32330,11 +32330,11 @@
     },
     {
         "id":  "star_2940",
-        "name":  "口袋名單地點 2940",
+        "name":  "口袋地點 2940",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.735746,100.558129",
         "note":  "",
         "createdAt":  1656851118000
@@ -32345,7 +32345,7 @@
         "address":  "557台灣南投縣竹山鎮社寮里",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8221632964736553876",
         "note":  "",
         "createdAt":  1656818320000
@@ -32389,7 +32389,7 @@
         "address":  "553台灣南投縣水里鄉村民權巷127號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6917829278718131219",
         "note":  "",
         "createdAt":  1656675590000
@@ -32411,7 +32411,7 @@
         "address":  "553台灣南投縣水里鄉車埕村民權巷65號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4164835854643012563",
         "note":  "",
         "createdAt":  1656675502000
@@ -32422,7 +32422,7 @@
         "address":  "553台灣南投縣水里鄉村民權巷45號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14765505552605051585",
         "note":  "",
         "createdAt":  1656675454000
@@ -32444,18 +32444,18 @@
         "address":  "108台灣臺北市萬華區華西街17之4號攤位153號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17975734638609170553",
         "note":  "",
         "createdAt":  1656244247000
     },
     {
         "id":  "star_2951",
-        "name":  "口袋名單地點 2951",
+        "name":  "口袋地點 2951",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.700205,121.818254",
         "note":  "",
         "createdAt":  1656180372000
@@ -32477,7 +32477,7 @@
         "address":  "台灣花蓮縣秀林鄉270號",
         "scope":  "INTL",
         "region":  "歐洲/其他海外",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15264659931563887378",
         "note":  "",
         "createdAt":  1655996863000
@@ -32499,7 +32499,7 @@
         "address":  "106台灣臺北市大安區敦安里信義路四段149號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14643228952157444831",
         "note":  "",
         "createdAt":  1655391366000
@@ -32510,7 +32510,7 @@
         "address":  "303台灣新竹縣湖口鄉鳳山村新興路306號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5169857061164801478",
         "note":  "",
         "createdAt":  1655374316000
@@ -32521,7 +32521,7 @@
         "address":  "900台灣屏東縣屏東市光榮里忠孝路84-1號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=16625659224546653723",
         "note":  "",
         "createdAt":  1655374058000
@@ -32532,7 +32532,7 @@
         "address":  "325台灣桃園市龍潭區中山里中豐路中山段81號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5236143864339716195",
         "note":  "",
         "createdAt":  1655373993000
@@ -32543,7 +32543,7 @@
         "address":  "No. 35號, Datong St, 鳳智里鳳林鎮花蓮縣台灣 97545",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1961876355901606855",
         "note":  "",
         "createdAt":  1655373967000
@@ -32598,7 +32598,7 @@
         "address":  "971台灣花蓮縣新城鄉新城村博愛路47號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9454040028592667605",
         "note":  "",
         "createdAt":  1655033396000
@@ -32631,7 +32631,7 @@
         "address":  "428台灣臺中市大雅區三和里雅潭路四段311號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3562325353930925921",
         "note":  "",
         "createdAt":  1654829708000
@@ -32697,18 +32697,18 @@
         "address":  "803台灣高雄市鹽埕區中原里七賢三路168號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17430796539011935702",
         "note":  "",
         "createdAt":  1654694919000
     },
     {
         "id":  "star_2974",
-        "name":  "口袋名單地點 2974",
+        "name":  "口袋地點 2974",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.979955,121.609040",
         "note":  "",
         "createdAt":  1654588033000
@@ -32719,7 +32719,7 @@
         "address":  "970台灣花蓮縣花蓮市國光里明禮路14巷1號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17873113714107304275",
         "note":  "",
         "createdAt":  1654587549000
@@ -32730,7 +32730,7 @@
         "address":  "709台灣臺南市安南區州南里長和路三段96號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2897387945797277265",
         "note":  "",
         "createdAt":  1654397436000
@@ -32752,7 +32752,7 @@
         "address":  "100台灣臺北市中正區忠勤里中華路二段313巷36號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=14244088371625247545",
         "note":  "",
         "createdAt":  1654257154000
@@ -32770,11 +32770,11 @@
     },
     {
         "id":  "star_2980",
-        "name":  "口袋名單地點 2980",
+        "name":  "口袋地點 2980",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=14.360268,100.577349",
         "note":  "",
         "createdAt":  1654179099000
@@ -32785,7 +32785,7 @@
         "address":  "730台灣臺南市新營區永平里康樂街42號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11038414030549874421",
         "note":  "",
         "createdAt":  1654090121000
@@ -32840,7 +32840,7 @@
         "address":  "227台灣新北市雙溪區太平路50號甲3",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17334489540996209898",
         "note":  "",
         "createdAt":  1653836368000
@@ -32851,7 +32851,7 @@
         "address":  "970台灣花蓮縣花蓮市國聯里商校街96號1樓",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1294634720602768223",
         "note":  "",
         "createdAt":  1653823665000
@@ -32906,7 +32906,7 @@
         "address":  "201台灣基隆市信義區義幸里 義七路 22號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4783098888526231474",
         "note":  "",
         "createdAt":  1653646920000
@@ -32935,11 +32935,11 @@
     },
     {
         "id":  "star_2995",
-        "name":  "口袋名單地點 2995",
+        "name":  "口袋地點 2995",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.124546,120.815113",
         "note":  "",
         "createdAt":  1652984366000
@@ -32957,11 +32957,11 @@
     },
     {
         "id":  "star_2997",
-        "name":  "口袋名單地點 2997",
+        "name":  "口袋地點 2997",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.175769,120.912827",
         "note":  "",
         "createdAt":  1652198480000
@@ -32983,7 +32983,7 @@
         "address":  "106台灣臺北市大安區建倫里仁愛路四段345巷4弄28號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4901833457977212161",
         "note":  "",
         "createdAt":  1652017691000
@@ -33016,7 +33016,7 @@
         "address":  "500台灣彰化縣彰化市長樂里光復路136號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6713517160816997059",
         "note":  "",
         "createdAt":  1651837752000
@@ -33027,18 +33027,18 @@
         "address":  "221台灣新北市汐止區新昌里 Xinchang Rd, 52號1樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=15672532931695762184",
         "note":  "",
         "createdAt":  1651745908000
     },
     {
         "id":  "star_3004",
-        "name":  "口袋名單地點 3004",
+        "name":  "口袋地點 3004",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=880%E6%BE%8E%E6%B9%96%E7%B8%A3%E9%A6%AC%E5%85%AC%E5%B8%82%E5%B1%B1%E6%B0%B4%E9%87%8C%E5%B1%B1%E6%B0%B4%E6%B2%99%E7%81%98\u0026ftid=0x346c5af33b2cae41:0xfb96fd281dd892b8",
         "note":  "",
         "createdAt":  1651713086000
@@ -33049,18 +33049,18 @@
         "address":  "885台灣澎湖縣湖西鄉南寮村南寮78號",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=754987033354673391",
         "note":  "",
         "createdAt":  1651712924000
     },
     {
         "id":  "star_3006",
-        "name":  "口袋名單地點 3006",
+        "name":  "口袋地點 3006",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.261603,119.669554",
         "note":  "",
         "createdAt":  1651712784000
@@ -33071,7 +33071,7 @@
         "address":  "880台灣澎湖縣馬公市重慶里光明路20號",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17105905166056393936",
         "note":  "",
         "createdAt":  1651712557000
@@ -33082,7 +33082,7 @@
         "address":  "880台灣澎湖縣馬公市重慶里光明路21號",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5991665759524496522",
         "note":  "",
         "createdAt":  1651712541000
@@ -33093,7 +33093,7 @@
         "address":  "880台灣澎湖縣馬公市長安里中正路42號",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15163136973487459039",
         "note":  "",
         "createdAt":  1651712515000
@@ -33137,18 +33137,18 @@
         "address":  "884台灣澎湖縣白沙鄉後寮村",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10706146900384537461",
         "note":  "",
         "createdAt":  1651675641000
     },
     {
         "id":  "star_3014",
-        "name":  "口袋名單地點 3014",
+        "name":  "口袋地點 3014",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=884%E6%BE%8E%E6%B9%96%E7%B8%A3%E7%99%BD%E6%B2%99%E9%84%89%E9%B3%A5%E5%B6%BC\u0026ftid=0x346c424f886ca851:0xca9c883d10095a11",
         "note":  "",
         "createdAt":  1651675573000
@@ -33159,18 +33159,18 @@
         "address":  "884台灣澎湖縣白沙鄉通梁村",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5421237195746589662",
         "note":  "",
         "createdAt":  1651675392000
     },
     {
         "id":  "star_3016",
-        "name":  "口袋名單地點 3016",
+        "name":  "口袋地點 3016",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=885%E6%BE%8E%E6%B9%96%E7%B8%A3%E6%B9%96%E8%A5%BF%E9%84%891%E4%B9%8B3%E8%99%9F%E6%9E%97%E6%8A%95%E6%B5%B7%E7%81%98\u0026ftid=0x346c450647a97945:0x58783d4607121b57",
         "note":  "",
         "createdAt":  1651675307000
@@ -33181,7 +33181,7 @@
         "address":  "881台灣澎湖縣西嶼鄉",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8638481636059567990",
         "note":  "",
         "createdAt":  1651675231000
@@ -33192,7 +33192,7 @@
         "address":  "880台灣澎湖縣馬公市鎖港里",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17848851431488605948",
         "note":  "",
         "createdAt":  1651675184000
@@ -33203,7 +33203,7 @@
         "address":  "880台灣澎湖縣馬公市中興里介壽路7號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13132655446170862177",
         "note":  "",
         "createdAt":  1651675081000
@@ -33236,7 +33236,7 @@
         "address":  "884台灣澎湖縣白沙鄉",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17241154845614083038",
         "note":  "",
         "createdAt":  1651674840000
@@ -33247,7 +33247,7 @@
         "address":  "883台灣澎湖縣七美鄉",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12608566784338884327",
         "note":  "",
         "createdAt":  1651674743000
@@ -33258,18 +33258,18 @@
         "address":  "883台灣澎湖縣七美鄉",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16144094247950004232",
         "note":  "",
         "createdAt":  1651674734000
     },
     {
         "id":  "star_3025",
-        "name":  "口袋名單地點 3025",
+        "name":  "口袋地點 3025",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=880%E6%BE%8E%E6%B9%96%E7%B8%A3%E9%A6%AC%E5%85%AC%E5%B8%82%E5%B5%B5%E8%A3%A1%E6%B2%99%E7%81%98\u0026ftid=0x346c50666a03999d:0xbfc4d5ef38b9f188",
         "note":  "",
         "createdAt":  1651674713000
@@ -33280,7 +33280,7 @@
         "address":  "880台灣澎湖縣馬公市長安里惠民一路36號",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "小吃",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=5134664955745123597",
         "note":  "",
         "createdAt":  1651673184000
@@ -33291,7 +33291,7 @@
         "address":  "880台灣澎湖縣馬公市重慶里民福路32號",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5802708948112947065",
         "note":  "",
         "createdAt":  1651673014000
@@ -33302,7 +33302,7 @@
         "address":  "880台灣澎湖縣馬公市中興里文康街35號",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12190048564986764627",
         "note":  "",
         "createdAt":  1651672979000
@@ -33313,18 +33313,18 @@
         "address":  "884台灣澎湖縣白沙鄉通梁村191-2號",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14355011181141648881",
         "note":  "",
         "createdAt":  1651672966000
     },
     {
         "id":  "star_3030",
-        "name":  "口袋名單地點 3030",
+        "name":  "口袋地點 3030",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=34.681893,135.828560",
         "note":  "",
         "createdAt":  1651538426000
@@ -33364,11 +33364,11 @@
     },
     {
         "id":  "star_3034",
-        "name":  "口袋名單地點 3034",
+        "name":  "口袋地點 3034",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.405183,121.307552",
         "note":  "",
         "createdAt":  1651418880000
@@ -33390,29 +33390,29 @@
         "address":  "241台灣新北市三重區仁忠里自強路五段1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16091043557533765368",
         "note":  "",
         "createdAt":  1651383530000
     },
     {
         "id":  "star_3037",
-        "name":  "口袋名單地點 3037",
+        "name":  "口袋地點 3037",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.689999,100.750112",
         "note":  "",
         "createdAt":  1651116459000
     },
     {
         "id":  "star_3038",
-        "name":  "口袋名單地點 3038",
+        "name":  "口袋地點 3038",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.979098,121.606856",
         "note":  "",
         "createdAt":  1650926891000
@@ -33423,7 +33423,7 @@
         "address":  "970台灣花蓮縣花蓮市國魂里延平街148巷5號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7005431949859571759",
         "note":  "",
         "createdAt":  1650926854000
@@ -33456,7 +33456,7 @@
         "address":  "545台灣南投縣埔里鎮薰化里中山路三段201號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6983761125100164826",
         "note":  "",
         "createdAt":  1650787166000
@@ -33511,7 +33511,7 @@
         "address":  "No. 63號, Section 2, Zhonghua Rd, 宜昌村吉安鄉花蓮縣台灣 973",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=18403359925050229560",
         "note":  "",
         "createdAt":  1650626503000
@@ -33533,7 +33533,7 @@
         "address":  "600台灣嘉義市東區華南里民國路159號600",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17241664108713402651",
         "note":  "",
         "createdAt":  1649245353000
@@ -33544,7 +33544,7 @@
         "address":  "929台灣屏東縣琉球鄉天福村中正路32號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1601127297006263645",
         "note":  "",
         "createdAt":  1649053740000
@@ -33555,7 +33555,7 @@
         "address":  "929台灣屏東縣琉球鄉本福村中山路146號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10653063917924853631",
         "note":  "",
         "createdAt":  1649053686000
@@ -33566,7 +33566,7 @@
         "address":  "546台灣南投縣仁愛鄉大同村仁和路224號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17414597440718822403",
         "note":  "",
         "createdAt":  1648964190000
@@ -33599,7 +33599,7 @@
         "address":  "111台灣臺北市士林區義信里基河路112號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9570962531080552892",
         "note":  "",
         "createdAt":  1646879349000
@@ -33621,7 +33621,7 @@
         "address":  "709台灣臺南市安南區城中里安中路六段517號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14360331529905059317",
         "note":  "",
         "createdAt":  1646837886000
@@ -33632,7 +33632,7 @@
         "address":  "545台灣南投縣埔里鎮大城里南安路550號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=16798573970916278676",
         "note":  "",
         "createdAt":  1646796197000
@@ -33676,7 +33676,7 @@
         "address":  "640台灣雲林縣斗六市四維里大同路60號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14573772414804409803",
         "note":  "",
         "createdAt":  1646489658000
@@ -33687,7 +33687,7 @@
         "address":  "970台灣花蓮縣花蓮市主商里中華路55號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3441907174099256115",
         "note":  "",
         "createdAt":  1646485355000
@@ -33727,11 +33727,11 @@
     },
     {
         "id":  "star_3067",
-        "name":  "口袋名單地點 3067",
+        "name":  "口袋地點 3067",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.567097,120.303749",
         "note":  "",
         "createdAt":  1646434734000
@@ -33797,7 +33797,7 @@
         "address":  "402台灣臺中市南區城隍里忠孝路181號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9169191622397069388",
         "note":  "",
         "createdAt":  1646312896000
@@ -33826,11 +33826,11 @@
     },
     {
         "id":  "star_3076",
-        "name":  "口袋名單地點 3076",
+        "name":  "口袋地點 3076",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.151738,120.694123",
         "note":  "",
         "createdAt":  1646302004000
@@ -33841,7 +33841,7 @@
         "address":  "300台灣新竹市香山區虎林里延平路二段350號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13106423825719730323",
         "note":  "",
         "createdAt":  1645929020000
@@ -33863,7 +33863,7 @@
         "address":  "244台灣新北市林口區湖南里中華一路81號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14325584031032407944",
         "note":  "",
         "createdAt":  1645768603000
@@ -33874,18 +33874,18 @@
         "address":  "110台灣臺北市信義區正和里光復南路419巷106號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15813634751774344954",
         "note":  "",
         "createdAt":  1645715302000
     },
     {
         "id":  "star_3081",
-        "name":  "口袋名單地點 3081",
+        "name":  "口袋地點 3081",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.741115,100.508434",
         "note":  "",
         "createdAt":  1645609040000
@@ -33918,7 +33918,7 @@
         "address":  "640台灣雲林縣斗六市忠孝里大同路112號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=7156852089068261498",
         "note":  "",
         "createdAt":  1645280128000
@@ -33973,7 +33973,7 @@
         "address":  "651台灣雲林縣北港鎮仁安里華南路38號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1143154393309614172",
         "note":  "",
         "createdAt":  1644997885000
@@ -33984,7 +33984,7 @@
         "address":  "636台灣雲林縣臺西鄉",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4175350907566736558",
         "note":  "",
         "createdAt":  1644997361000
@@ -34006,7 +34006,7 @@
         "address":  "632台灣雲林縣虎尾鎮鎮華南路15號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1884107642665295038",
         "note":  "",
         "createdAt":  1644994831000
@@ -34028,7 +34028,7 @@
         "address":  "632台灣雲林縣虎尾鎮安慶里民主三路5號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11181778672331552161",
         "note":  "",
         "createdAt":  1644994794000
@@ -34039,7 +34039,7 @@
         "address":  "No. 300號, Zhongjian W Rd, 鎮西里斗六市雲林縣台灣 640",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10086373227285123605",
         "note":  "",
         "createdAt":  1644994652000
@@ -34061,7 +34061,7 @@
         "address":  "640台灣雲林縣斗六市中和里雲中街12～18號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3556316303689736526",
         "note":  "",
         "createdAt":  1644986832000
@@ -34072,7 +34072,7 @@
         "address":  "640台灣雲林縣斗六市八德里引善路123號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9295828728172159111",
         "note":  "",
         "createdAt":  1644986599000
@@ -34105,7 +34105,7 @@
         "address":  "640台灣雲林縣斗六市中和里太平路122號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9553367851541665175",
         "note":  "",
         "createdAt":  1644984762000
@@ -34116,7 +34116,7 @@
         "address":  "653台灣雲林縣口湖鄉梧南村文光路32號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10450997810277690673",
         "note":  "",
         "createdAt":  1644984674000
@@ -34138,7 +34138,7 @@
         "address":  "632台灣雲林縣虎尾鎮新興里華南路2號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=299116846685144152",
         "note":  "",
         "createdAt":  1644984379000
@@ -34167,11 +34167,11 @@
     },
     {
         "id":  "star_3107",
-        "name":  "口袋名單地點 3107",
+        "name":  "口袋地點 3107",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.672571,120.494580",
         "note":  "",
         "createdAt":  1644741758000
@@ -34211,11 +34211,11 @@
     },
     {
         "id":  "star_3111",
-        "name":  "口袋名單地點 3111",
+        "name":  "口袋地點 3111",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.845308578817125,120.9182397276163",
         "note":  "",
         "createdAt":  1644477595000
@@ -34237,7 +34237,7 @@
         "address":  "55546台灣南投縣魚池鄉頭社村平和巷100-2號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=15564630360132501135",
         "note":  "",
         "createdAt":  1644474189000
@@ -34277,11 +34277,11 @@
     },
     {
         "id":  "star_3117",
-        "name":  "口袋名單地點 3117",
+        "name":  "口袋地點 3117",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=556%E5%8D%97%E6%8A%95%E7%B8%A3%E4%BF%A1%E7%BE%A9%E9%84%89%E8%A5%BF%E5%B7%92%E5%A4%A7%E5%B1%B1\u0026ftid=0x346f2bcba775e167:0x944e1e11fecd6f7a",
         "note":  "",
         "createdAt":  1644155428000
@@ -34303,7 +34303,7 @@
         "address":  "267台灣宜蘭縣大同鄉南山村泰雅路七段135號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=301405434478541202",
         "note":  "",
         "createdAt":  1643872587000
@@ -34336,7 +34336,7 @@
         "address":  "424台灣臺中市和平區",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7325742517161336323",
         "note":  "",
         "createdAt":  1643605095000
@@ -34358,7 +34358,7 @@
         "address":  "420台灣臺中市豐原區頂街里中正路174號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9583104182036873654",
         "note":  "",
         "createdAt":  1643456169000
@@ -34369,18 +34369,18 @@
         "address":  "506台灣彰化縣福興鄉同安村員鹿路一段393號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6424987253659989419",
         "note":  "",
         "createdAt":  1643382636000
     },
     {
         "id":  "star_3126",
-        "name":  "口袋名單地點 3126",
+        "name":  "口袋地點 3126",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.209508,121.676691",
         "note":  "",
         "createdAt":  1642114202000
@@ -34391,7 +34391,7 @@
         "address":  "958台灣臺東縣池上鄉福文村鐵花路14號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=15596381453458597152",
         "note":  "",
         "createdAt":  1641786775000
@@ -34413,18 +34413,18 @@
         "address":  "200台灣基隆市仁愛區福仁里南榮路105號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2613104701274476045",
         "note":  "",
         "createdAt":  1641746517000
     },
     {
         "id":  "star_3130",
-        "name":  "口袋名單地點 3130",
+        "name":  "口袋地點 3130",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.679716,120.762368",
         "note":  "",
         "createdAt":  1641556628000
@@ -34435,7 +34435,7 @@
         "address":  "267台灣宜蘭縣大同鄉",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8968347145432010547",
         "note":  "",
         "createdAt":  1641139772000
@@ -34464,33 +34464,33 @@
     },
     {
         "id":  "star_3134",
-        "name":  "口袋名單地點 3134",
+        "name":  "口袋地點 3134",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.572190,120.899923",
         "note":  "",
         "createdAt":  1640779836000
     },
     {
         "id":  "star_3135",
-        "name":  "口袋名單地點 3135",
+        "name":  "口袋地點 3135",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=63.459082,-19.364754",
         "note":  "",
         "createdAt":  1640763053000
     },
     {
         "id":  "star_3136",
-        "name":  "口袋名單地點 3136",
+        "name":  "口袋地點 3136",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.973016,120.996683",
         "note":  "",
         "createdAt":  1640763047000
@@ -34512,7 +34512,7 @@
         "address":  "556台灣南投縣信義鄉東埔村開高巷125-2號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "景點",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14581992440682335588",
         "note":  "",
         "createdAt":  1640615556000
@@ -34523,7 +34523,7 @@
         "address":  "424台灣臺中市和平區東關路三段161之2號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10433920822528527211",
         "note":  "",
         "createdAt":  1640501104000
@@ -34541,44 +34541,44 @@
     },
     {
         "id":  "star_3141",
-        "name":  "口袋名單地點 3141",
+        "name":  "口袋地點 3141",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.551465,100.627016",
         "note":  "",
         "createdAt":  1640097773000
     },
     {
         "id":  "star_3142",
-        "name":  "口袋名單地點 3142",
+        "name":  "口袋地點 3142",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.552044,100.631664",
         "note":  "",
         "createdAt":  1640097749000
     },
     {
         "id":  "star_3143",
-        "name":  "口袋名單地點 3143",
+        "name":  "口袋地點 3143",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.550626,100.632821",
         "note":  "",
         "createdAt":  1640097743000
     },
     {
         "id":  "star_3144",
-        "name":  "口袋名單地點 3144",
+        "name":  "口袋地點 3144",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.550800,100.631146",
         "note":  "",
         "createdAt":  1640097741000
@@ -34589,18 +34589,18 @@
         "address":  "360台灣苗栗縣苗栗市玉苗里中山路713號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11525275787062554206",
         "note":  "",
         "createdAt":  1640064208000
     },
     {
         "id":  "star_3146",
-        "name":  "口袋名單地點 3146",
+        "name":  "口袋地點 3146",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.751484,100.575332",
         "note":  "",
         "createdAt":  1639955383000
@@ -34644,7 +34644,7 @@
         "address":  "424台灣臺中市和平區博愛里",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4990597879506573866",
         "note":  "",
         "createdAt":  1639726090000
@@ -34677,7 +34677,7 @@
         "address":  "200台灣基隆市仁愛區仁德里愛三路49巷28號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=314965388534323270",
         "note":  "",
         "createdAt":  1639658613000
@@ -34699,7 +34699,7 @@
         "address":  "200台灣基隆市仁愛區文昌里孝三路52號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8639865419108510100",
         "note":  "",
         "createdAt":  1639639720000
@@ -34721,7 +34721,7 @@
         "address":  "424台灣臺中市和平區博愛里東關路一段400-1號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10224895261103009950",
         "note":  "",
         "createdAt":  1639468131000
@@ -34732,18 +34732,18 @@
         "address":  "台灣臺中市和平區博愛里424",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=5986181888468718915",
         "note":  "",
         "createdAt":  1639468080000
     },
     {
         "id":  "star_3159",
-        "name":  "口袋名單地點 3159",
+        "name":  "口袋地點 3159",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=546%E5%8D%97%E6%8A%95%E7%B8%A3%E4%BB%81%E6%84%9B%E9%84%89%E7%9F%B3%E9%96%80%E5%B1%B1\u0026ftid=0x34689321c4529639:0x3e332952720c9cdf",
         "note":  "",
         "createdAt":  1639310450000
@@ -34787,7 +34787,7 @@
         "address":  "335台灣桃園市大溪區福仁里登龍路22號多目標體育館1樓",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7365491367382899974",
         "note":  "",
         "createdAt":  1639278887000
@@ -34798,7 +34798,7 @@
         "address":  "335台灣桃園市大溪區仁武里仁和路一段61號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=330067052685810673",
         "note":  "",
         "createdAt":  1639278862000
@@ -34809,7 +34809,7 @@
         "address":  "335台灣桃園市大溪區福仁里中央路181號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5344745901741162196",
         "note":  "",
         "createdAt":  1639278824000
@@ -34820,7 +34820,7 @@
         "address":  "335台灣桃園市大溪區興和里得勝路3號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12217789934793825134",
         "note":  "",
         "createdAt":  1639277753000
@@ -34831,7 +34831,7 @@
         "address":  "335台灣桃園市大溪區福仁里和平路61號和平路61號後段",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2702331373497394868",
         "note":  "",
         "createdAt":  1639277620000
@@ -34897,7 +34897,7 @@
         "address":  "424台灣臺中市和平區天輪里東關路二段91號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16915021544394406471",
         "note":  "",
         "createdAt":  1639140036000
@@ -34908,7 +34908,7 @@
         "address":  "424台灣臺中市和平區天輪里東關路二段76號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8465370416410302946",
         "note":  "",
         "createdAt":  1639140025000
@@ -34941,7 +34941,7 @@
         "address":  "424台灣臺中市和平區博愛里東關路一段松鶴三巷120號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5443890844193963544",
         "note":  "",
         "createdAt":  1639121477000
@@ -34952,7 +34952,7 @@
         "address":  "974台灣花蓮縣壽豐鄉池南村池南路一段27-1號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6938544870531203536",
         "note":  "",
         "createdAt":  1638797067000
@@ -34963,18 +34963,18 @@
         "address":  "424台灣臺中市和平區博愛里",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11721872126087914448",
         "note":  "",
         "createdAt":  1638670096000
     },
     {
         "id":  "star_3180",
-        "name":  "口袋名單地點 3180",
+        "name":  "口袋地點 3180",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.196945,121.018158",
         "note":  "",
         "createdAt":  1638670075000
@@ -34985,7 +34985,7 @@
         "address":  "424台灣臺中市和平區200號林道",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17486002601069644492",
         "note":  "",
         "createdAt":  1638670009000
@@ -34996,7 +34996,7 @@
         "address":  "424台灣臺中市和平區裡冷溪林道",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12282727986646590971",
         "note":  "",
         "createdAt":  1638669942000
@@ -35007,7 +35007,7 @@
         "address":  "424台灣臺中市和平區Unnamed Road",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15837636937350403355",
         "note":  "",
         "createdAt":  1638669936000
@@ -35018,7 +35018,7 @@
         "address":  "111台灣臺北市士林區天和里天母東路97號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5360931727351163222",
         "note":  "",
         "createdAt":  1637843075000
@@ -35106,7 +35106,7 @@
         "address":  "365台灣苗栗縣泰安鄉大興村6之7號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4201246827712127353",
         "note":  "",
         "createdAt":  1637206455000
@@ -35128,7 +35128,7 @@
         "address":  "244台灣新北市林口區菁湖里林口路120號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16687423615582605487",
         "note":  "",
         "createdAt":  1636687706000
@@ -35139,18 +35139,18 @@
         "address":  "325台灣桃園市龍潭區上林里龍元路91-1號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5888971767355996709",
         "note":  "",
         "createdAt":  1636356984000
     },
     {
         "id":  "star_3196",
-        "name":  "口袋名單地點 3196",
+        "name":  "口袋地點 3196",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=325%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%8D%E6%BD%AD%E5%8D%80%E9%BE%8D%E6%BD%AD%E5%A4%A7%E6%B1%A0\u0026ftid=0x816d39ae883f6a8f:0x21932e4aed39046c",
         "note":  "",
         "createdAt":  1636356586000
@@ -35172,7 +35172,7 @@
         "address":  "No. 53, Shimen Rd, 大平里龍潭區桃園市台灣 325",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16725646302796751081",
         "note":  "",
         "createdAt":  1636354581000
@@ -35183,7 +35183,7 @@
         "address":  "325台灣桃園市龍潭區中正路三坑段779號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13553261701284761329",
         "note":  "",
         "createdAt":  1636354378000
@@ -35194,7 +35194,7 @@
         "address":  "244台灣新北市林口區嘉寶里西部濱海公路625號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15927208876339781490",
         "note":  "",
         "createdAt":  1636291348000
@@ -35212,11 +35212,11 @@
     },
     {
         "id":  "star_3202",
-        "name":  "口袋名單地點 3202",
+        "name":  "口袋地點 3202",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.719368,100.512933",
         "note":  "",
         "createdAt":  1636200851000
@@ -35234,44 +35234,44 @@
     },
     {
         "id":  "star_3204",
-        "name":  "口袋名單地點 3204",
+        "name":  "口袋地點 3204",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=26.386419,127.827777",
         "note":  "",
         "createdAt":  1636013633000
     },
     {
         "id":  "star_3205",
-        "name":  "口袋名單地點 3205",
+        "name":  "口袋地點 3205",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=365%E8%8B%97%E6%A0%97%E7%B8%A3%E6%B3%B0%E5%AE%89%E9%84%89%E9%A6%AC%E9%82%A3%E9%82%A6%E5%B1%B1\u0026ftid=0x3468fe0a15a84813:0x51fdf56be3534500",
         "note":  "",
         "createdAt":  1635695733000
     },
     {
         "id":  "star_3206",
-        "name":  "口袋名單地點 3206",
+        "name":  "口袋地點 3206",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=556%E5%8D%97%E6%8A%95%E7%B8%A3%E4%BF%A1%E7%BE%A9%E9%84%89%E9%83%A1%E5%A4%A7%E5%B1%B1\u0026ftid=0x346f263d34de1eff:0x50b733f6963d2b00",
         "note":  "",
         "createdAt":  1635565533000
     },
     {
         "id":  "star_3207",
-        "name":  "口袋名單地點 3207",
+        "name":  "口袋地點 3207",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.100017,121.845255",
         "note":  "",
         "createdAt":  1635434925000
@@ -35326,7 +35326,7 @@
         "address":  "556台灣南投縣信義鄉光復巷",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3593962533860229508",
         "note":  "",
         "createdAt":  1635340507000
@@ -35344,11 +35344,11 @@
     },
     {
         "id":  "star_3214",
-        "name":  "口袋名單地點 3214",
+        "name":  "口袋地點 3214",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.740361,100.560821",
         "note":  "",
         "createdAt":  1635320128000
@@ -35377,11 +35377,11 @@
     },
     {
         "id":  "star_3217",
-        "name":  "口袋名單地點 3217",
+        "name":  "口袋地點 3217",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=14.351001,100.569591",
         "note":  "",
         "createdAt":  1635086176000
@@ -35392,7 +35392,7 @@
         "address":  "974台灣花蓮縣壽豐鄉志學村大學路二段1號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5154079638672761048",
         "note":  "",
         "createdAt":  1635075686000
@@ -35436,7 +35436,7 @@
         "address":  "970台灣花蓮縣花蓮市民孝里港濱路35-1號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7514392926966680548",
         "note":  "",
         "createdAt":  1635059370000
@@ -35447,7 +35447,7 @@
         "address":  "268台灣宜蘭縣五結鄉五結村五結中路一段343號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5262807892064273258",
         "note":  "",
         "createdAt":  1634826775000
@@ -35476,11 +35476,11 @@
     },
     {
         "id":  "star_3226",
-        "name":  "口袋名單地點 3226",
+        "name":  "口袋地點 3226",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.036335,121.545905",
         "note":  "",
         "createdAt":  1634467688000
@@ -35502,7 +35502,7 @@
         "address":  "974台灣花蓮縣壽豐鄉光榮村池南路五段82號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14203212926644704386",
         "note":  "",
         "createdAt":  1633244040000
@@ -35524,29 +35524,29 @@
         "address":  "252台灣新北市三芝區後厝里後厝裡北勢子淡金公路45之32號淺水灣停車場",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=12985585341884918015",
         "note":  "",
         "createdAt":  1632909045000
     },
     {
         "id":  "star_3231",
-        "name":  "口袋名單地點 3231",
+        "name":  "口袋地點 3231",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.015615,121.532448",
         "note":  "",
         "createdAt":  1632738350000
     },
     {
         "id":  "star_3232",
-        "name":  "口袋名單地點 3232",
+        "name":  "口袋地點 3232",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.579137,120.319151",
         "note":  "",
         "createdAt":  1632738343000
@@ -35586,44 +35586,44 @@
     },
     {
         "id":  "star_3236",
-        "name":  "口袋名單地點 3236",
+        "name":  "口袋地點 3236",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.096249,121.866855",
         "note":  "",
         "createdAt":  1632582373000
     },
     {
         "id":  "star_3237",
-        "name":  "口袋名單地點 3237",
+        "name":  "口袋地點 3237",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=970%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82%E5%A4%A7%E5%8E%A6%E8%A1%973%E8%99%9F\u0026ftid=0x34689fc2987bb117:0xe4d0adaef1313637",
         "note":  "",
         "createdAt":  1632577013000
     },
     {
         "id":  "star_3238",
-        "name":  "口袋名單地點 3238",
+        "name":  "口袋地點 3238",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=823%E9%AB%98%E9%9B%84%E5%B8%82%E7%94%B0%E5%AF%AE%E5%8D%80%E4%B8%AD%E5%AF%AE%E5%B1%B1\u0026ftid=0x346e13592cba3d69:0xd24383b6b30f8772",
         "note":  "",
         "createdAt":  1632191561000
     },
     {
         "id":  "star_3239",
-        "name":  "口袋名單地點 3239",
+        "name":  "口袋地點 3239",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=844%E9%AB%98%E9%9B%84%E5%B8%82%E5%85%AD%E9%BE%9C%E5%8D%80%E8%91%AB%E8%98%86%E8%B0%B7\u0026ftid=0x346e44f811131cf5:0x9344a507a7bbe7cb",
         "note":  "",
         "createdAt":  1632191401000
@@ -35634,7 +35634,7 @@
         "address":  "823台灣高雄市田寮區新興里崗安路15號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12004062510399724358",
         "note":  "",
         "createdAt":  1632191254000
@@ -35656,7 +35656,7 @@
         "address":  "115台灣臺北市南港區舊莊里舊莊街一段3巷10號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=864304561290892098",
         "note":  "",
         "createdAt":  1632069946000
@@ -35689,18 +35689,18 @@
         "address":  "950台灣臺東縣臺東市建興里青海路四段480號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "小吃",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4819483098564906990",
         "note":  "",
         "createdAt":  1632058460000
     },
     {
         "id":  "star_3246",
-        "name":  "口袋名單地點 3246",
+        "name":  "口袋地點 3246",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.713415,139.762224",
         "note":  "",
         "createdAt":  1631896856000
@@ -35711,7 +35711,7 @@
         "address":  "267台灣宜蘭縣大同鄉崙埤村林家巷",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1754920859236690964",
         "note":  "",
         "createdAt":  1631621651000
@@ -35733,18 +35733,18 @@
         "address":  "260台灣宜蘭縣宜蘭市梅洲里梅洲二路60號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7917718772970181275",
         "note":  "",
         "createdAt":  1631537571000
     },
     {
         "id":  "star_3250",
-        "name":  "口袋名單地點 3250",
+        "name":  "口袋地點 3250",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.234857,121.413960",
         "note":  "",
         "createdAt":  1631360784000
@@ -35755,7 +35755,7 @@
         "address":  "975台灣花蓮縣鳳林鎮長橋里萬森路10號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=165291669904287657",
         "note":  "",
         "createdAt":  1631243429000
@@ -35777,7 +35777,7 @@
         "address":  "22158台灣新北市汐止區中興里中興路91號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=10072750129982100563",
         "note":  "",
         "createdAt":  1630934650000
@@ -35795,11 +35795,11 @@
     },
     {
         "id":  "star_3255",
-        "name":  "口袋名單地點 3255",
+        "name":  "口袋地點 3255",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=270%E5%AE%9C%E8%98%AD%E7%B8%A3%E8%98%87%E6%BE%B3%E9%8E%AE%E6%9D%B1%E6%BE%B3%E9%87%8C%E6%9D%B1%E6%BE%B3%E7%81%A3\u0026ftid=0x3467c3695eeebeed:0x4ffa1b24824def41",
         "note":  "",
         "createdAt":  1630829058000
@@ -35810,7 +35810,7 @@
         "address":  "石公溪, 台灣",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=2368911735126270717",
         "note":  "",
         "createdAt":  1630823938000
@@ -35821,7 +35821,7 @@
         "address":  "No. 60, Yiyi Rd, 港通里中正區基隆市台灣 202",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=14556974405726839121",
         "note":  "",
         "createdAt":  1630821418000
@@ -35850,11 +35850,11 @@
     },
     {
         "id":  "star_3260",
-        "name":  "口袋名單地點 3260",
+        "name":  "口袋地點 3260",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=272%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%8D%97%E6%BE%B3%E9%84%89%E6%BC%A2%E6%9C%AC\u0026ftid=0x3467d232d3bba9d1:0xf7170e966929d11b",
         "note":  "",
         "createdAt":  1630472449000
@@ -35872,11 +35872,11 @@
     },
     {
         "id":  "star_3262",
-        "name":  "口袋名單地點 3262",
+        "name":  "口袋地點 3262",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.744561,100.494380",
         "note":  "",
         "createdAt":  1630227591000
@@ -35905,22 +35905,22 @@
     },
     {
         "id":  "star_3265",
-        "name":  "口袋名單地點 3265",
+        "name":  "口袋地點 3265",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.217430,121.691794",
         "note":  "",
         "createdAt":  1630035708000
     },
     {
         "id":  "star_3266",
-        "name":  "口袋名單地點 3266",
+        "name":  "口袋地點 3266",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.715230,100.590945",
         "note":  "",
         "createdAt":  1629543504000
@@ -35938,55 +35938,55 @@
     },
     {
         "id":  "star_3268",
-        "name":  "口袋名單地點 3268",
+        "name":  "口袋地點 3268",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.328535,121.235137",
         "note":  "",
         "createdAt":  1628096005000
     },
     {
         "id":  "star_3269",
-        "name":  "口袋名單地點 3269",
+        "name":  "口袋地點 3269",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.128661,121.741686",
         "note":  "",
         "createdAt":  1624114528000
     },
     {
         "id":  "star_3270",
-        "name":  "口袋名單地點 3270",
+        "name":  "口袋地點 3270",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=36.885376,30.708780",
         "note":  "",
         "createdAt":  1624017691000
     },
     {
         "id":  "star_3271",
-        "name":  "口袋名單地點 3271",
+        "name":  "口袋地點 3271",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=41.008583,28.980175",
         "note":  "",
         "createdAt":  1624017667000
     },
     {
         "id":  "star_3272",
-        "name":  "口袋名單地點 3272",
+        "name":  "口袋地點 3272",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=37.941165,27.340987",
         "note":  "",
         "createdAt":  1624017592000
@@ -35997,7 +35997,7 @@
         "address":  "221台灣新北市汐止區復興里新台五路一段141號2樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=17505661715471787600",
         "note":  "",
         "createdAt":  1623222903000
@@ -36008,51 +36008,51 @@
         "address":  "221台灣新北市汐止區文化里新台五路一段81號2樓之1",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=16172368912969945277",
         "note":  "",
         "createdAt":  1622811424000
     },
     {
         "id":  "star_3275",
-        "name":  "口袋名單地點 3275",
+        "name":  "口袋地點 3275",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.670865,139.705719",
         "note":  "",
         "createdAt":  1622165182000
     },
     {
         "id":  "star_3276",
-        "name":  "口袋名單地點 3276",
+        "name":  "口袋地點 3276",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.667910,139.706111",
         "note":  "",
         "createdAt":  1622165171000
     },
     {
         "id":  "star_3277",
-        "name":  "口袋名單地點 3277",
+        "name":  "口袋地點 3277",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.671066,139.705005",
         "note":  "",
         "createdAt":  1622165124000
     },
     {
         "id":  "star_3278",
-        "name":  "口袋名單地點 3278",
+        "name":  "口袋地點 3278",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.049585,135.759172",
         "note":  "",
         "createdAt":  1620967580000
@@ -36096,7 +36096,7 @@
         "address":  "328台灣桃園市觀音區廣興里成功路二段1538號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9369731678544234445",
         "note":  "",
         "createdAt":  1620831525000
@@ -36140,7 +36140,7 @@
         "address":  "403台灣臺中市西區公益里華美街204號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=18142436463703369862",
         "note":  "",
         "createdAt":  1620828060000
@@ -36228,7 +36228,7 @@
         "address":  "400台灣臺中市中區公有第二零售市場",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16691464278785122494",
         "note":  "",
         "createdAt":  1620664779000
@@ -36239,7 +36239,7 @@
         "address":  "404台灣臺中市北區錦中街",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=10216946694561363648",
         "note":  "",
         "createdAt":  1620664589000
@@ -36305,7 +36305,7 @@
         "address":  "407台灣臺中市西屯區大福里中清路二段189巷68號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14165898413494232683",
         "note":  "",
         "createdAt":  1620659807000
@@ -36338,7 +36338,7 @@
         "address":  "408台灣臺中市南屯區新生里新富二街128號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=19939719761363091",
         "note":  "",
         "createdAt":  1620658284000
@@ -36349,7 +36349,7 @@
         "address":  "553台灣南投縣水里鄉車埕村民權巷101-3號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11818874984408648987",
         "note":  "",
         "createdAt":  1620658197000
@@ -36378,11 +36378,11 @@
     },
     {
         "id":  "star_3308",
-        "name":  "口袋名單地點 3308",
+        "name":  "口袋地點 3308",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.641830,121.088097",
         "note":  "",
         "createdAt":  1620281051000
@@ -36393,7 +36393,7 @@
         "address":  "928台灣屏東縣東港鎮大鵬灣環灣道路",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=119093403197963433",
         "note":  "",
         "createdAt":  1620179704000
@@ -36404,7 +36404,7 @@
         "address":  "950台灣臺東縣臺東市成功里成功路50號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2136797602594248449",
         "note":  "",
         "createdAt":  1620052603000
@@ -36459,7 +36459,7 @@
         "address":  "974台灣花蓮縣壽豐鄉",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=44253668426837479",
         "note":  "",
         "createdAt":  1620048204000
@@ -36481,7 +36481,7 @@
         "address":  "台灣新北市石碇區豐田里223",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13341313615284512706",
         "note":  "",
         "createdAt":  1619938253000
@@ -36492,7 +36492,7 @@
         "address":  "920台灣屏東縣潮州鎮富春里",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16542301908458786932",
         "note":  "",
         "createdAt":  1619885032000
@@ -36503,7 +36503,7 @@
         "address":  "947台灣屏東縣滿州鄉",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=476598504087010478",
         "note":  "",
         "createdAt":  1619883876000
@@ -36525,7 +36525,7 @@
         "address":  "851台灣高雄市茂林區多納里",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11506476679513263944",
         "note":  "",
         "createdAt":  1619883276000
@@ -36536,7 +36536,7 @@
         "address":  "963台灣臺東縣太麻里鄉東63鄉道",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11941365333709861385",
         "note":  "",
         "createdAt":  1619881104000
@@ -36558,7 +36558,7 @@
         "address":  "961台灣臺東縣成功鎮三仙里基翬路87號961",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2096355949041058178",
         "note":  "",
         "createdAt":  1619879534000
@@ -36569,7 +36569,7 @@
         "address":  "972台灣花蓮縣秀林鄉和平村263號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9579303214203188985",
         "note":  "",
         "createdAt":  1619878426000
@@ -36580,7 +36580,7 @@
         "address":  "270台灣宜蘭縣蘇澳鎮東澳路131號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15637798069934048163",
         "note":  "",
         "createdAt":  1619878055000
@@ -36591,7 +36591,7 @@
         "address":  "270台灣宜蘭縣蘇澳鎮東澳海灘",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "景點",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=10795742856712235279",
         "note":  "",
         "createdAt":  1619877445000
@@ -36624,7 +36624,7 @@
         "address":  "946台灣屏東縣恆春鎮光明巷48號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3532904228867981086",
         "note":  "",
         "createdAt":  1619861861000
@@ -36642,11 +36642,11 @@
     },
     {
         "id":  "star_3332",
-        "name":  "口袋名單地點 3332",
+        "name":  "口袋地點 3332",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16603618067920352084",
         "note":  "",
         "createdAt":  1619835265000
@@ -36679,7 +36679,7 @@
         "address":  "803台灣高雄市鹽埕區光明里新樂街113號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10209820405535679486",
         "note":  "",
         "createdAt":  1619698664000
@@ -36697,22 +36697,22 @@
     },
     {
         "id":  "star_3337",
-        "name":  "口袋名單地點 3337",
+        "name":  "口袋地點 3337",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.641036,120.262158",
         "note":  "",
         "createdAt":  1619669329000
     },
     {
         "id":  "star_3338",
-        "name":  "口袋名單地點 3338",
+        "name":  "口袋地點 3338",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E7%91%9E%E5%A3%AB%E7%9B%A7%E9%81%94%E6%9C%AC%E7%B4%8D%E5%B0%91%E5%A5%B3%E5%B3%B0%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+3984\u0026ftid=0x478f7577baf2470f:0x9642e2a3e700847e",
         "note":  "",
         "createdAt":  1619669265000
@@ -36723,7 +36723,7 @@
         "address":  "946台灣屏東縣恆春鎮南灣里南灣路862巷36號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14087982935372587038",
         "note":  "",
         "createdAt":  1619668684000
@@ -36734,7 +36734,7 @@
         "address":  "946台灣屏東縣恆春鎮大光路",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18386145866217215111",
         "note":  "",
         "createdAt":  1619668622000
@@ -36745,7 +36745,7 @@
         "address":  "977台灣花蓮縣豐濱鄉台11線",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14761242113938071919",
         "note":  "",
         "createdAt":  1619622310000
@@ -36756,7 +36756,7 @@
         "address":  "959台灣臺東縣東河鄉隆昌村隆昌188號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14462560808008060510",
         "note":  "",
         "createdAt":  1619621873000
@@ -36767,7 +36767,7 @@
         "address":  "950台灣臺東縣臺東市文化里鐵花路369號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=741044649544934870",
         "note":  "",
         "createdAt":  1619621804000
@@ -36778,7 +36778,7 @@
         "address":  "950台灣臺東縣臺東市民生里浙江路323號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4294185425757930779",
         "note":  "",
         "createdAt":  1619621792000
@@ -36822,18 +36822,18 @@
         "address":  "920台灣屏東縣潮州鎮光春里育才路86-1號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=880400588061410994",
         "note":  "",
         "createdAt":  1619619375000
     },
     {
         "id":  "star_3349",
-        "name":  "口袋名單地點 3349",
+        "name":  "口袋地點 3349",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=21.956563,120.721599",
         "note":  "",
         "createdAt":  1619619129000
@@ -36844,18 +36844,18 @@
         "address":  "912台灣屏東縣內埔鄉富田村富豐路306號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5865451722983839911",
         "note":  "",
         "createdAt":  1619619057000
     },
     {
         "id":  "star_3351",
-        "name":  "口袋名單地點 3351",
+        "name":  "口袋地點 3351",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=21.966825,120.841984",
         "note":  "",
         "createdAt":  1619611437000
@@ -36888,7 +36888,7 @@
         "address":  "946台灣屏東縣恆春鎮南灣里南灣路223號南灣遊憩區內",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "小吃",
+        "category":  "酒吧/餐酒館",
         "url":  "http://maps.google.com/?cid=7698680305205701994",
         "note":  "",
         "createdAt":  1619610483000
@@ -36899,7 +36899,7 @@
         "address":  "946台灣屏東縣恆春鎮城南里光明路50號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11001706251505736225",
         "note":  "",
         "createdAt":  1619610167000
@@ -36910,7 +36910,7 @@
         "address":  "946台灣屏東縣恆春鎮城西里恆西路12-21號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6843735587949754897",
         "note":  "",
         "createdAt":  1619609876000
@@ -36921,29 +36921,29 @@
         "address":  "946台灣屏東縣恆春鎮城西里恆西路12號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2322476412912763317",
         "note":  "",
         "createdAt":  1619609855000
     },
     {
         "id":  "star_3358",
-        "name":  "口袋名單地點 3358",
+        "name":  "口袋地點 3358",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.025603,121.552165",
         "note":  "",
         "createdAt":  1619602716000
     },
     {
         "id":  "star_3359",
-        "name":  "口袋名單地點 3359",
+        "name":  "口袋地點 3359",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.226995,121.651447",
         "note":  "",
         "createdAt":  1619126824000
@@ -36976,7 +36976,7 @@
         "address":  "106台灣臺北市大安區通安里通安街48號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=407610045989953720",
         "note":  "",
         "createdAt":  1618676657000
@@ -36987,7 +36987,7 @@
         "address":  "100台灣臺北市中正區羅斯福路四段92號水源市場 攤位57號1樓",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9007765218711234374",
         "note":  "",
         "createdAt":  1618676009000
@@ -36998,7 +36998,7 @@
         "address":  "10號, No. 10號忠孝東路三段217巷4弄昌隆里大安區臺北市台灣 106",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14292798966036847838",
         "note":  "",
         "createdAt":  1618672443000
@@ -37053,7 +37053,7 @@
         "address":  "270台灣宜蘭縣蘇澳鎮南正里江夏路65之5號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10538640797300279540",
         "note":  "",
         "createdAt":  1618456113000
@@ -37064,7 +37064,7 @@
         "address":  "269台灣宜蘭縣冬山鄉香南路",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16422395487036330836",
         "note":  "",
         "createdAt":  1618455221000
@@ -37104,11 +37104,11 @@
     },
     {
         "id":  "star_3374",
-        "name":  "口袋名單地點 3374",
+        "name":  "口袋地點 3374",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=262%E5%AE%9C%E8%98%AD%E7%B8%A3%E7%A4%81%E6%BA%AA%E9%84%89%E8%8C%85%E5%9F%94%E8%B7%AF37%E8%99%9F\u0026ftid=0x3467fa8be870735b:0xe8b98f63e0e6574f",
         "note":  "",
         "createdAt":  1618411437000
@@ -37119,7 +37119,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉德陽村仁愛路22-1號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11744839484701085195",
         "note":  "",
         "createdAt":  1618411407000
@@ -37130,7 +37130,7 @@
         "address":  "722台灣臺南市佳里區東寧里信義一街426號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9722975194426308180",
         "note":  "",
         "createdAt":  1618315195000
@@ -37148,11 +37148,11 @@
     },
     {
         "id":  "star_3378",
-        "name":  "口袋名單地點 3378",
+        "name":  "口袋地點 3378",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.627843,139.771823",
         "note":  "",
         "createdAt":  1617712311000
@@ -37163,7 +37163,7 @@
         "address":  "600台灣嘉義市東區民族里忠孝路87號轉進來",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17547543303049394783",
         "note":  "",
         "createdAt":  1617696867000
@@ -37196,7 +37196,7 @@
         "address":  "221台灣新北市汐止區北峰里康寧街410號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=7836442540635170278",
         "note":  "",
         "createdAt":  1616741810000
@@ -37207,7 +37207,7 @@
         "address":  "221台灣新北市汐止區秀峰里秀峰路68號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=7077439534096197777",
         "note":  "",
         "createdAt":  1616741419000
@@ -37251,7 +37251,7 @@
         "address":  "竹子湖路(用google map搜尋名陽匍休閒農莊即可, 北投區臺北市台灣 112",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12959604912289799699",
         "note":  "",
         "createdAt":  1616313721000
@@ -37269,11 +37269,11 @@
     },
     {
         "id":  "star_3389",
-        "name":  "口袋名單地點 3389",
+        "name":  "口袋地點 3389",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.691485,139.747125",
         "note":  "",
         "createdAt":  1616140427000
@@ -37284,7 +37284,7 @@
         "address":  "237台灣新北市三峽區安溪里光明路26號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1315731775627708491",
         "note":  "",
         "createdAt":  1615885100000
@@ -37350,7 +37350,7 @@
         "address":  "112台灣臺北市北投區湖田里竹子湖路67號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3094836520014197356",
         "note":  "",
         "createdAt":  1615602266000
@@ -37361,7 +37361,7 @@
         "address":  "112台灣臺北市北投區湖田里竹子湖路55-11號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3618838630191555691",
         "note":  "",
         "createdAt":  1615602254000
@@ -37383,7 +37383,7 @@
         "address":  "704台灣臺南市北區北門里公園路970號（騎樓號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8226279210596986549",
         "note":  "",
         "createdAt":  1615392883000
@@ -37427,7 +37427,7 @@
         "address":  "946台灣屏東縣恆春鎮山腳里恒南路71-3號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10931424377459593683",
         "note":  "",
         "createdAt":  1615355124000
@@ -37449,7 +37449,7 @@
         "address":  "313台灣新竹縣尖石鄉村竹60鄉道16-1號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8375939580415594526",
         "note":  "",
         "createdAt":  1615298938000
@@ -37515,7 +37515,7 @@
         "address":  "700台灣臺南市中西區小西門里府前路一段373號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9450723934244909150",
         "note":  "",
         "createdAt":  1615113248000
@@ -37526,18 +37526,18 @@
         "address":  "741台灣臺南市善化區溪美里228號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6767673720358806597",
         "note":  "",
         "createdAt":  1615095235000
     },
     {
         "id":  "star_3413",
-        "name":  "口袋名單地點 3413",
+        "name":  "口袋地點 3413",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.002818,120.161698",
         "note":  "",
         "createdAt":  1615083477000
@@ -37548,7 +37548,7 @@
         "address":  "700台灣臺南市中西區兌悅里西和路268號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8184200463641085585",
         "note":  "",
         "createdAt":  1615082664000
@@ -37559,7 +37559,7 @@
         "address":  "725台灣臺南市將軍區鯤溟里鯤溟100號之1",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9390964442522346422",
         "note":  "",
         "createdAt":  1615082508000
@@ -37603,7 +37603,7 @@
         "address":  "119巷8號, 漁光路漁光里安平區臺南市台灣 708",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13364894046257861244",
         "note":  "",
         "createdAt":  1615031549000
@@ -37625,29 +37625,29 @@
         "address":  "700台灣臺南市中西區西賢里 Section 4, Minquan Rd, 476號無固定營業時間）依現場庫存隨時調整喔！請看FB公吿",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4998516327505272620",
         "note":  "",
         "createdAt":  1614984917000
     },
     {
         "id":  "star_3422",
-        "name":  "口袋名單地點 3422",
+        "name":  "口袋地點 3422",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.509404,120.474854",
         "note":  "",
         "createdAt":  1614911051000
     },
     {
         "id":  "star_3423",
-        "name":  "口袋名單地點 3423",
+        "name":  "口袋地點 3423",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.5105435,120.4782992",
         "note":  "",
         "createdAt":  1614910691000
@@ -37658,7 +37658,7 @@
         "address":  "111台灣臺北市士林區社子里延平北路六段116巷2弄1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11233587727030616540",
         "note":  "",
         "createdAt":  1614764593000
@@ -37676,11 +37676,11 @@
     },
     {
         "id":  "star_3426",
-        "name":  "口袋名單地點 3426",
+        "name":  "口袋地點 3426",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=600%E5%98%89%E7%BE%A9%E7%B8%A3%E6%9D%B1%E5%8D%80%E5%8F%B0%E6%9E%97%E6%A9%8B\u0026ftid=0x346e95bfd005a841:0xc7682f2e2427f7c8",
         "note":  "",
         "createdAt":  1614554362000
@@ -37713,7 +37713,7 @@
         "address":  "239台灣新北市鶯歌區同慶里重慶街62-1號2樓",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15228930056753213694",
         "note":  "",
         "createdAt":  1614531310000
@@ -37746,18 +37746,18 @@
         "address":  "727台灣臺南市北門區雙春里73-10號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8464929164423994759",
         "note":  "",
         "createdAt":  1614526377000
     },
     {
         "id":  "star_3433",
-        "name":  "口袋名單地點 3433",
+        "name":  "口袋地點 3433",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=727%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E9%96%80%E5%8D%80%E9%9B%99%E6%98%A5%E6%BF%B1%E6%B5%B7%E9%81%8A%E6%86%A9%E5%8D%80\u0026ftid=0x346c2a4d344ea72f:0xd5616d96ea79ebc2",
         "note":  "",
         "createdAt":  1614526359000
@@ -37801,7 +37801,7 @@
         "address":  "22391台灣新北市石碇區北宜路六段獅仔頭坑巷16號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3177267189113464667",
         "note":  "",
         "createdAt":  1614353345000
@@ -37856,7 +37856,7 @@
         "address":  "651台灣雲林縣北港鎮中和里中山路37號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=12654812402584606783",
         "note":  "",
         "createdAt":  1613637172000
@@ -37867,7 +37867,7 @@
         "address":  "241台灣新北市三重區慈惠里溪尾街240號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3434433409762363367",
         "note":  "",
         "createdAt":  1613636912000
@@ -37878,7 +37878,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉龍潭村三皇路56號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16312299133120994288",
         "note":  "",
         "createdAt":  1613636598000
@@ -37900,7 +37900,7 @@
         "address":  "608台灣嘉義縣水上鄉民生村忠孝街248號民生社區）近嘉義市",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=3080747187655022769",
         "note":  "",
         "createdAt":  1613636165000
@@ -37929,11 +37929,11 @@
     },
     {
         "id":  "star_3449",
-        "name":  "口袋名單地點 3449",
+        "name":  "口袋地點 3449",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=22.980492,120.237396",
         "note":  "",
         "createdAt":  1613617663000
@@ -37944,7 +37944,7 @@
         "address":  "700台灣臺南市中西區永華里開山路9號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3044631308347238038",
         "note":  "",
         "createdAt":  1613617272000
@@ -37955,7 +37955,7 @@
         "address":  "702台灣臺南市南區鹽埕里",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=8764393126442411555",
         "note":  "",
         "createdAt":  1613617161000
@@ -37988,7 +37988,7 @@
         "address":  "700台灣臺南市中西區五條港里國華街三段157號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14370769965288900932",
         "note":  "",
         "createdAt":  1613480854000
@@ -38006,11 +38006,11 @@
     },
     {
         "id":  "star_3456",
-        "name":  "口袋名單地點 3456",
+        "name":  "口袋地點 3456",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=114%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80%E9%BE%8D%E8%88%B9%E5%B2%A9\u0026ftid=0x3442ace30c6a273d:0x85486d1c4fab0354",
         "note":  "",
         "createdAt":  1613391381000
@@ -38032,7 +38032,7 @@
         "address":  "708台灣臺南市安平區安億路115號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=12620727541725049863",
         "note":  "",
         "createdAt":  1613366913000
@@ -38043,7 +38043,7 @@
         "address":  "545台灣南投縣埔里鎮清新里西安路一段24號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=18130332570227657914",
         "note":  "",
         "createdAt":  1613187650000
@@ -38105,22 +38105,22 @@
     },
     {
         "id":  "star_3465",
-        "name":  "口袋名單地點 3465",
+        "name":  "口袋地點 3465",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=43.197964,141.003100",
         "note":  "",
         "createdAt":  1613096620000
     },
     {
         "id":  "star_3466",
-        "name":  "口袋名單地點 3466",
+        "name":  "口袋地點 3466",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.107913,120.562447",
         "note":  "",
         "createdAt":  1613012528000
@@ -38131,7 +38131,7 @@
         "address":  "715台灣臺南市楠西區",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17694681663678045028",
         "note":  "",
         "createdAt":  1613012526000
@@ -38153,7 +38153,7 @@
         "address":  "715台灣臺南市楠西區32號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14996653696188715849",
         "note":  "",
         "createdAt":  1613011996000
@@ -38164,7 +38164,7 @@
         "address":  "607台灣嘉義縣大埔鄉西興村潭坪7號2F",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11538889562849416120",
         "note":  "",
         "createdAt":  1613011874000
@@ -38175,7 +38175,7 @@
         "address":  "708台灣臺南市安平區建平里建平十三街72號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13206105315088764630",
         "note":  "",
         "createdAt":  1613009758000
@@ -38186,7 +38186,7 @@
         "address":  "70103台灣臺南市東區成大里前鋒路122號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17106314436881924797",
         "note":  "",
         "createdAt":  1612970488000
@@ -38219,7 +38219,7 @@
         "address":  "704台灣臺南市北區開元里開元路307號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=2416022006512852225",
         "note":  "",
         "createdAt":  1612963606000
@@ -38230,7 +38230,7 @@
         "address":  "704台灣臺南市北區開元里開元路313號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=845878978569356285",
         "note":  "",
         "createdAt":  1612963437000
@@ -38285,7 +38285,7 @@
         "address":  "733台灣臺南市東山區東中里中興路91號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13673233709332211280",
         "note":  "",
         "createdAt":  1612874210000
@@ -38296,7 +38296,7 @@
         "address":  "700台灣臺南市中西區忠義路二段133號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1925188273348178977",
         "note":  "",
         "createdAt":  1612873730000
@@ -38351,7 +38351,7 @@
         "address":  "73252台灣臺南市白河區六溪里21-1號號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10106935179728536270",
         "note":  "",
         "createdAt":  1612850436000
@@ -38461,18 +38461,18 @@
         "address":  "700台灣臺南市中西區府前里保安路98號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4890191907622692931",
         "note":  "",
         "createdAt":  1612753851000
     },
     {
         "id":  "star_3498",
-        "name":  "口袋名單地點 3498",
+        "name":  "口袋地點 3498",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=26.705507,127.887441",
         "note":  "",
         "createdAt":  1612514164000
@@ -38527,7 +38527,7 @@
         "address":  "402台灣臺中市南區城隍里信義南街39號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7086276747374599234",
         "note":  "",
         "createdAt":  1611832446000
@@ -38538,7 +38538,7 @@
         "address":  "103台灣臺北市大同區斯文里大龍街85巷1號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6499814514449684203",
         "note":  "",
         "createdAt":  1611799545000
@@ -38549,7 +38549,7 @@
         "address":  "556台灣南投縣信義鄉自強村陽和巷85號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1586822676646225597",
         "note":  "",
         "createdAt":  1611738842000
@@ -38571,7 +38571,7 @@
         "address":  "70046台灣臺南市中西區永華里府前路一段218號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8900202290878478045",
         "note":  "",
         "createdAt":  1611498159000
@@ -38593,7 +38593,7 @@
         "address":  "300台灣新竹市北區文華里光華街88號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3878832295084281794",
         "note":  "",
         "createdAt":  1611283819000
@@ -38604,7 +38604,7 @@
         "address":  "406台灣臺中市太平區新吉里中山路三段22號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11438592260329255059",
         "note":  "",
         "createdAt":  1611153966000
@@ -38637,7 +38637,7 @@
         "address":  "413台灣臺中市霧峰區南柳里柳豐路500號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2037629726734458313",
         "note":  "",
         "createdAt":  1610719284000
@@ -38648,7 +38648,7 @@
         "address":  "362台灣苗栗縣頭屋鄉明德村明德路6號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "早餐/早午餐",
         "url":  "http://maps.google.com/?cid=11419804287719000514",
         "note":  "",
         "createdAt":  1610700644000
@@ -38659,7 +38659,7 @@
         "address":  "103台灣臺北市大同區永樂里民生西路362巷40號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12557340672114974117",
         "note":  "",
         "createdAt":  1610615046000
@@ -38670,18 +38670,18 @@
         "address":  "526台灣彰化縣二林鎮東和里儒林路二段458號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4286187737709155064",
         "note":  "",
         "createdAt":  1610615018000
     },
     {
         "id":  "star_3517",
-        "name":  "口袋名單地點 3517",
+        "name":  "口袋地點 3517",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.044704,121.503969",
         "note":  "",
         "createdAt":  1610360799000
@@ -38692,7 +38692,7 @@
         "address":  "700台灣臺南市中西區府前里國華街二段156號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=175986838401699063",
         "note":  "",
         "createdAt":  1610252047000
@@ -38703,7 +38703,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉白雲村白雲三路11號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6654068458208960101",
         "note":  "",
         "createdAt":  1610247791000
@@ -38736,7 +38736,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉龍潭村育龍路21號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11428840002449225356",
         "note":  "",
         "createdAt":  1610246309000
@@ -38802,7 +38802,7 @@
         "address":  "265台灣宜蘭縣羅東鎮集祥里天津路5-9號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13538970468794697683",
         "note":  "",
         "createdAt":  1610208136000
@@ -38813,7 +38813,7 @@
         "address":  "320台灣桃園市中壢區青埔里春德路189號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10887658563376577384",
         "note":  "",
         "createdAt":  1609937469000
@@ -38868,7 +38868,7 @@
         "address":  "114台灣臺北市內湖區週美里舊宗路一段18號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6658230264746417226",
         "note":  "",
         "createdAt":  1609922311000
@@ -38879,7 +38879,7 @@
         "address":  "114台灣臺北市內湖區港都里內湖路一段639號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1058213609564026815",
         "note":  "",
         "createdAt":  1609917565000
@@ -38912,7 +38912,7 @@
         "address":  "116台灣臺北市文山區景行里景美街75號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11945806887589748492",
         "note":  "",
         "createdAt":  1609488997000
@@ -38963,11 +38963,11 @@
     },
     {
         "id":  "star_3543",
-        "name":  "口袋名單地點 3543",
+        "name":  "口袋地點 3543",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.551491,120.627938",
         "note":  "",
         "createdAt":  1609340664000
@@ -39022,7 +39022,7 @@
         "address":  "732台灣臺南市白河區關嶺里46-3號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9170520805504851092",
         "note":  "",
         "createdAt":  1608352018000
@@ -39066,7 +39066,7 @@
         "address":  "241台灣新北市三重區尚德里仁愛街124號1F",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13402710450236292067",
         "note":  "",
         "createdAt":  1608264609000
@@ -39077,7 +39077,7 @@
         "address":  "200台灣基隆市仁愛區吉仁里南新街57號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=1496578550708136667",
         "note":  "",
         "createdAt":  1608187874000
@@ -39110,7 +39110,7 @@
         "address":  "744台灣臺南市新市區社內里富安一街59號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12869590496164098397",
         "note":  "",
         "createdAt":  1608132711000
@@ -39165,7 +39165,7 @@
         "address":  "717台灣臺南市仁德區成功里文賢路一段31 號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11337132445690026057",
         "note":  "",
         "createdAt":  1607938240000
@@ -39176,7 +39176,7 @@
         "address":  "221台灣新北市汐止區文化里南興路28號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5592773358447567303",
         "note":  "",
         "createdAt":  1607923964000
@@ -39209,7 +39209,7 @@
         "address":  "400台灣臺中市中區公園里自由路二段79號",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11761520899415223667",
         "note":  "",
         "createdAt":  1607848933000
@@ -39253,7 +39253,7 @@
         "address":  "616台灣嘉義縣新港鄉中山路奉天大廈17號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10605298486864939633",
         "note":  "",
         "createdAt":  1607687491000
@@ -39275,7 +39275,7 @@
         "address":  "403台灣臺中市西區中興里美村路一段189號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11139527682797419711",
         "note":  "",
         "createdAt":  1607591514000
@@ -39286,7 +39286,7 @@
         "address":  "116台灣臺北市文山區興得里興隆路三段112巷2弄13號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1003294902205359245",
         "note":  "",
         "createdAt":  1607482096000
@@ -39308,7 +39308,7 @@
         "address":  "100台灣臺北市中正區板溪里同安街16號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14917090205677148566",
         "note":  "",
         "createdAt":  1607433590000
@@ -39330,7 +39330,7 @@
         "address":  "100台灣臺北市中正區水源里汀州路三段239號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8101819531511571049",
         "note":  "",
         "createdAt":  1607433303000
@@ -39341,7 +39341,7 @@
         "address":  "100台灣臺北市中正區水源里羅斯福路四段52巷16弄4號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15499209931689508461",
         "note":  "",
         "createdAt":  1607433284000
@@ -39352,7 +39352,7 @@
         "address":  "100台灣臺北市中正區水源里羅斯福路四段92號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=798891478315285261",
         "note":  "",
         "createdAt":  1607432747000
@@ -39385,7 +39385,7 @@
         "address":  "403台灣臺中市西區民龍里西屯路一段147-1號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=17053589820441593660",
         "note":  "",
         "createdAt":  1607309486000
@@ -39407,7 +39407,7 @@
         "address":  "300台灣新竹市東區南大里竹蓮街15號竹蓮市場",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2028186318331846793",
         "note":  "",
         "createdAt":  1607247330000
@@ -39429,7 +39429,7 @@
         "address":  "362台灣苗栗縣頭屋鄉明德村明德路226號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7074133297749659689",
         "note":  "",
         "createdAt":  1607228982000
@@ -39491,11 +39491,11 @@
     },
     {
         "id":  "star_3591",
-        "name":  "口袋名單地點 3591",
+        "name":  "口袋地點 3591",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.016632,120.687047",
         "note":  "",
         "createdAt":  1605452108000
@@ -39506,7 +39506,7 @@
         "address":  "320台灣桃園市中壢區龍平里龍東路18號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14506419972190441639",
         "note":  "",
         "createdAt":  1605437169000
@@ -39528,7 +39528,7 @@
         "address":  "335台灣桃園市大溪區南興里浮筧街158之1號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14244461418178409612",
         "note":  "",
         "createdAt":  1605416752000
@@ -39539,7 +39539,7 @@
         "address":  "320台灣桃園市中壢區龍平里龍平路251號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15354325844640078128",
         "note":  "",
         "createdAt":  1605416555000
@@ -39550,7 +39550,7 @@
         "address":  "320台灣桃園市中壢區龍平里龍平路215號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2088554230884401119",
         "note":  "",
         "createdAt":  1605416527000
@@ -39561,7 +39561,7 @@
         "address":  null,
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3976245883371010297",
         "note":  "",
         "createdAt":  1605416276000
@@ -39572,7 +39572,7 @@
         "address":  "320台灣桃園市中壢區普仁里力行北街125號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5951779200206687046",
         "note":  "",
         "createdAt":  1605415841000
@@ -39583,7 +39583,7 @@
         "address":  null,
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17090507830277661854",
         "note":  "",
         "createdAt":  1605415699000
@@ -39660,7 +39660,7 @@
         "address":  "712台灣臺南市新化區全興里157號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13778699586151009134",
         "note":  "",
         "createdAt":  1605325552000
@@ -39671,7 +39671,7 @@
         "address":  "701台灣臺南市東區東聖里富農街二段77號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2202206345197129963",
         "note":  "",
         "createdAt":  1605325124000
@@ -39722,11 +39722,11 @@
     },
     {
         "id":  "star_3612",
-        "name":  "口袋名單地點 3612",
+        "name":  "口袋地點 3612",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.648021,120.884226",
         "note":  "",
         "createdAt":  1605323270000
@@ -39737,7 +39737,7 @@
         "address":  "台灣苗栗縣三灣鄉13號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11416806005344080238",
         "note":  "",
         "createdAt":  1605240292000
@@ -39748,7 +39748,7 @@
         "address":  "222台灣新北市深坑區深坑里深坑街62號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=564833953575729796",
         "note":  "",
         "createdAt":  1604845741000
@@ -39759,7 +39759,7 @@
         "address":  "222台灣新北市深坑區深坑里深坑街136號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14203006334020230352",
         "note":  "",
         "createdAt":  1604845232000
@@ -39770,7 +39770,7 @@
         "address":  "222台灣新北市深坑區深坑里北深路二段179-1號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7146561896232668651",
         "note":  "",
         "createdAt":  1604845217000
@@ -39781,7 +39781,7 @@
         "address":  "222台灣新北市深坑區深坑里北深路二段204號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10062623699813254364",
         "note":  "",
         "createdAt":  1604845072000
@@ -39792,7 +39792,7 @@
         "address":  "222台灣新北市深坑區",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "酒吧/餐酒館",
         "url":  "http://maps.google.com/?cid=15707332216794284910",
         "note":  "",
         "createdAt":  1604844972000
@@ -39847,7 +39847,7 @@
         "address":  "970台灣花蓮縣花蓮市民運里化道路8號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9206354910737121793",
         "note":  "",
         "createdAt":  1604733597000
@@ -39858,7 +39858,7 @@
         "address":  "970台灣花蓮縣花蓮市主商里博愛街130號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1497550619230054707",
         "note":  "",
         "createdAt":  1604733128000
@@ -39880,18 +39880,18 @@
         "address":  "No. 83號, Jianguo Rd, 國華里花蓮市花蓮縣台灣 970",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3046363656522241772",
         "note":  "",
         "createdAt":  1604679174000
     },
     {
         "id":  "star_3627",
-        "name":  "口袋名單地點 3627",
+        "name":  "口袋地點 3627",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=10.406749,123.866665",
         "note":  "",
         "createdAt":  1604675473000
@@ -39909,33 +39909,33 @@
     },
     {
         "id":  "star_3629",
-        "name":  "口袋名單地點 3629",
+        "name":  "口袋地點 3629",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=970%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82%E8%8F%81%E8%8F%AF%E8%A1%9735%E5%B7%B71%E5%BC%8418%E8%99%9F\u0026ftid=0x34689fc4ea6e9207:0xa804725acc6b0675",
         "note":  "",
         "createdAt":  1604543171000
     },
     {
         "id":  "star_3630",
-        "name":  "口袋名單地點 3630",
+        "name":  "口袋地點 3630",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=38.570181,140.530368",
         "note":  "",
         "createdAt":  1603535352000
     },
     {
         "id":  "star_3631",
-        "name":  "口袋名單地點 3631",
+        "name":  "口袋地點 3631",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.804033,121.235082",
         "note":  "",
         "createdAt":  1602684547000
@@ -39946,7 +39946,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉白鵝村柴圍路10號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13234545272388778239",
         "note":  "",
         "createdAt":  1602158094000
@@ -39964,11 +39964,11 @@
     },
     {
         "id":  "star_3634",
-        "name":  "口袋名單地點 3634",
+        "name":  "口袋地點 3634",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.391412,120.795562",
         "note":  "",
         "createdAt":  1601722376000
@@ -39990,18 +39990,18 @@
         "address":  "103台灣臺北市大同區國慶里民族西路296號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=2439518397661521961",
         "note":  "",
         "createdAt":  1600828934000
     },
     {
         "id":  "star_3637",
-        "name":  "口袋名單地點 3637",
+        "name":  "口袋地點 3637",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=972%E8%8A%B1%E8%93%AE%E7%B8%A3%E7%A7%80%E6%9E%97%E9%84%89Qingshui+Duanyai\u0026ftid=0x34662bbc59bb7d23:0x418f58180968f4b",
         "note":  "",
         "createdAt":  1600826887000
@@ -40012,7 +40012,7 @@
         "address":  "970台灣花蓮縣花蓮市國華里博愛街263號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=2287301353856627590",
         "note":  "",
         "createdAt":  1600759457000
@@ -40023,7 +40023,7 @@
         "address":  "970台灣花蓮縣花蓮市主學里中正路335號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17669172712402706510",
         "note":  "",
         "createdAt":  1600754672000
@@ -40034,7 +40034,7 @@
         "address":  "974台灣花蓮縣壽豐鄉鹽寮村68號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1912260911485280760",
         "note":  "",
         "createdAt":  1600750077000
@@ -40063,11 +40063,11 @@
     },
     {
         "id":  "star_3643",
-        "name":  "口袋名單地點 3643",
+        "name":  "口袋地點 3643",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.126403,121.651869",
         "note":  "",
         "createdAt":  1600745827000
@@ -40100,7 +40100,7 @@
         "address":  "973台灣花蓮縣吉安鄉吉安村中興路345-1號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16084543393414290365",
         "note":  "",
         "createdAt":  1600690738000
@@ -40111,7 +40111,7 @@
         "address":  "971台灣花蓮縣新城鄉新城村博愛路22號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5641449034182779845",
         "note":  "",
         "createdAt":  1600690541000
@@ -40144,18 +40144,18 @@
         "address":  "369台灣苗栗縣卓蘭鎮西坪路43-15號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14572145920426274958",
         "note":  "",
         "createdAt":  1600412164000
     },
     {
         "id":  "star_3651",
-        "name":  "口袋名單地點 3651",
+        "name":  "口袋地點 3651",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=14.041204,99.503874",
         "note":  "",
         "createdAt":  1600301084000
@@ -40166,7 +40166,7 @@
         "address":  "971台灣花蓮縣新城鄉順安村台9線9號175.5K",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17979082107639040048",
         "note":  "",
         "createdAt":  1600231401000
@@ -40199,7 +40199,7 @@
         "address":  "971台灣花蓮縣新城鄉新城村博愛路64號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1158371893947257041",
         "note":  "",
         "createdAt":  1600171449000
@@ -40210,7 +40210,7 @@
         "address":  "962台灣臺東縣長濱鄉東13鄉道",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14171270707239639266",
         "note":  "",
         "createdAt":  1600170078000
@@ -40221,7 +40221,7 @@
         "address":  "959台灣臺東縣東河鄉隆昌村七里橋11號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3399540986082209472",
         "note":  "",
         "createdAt":  1600169959000
@@ -40232,7 +40232,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉東南海岸線上",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1562741712996110462",
         "note":  "",
         "createdAt":  1600153419000
@@ -40254,7 +40254,7 @@
         "address":  "951台灣臺東縣綠島鄉漁港路",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4236165206603613581",
         "note":  "",
         "createdAt":  1600153062000
@@ -40265,7 +40265,7 @@
         "address":  "959台灣臺東縣東河鄉漁澳",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5738281780721635481",
         "note":  "",
         "createdAt":  1600152886000
@@ -40276,7 +40276,7 @@
         "address":  "963台灣臺東縣太麻里鄉台9線395.5 公里",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6160763002738156743",
         "note":  "",
         "createdAt":  1600152832000
@@ -40298,7 +40298,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉椰油村296-7號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14748754208667918674",
         "note":  "",
         "createdAt":  1600152631000
@@ -40316,11 +40316,11 @@
     },
     {
         "id":  "star_3666",
-        "name":  "口袋名單地點 3666",
+        "name":  "口袋地點 3666",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=950%E8%87%BA%E6%9D%B1%E7%B8%A3%E8%87%BA%E6%9D%B1%E5%B8%82%E7%90%B5%E7%90%B6%E6%B9%96\u0026ftid=0x346fb94bd1d50e2f:0x55ea17f2c9e59f7c",
         "note":  "",
         "createdAt":  1600151886000
@@ -40331,7 +40331,7 @@
         "address":  "No. 1, Zhongzheng Rd, 成功里臺東市臺東縣台灣 950",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13653215675129033738",
         "note":  "",
         "createdAt":  1600151853000
@@ -40342,7 +40342,7 @@
         "address":  "954台灣臺東縣太麻里鄉",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "景點",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15559423131326347695",
         "note":  "",
         "createdAt":  1600151763000
@@ -40353,7 +40353,7 @@
         "address":  "950台灣臺東縣臺東市富岡里松江路一段500號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9247969613853221146",
         "note":  "",
         "createdAt":  1600151675000
@@ -40364,7 +40364,7 @@
         "address":  "950台灣臺東縣臺東市台11線",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17158183600431965269",
         "note":  "",
         "createdAt":  1600151647000
@@ -40375,7 +40375,7 @@
         "address":  "958台灣臺東縣池上鄉錦新三號道路",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10164448225396696898",
         "note":  "",
         "createdAt":  1600151257000
@@ -40386,7 +40386,7 @@
         "address":  "963台灣臺東縣太麻里鄉瀧溪路8-1號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=7970038802478099391",
         "note":  "",
         "createdAt":  1600150773000
@@ -40426,11 +40426,11 @@
     },
     {
         "id":  "star_3676",
-        "name":  "口袋名單地點 3676",
+        "name":  "口袋地點 3676",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.975028,121.615990",
         "note":  "",
         "createdAt":  1600006213000
@@ -40441,7 +40441,7 @@
         "address":  "972台灣花蓮縣秀林鄉崇德村海濱路26號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15927367610591100854",
         "note":  "",
         "createdAt":  1599995681000
@@ -40485,7 +40485,7 @@
         "address":  "971台灣花蓮縣花蓮市民心里七星街41巷11號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17352401195805284436",
         "note":  "",
         "createdAt":  1598881218000
@@ -40518,7 +40518,7 @@
         "address":  "406台灣臺中市北屯區松竹路一段2號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14762036403316770309",
         "note":  "",
         "createdAt":  1598255538000
@@ -40540,7 +40540,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉德陽村德陽路91號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10529870812230517064",
         "note":  "",
         "createdAt":  1598238882000
@@ -40595,7 +40595,7 @@
         "address":  "712台灣臺南市新化區太平里忠孝路42號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=12651326852265498283",
         "note":  "",
         "createdAt":  1597818709000
@@ -40606,7 +40606,7 @@
         "address":  "220台灣新北市板橋區朝陽里四維路259巷2號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9681391933614359663",
         "note":  "",
         "createdAt":  1597292167000
@@ -40639,7 +40639,7 @@
         "address":  "No. 7號, Lane 84, Minzuer St, 湖光里汐止區新北市台灣 221",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2879389943026148417",
         "note":  "",
         "createdAt":  1596708078000
@@ -40672,7 +40672,7 @@
         "address":  "974台灣花蓮縣壽豐鄉壽豐村壽豐路一段79號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4796515342731958778",
         "note":  "",
         "createdAt":  1596527367000
@@ -40716,7 +40716,7 @@
         "address":  "975台灣花蓮縣鳳林鎮鳳智里新生街26號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9686369938164791027",
         "note":  "",
         "createdAt":  1596035456000
@@ -40727,7 +40727,7 @@
         "address":  "981台灣花蓮縣玉里鎮泰昌里中正路127號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1825859085738131392",
         "note":  "",
         "createdAt":  1596035207000
@@ -40778,11 +40778,11 @@
     },
     {
         "id":  "star_3708",
-        "name":  "口袋名單地點 3708",
+        "name":  "口袋地點 3708",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=270%E5%AE%9C%E8%98%AD%E7%B8%A3%E8%98%87%E6%BE%B3%E9%8E%AE%E7%83%8F%E5%B2%A9%E8%A7%92\u0026ftid=0x3467c24c0877e973:0xd0931c7f8bde7f9e",
         "note":  "",
         "createdAt":  1595998811000
@@ -40793,7 +40793,7 @@
         "address":  "268台灣宜蘭縣五結鄉大吉村溪濱路二段263號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16791977145745762583",
         "note":  "",
         "createdAt":  1595926268000
@@ -40815,7 +40815,7 @@
         "address":  "No. 91號, Nanxing St, 北埔村北埔鄉新竹縣台灣 314",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6763963195557651173",
         "note":  "",
         "createdAt":  1595755090000
@@ -40848,7 +40848,7 @@
         "address":  "300台灣新竹市北區中興里北門街35號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1542695673122855979",
         "note":  "",
         "createdAt":  1595572847000
@@ -40859,7 +40859,7 @@
         "address":  "300台灣新竹市東區榮光里大同路4號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "小吃",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=9802925614382400073",
         "note":  "",
         "createdAt":  1595572796000
@@ -40881,7 +40881,7 @@
         "address":  "300台灣新竹市北區中央里中山路75號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=8472263189454742410",
         "note":  "",
         "createdAt":  1595571468000
@@ -40936,7 +40936,7 @@
         "address":  "300台灣新竹市北區西門里長安街3號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15035546636913513499",
         "note":  "",
         "createdAt":  1595567554000
@@ -40969,7 +40969,7 @@
         "address":  "200台灣基隆市仁愛區和明里仁二路166號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12537487782371230834",
         "note":  "",
         "createdAt":  1595348879000
@@ -41064,11 +41064,11 @@
     },
     {
         "id":  "star_3734",
-        "name":  "口袋名單地點 3734",
+        "name":  "口袋地點 3734",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.738533,100.485242",
         "note":  "",
         "createdAt":  1594851426000
@@ -41079,7 +41079,7 @@
         "address":  "205台灣基隆市暖暖區碇內里源遠路222號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=13485771283641570148",
         "note":  "",
         "createdAt":  1594567605000
@@ -41178,7 +41178,7 @@
         "address":  "958台灣臺東縣池上鄉大埔村大埔路39之2號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17128124860150527228",
         "note":  "",
         "createdAt":  1593929739000
@@ -41211,7 +41211,7 @@
         "address":  "710台灣臺南市永康區中華里小東路585號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13914370582827339334",
         "note":  "",
         "createdAt":  1593866301000
@@ -41222,7 +41222,7 @@
         "address":  "701台灣臺南市東區虎尾里東門路三段77號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3205726606757224012",
         "note":  "",
         "createdAt":  1593866185000
@@ -41233,7 +41233,7 @@
         "address":  "No. 147號, Fudong St, 龍山里東區臺南市台灣 701",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1964744243489512325",
         "note":  "",
         "createdAt":  1593862768000
@@ -41244,7 +41244,7 @@
         "address":  "700台灣臺南市中西區南廠里大勇街85號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17719067003627080936",
         "note":  "",
         "createdAt":  1593857260000
@@ -41255,7 +41255,7 @@
         "address":  "700台灣臺南市中西區府前里保安路82號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1984915811519197151",
         "note":  "",
         "createdAt":  1593766586000
@@ -41266,7 +41266,7 @@
         "address":  "No. 160號, Section 3, Guohua St, 五條港里中西區臺南市台灣 700",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16283078742888924763",
         "note":  "",
         "createdAt":  1593766179000
@@ -41299,7 +41299,7 @@
         "address":  "724台灣臺南市七股區",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4558449593456730901",
         "note":  "",
         "createdAt":  1593489094000
@@ -41310,7 +41310,7 @@
         "address":  "704台灣臺南市北區和順里民德路85巷3號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14597665409916035193",
         "note":  "",
         "createdAt":  1593448479000
@@ -41343,7 +41343,7 @@
         "address":  "704台灣臺南市北區振興里林森路三段185號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9894229962330848464",
         "note":  "",
         "createdAt":  1593445090000
@@ -41354,7 +41354,7 @@
         "address":  "702台灣臺南市南區文華里文南路339之1號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18209687817277503705",
         "note":  "",
         "createdAt":  1593444492000
@@ -41365,7 +41365,7 @@
         "address":  "700台灣臺南市中西區五條港里普濟街23號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3282660676680154504",
         "note":  "",
         "createdAt":  1593440492000
@@ -41376,7 +41376,7 @@
         "address":  "700台灣臺南市中西區五條港里國華街三段180號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=656839565714150480",
         "note":  "",
         "createdAt":  1593437298000
@@ -41387,7 +41387,7 @@
         "address":  "700台灣臺南市中西區南美里民生路一段160號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13397649642501993091",
         "note":  "",
         "createdAt":  1593436537000
@@ -41398,7 +41398,7 @@
         "address":  "700台灣臺南市中西區小西門里府前路一段323號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8008377326410646811",
         "note":  "",
         "createdAt":  1593433344000
@@ -41409,7 +41409,7 @@
         "address":  "700台灣臺南市中西區藥王里民族路三段289號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4837832535525559001",
         "note":  "",
         "createdAt":  1593420756000
@@ -41420,7 +41420,7 @@
         "address":  "700台灣臺南市中西區淺草里國華街三段6號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=12596475375256268171",
         "note":  "",
         "createdAt":  1593418723000
@@ -41464,18 +41464,18 @@
         "address":  "700台灣臺南市中西區開山里民權路一段41號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5042009290089969204",
         "note":  "",
         "createdAt":  1593416703000
     },
     {
         "id":  "star_3771",
-        "name":  "口袋名單地點 3771",
+        "name":  "口袋地點 3771",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=717%E5%8F%B0%E5%8D%97%E5%B8%82%E4%BB%81%E5%BE%B7%E5%8D%80%E4%BA%8C%E8%A1%8C%E4%B8%80%E8%B7%AF185%E8%99%9F\u0026ftid=0x346e74eda6dc1c6b:0x7c0bb5d16924dfd2",
         "note":  "",
         "createdAt":  1593414382000
@@ -41486,18 +41486,18 @@
         "address":  "700台灣臺南市中西區府前里國華街二段152號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=9297205872008267077",
         "note":  "",
         "createdAt":  1593410335000
     },
     {
         "id":  "star_3773",
-        "name":  "口袋名單地點 3773",
+        "name":  "口袋地點 3773",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=701%E5%8F%B0%E5%8D%97%E5%B8%82%E6%9D%B1%E5%8D%80%E5%85%89%E8%8F%AF%E8%A1%97122%E8%99%9F\u0026ftid=0x346e768535b401cd:0xf120ce31bfcee781",
         "note":  "",
         "createdAt":  1593405247000
@@ -41519,18 +41519,18 @@
         "address":  "No. 1號, Chihkan St, 赤嵌里中西區臺南市台灣 700",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11793980265444252163",
         "note":  "",
         "createdAt":  1593403594000
     },
     {
         "id":  "star_3776",
-        "name":  "口袋名單地點 3776",
+        "name":  "口袋地點 3776",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.133295,120.558139",
         "note":  "",
         "createdAt":  1593340005000
@@ -41552,7 +41552,7 @@
         "address":  "701台灣臺南市東區小東里東和路38號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2540101441505686877",
         "note":  "",
         "createdAt":  1593270730000
@@ -41574,7 +41574,7 @@
         "address":  "No. 142號, Section 1, Zhangchun Rd, 中山里竹東鎮新竹縣台灣 310",
         "scope":  "INTL",
         "region":  "越南",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16294608328461194614",
         "note":  "",
         "createdAt":  1593243989000
@@ -41585,7 +41585,7 @@
         "address":  "200台灣基隆市仁愛區兆連里成功一路14巷11號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6317147498550297475",
         "note":  "",
         "createdAt":  1593193198000
@@ -41596,7 +41596,7 @@
         "address":  "200台灣基隆市仁愛區文昌里孝四路14號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3730669114066113620",
         "note":  "",
         "createdAt":  1593193073000
@@ -41607,7 +41607,7 @@
         "address":  "200台灣基隆市仁愛區文昌里忠二路64號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=10135853663844881617",
         "note":  "",
         "createdAt":  1593193051000
@@ -41636,11 +41636,11 @@
     },
     {
         "id":  "star_3786",
-        "name":  "口袋名單地點 3786",
+        "name":  "口袋地點 3786",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=14.371001,100.555369",
         "note":  "",
         "createdAt":  1592989914000
@@ -41651,7 +41651,7 @@
         "address":  "No. 7號, Wenhua Rd, 逢甲里西屯區臺中市台灣 407",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7567753781680273268",
         "note":  "",
         "createdAt":  1592962506000
@@ -41662,7 +41662,7 @@
         "address":  "505台灣彰化縣鹿港鎮大有里大明路9號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2367208660754965051",
         "note":  "",
         "createdAt":  1592962207000
@@ -41673,7 +41673,7 @@
         "address":  "366台灣苗栗縣銅鑼鄉新隆村138之3號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7149315618905336134",
         "note":  "",
         "createdAt":  1592882745000
@@ -41706,7 +41706,7 @@
         "address":  "208台灣新北市金山區大同里金包里街16號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1332534951366782952",
         "note":  "",
         "createdAt":  1592737068000
@@ -41750,7 +41750,7 @@
         "address":  "528台灣彰化縣芳苑鄉博愛村芳漢路王功段519號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8461322451524499250",
         "note":  "",
         "createdAt":  1592675706000
@@ -41761,7 +41761,7 @@
         "address":  "528台灣彰化縣芳苑鄉王功村漁港七路146號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=4275990360878554585",
         "note":  "",
         "createdAt":  1592674552000
@@ -41772,7 +41772,7 @@
         "address":  "528台灣彰化縣芳苑鄉和平村芳漢路王功段420號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=486066509793865070",
         "note":  "",
         "createdAt":  1592674541000
@@ -41794,18 +41794,18 @@
         "address":  "528台灣彰化縣芳苑鄉仁愛村芳新路芳苑段6號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10733219122518162533",
         "note":  "",
         "createdAt":  1592657039000
     },
     {
         "id":  "star_3801",
-        "name":  "口袋名單地點 3801",
+        "name":  "口袋地點 3801",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.076228,120.540116",
         "note":  "",
         "createdAt":  1592656063000
@@ -41816,7 +41816,7 @@
         "address":  "500台灣彰化縣彰化市忠孝里辭修路244號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14216592261126961557",
         "note":  "",
         "createdAt":  1592655139000
@@ -41827,7 +41827,7 @@
         "address":  "555台灣南投縣魚池鄉共和村中興巷6-28號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11887261036190023353",
         "note":  "",
         "createdAt":  1592298615000
@@ -41856,22 +41856,22 @@
     },
     {
         "id":  "star_3806",
-        "name":  "口袋名單地點 3806",
+        "name":  "口袋地點 3806",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.137786,120.813778",
         "note":  "",
         "createdAt":  1590747997000
     },
     {
         "id":  "star_3807",
-        "name":  "口袋名單地點 3807",
+        "name":  "口袋地點 3807",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.751707,100.501245",
         "note":  "",
         "createdAt":  1589007548000
@@ -41882,7 +41882,7 @@
         "address":  "106台灣臺北市大安區光武里大安路一段52巷20號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8713191030362838731",
         "note":  "",
         "createdAt":  1588241116000
@@ -41893,7 +41893,7 @@
         "address":  "200台灣基隆市仁愛區文安里仁五路51號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18060136645983091861",
         "note":  "",
         "createdAt":  1587647290000
@@ -41904,7 +41904,7 @@
         "address":  "202台灣基隆市中正區正砂里中正路332-1號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5759730121371293894",
         "note":  "",
         "createdAt":  1587646978000
@@ -41926,7 +41926,7 @@
         "address":  "961台灣臺東縣成功鎮信義里都歷路",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4505794285283672486",
         "note":  "",
         "createdAt":  1586100365000
@@ -41937,7 +41937,7 @@
         "address":  "514台灣彰化縣溪湖鎮湖東里長青街19號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9374336655325139638",
         "note":  "",
         "createdAt":  1586065654000
@@ -41948,18 +41948,18 @@
         "address":  "528台灣彰化縣芳苑鄉新寶村",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17744595432056916195",
         "note":  "",
         "createdAt":  1586065509000
     },
     {
         "id":  "star_3815",
-        "name":  "口袋名單地點 3815",
+        "name":  "口袋地點 3815",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.085948,120.540171",
         "note":  "",
         "createdAt":  1586062738000
@@ -41992,7 +41992,7 @@
         "address":  "500台灣彰化縣彰化市大同里民生路129巷6號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9165200767069355646",
         "note":  "",
         "createdAt":  1585842701000
@@ -42010,11 +42010,11 @@
     },
     {
         "id":  "star_3820",
-        "name":  "口袋名單地點 3820",
+        "name":  "口袋地點 3820",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.242530,120.166249",
         "note":  "",
         "createdAt":  1585129140000
@@ -42047,7 +42047,7 @@
         "address":  "421台灣臺中市后里區月眉里福容路201號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11039487028893773898",
         "note":  "",
         "createdAt":  1584358523000
@@ -42080,7 +42080,7 @@
         "address":  "368台灣苗栗縣西湖鄉高埔村笕窩1鄰7號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9980277966363647594",
         "note":  "",
         "createdAt":  1583763290000
@@ -42091,7 +42091,7 @@
         "address":  "369台灣苗栗縣卓蘭鎮西坪里西坪36-20號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7727281127369409731",
         "note":  "",
         "createdAt":  1583763043000
@@ -42102,7 +42102,7 @@
         "address":  "No. 51, Section 3, Guohua St, 淺草里中西區臺南市台灣 700",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18426326007667821805",
         "note":  "",
         "createdAt":  1583742383000
@@ -42113,7 +42113,7 @@
         "address":  "700台灣臺南市中西區南美里友愛街115巷7號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=970340426009164344",
         "note":  "",
         "createdAt":  1583220202000
@@ -42124,18 +42124,18 @@
         "address":  "616台灣嘉義縣六腳鄉灣北村高鐵橋下嘉義段道路",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=8774250318568287408",
         "note":  "",
         "createdAt":  1583209417000
     },
     {
         "id":  "star_3831",
-        "name":  "口袋名單地點 3831",
+        "name":  "口袋地點 3831",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=34.686842,135.807715",
         "note":  "",
         "createdAt":  1581674927000
@@ -42146,7 +42146,7 @@
         "address":  "925台灣屏東縣新埤鄉箕湖村民眾路2-77號",
         "scope":  "TW",
         "region":  "屏東",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6023004701153789543",
         "note":  "",
         "createdAt":  1581576440000
@@ -42157,7 +42157,7 @@
         "address":  "708台灣臺南市安平區國平里文平路207號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3026252518485523607",
         "note":  "",
         "createdAt":  1580220908000
@@ -42168,7 +42168,7 @@
         "address":  "70053台灣臺南市中西區五條港里國華街三段169號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1418844779902328067",
         "note":  "",
         "createdAt":  1580219510000
@@ -42212,7 +42212,7 @@
         "address":  "97991台灣花蓮縣萬榮鄉紅葉村紅葉188號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "景點",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2920987685784128476",
         "note":  "",
         "createdAt":  1580180655000
@@ -42223,7 +42223,7 @@
         "address":  "972台灣花蓮縣秀林鄉3之36號秀林",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2463275465036781681",
         "note":  "",
         "createdAt":  1580174496000
@@ -42245,7 +42245,7 @@
         "address":  "970台灣花蓮縣花蓮市主信里信義街42號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=14766748184550707192",
         "note":  "",
         "createdAt":  1580131968000
@@ -42278,7 +42278,7 @@
         "address":  "975台灣花蓮縣鳳林鎮林榮里榮開路90號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11969566013852295227",
         "note":  "",
         "createdAt":  1580119375000
@@ -42289,7 +42289,7 @@
         "address":  "974台灣花蓮縣壽豐鄉志學村路內2號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10230676970829802345",
         "note":  "",
         "createdAt":  1580119033000
@@ -42311,7 +42311,7 @@
         "address":  "977台灣花蓮縣豐濱鄉",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9927761705320079964",
         "note":  "",
         "createdAt":  1580118691000
@@ -42322,7 +42322,7 @@
         "address":  "977台灣花蓮縣豐濱鄉新社村台11線新峯21之2號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8328410581330206791",
         "note":  "",
         "createdAt":  1580118279000
@@ -42333,7 +42333,7 @@
         "address":  "973台灣花蓮縣吉安鄉南濱路一段505號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14794512346200138993",
         "note":  "",
         "createdAt":  1580118035000
@@ -42344,7 +42344,7 @@
         "address":  "977台灣花蓮縣豐濱鄉",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13439490197741193263",
         "note":  "",
         "createdAt":  1580117980000
@@ -42355,7 +42355,7 @@
         "address":  "974台灣花蓮縣壽豐鄉鹽寮村51-5號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1819189011623467925",
         "note":  "",
         "createdAt":  1580117912000
@@ -42377,7 +42377,7 @@
         "address":  "365台灣苗栗縣泰安鄉梅園村1-3號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14525612727042435114",
         "note":  "",
         "createdAt":  1579995435000
@@ -42388,29 +42388,29 @@
         "address":  "103台灣臺北市大同區建明里太原路19號1樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15513655043552226528",
         "note":  "",
         "createdAt":  1579703394000
     },
     {
         "id":  "star_3855",
-        "name":  "口袋名單地點 3855",
+        "name":  "口袋地點 3855",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.745277,100.530091",
         "note":  "",
         "createdAt":  1578726696000
     },
     {
         "id":  "star_3856",
-        "name":  "口袋名單地點 3856",
+        "name":  "口袋地點 3856",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.758937,100.497186",
         "note":  "",
         "createdAt":  1576913847000
@@ -42432,7 +42432,7 @@
         "address":  "No. 224號, Guangzhou St, 青山里萬華區臺北市台灣 108",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5352105204457942952",
         "note":  "",
         "createdAt":  1576482601000
@@ -42454,18 +42454,18 @@
         "address":  "269台灣宜蘭縣冬山鄉清溝村清溝路153號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=2957138131130013206",
         "note":  "",
         "createdAt":  1576399741000
     },
     {
         "id":  "star_3861",
-        "name":  "口袋名單地點 3861",
+        "name":  "口袋地點 3861",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=262%E5%AE%9C%E8%98%AD%E7%B8%A3%E7%A4%81%E6%BA%AA%E9%84%89%E7%A4%81%E6%BA%AA%E8%B7%AF%E5%85%AD%E6%AE%B517%E8%99%9F\u0026ftid=0x3467fa39c91df1f3:0xb5635a7f5569a08e",
         "note":  "",
         "createdAt":  1576398488000
@@ -42487,7 +42487,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉大忠村五峰路",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=18430506788487683666",
         "note":  "",
         "createdAt":  1576385183000
@@ -42509,7 +42509,7 @@
         "address":  "260台灣宜蘭縣宜蘭市中山里城隍街43號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15074287843985718305",
         "note":  "",
         "createdAt":  1576070034000
@@ -42527,22 +42527,22 @@
     },
     {
         "id":  "star_3867",
-        "name":  "口袋名單地點 3867",
+        "name":  "口袋地點 3867",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=7.674410,98.766679",
         "note":  "",
         "createdAt":  1575797825000
     },
     {
         "id":  "star_3868",
-        "name":  "口袋名單地點 3868",
+        "name":  "口袋地點 3868",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=14.074892,99.653929",
         "note":  "",
         "createdAt":  1575445537000
@@ -42560,11 +42560,11 @@
     },
     {
         "id":  "star_3870",
-        "name":  "口袋名單地點 3870",
+        "name":  "口袋地點 3870",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=8.077738,98.677868",
         "note":  "",
         "createdAt":  1575188263000
@@ -42586,18 +42586,18 @@
         "address":  "7 Khongkha Rd Krabi, Pak Nam, Mueang Krabi District, Krabi 81000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6163143592059261461",
         "note":  "",
         "createdAt":  1575139480000
     },
     {
         "id":  "star_3873",
-        "name":  "口袋名單地點 3873",
+        "name":  "口袋地點 3873",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Ao+Nang+Beach,+%E5%A5%A7%E5%8D%97%E7%94%B2%E7%B1%B3%E5%BA%9C%E6%B2%BB%E7%B8%A3%E7%94%B2%E7%B1%B3+81180%E6%B3%B0%E5%9C%8B\u0026ftid=0x3051c00ffe2230a3:0x5ceceb7ef0a2494d",
         "note":  "",
         "createdAt":  1575139407000
@@ -42608,7 +42608,7 @@
         "address":  "424台灣臺中市和平區達觀里",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15831233997861692611",
         "note":  "",
         "createdAt":  1575138221000
@@ -42619,7 +42619,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉匏崙村匏杓崙路139-1號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5199086063731165342",
         "note":  "",
         "createdAt":  1575136972000
@@ -42630,7 +42630,7 @@
         "address":  "270台灣宜蘭縣蘇澳鎮蘇花路三段東澳灣",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2208142415742533806",
         "note":  "",
         "createdAt":  1575136910000
@@ -42641,7 +42641,7 @@
         "address":  "北勢 溪, 台灣",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=389913096182337415",
         "note":  "",
         "createdAt":  1575136642000
@@ -42663,7 +42663,7 @@
         "address":  "2R4Q+6GP, Ao Nang, Mueang Krabi District, Krabi, 泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8683942971841110744",
         "note":  "",
         "createdAt":  1575085421000
@@ -42696,7 +42696,7 @@
         "address":  "Khlong Thom Nuea, Khlong Thom District, Krabi 81120泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12510852535467263470",
         "note":  "",
         "createdAt":  1575036703000
@@ -42714,11 +42714,11 @@
     },
     {
         "id":  "star_3884",
-        "name":  "口袋名單地點 3884",
+        "name":  "口袋地點 3884",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%B3%B0%E5%9C%8B%E7%94%B2%E7%B1%B3%E8%90%8A%E8%8E%89%E6%B5%B7%E7%81%98\u0026ftid=0x3051ea9e0792e58b:0x61d88bb17c215081",
         "note":  "",
         "createdAt":  1575036083000
@@ -42729,7 +42729,7 @@
         "address":  "Khlong Thom Nuea, Khlong Thom District, Krabi 81120泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5263673766904411165",
         "note":  "",
         "createdAt":  1575034614000
@@ -42762,7 +42762,7 @@
         "address":  "Laugavegur 103, 101 Reykjavík, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17927190280199217303",
         "note":  "",
         "createdAt":  1574927479000
@@ -42773,7 +42773,7 @@
         "address":  "Horni, 781 Höfn, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "咖啡廳",
+        "category":  "住宿/飯店",
         "url":  "http://maps.google.com/?cid=3310770466949964920",
         "note":  "",
         "createdAt":  1574927246000
@@ -42795,7 +42795,7 @@
         "address":  "339 moo.10, lumsum, saiyok, Kanchanaburi 71150泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16987200752661657146",
         "note":  "",
         "createdAt":  1574917112000
@@ -42806,7 +42806,7 @@
         "address":  "90, 9, Wang Dong, Mueang Kanchanaburi District, Kanchanaburi 71190泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13099268815314572607",
         "note":  "",
         "createdAt":  1574917065000
@@ -42817,7 +42817,7 @@
         "address":  "41, Moo 3 47, Na Chom Thian, Sattahip District, Chon Buri 20250泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10064805761518457628",
         "note":  "",
         "createdAt":  1574913394000
@@ -42828,7 +42828,7 @@
         "address":  "Heritance Aarah, Meedhoo, 馬爾地夫",
         "scope":  "INTL",
         "region":  "馬爾地夫",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6403454886860881718",
         "note":  "",
         "createdAt":  1574907303000
@@ -42839,7 +42839,7 @@
         "address":  "163 Loi Kroh Rd, Chang Khlan Sub-district, Mueang Chiang Mai District, Chiang Mai 50100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=16836782880259360473",
         "note":  "",
         "createdAt":  1574863326000
@@ -42868,11 +42868,11 @@
     },
     {
         "id":  "star_3898",
-        "name":  "口袋名單地點 3898",
+        "name":  "口袋地點 3898",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Jimbaran+Beach,+%E9%87%91%E5%B7%B4%E8%98%AD+South+Kuta,+%E5%B7%B4%E6%9D%B1%E5%B3%87%E9%87%8C%E7%9C%81%E5%8D%B0%E5%B0%BC\u0026ftid=0x2dd244f35b8a5d05:0xd42d4da6a44aa938",
         "note":  "",
         "createdAt":  1574859439000
@@ -42894,73 +42894,73 @@
         "address":  "Tryggvagata 1, 101 Reykjavík, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17195074179916053113",
         "note":  "",
         "createdAt":  1574841737000
     },
     {
         "id":  "star_3901",
-        "name":  "口袋名單地點 3901",
+        "name":  "口袋地點 3901",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=66.462187,-15.962203",
         "note":  "",
         "createdAt":  1574840213000
     },
     {
         "id":  "star_3902",
-        "name":  "口袋名單地點 3902",
+        "name":  "口袋地點 3902",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%86%B0%E5%B3%B6%E6%95%99%E6%9C%83%E5%B1%B1\u0026ftid=0x48d57bab8dd70f87:0x9b45ba57731db7b",
         "note":  "",
         "createdAt":  1574840019000
     },
     {
         "id":  "star_3903",
-        "name":  "口袋名單地點 3903",
+        "name":  "口袋地點 3903",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Go%C3%B0afoss+Waterfall,+%E5%86%B0%E5%B3%B6\u0026ftid=0x48cd7e6a481f369f:0x7ebbcdaa4e0d1d3b",
         "note":  "",
         "createdAt":  1574840004000
     },
     {
         "id":  "star_3904",
-        "name":  "口袋名單地點 3904",
+        "name":  "口袋地點 3904",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Vestrahorn,+%E5%86%B0%E5%B3%B6\u0026ftid=0x48cfaa8b42193fdd:0x6a3b804d0047e3ec",
         "note":  "",
         "createdAt":  1574839984000
     },
     {
         "id":  "star_3905",
-        "name":  "口袋名單地點 3905",
+        "name":  "口袋地點 3905",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%86%B0%E5%B3%B6%E5%A1%9E%E9%87%8C%E9%9B%85%E8%98%AD%E7%80%91%E5%B8%83\u0026ftid=0x48d71eade8ef2415:0xae01e6205209178d",
         "note":  "",
         "createdAt":  1574839844000
     },
     {
         "id":  "star_3906",
-        "name":  "口袋名單地點 3906",
+        "name":  "口袋地點 3906",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%86%B0%E5%B3%B6%E8%93%8B%E9%8C%AB%E7%88%BE%E8%88%87%E6%96%AF%E7%89%B9%E7%BE%85%E6%9F%AF%E9%96%93%E6%AD%87%E6%B3%89\u0026ftid=0x48d6a39f03424f3f:0xb4751c1a62e2283f",
         "note":  "",
         "createdAt":  1574839818000
@@ -42971,18 +42971,18 @@
         "address":  "8M7X+3PJ, Hafnartún, 806 Selfoss, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1440659917364923363",
         "note":  "",
         "createdAt":  1574839794000
     },
     {
         "id":  "star_3908",
-        "name":  "口袋名單地點 3908",
+        "name":  "口袋地點 3908",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%86%B0%E5%B3%B6%E5%8F%A4%E4%BD%9B%E6%96%AF%E7%80%91%E5%B8%83\u0026ftid=0x48d6a574af45b6c9:0x2c6347db0b411601",
         "note":  "",
         "createdAt":  1574839775000
@@ -42993,7 +42993,7 @@
         "address":  "Aðalstræti 3, 600 Akureyri, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17647508642537218036",
         "note":  "",
         "createdAt":  1574839709000
@@ -43004,18 +43004,18 @@
         "address":  "við Eyrarlandsveg 600, 600 Akureyri, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1821713874675534112",
         "note":  "",
         "createdAt":  1574839667000
     },
     {
         "id":  "star_3911",
-        "name":  "口袋名單地點 3911",
+        "name":  "口袋地點 3911",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%86%B0%E5%B3%B6%E9%BB%9B%E6%8F%90%E7%80%91%E5%B8%83\u0026ftid=0x48cd068ace5f4fb9:0x404278759828237a",
         "note":  "",
         "createdAt":  1574839618000
@@ -43026,18 +43026,18 @@
         "address":  "J4G8+GQX, 660 Reykjahlíð, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "景點",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8784542488376218897",
         "note":  "",
         "createdAt":  1574839591000
     },
     {
         "id":  "star_3913",
-        "name":  "口袋名單地點 3913",
+        "name":  "口袋地點 3913",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%86%B0%E5%B3%B6%E7%B1%B3%E6%B9%96\u0026ftid=0x48cd9c44953c07dd:0xcde4cb0dbf732a88",
         "note":  "",
         "createdAt":  1574839543000
@@ -43048,7 +43048,7 @@
         "address":  "J5RR+978, 660 Reykjahlíð, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1156424893914739452",
         "note":  "",
         "createdAt":  1574839506000
@@ -43059,7 +43059,7 @@
         "address":  "CV29+VWV, 871 Vík, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9973927015751200412",
         "note":  "",
         "createdAt":  1574839465000
@@ -43070,40 +43070,40 @@
         "address":  "871冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9404422750477441749",
         "note":  "",
         "createdAt":  1574839416000
     },
     {
         "id":  "star_3917",
-        "name":  "口袋名單地點 3917",
+        "name":  "口袋地點 3917",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%86%B0%E5%B3%B6Reynisdrangar\u0026ftid=0x48d74a2cc76e98e7:0x1dbd6ece1658df56",
         "note":  "",
         "createdAt":  1574839381000
     },
     {
         "id":  "star_3918",
-        "name":  "口袋名單地點 3918",
+        "name":  "口袋地點 3918",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%86%B0%E5%B3%B6%E6%96%AF%E7%A7%91%E5%8A%A0%E7%88%BE%E7%80%91%E5%B8%83\u0026ftid=0x48d73b7639a58c15:0xf60c71fcdfe7948",
         "note":  "",
         "createdAt":  1574838384000
     },
     {
         "id":  "star_3919",
-        "name":  "口袋名單地點 3919",
+        "name":  "口袋地點 3919",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%86%B0%E5%B3%B6%E5%86%B0%E6%B2%B3%E6%B9%96\u0026ftid=0x48cfd6ecd73a3819:0xcd05c959e10146a9",
         "note":  "",
         "createdAt":  1574838351000
@@ -43114,18 +43114,18 @@
         "address":  "Hallgrímstorg 1, 101 Reykjavík, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17847528671789558511",
         "note":  "",
         "createdAt":  1574838333000
     },
     {
         "id":  "star_3921",
-        "name":  "口袋名單地點 3921",
+        "name":  "口袋地點 3921",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Tj%C3%B6rnin,+101+%E9%9B%B7%E5%85%8B%E9%9B%85%E7%B6%AD%E5%85%8B%E5%86%B0%E5%B3%B6\u0026ftid=0x48d60b323c6e8a93:0xe3b14bdc7d3a7507",
         "note":  "",
         "createdAt":  1574838247000
@@ -43136,7 +43136,7 @@
         "address":  "Sæbraut, 101 Reykjavík, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15599126036860413608",
         "note":  "",
         "createdAt":  1574838222000
@@ -43147,29 +43147,29 @@
         "address":  "Norðurljósavegur 9, 240 Grindavík, 冰島",
         "scope":  "INTL",
         "region":  "冰島",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=18070364031890238008",
         "note":  "",
         "createdAt":  1574837753000
     },
     {
         "id":  "star_3924",
-        "name":  "口袋名單地點 3924",
+        "name":  "口袋地點 3924",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.723065,121.008687",
         "note":  "",
         "createdAt":  1574786436000
     },
     {
         "id":  "star_3925",
-        "name":  "口袋名單地點 3925",
+        "name":  "口袋地點 3925",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.260631,121.477170",
         "note":  "",
         "createdAt":  1574676011000
@@ -43180,7 +43180,7 @@
         "address":  "89, 10-13 Sukhumvit 46 Alley, Phra Khanong, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1070410977284341909",
         "note":  "",
         "createdAt":  1574510243000
@@ -43191,7 +43191,7 @@
         "address":  "1323 Sukhumvit Rd, พระโขนง Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3232161449336352077",
         "note":  "",
         "createdAt":  1574382896000
@@ -43213,7 +43213,7 @@
         "address":  "3 3 Sukhumvit Soi 18, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=17603670433960733413",
         "note":  "",
         "createdAt":  1573916009000
@@ -43224,7 +43224,7 @@
         "address":  "4/11 Rang Nam Alley, Thanon Phaya Thai, Ratchathewi, Bangkok 10400泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=12184615496596992776",
         "note":  "",
         "createdAt":  1573830943000
@@ -43235,7 +43235,7 @@
         "address":  "405, 1 Sukhaphiban 5 Alley, Tha Raeng, Bang Khen, Bangkok 10220泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10080452670335385149",
         "note":  "",
         "createdAt":  1573806660000
@@ -43246,7 +43246,7 @@
         "address":  "306 หมู่ที่ 2 Maekok Rd, Tambon Rim Kok, Mueang Chiang Rai District, Chiang Rai 57100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16657700147241485612",
         "note":  "",
         "createdAt":  1573806335000
@@ -43279,7 +43279,7 @@
         "address":  "26247台灣宜蘭縣礁溪鄉大忠村五峰路91巷10號",
         "scope":  "TW",
         "region":  "新竹",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=13259830956910206364",
         "note":  "",
         "createdAt":  1573804355000
@@ -43290,7 +43290,7 @@
         "address":  "6JC8+HPW, Pejukutan, Kec. Nusa Penida, Kabupaten Klungkung, Bali 80771印尼",
         "scope":  "INTL",
         "region":  "印尼",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3947704561514970536",
         "note":  "",
         "createdAt":  1573571533000
@@ -43312,7 +43312,7 @@
         "address":  "36-38 Pratu Nokyung Alley, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5086173011053712312",
         "note":  "",
         "createdAt":  1572959761000
@@ -43334,7 +43334,7 @@
         "address":  "46/1 Soi Ari 5, Phaya Thai, Bangkok 10400泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17332515926483627989",
         "note":  "",
         "createdAt":  1572873721000
@@ -43345,7 +43345,7 @@
         "address":  "700台灣臺南市中西區五條港里國華街三段182號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=14621166659351077076",
         "note":  "",
         "createdAt":  1572804998000
@@ -43367,7 +43367,7 @@
         "address":  "732台灣臺南市白河區關嶺里18號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6582904097076034739",
         "note":  "",
         "createdAt":  1572803809000
@@ -43455,7 +43455,7 @@
         "address":  "741台灣臺南市善化區溪美里262號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=317651743430086142",
         "note":  "",
         "createdAt":  1572796266000
@@ -43466,7 +43466,7 @@
         "address":  "224台灣新北市瑞芳區濓新里",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=179778745111895782",
         "note":  "",
         "createdAt":  1572794748000
@@ -43477,7 +43477,7 @@
         "address":  "708台灣臺南市安平區王城里效忠街61號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=102782710453678535",
         "note":  "",
         "createdAt":  1572769421000
@@ -43506,11 +43506,11 @@
     },
     {
         "id":  "star_3956",
-        "name":  "口袋名單地點 3956",
+        "name":  "口袋地點 3956",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8D%A1%E6%8B%89%E6%AF%94%E5%85%8B%E7%9C%81%E7%95%AA%E7%B4%85%E8%8A%B1%E5%9F%8E\u0026ftid=0x409caac51abbad83:0x6b7db3ac7a87e93d",
         "note":  "",
         "createdAt":  1572597375000
@@ -43521,7 +43521,7 @@
         "address":  "Pamukkale, 20190 Pamukkale/Denizli, 土耳其",
         "scope":  "INTL",
         "region":  "土耳其",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15807930391453475522",
         "note":  "",
         "createdAt":  1572597348000
@@ -43532,7 +43532,7 @@
         "address":  "Rüstem Paşa, 34116 Fatih/İstanbul, 土耳其",
         "scope":  "INTL",
         "region":  "土耳其",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4952815606638334045",
         "note":  "",
         "createdAt":  1572597204000
@@ -43543,18 +43543,18 @@
         "address":  "Beyazıt, 34126 Fatih/İstanbul, 土耳其",
         "scope":  "INTL",
         "region":  "土耳其",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7262168797111490731",
         "note":  "",
         "createdAt":  1572597190000
     },
     {
         "id":  "star_3960",
-        "name":  "口袋名單地點 3960",
+        "name":  "口袋地點 3960",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E4%BB%A3%E5%B0%BC%E8%8C%B2%E5%88%A9%E7%9C%81+Pamukkale,+%E6%A3%89%E8%8A%B1%E5%A0%A1%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+20190\u0026ftid=0x14c713c95620da2f:0xb1190f5f451efcd6",
         "note":  "",
         "createdAt":  1572596562000
@@ -43565,18 +43565,18 @@
         "address":  "Belkıs, Aspendos Yolu, 07500 Serik/Antalya, 土耳其",
         "scope":  "INTL",
         "region":  "土耳其",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9415528864548271798",
         "note":  "",
         "createdAt":  1572596445000
     },
     {
         "id":  "star_3962",
-        "name":  "口袋名單地點 3962",
+        "name":  "口袋地點 3962",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%9C%96%E8%8C%B2%E6%B9%96\u0026ftid=0x14d46bcf739b797d:0xda5f91ff31d3aa34",
         "note":  "",
         "createdAt":  1572596323000
@@ -43598,7 +43598,7 @@
         "address":  "Tayakadın, Terminal Caddesi No:1, 34283 Arnavutköy/İstanbul, 土耳其",
         "scope":  "INTL",
         "region":  "土耳其",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=4038849448785536262",
         "note":  "",
         "createdAt":  1572596110000
@@ -43609,7 +43609,7 @@
         "address":  "Aydınlı - Orta, Çakmaklı Sk. No:40, 50180 Göreme/Cappadocia/Nevşehir, 土耳其",
         "scope":  "INTL",
         "region":  "土耳其",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9808424033443210781",
         "note":  "",
         "createdAt":  1572534737000
@@ -43620,7 +43620,7 @@
         "address":  "ห้อง C602 ศูนย์การค้าเซ็นทรัลเวิลด์ 4, 4/1-4/2, 4/4 ชั้น 6 Ratchadamri Rd, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2895760131062283376",
         "note":  "",
         "createdAt":  1572450917000
@@ -43653,18 +43653,18 @@
         "address":  "Eski, 50650 Ortahisar/Ürgüp/Nevşehir, 土耳其",
         "scope":  "INTL",
         "region":  "土耳其",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3565938432483615025",
         "note":  "",
         "createdAt":  1572245978000
     },
     {
         "id":  "star_3970",
-        "name":  "口袋名單地點 3970",
+        "name":  "口袋地點 3970",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E4%BC%8A%E8%8C%B2%E5%AF%86%E7%88%BE%E7%9C%81+%C3%87e%C5%9Fme,+Ala%C3%A7at%C4%B1,+%E9%98%BF%E6%8B%89%E6%81%B0%E7%89%B9\u0026ftid=0x14bb78dfaf0d56d9:0x29d825d486962be3",
         "note":  "",
         "createdAt":  1572245585000
@@ -43675,7 +43675,7 @@
         "address":  "110台灣臺北市信義區中興里 Section 2, Keelung Rd, 88號1樓",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8878281644678699246",
         "note":  "",
         "createdAt":  1572149469000
@@ -43686,7 +43686,7 @@
         "address":  "991 อาคารสยามพารากอน Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5734369414991181502",
         "note":  "",
         "createdAt":  1572146829000
@@ -43697,7 +43697,7 @@
         "address":  "390, 4-5 Sukhumvit Rd, Khwaeng Khlong Toei, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=15522010170788065281",
         "note":  "",
         "createdAt":  1571986914000
@@ -43708,7 +43708,7 @@
         "address":  "แขวง ลาดยาว เขต จตุจักร, 2 Kamphaeng Phet Rd, Chatuchak, แขวง ลาดยาว เขต จตุจักร Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16171813945232237392",
         "note":  "",
         "createdAt":  1571701348000
@@ -43730,7 +43730,7 @@
         "address":  "21/14 U Thong Rd, Pratu Chai Sub-district, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14507849578814747957",
         "note":  "",
         "createdAt":  1571570432000
@@ -43741,7 +43741,7 @@
         "address":  "ตลาดนัด จตุจักร โครงการ 4, ซอย 2 ประตู 23, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10522584787312628579",
         "note":  "",
         "createdAt":  1571563406000
@@ -43752,7 +43752,7 @@
         "address":  "โครงการ 2 ตลาดจตุจักร, แขวง ลาดยาว, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11758264111765324180",
         "note":  "",
         "createdAt":  1571562357000
@@ -43763,7 +43763,7 @@
         "address":  "Chatuchak Market, Kamphaeng Phet 2 Rd, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13105882242345942315",
         "note":  "",
         "createdAt":  1571561991000
@@ -43785,7 +43785,7 @@
         "address":  "527, 12 Soi Charoen Krung 25, Pom Prap, Pom Prap Sattru Phai, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=8715807782662033967",
         "note":  "",
         "createdAt":  1571406140000
@@ -43796,7 +43796,7 @@
         "address":  "442 ซอย 9, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7584758512616911578",
         "note":  "",
         "createdAt":  1571405916000
@@ -43807,7 +43807,7 @@
         "address":  "436 Yaowarat Rd, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6132276802769345746",
         "note":  "",
         "createdAt":  1571405475000
@@ -43818,7 +43818,7 @@
         "address":  "8 Phadung Dao Rd, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13560946947329692544",
         "note":  "",
         "createdAt":  1571391826000
@@ -43829,7 +43829,7 @@
         "address":  "638, Phet Samut, Mae Klong, Mueang Samut Songkhram District, Samut Songkhram 75000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=3227233880069413629",
         "note":  "",
         "createdAt":  1571318242000
@@ -43851,18 +43851,18 @@
         "address":  "ชั้น G, 111 Ratchadamri Rd, Lumphini, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9382961102233355592",
         "note":  "",
         "createdAt":  1571304971000
     },
     {
         "id":  "star_3988",
-        "name":  "口袋名單地點 3988",
+        "name":  "口袋地點 3988",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.125169,120.411848",
         "note":  "",
         "createdAt":  1571298250000
@@ -43884,7 +43884,7 @@
         "address":  "45 ซอย ราชดำริ1 Lumphini, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=718901648721976383",
         "note":  "",
         "createdAt":  1571066874000
@@ -43895,7 +43895,7 @@
         "address":  "G214 PGWQ+49R, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7764101664321568634",
         "note":  "",
         "createdAt":  1571065305000
@@ -43906,7 +43906,7 @@
         "address":  "87 Ekkamai 3 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13138550552204187379",
         "note":  "",
         "createdAt":  1571065107000
@@ -43917,7 +43917,7 @@
         "address":  "392, 25-26 ซอย เพ็ญพัฒน์ 2, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11420063492537881397",
         "note":  "",
         "createdAt":  1570200905000
@@ -43939,7 +43939,7 @@
         "address":  "56 Yaowarat Rd, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7751589193392719520",
         "note":  "",
         "createdAt":  1569826009000
@@ -43961,7 +43961,7 @@
         "address":  "23 ซอยเยาวราช, Chakkrawat, จักรวรรดิ, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14239402113435262897",
         "note":  "",
         "createdAt":  1569825497000
@@ -43972,7 +43972,7 @@
         "address":  "408 Yaowarat Rd, Chakkrawat, Chakkaphat, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=6383324083296533095",
         "note":  "",
         "createdAt":  1569825391000
@@ -43983,7 +43983,7 @@
         "address":  "Thailand, 671 Mangkon Rd, Chakkrawat, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8660282878999815013",
         "note":  "",
         "createdAt":  1569825317000
@@ -44005,7 +44005,7 @@
         "address":  "392, 27-28 Siam Square Soi 5, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=17053569397092075598",
         "note":  "",
         "createdAt":  1569257659000
@@ -44016,7 +44016,7 @@
         "address":  "HFM2+2CW, Phe, Mueang Rayong District, Rayong, 泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5978058363744213898",
         "note":  "",
         "createdAt":  1569166881000
@@ -44027,7 +44027,7 @@
         "address":  "Phe, 羅勇府治縣羅勇泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=94474212462524260",
         "note":  "",
         "createdAt":  1569166831000
@@ -44038,7 +44038,7 @@
         "address":  "GCGW+2F7, Phe, Mueang Rayong District, Rayong, 泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17089954736253746418",
         "note":  "",
         "createdAt":  1569166797000
@@ -44071,7 +44071,7 @@
         "address":  "เกาะเสม็ด, 57/1, Phe, Mueang Rayong District, Rayong, 泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6216012063944660528",
         "note":  "",
         "createdAt":  1569133661000
@@ -44115,7 +44115,7 @@
         "address":  "392, 12-14 Rama I Rd, Khwaeng Pathum Wan, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11401365966339504099",
         "note":  "",
         "createdAt":  1569127764000
@@ -44126,7 +44126,7 @@
         "address":  "9 Soi Sukhumvit 8, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14890930060288983949",
         "note":  "",
         "createdAt":  1569125881000
@@ -44148,7 +44148,7 @@
         "address":  "314/1-5 Phran Nok Phutthamonthon Sai 4 Rd, Bang Chueak Nang, Taling Chan, Bangkok 10170泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3791901913778137045",
         "note":  "",
         "createdAt":  1569123496000
@@ -44159,7 +44159,7 @@
         "address":  "663-665 Mangkon Rd, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8229103886146291865",
         "note":  "",
         "createdAt":  1569092011000
@@ -44170,7 +44170,7 @@
         "address":  "259 Sukhumvit Rd, Khlong Toei Nuea, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2036346793739980847",
         "note":  "",
         "createdAt":  1569091925000
@@ -44181,7 +44181,7 @@
         "address":  "GJXJ+WPP, Phraeksa, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4025837215316140786",
         "note":  "",
         "createdAt":  1569078895000
@@ -44203,7 +44203,7 @@
         "address":  "GJWJ+CV6 เมืองโบราณ Phraeksa, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11345639428413179674",
         "note":  "",
         "createdAt":  1569078749000
@@ -44214,7 +44214,7 @@
         "address":  "เมืองโบราณ สมุทรปราการ Phraeksa, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11292278118786367659",
         "note":  "",
         "createdAt":  1569078678000
@@ -44225,7 +44225,7 @@
         "address":  "GJVG+R47 พุทธาวาสแห่งอนัตตจักรวาล เมืองโบราณ Thai Ban Mai, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17131184023351173395",
         "note":  "",
         "createdAt":  1569078599000
@@ -44236,7 +44236,7 @@
         "address":  "HJ2J+P42, Phraeksa, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15579255401131595064",
         "note":  "",
         "createdAt":  1569078528000
@@ -44247,7 +44247,7 @@
         "address":  "HJ3H+9W8, Phraeksa, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2348959143075705345",
         "note":  "",
         "createdAt":  1569078483000
@@ -44258,7 +44258,7 @@
         "address":  "GJXH+X8Q, Phraeksa, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6768029888683337591",
         "note":  "",
         "createdAt":  1569078391000
@@ -44269,7 +44269,7 @@
         "address":  "GJXH+G9G, Phraeksa, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18040622436593830711",
         "note":  "",
         "createdAt":  1569078383000
@@ -44280,7 +44280,7 @@
         "address":  "HJ3H+F84 เมืองโบราณ Phraeksa, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17164225596346401627",
         "note":  "",
         "createdAt":  1569078343000
@@ -44313,7 +44313,7 @@
         "address":  "Market ตลาดนัดจตุจักร 151 Kamphaeng Phet 2 Rd, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=3449744297263861581",
         "note":  "",
         "createdAt":  1569059874000
@@ -44324,7 +44324,7 @@
         "address":  "QGXW+6QF, Khwaeng Chatuchak, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=199755931208144715",
         "note":  "",
         "createdAt":  1569059673000
@@ -44357,7 +44357,7 @@
         "address":  "539 Phlap Phla Chai Rd, Pom Prap, Pom Prap Sattru Phai, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12802750900942145822",
         "note":  "",
         "createdAt":  1568655610000
@@ -44368,7 +44368,7 @@
         "address":  "422/3 Phaya Thai Rd, Wang Mai, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14956132746165753388",
         "note":  "",
         "createdAt":  1568622533000
@@ -44379,7 +44379,7 @@
         "address":  "Phe, 羅勇 21160泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11251048179243009595",
         "note":  "",
         "createdAt":  1568565077000
@@ -44401,7 +44401,7 @@
         "address":  "Gulf of Thailand, Phe, 泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12013675764904681314",
         "note":  "",
         "createdAt":  1568564282000
@@ -44412,7 +44412,7 @@
         "address":  "GCWX+77H, Mu Ban Ao Thai Thani Rd, Tambon Na Ta Khuan, Mueang Rayong District, Rayong 21000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7285559829159306211",
         "note":  "",
         "createdAt":  1568564270000
@@ -44423,7 +44423,7 @@
         "address":  "GCWW+9CX, Klaeng, Mueang Rayong District, Rayong 21160泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15577162062063677614",
         "note":  "",
         "createdAt":  1568564258000
@@ -44434,7 +44434,7 @@
         "address":  "Phe, 羅勇泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18409175557550259886",
         "note":  "",
         "createdAt":  1568564244000
@@ -44445,7 +44445,7 @@
         "address":  "GCFV+38P, Phe, Mueang Rayong District, Rayong 21160泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8923859913745315152",
         "note":  "",
         "createdAt":  1568564160000
@@ -44456,18 +44456,18 @@
         "address":  "HF75+M3M, แกลง, Mueang Rayong District, Rayong, 泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17900895836092155668",
         "note":  "",
         "createdAt":  1568563762000
     },
     {
         "id":  "star_4043",
-        "name":  "口袋名單地點 4043",
+        "name":  "口袋地點 4043",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Wong+Duean+Beach,+Phe,+%E7%BE%85%E5%8B%87%E5%BA%9C%E6%B2%BB%E7%B8%A3%E7%BE%85%E5%8B%87%E6%B3%B0%E5%9C%8B\u0026ftid=0x3103a9e40be5d309:0x4e754c7081739538",
         "note":  "",
         "createdAt":  1568563701000
@@ -44478,7 +44478,7 @@
         "address":  "Soi Nong Bua 11 , Phe , 21160 Mueang Rayong , Rayong, 泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14175202020577190969",
         "note":  "",
         "createdAt":  1568561152000
@@ -44500,7 +44500,7 @@
         "address":  "438 ถ. เจริญกรุง Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3546006283799482760",
         "note":  "",
         "createdAt":  1568538600000
@@ -44511,7 +44511,7 @@
         "address":  "107 Thanon Phat Sai, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6443121701698830518",
         "note":  "",
         "createdAt":  1568538230000
@@ -44522,7 +44522,7 @@
         "address":  "25 Mangkon Rd, Pom Prap, Pom Prap Sattru Phai, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9590775695242487203",
         "note":  "",
         "createdAt":  1568538190000
@@ -44533,7 +44533,7 @@
         "address":  "Phadung Dao Rd, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12185886195681038551",
         "note":  "",
         "createdAt":  1568538147000
@@ -44544,7 +44544,7 @@
         "address":  "Wallflower 31-33 ซ. นานา Pom Prap, Pom Prap Sattru Phai, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10586289989952843447",
         "note":  "",
         "createdAt":  1568537582000
@@ -44555,7 +44555,7 @@
         "address":  "452 Yaowarat Rd, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7668834431945463411",
         "note":  "",
         "createdAt":  1568537042000
@@ -44588,7 +44588,7 @@
         "address":  "313/7 Chan Rd, Wat Phraya Krai, Bang Kho Laem, Bangkok 10120泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11856941294525804647",
         "note":  "",
         "createdAt":  1568472194000
@@ -44599,7 +44599,7 @@
         "address":  "11/4 7 Phahonyothin Rd, Phaya Thai, Bangkok 10400泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10852236233305204398",
         "note":  "",
         "createdAt":  1568463225000
@@ -44610,7 +44610,7 @@
         "address":  "991 Rama I Rd, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7279239367089070550",
         "note":  "",
         "createdAt":  1568458071000
@@ -44621,7 +44621,7 @@
         "address":  "97/11 Ratchadamri Rd, Lumphini, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4421201080665534005",
         "note":  "",
         "createdAt":  1568457396000
@@ -44632,7 +44632,7 @@
         "address":  "ศูนย์การค้าเซ็นทรัลเวิลด์ ชั้นที่ 1 ห้อง G111-G112 Rama I Rd, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14480906013597465047",
         "note":  "",
         "createdAt":  1568457140000
@@ -44643,7 +44643,7 @@
         "address":  "U Thong Rd, Tambon Tha Wa Su Kri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2095145730108957489",
         "note":  "",
         "createdAt":  1568456665000
@@ -44665,7 +44665,7 @@
         "address":  "9H5J+664, Tambon Ho Rattanachai, Amphoe Phra Nakhon Si Ayutthaya, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6132322008789873706",
         "note":  "",
         "createdAt":  1568451794000
@@ -44676,7 +44676,7 @@
         "address":  "9H4J+JHV, Pa Sak,, Phra Nakhon Si Ayutthaya, 泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10147895445240045814",
         "note":  "",
         "createdAt":  1568451476000
@@ -44687,7 +44687,7 @@
         "address":  "Rong Mueang Rd, Rong Mueang, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=7281160151239874507",
         "note":  "",
         "createdAt":  1568450409000
@@ -44698,7 +44698,7 @@
         "address":  "49, 51 Phadung Dao Rd, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16533843930220877835",
         "note":  "",
         "createdAt":  1568444082000
@@ -44709,7 +44709,7 @@
         "address":  "9H5F+9P9, Tambon Hua Ro, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=12656938714646998628",
         "note":  "",
         "createdAt":  1568358281000
@@ -44720,18 +44720,18 @@
         "address":  "153 9G9Q+JWG, Phu Khao Thong, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13657490656339855097",
         "note":  "",
         "createdAt":  1568357605000
     },
     {
         "id":  "star_4067",
-        "name":  "口袋名單地點 4067",
+        "name":  "口袋地點 4067",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3229356245130040194",
         "note":  "",
         "createdAt":  1568103879000
@@ -44753,7 +44753,7 @@
         "address":  "65/19 Phai Ling, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5491890036654184345",
         "note":  "",
         "createdAt":  1568098635000
@@ -44764,7 +44764,7 @@
         "address":  "9H42+6WP, Pratu Chai Sub-district, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5362326643440753949",
         "note":  "",
         "createdAt":  1568098504000
@@ -44786,7 +44786,7 @@
         "address":  "2 Kamphaeng Phet Rd, Lat Yao, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=2763882608560087705",
         "note":  "",
         "createdAt":  1568098243000
@@ -44797,7 +44797,7 @@
         "address":  "RG7X+7F8, Kamphaeng Phet 2 Rd, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2131094857877946464",
         "note":  "",
         "createdAt":  1568091039000
@@ -44808,7 +44808,7 @@
         "address":  "Wang Burapha Phirom, 拍那空縣曼谷 10200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4366367246188047160",
         "note":  "",
         "createdAt":  1568020118000
@@ -44819,7 +44819,7 @@
         "address":  "30/1 หมู่ที่ 15 Bang Ramat Rd, Bang Ramat, Taling Chan, Bangkok 10170泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7619938761941556913",
         "note":  "",
         "createdAt":  1567976746000
@@ -44830,7 +44830,7 @@
         "address":  "206, 2 Soi Na Kluea 12 Moo 5, Muang Pattaya, Bang Lamung District, Chon Buri 20150泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6187324524438555753",
         "note":  "",
         "createdAt":  1567971445000
@@ -44841,7 +44841,7 @@
         "address":  "Thai Ban Mai, Mueang Samut Prakan District, 沙沒巴干 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2801681797219449866",
         "note":  "",
         "createdAt":  1567969903000
@@ -44852,7 +44852,7 @@
         "address":  "88/2 หมู่ 4 เกาะเสม็ด อ่าวลุงดำ, ตำบลเพ อำเภอเมือง จังหวัดระยอ, 21160 Tambon Phe, Amphoe Mueang Rayong, Chang Wat Rayong 21160泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1209701293885590106",
         "note":  "",
         "createdAt":  1567961090000
@@ -44863,7 +44863,7 @@
         "address":  "11, 4 Sukhumvit Rd, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=654605127481480907",
         "note":  "",
         "createdAt":  1567953648000
@@ -44885,7 +44885,7 @@
         "address":  "Chatuchak Weekend Market (Section 2) Soi 41/1 Room.281-282, Kamphaeng Phet 3 Rd, Lat Yao, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17748152673828008322",
         "note":  "",
         "createdAt":  1567948968000
@@ -44896,7 +44896,7 @@
         "address":  "587 โครงการ 22 ซอย 4 /2ตลาดนัด จตุจักร 10 Kamphaeng Phet 2 Rd, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18411726374715971163",
         "note":  "",
         "createdAt":  1567947025000
@@ -44907,7 +44907,7 @@
         "address":  "222, อาคารแพลทินัมแฟชั่นมอลล์, 512 Phetchaburi Rd, แขวง ราชเทวี, เขต พญาไท, Bangkok 10400泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5268069937770152454",
         "note":  "",
         "createdAt":  1567941885000
@@ -44929,18 +44929,18 @@
         "address":  "90 Srinagarindra Rd, Nong Bon, Prawet, Bangkok 10250泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=14302981501183779108",
         "note":  "",
         "createdAt":  1567931460000
     },
     {
         "id":  "star_4086",
-        "name":  "口袋名單地點 4086",
+        "name":  "口袋地點 4086",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.043642,121.550128",
         "note":  "",
         "createdAt":  1567476891000
@@ -44951,7 +44951,7 @@
         "address":  "8 Kamphaeng Phet 3 Rd, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16157776206953475927",
         "note":  "",
         "createdAt":  1567159677000
@@ -44973,7 +44973,7 @@
         "address":  "MPVW+8V8, Nong Prue, Bang Phli District, Samut Prakan 10540泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "酒吧/餐酒館",
         "url":  "http://maps.google.com/?cid=15922296595338784817",
         "note":  "",
         "createdAt":  1567070211000
@@ -44984,7 +44984,7 @@
         "address":  "Suvarnabhumi Airport, ถนนบางนา-ตราด Racha Thewa, Bang Phli District, Samut Prakan 10540泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=1890773428473540316",
         "note":  "",
         "createdAt":  1567070203000
@@ -44995,7 +44995,7 @@
         "address":  "Sector Weekendmarket, 14 Soi Vibhavadi Rangsit 22, Lane 1-2-5, Chom Phon, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=10959275299172592827",
         "note":  "",
         "createdAt":  1567069579000
@@ -45006,7 +45006,7 @@
         "address":  "348, 1 Sukhumvit Rd, Khlong Toei Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10765103846198642114",
         "note":  "",
         "createdAt":  1567049851000
@@ -45017,7 +45017,7 @@
         "address":  "G01-03, G Floor, G Tower, 9 Rama IX Rd, Huai Khwang, Bangkok 10310泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=5157321126980078549",
         "note":  "",
         "createdAt":  1567049776000
@@ -45028,7 +45028,7 @@
         "address":  "11/2 Soi Ruamrudee Community, Lumphini, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15100614609093549016",
         "note":  "",
         "createdAt":  1567006821000
@@ -45050,7 +45050,7 @@
         "address":  "106台灣臺北市大安區車層里忠孝東路四段223巷10弄7號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9217722309137511918",
         "note":  "",
         "createdAt":  1566981262000
@@ -45061,7 +45061,7 @@
         "address":  "106台灣臺北市大安區建安里敦化南路一段187巷50號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=6099142254283809784",
         "note":  "",
         "createdAt":  1566979871000
@@ -45127,7 +45127,7 @@
         "address":  "530 ถ. เจริญกรุง Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=960954828080961860",
         "note":  "",
         "createdAt":  1566647513000
@@ -45138,7 +45138,7 @@
         "address":  "125 Ratchadaphisek Rd, Din Daeng, Bangkok 10400泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10691289470072071763",
         "note":  "",
         "createdAt":  1566645008000
@@ -45149,7 +45149,7 @@
         "address":  "Bang Na Nuea, Bang Na, 曼谷 10260泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7000813906612683153",
         "note":  "",
         "createdAt":  1566641145000
@@ -45160,7 +45160,7 @@
         "address":  "48 Ratchadaphisek Rd, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2280620170696495018",
         "note":  "",
         "createdAt":  1566638694000
@@ -45171,7 +45171,7 @@
         "address":  "95/1 Moo 4, Tumbon Pae, Ampher Meung Rayong, Sai-keaw Beach, Samet Island, Rayong, ระยอง, Rayong 21160泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=304924680018698746",
         "note":  "",
         "createdAt":  1565843894000
@@ -45193,7 +45193,7 @@
         "address":  "127, 133 Banthat Thong Rd, Wang Mai, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11022313952847904028",
         "note":  "",
         "createdAt":  1565791189000
@@ -45237,7 +45237,7 @@
         "address":  "2829 Near Bang-Chak Gas Station 31 Rama IV Rd, Klongtoey Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=9603100678306369416",
         "note":  "",
         "createdAt":  1565662517000
@@ -45248,7 +45248,7 @@
         "address":  "105台灣臺北市松山區中正里南京東路三段337號亞細亞通商大樓南京微風百貨同5,6,9,10樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14046845067387087068",
         "note":  "",
         "createdAt":  1565583838000
@@ -45281,29 +45281,29 @@
         "address":  "947台灣屏東縣滿州鄉港口村橋頭路169 號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "餐廳",
+        "category":  "住宿/飯店",
         "url":  "http://maps.google.com/?cid=5135169125188472767",
         "note":  "",
         "createdAt":  1564986844000
     },
     {
         "id":  "star_4118",
-        "name":  "口袋名單地點 4118",
+        "name":  "口袋地點 4118",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.688592,139.688596",
         "note":  "",
         "createdAt":  1563966149000
     },
     {
         "id":  "star_4119",
-        "name":  "口袋名單地點 4119",
+        "name":  "口袋地點 4119",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.183514,138.644831",
         "note":  "",
         "createdAt":  1563606655000
@@ -45314,7 +45314,7 @@
         "address":  "957台灣臺東縣海端鄉南部橫貫公路",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "景點",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3616603333796852883",
         "note":  "",
         "createdAt":  1562664813000
@@ -45325,7 +45325,7 @@
         "address":  "Central Embassy, Level 2 Lumphini, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13898344203935354946",
         "note":  "",
         "createdAt":  1561963562000
@@ -45369,7 +45369,7 @@
         "address":  "10696台灣臺北市大安區華聲里延吉街131巷26號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10543237051245400015",
         "note":  "",
         "createdAt":  1558845929000
@@ -45380,7 +45380,7 @@
         "address":  "108台灣臺北市萬華區青山里華西街19號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=11628419485410212757",
         "note":  "",
         "createdAt":  1558844810000
@@ -45435,7 +45435,7 @@
         "address":  "Banjar Dinas Pandangaji Kawan Desa Padang Aji Kedesaan, Pering Sari, Kec. Selat, Kabupaten Karangasem, Bali 80862印尼",
         "scope":  "INTL",
         "region":  "印尼",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16510128070678982539",
         "note":  "",
         "createdAt":  1557442090000
@@ -45446,7 +45446,7 @@
         "address":  "546台灣南投縣仁愛鄉大同村榮光巷9之9號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=35396413151084363",
         "note":  "",
         "createdAt":  1557360871000
@@ -45468,7 +45468,7 @@
         "address":  "69 Rama V Rd, Dusit, Dusit District, Bangkok 10300泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18389163616113527359",
         "note":  "",
         "createdAt":  1557289056000
@@ -45479,7 +45479,7 @@
         "address":  "221台灣新北市汐止區復興里連興街32號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=17142559664375597710",
         "note":  "",
         "createdAt":  1557185488000
@@ -45490,7 +45490,7 @@
         "address":  "10678台灣臺北市大安區法治里樂利路33號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17179378214531313153",
         "note":  "",
         "createdAt":  1557135648000
@@ -45534,7 +45534,7 @@
         "address":  "60 ถนน มหิดล Suthep, Mueang Chiang Mai District, Chiang Mai 50200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=11539476667790738839",
         "note":  "",
         "createdAt":  1556546231000
@@ -45567,7 +45567,7 @@
         "address":  "Moony Night, Thinadhoo, 馬爾地夫",
         "scope":  "INTL",
         "region":  "馬爾地夫",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15449925809709156470",
         "note":  "",
         "createdAt":  1556080602000
@@ -45578,7 +45578,7 @@
         "address":  "Olhuveli, Male 08400馬爾地夫",
         "scope":  "INTL",
         "region":  "馬爾地夫",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12088836264596656179",
         "note":  "",
         "createdAt":  1556080094000
@@ -45589,7 +45589,7 @@
         "address":  "106台灣臺北市大安區誠安里安東街40巷5號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2076099490588078772",
         "note":  "",
         "createdAt":  1555827315000
@@ -45611,7 +45611,7 @@
         "address":  "47-79 Soi Thatien, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3776258207033326526",
         "note":  "",
         "createdAt":  1555582404000
@@ -45622,7 +45622,7 @@
         "address":  "80-82 Sukon 1 Aly, Talat Noi, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13902858399529081530",
         "note":  "",
         "createdAt":  1555581468000
@@ -45633,7 +45633,7 @@
         "address":  "342 Sukon 1 Aly, Talat Noi, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=15310397873948003906",
         "note":  "",
         "createdAt":  1555581375000
@@ -45644,7 +45644,7 @@
         "address":  "84-88 Sukon 1 Aly, Talat Noi, Samphanthawong, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6852748153189115354",
         "note":  "",
         "createdAt":  1555581317000
@@ -45655,7 +45655,7 @@
         "address":  "261台灣宜蘭縣頭城鎮更新里更新路126-50號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13797380523451937313",
         "note":  "",
         "createdAt":  1555258014000
@@ -45677,7 +45677,7 @@
         "address":  "404台灣臺中市北區一中街6號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=14859335571206824752",
         "note":  "",
         "createdAt":  1555145011000
@@ -45710,7 +45710,7 @@
         "address":  "401台灣臺中市東區十甲里旱溪東路一段",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=17935120735455652227",
         "note":  "",
         "createdAt":  1554991851000
@@ -45721,7 +45721,7 @@
         "address":  "588 Kamphaeng Phet 2 Rd, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5689540937886154813",
         "note":  "",
         "createdAt":  1554979488000
@@ -45743,18 +45743,18 @@
         "address":  "26544台灣宜蘭縣羅東鎮成功里純精路一段96號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10745425981563930381",
         "note":  "",
         "createdAt":  1554478707000
     },
     {
         "id":  "star_4160",
-        "name":  "口袋名單地點 4160",
+        "name":  "口袋地點 4160",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.100813,121.511376",
         "note":  "",
         "createdAt":  1554359397000
@@ -45765,7 +45765,7 @@
         "address":  "40861台灣臺中市南屯區溝墘里公益路二段160號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4111368496589249190",
         "note":  "",
         "createdAt":  1554215498000
@@ -45776,18 +45776,18 @@
         "address":  "1244 Banthat Thong Rd, Wang Mai, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7373977010029009930",
         "note":  "",
         "createdAt":  1554019533000
     },
     {
         "id":  "star_4163",
-        "name":  "口袋名單地點 4163",
+        "name":  "口袋地點 4163",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.709163,100.514173",
         "note":  "",
         "createdAt":  1554012107000
@@ -45798,7 +45798,7 @@
         "address":  "46/2 Sukhumvit 46 Alley, Khwaeng Phra Khanong, พระโขนง, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=17873602692111344812",
         "note":  "",
         "createdAt":  1553582319000
@@ -45809,18 +45809,18 @@
         "address":  "99, 9 หมู่ที่ 1, Bang Mueang Mai, Mueang Samut Prakan District, Samut Prakan 10270泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1776615523421754003",
         "note":  "",
         "createdAt":  1553427148000
     },
     {
         "id":  "star_4166",
-        "name":  "口袋名單地點 4166",
+        "name":  "口袋地點 4166",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.799366,100.550884",
         "note":  "",
         "createdAt":  1553415545000
@@ -45831,7 +45831,7 @@
         "address":  "46 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16009020852460756423",
         "note":  "",
         "createdAt":  1553412731000
@@ -45842,7 +45842,7 @@
         "address":  "108, Tha Mai Ruak, Tha Yang District, Phetchaburi 76130泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2739376269054803998",
         "note":  "",
         "createdAt":  1553371900000
@@ -45853,7 +45853,7 @@
         "address":  "H75J+C64, Jl. Raya Tegallalang, Tegallalang, Kec. Tegallalang, Kabupaten Gianyar, Bali 80561印尼",
         "scope":  "INTL",
         "region":  "印尼",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7483087817595096547",
         "note":  "",
         "createdAt":  1553367548000
@@ -45875,7 +45875,7 @@
         "address":  "Khlong Toei Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1800638069520676048",
         "note":  "",
         "createdAt":  1553343001000
@@ -45886,7 +45886,7 @@
         "address":  "BTS Mo Chit Station, Road, Chatuchak, Khet Chatuchak, 10900, Phahonyothin Rd, Chatuchak, Bangkok 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=15821667907223944071",
         "note":  "",
         "createdAt":  1553342969000
@@ -45897,7 +45897,7 @@
         "address":  "928 Sukhumvit Rd, Phra Khanong, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15836140062920294199",
         "note":  "",
         "createdAt":  1553103761000
@@ -45919,7 +45919,7 @@
         "address":  "669, ปาก Sukhumvit 37 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10545215536830606227",
         "note":  "",
         "createdAt":  1553101940000
@@ -45930,7 +45930,7 @@
         "address":  "6 floor, 617 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10550998942683693497",
         "note":  "",
         "createdAt":  1553101293000
@@ -45941,7 +45941,7 @@
         "address":  "23/ 1-16 Prasert-Manukit Rd, Ram Inthra, Khan Na Yao, Bangkok 10230泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5177709860383487231",
         "note":  "",
         "createdAt":  1553097481000
@@ -45963,7 +45963,7 @@
         "address":  "Nakhon, 24/3 SOI. CHAROEN NIWET, PRAKANONG, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=14071215114839401081",
         "note":  "",
         "createdAt":  1553085809000
@@ -45974,7 +45974,7 @@
         "address":  "48 Ratchadaphisek Rd, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16099919446300098058",
         "note":  "",
         "createdAt":  1553060881000
@@ -45996,7 +45996,7 @@
         "address":  "2043 Sukhumvit 77/1 Alley, Khwaeng Phra Khanong Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=3001737655643750180",
         "note":  "",
         "createdAt":  1553014864000
@@ -46007,7 +46007,7 @@
         "address":  "Between Sukhumvit 83-85 Bang-Chak Subdistrict Phra Khanong, Bangkok 10260泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=526105977571965316",
         "note":  "",
         "createdAt":  1553014495000
@@ -46018,7 +46018,7 @@
         "address":  "1710 Sukhumvit 50 Aly, Phra Khanong, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16336144610893267496",
         "note":  "",
         "createdAt":  1553012240000
@@ -46029,7 +46029,7 @@
         "address":  "114 Soi Sukhumvit 77, Phra Khanong Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3641674576096838066",
         "note":  "",
         "createdAt":  1553012219000
@@ -46040,7 +46040,7 @@
         "address":  "1, 4 Srinagarindra Rd, Nong Bon, Prawet, Bangkok 10250泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13616455528679063707",
         "note":  "",
         "createdAt":  1553005697000
@@ -46062,7 +46062,7 @@
         "address":  "114 Naradhiwas Rajanagarindra Rd, Si Lom, Bang Rak, Bangkok 10500泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12333957374427066584",
         "note":  "",
         "createdAt":  1552996820000
@@ -46073,7 +46073,7 @@
         "address":  "113 Charat Mueang Alley, Rong Mueang, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15238757142073429372",
         "note":  "",
         "createdAt":  1552996189000
@@ -46106,7 +46106,7 @@
         "address":  "5, 5 Sala Daeng Rd, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8885475404359674723",
         "note":  "",
         "createdAt":  1552660503000
@@ -46128,7 +46128,7 @@
         "address":  "109, Ban Had Ngew, Tha Sao, Sai Yok District, Kanchanaburi 71150泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2486108424692858657",
         "note":  "",
         "createdAt":  1552544950000
@@ -46139,7 +46139,7 @@
         "address":  "99 Panya Indra Rd, Sam Wa Tawan Tok, Khlong Sam Wa, Bangkok 10510泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2948180625039766724",
         "note":  "",
         "createdAt":  1552491901000
@@ -46161,7 +46161,7 @@
         "address":  "2, 88 Soi Sukhumvit 19, Khlong Toei Nuea, Thawi Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6483175627087524020",
         "note":  "",
         "createdAt":  1552489255000
@@ -46172,7 +46172,7 @@
         "address":  "1st Floor, 502 Phloen Chit Rd, Lumphini, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13601358923053280566",
         "note":  "",
         "createdAt":  1552488631000
@@ -46194,7 +46194,7 @@
         "address":  "299 Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok 10600泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1612497051803357940",
         "note":  "",
         "createdAt":  1552436489000
@@ -46227,7 +46227,7 @@
         "address":  "35-1 Mibuamagaikecho, Nakagyo Ward, Kyoto, 604-8874日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12154510443755372663",
         "note":  "",
         "createdAt":  1552390222000
@@ -46238,7 +46238,7 @@
         "address":  "296, 1 Sukhumvit Rd หมู่ที่ 7, Bang Pu Mai, Mueang Samut Prakan District, Samut Prakan 10280泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3338774114067317447",
         "note":  "",
         "createdAt":  1552346890000
@@ -46249,18 +46249,18 @@
         "address":  "83 ถ.ริมคลองอัมพวา Tambon Amphawa, Amphawa District, Samut Songkhram 75110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3355650615306800665",
         "note":  "",
         "createdAt":  1552346397000
     },
     {
         "id":  "star_4206",
-        "name":  "口袋名單地點 4206",
+        "name":  "口袋地點 4206",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=14.356624,100.582944",
         "note":  "",
         "createdAt":  1552242088000
@@ -46271,7 +46271,7 @@
         "address":  "ประตูชัย Pa Thon Rd, Tambon Pratuchai, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10921990571622301707",
         "note":  "",
         "createdAt":  1552240718000
@@ -46293,7 +46293,7 @@
         "address":  "ร้านก๋วยเตี๋ยวเรือป้าเล็ก Tambon Tha Wa Su Kri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=543904486862604939",
         "note":  "",
         "createdAt":  1552237090000
@@ -46311,33 +46311,33 @@
     },
     {
         "id":  "star_4211",
-        "name":  "口袋名單地點 4211",
+        "name":  "口袋地點 4211",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=14.351086160977864,100.56959867477417",
         "note":  "",
         "createdAt":  1552227616000
     },
     {
         "id":  "star_4212",
-        "name":  "口袋名單地點 4212",
+        "name":  "口袋地點 4212",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=14.357935731193033,100.5802309513092",
         "note":  "",
         "createdAt":  1552227453000
     },
     {
         "id":  "star_4213",
-        "name":  "口袋名單地點 4213",
+        "name":  "口袋地點 4213",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=14.356885962405805,100.58300971984863",
         "note":  "",
         "createdAt":  1552227443000
@@ -46348,7 +46348,7 @@
         "address":  "สุขุมวิท 12 Soi Sukhumvit 3, Khlong Toei Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1045422371197802637",
         "note":  "",
         "createdAt":  1552226470000
@@ -46359,18 +46359,18 @@
         "address":  "98/8 กุ้งเพื่อนแพรว ตลาดกลางฯ ถ.สายเอเชีย อยุธยา Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8392282549322469803",
         "note":  "",
         "createdAt":  1552225107000
     },
     {
         "id":  "star_4216",
-        "name":  "口袋名單地點 4216",
+        "name":  "口袋地點 4216",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E9%82%A6%E8%8A%AD%E8%8C%B5%E5%A4%8F%E5%AE%AE+Tambon+Ban+Len,+Amphoe+Bang+Pa-in,+Chang+Wat+Phra+Nakhon+Si+Ayutthaya+13160%E6%B3%B0%E5%9C%8B\u0026ftid=0x30e2782bc6aee853:0x744c4f90694edac6",
         "note":  "",
         "createdAt":  1552224890000
@@ -46381,7 +46381,7 @@
         "address":  "31 8GVR+8PW 1 ตำบล บ้านป้อม Ban Pom, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9333616290220605252",
         "note":  "",
         "createdAt":  1552224877000
@@ -46403,7 +46403,7 @@
         "address":  "9H58+FWF, Chikun Alley, Tambon Tha Wa Su Kri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8631815181100144032",
         "note":  "",
         "createdAt":  1552224831000
@@ -46421,11 +46421,11 @@
     },
     {
         "id":  "star_4221",
-        "name":  "口袋名單地點 4221",
+        "name":  "口袋地點 4221",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=13.698214,100.732546",
         "note":  "",
         "createdAt":  1552222698000
@@ -46436,7 +46436,7 @@
         "address":  "563/2 Soi Charoen Krung 25, Pom Prap, Pom Prap Sattru Phai, Bangkok 10100泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8195463076180726917",
         "note":  "",
         "createdAt":  1552217251000
@@ -46458,7 +46458,7 @@
         "address":  "2/16-18 Phahonyothin Rd, Samsen Nai, Phaya Thai, Bangkok 10400泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=457201676711321030",
         "note":  "",
         "createdAt":  1552207424000
@@ -46469,7 +46469,7 @@
         "address":  "69 3 หมู่ 8 Tha Kha, Amphawa District, Samut Songkhram 75110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8930740245002244155",
         "note":  "",
         "createdAt":  1552196663000
@@ -46480,7 +46480,7 @@
         "address":  "4 Ratchadamri Rd, Lumphini, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=10321691178528592617",
         "note":  "",
         "createdAt":  1552159769000
@@ -46524,7 +46524,7 @@
         "address":  "ชั้นที่ 1, ล็อต ss1001, อาคาร 1, สยามสแควร์ 388, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16532375142612508497",
         "note":  "",
         "createdAt":  1552053522000
@@ -46535,7 +46535,7 @@
         "address":  "36 Phloen Phit Alley, Khwaeng Phra Khanong Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6560601437605423800",
         "note":  "",
         "createdAt":  1552053221000
@@ -46546,7 +46546,7 @@
         "address":  "10/3 Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14961108428832115858",
         "note":  "",
         "createdAt":  1552053048000
@@ -46579,7 +46579,7 @@
         "address":  "Centralworld Level 3 4, 4 Ratchadamri Rd, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1276820562169363527",
         "note":  "",
         "createdAt":  1552050200000
@@ -46590,7 +46590,7 @@
         "address":  "Mercury Tower, 540 Phloen Chit Rd, Lumphini, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8133876414788333906",
         "note":  "",
         "createdAt":  1552050022000
@@ -46608,11 +46608,11 @@
     },
     {
         "id":  "star_4238",
-        "name":  "口袋名單地點 4238",
+        "name":  "口袋地點 4238",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=Soi+Cowboy,+Khwaeng+Khlong+Toei+Nuea,+Khet+Watthana,+Krung+Thep+Maha+Nakhon+10110%E6%B3%B0%E5%9C%8B\u0026ftid=0x30e29ee33cfb207d:0x1380e8861e2db80a",
         "note":  "",
         "createdAt":  1552044695000
@@ -46634,7 +46634,7 @@
         "address":  "The One Ratchada, Ratchadaphisek Rd, Din Daeng, Bangkok 10400泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15746469054994106368",
         "note":  "",
         "createdAt":  1552035520000
@@ -46645,7 +46645,7 @@
         "address":  "259 Sukhumvit Rd, Khlong Toei Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6478548187019270132",
         "note":  "",
         "createdAt":  1552034486000
@@ -46656,7 +46656,7 @@
         "address":  "PGWM+QR2, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1388588022142175648",
         "note":  "",
         "createdAt":  1552034118000
@@ -46667,7 +46667,7 @@
         "address":  "1, 11 ตรอก เสถียร แขวง บรมมหาราชวัง Phra Nakhon, Bangkok 10200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17644648011541621986",
         "note":  "",
         "createdAt":  1552029817000
@@ -46678,7 +46678,7 @@
         "address":  "24, 12-13 Soi Sukhumvit 23, Khlong Toei Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=13424462007253913120",
         "note":  "",
         "createdAt":  1551951553000
@@ -46689,7 +46689,7 @@
         "address":  "15 Phaya Thai Rd, Thanon Phaya Thai, Ratchathewi, Bangkok 10400泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11342864133407519844",
         "note":  "",
         "createdAt":  1551891036000
@@ -46700,7 +46700,7 @@
         "address":  "431 433 Thanon Tanao, Khwaeng Sao Chingcha, Khet Phra Nakhon, Bangkok 10200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1879480900184167701",
         "note":  "",
         "createdAt":  1551793420000
@@ -46711,7 +46711,7 @@
         "address":  "19, 19/1-3 Soi Sukhumvit 19, Khlong Toei Nuea, Watthana, Bangkok 10110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=1342805061320021232",
         "note":  "",
         "createdAt":  1551792489000
@@ -46722,7 +46722,7 @@
         "address":  "Tharuea Ban Phe-Ko Samet (Na Dan) Road , Phe , 21160 Mueang Rayong , Rayong, 泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7219269606569391668",
         "note":  "",
         "createdAt":  1551719637000
@@ -46733,7 +46733,7 @@
         "address":  "HFF7+P84, Phe, Mueang Rayong District, Rayong 21160泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17484927490870501633",
         "note":  "",
         "createdAt":  1551719420000
@@ -46766,7 +46766,7 @@
         "address":  "991 Rama I Rd, Pathum Wan, Bangkok 10330泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7848400847897906656",
         "note":  "",
         "createdAt":  1551712069000
@@ -46777,7 +46777,7 @@
         "address":  "Amphawa, Tambon Amphawa, Amphawa District, Samut Songkhram 75110泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4218004924721139464",
         "note":  "",
         "createdAt":  1551711928000
@@ -46788,7 +46788,7 @@
         "address":  "108 หมู่2 ท่าเรือศรีบ้านเพ ตำบลเพ บ้านเพ เมือง Rayong 21160泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16175008461131453345",
         "note":  "",
         "createdAt":  1551711706000
@@ -46806,11 +46806,11 @@
     },
     {
         "id":  "star_4256",
-        "name":  "口袋名單地點 4256",
+        "name":  "口袋地點 4256",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8128074298468226296",
         "note":  "",
         "createdAt":  1551710471000
@@ -46821,7 +46821,7 @@
         "address":  "5 Ratchadaphisek Rd, Chom Phon, Chatuchak, Krung Thep Maha Nakhon 10900泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14159386179359119070",
         "note":  "",
         "createdAt":  1551710365000
@@ -46832,7 +46832,7 @@
         "address":  "400 หมู่ที่ 12 Phra Tamnak, ตำบล หนองปรือ, Bang Lamung District, Chon Buri 20150泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14151300337356777282",
         "note":  "",
         "createdAt":  1551709614000
@@ -46843,7 +46843,7 @@
         "address":  "47-79 Soi Thatien, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7858434436386507564",
         "note":  "",
         "createdAt":  1551709196000
@@ -46854,7 +46854,7 @@
         "address":  "39 Maharat Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9266167408463117503",
         "note":  "",
         "createdAt":  1551708178000
@@ -46898,7 +46898,7 @@
         "address":  "222 Vibhavadi Rangsit Rd, Sanam Bin, Don Mueang, Bangkok 10210泰國",
         "scope":  "INTL",
         "region":  "泰國",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=1081146155368972192",
         "note":  "",
         "createdAt":  1551706892000
@@ -46931,18 +46931,18 @@
         "address":  "408台灣臺中市南屯區新生里龍富路四段135號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5882656183490805012",
         "note":  "",
         "createdAt":  1551419517000
     },
     {
         "id":  "star_4268",
-        "name":  "口袋名單地點 4268",
+        "name":  "口袋地點 4268",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=358%E8%8B%97%E6%A0%97%E7%B8%A3%E8%8B%91%E8%A3%A1%E9%8E%AE%E7%81%AB%E7%82%8E%E5%B1%B1\u0026ftid=0x346905975b6f6651:0x159a4c41a1a6a58e",
         "note":  "",
         "createdAt":  1551419427000
@@ -46971,11 +46971,11 @@
     },
     {
         "id":  "star_4271",
-        "name":  "口袋名單地點 4271",
+        "name":  "口袋地點 4271",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.179720,121.437098",
         "note":  "",
         "createdAt":  1551074372000
@@ -47063,7 +47063,7 @@
         "address":  "970台灣花蓮縣花蓮市主睦里成功街145號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11950748941314246265",
         "note":  "",
         "createdAt":  1550060619000
@@ -47085,7 +47085,7 @@
         "address":  "972台灣花蓮縣秀林鄉崇德村海濱路56號972",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4347635050655390882",
         "note":  "",
         "createdAt":  1549873555000
@@ -47096,7 +47096,7 @@
         "address":  "972台灣花蓮縣秀林鄉蘇花公路",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16966238759697599267",
         "note":  "",
         "createdAt":  1549873543000
@@ -47129,7 +47129,7 @@
         "address":  "974台灣花蓮縣壽豐鄉平和村中華路2段196巷35弄35號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5231914543156922541",
         "note":  "",
         "createdAt":  1549811998000
@@ -47140,7 +47140,7 @@
         "address":  "977台灣花蓮縣豐濱鄉",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2016667835942400195",
         "note":  "",
         "createdAt":  1549810155000
@@ -47151,7 +47151,7 @@
         "address":  "973台灣花蓮縣吉安鄉廣豐路廣賢二街",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3005969200219738764",
         "note":  "",
         "createdAt":  1549810094000
@@ -47162,7 +47162,7 @@
         "address":  "970台灣花蓮縣花蓮市主信里忠孝街79號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6111021807515673235",
         "note":  "",
         "createdAt":  1549809835000
@@ -47206,7 +47206,7 @@
         "address":  "97792台灣花蓮縣豐濱鄉港口村118-1號",
         "scope":  "TW",
         "region":  "花蓮",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=8854813493753845451",
         "note":  "",
         "createdAt":  1549808660000
@@ -47239,7 +47239,7 @@
         "address":  "545台灣南投縣埔里鎮北安里信義路35號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13400643128390211637",
         "note":  "",
         "createdAt":  1549598056000
@@ -47250,7 +47250,7 @@
         "address":  "404台灣臺中市北區健行里西屯路一段399號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1042190879636889517",
         "note":  "",
         "createdAt":  1547366314000
@@ -47268,11 +47268,11 @@
     },
     {
         "id":  "star_4298",
-        "name":  "口袋名單地點 4298",
+        "name":  "口袋地點 4298",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.012481,120.228085",
         "note":  "",
         "createdAt":  1545290949000
@@ -47283,7 +47283,7 @@
         "address":  "111台灣臺北市士林區富洲里延平北路九段348號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2349330395593996993",
         "note":  "",
         "createdAt":  1544450726000
@@ -47294,7 +47294,7 @@
         "address":  "520台灣彰化縣田中鎮三光里民光路一段395巷258號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17528470645440417978",
         "note":  "",
         "createdAt":  1544450220000
@@ -47305,7 +47305,7 @@
         "address":  "251台灣新北市淡水區長庚里英專路21巷9號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11194838978754149223",
         "note":  "",
         "createdAt":  1543589242000
@@ -47323,11 +47323,11 @@
     },
     {
         "id":  "star_4303",
-        "name":  "口袋名單地點 4303",
+        "name":  "口袋地點 4303",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.425232,120.922046",
         "note":  "",
         "createdAt":  1541313095000
@@ -47338,7 +47338,7 @@
         "address":  "202台灣基隆市中正區真砂里中正路316號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16402453906083875081",
         "note":  "",
         "createdAt":  1540390320000
@@ -47349,7 +47349,7 @@
         "address":  "201台灣基隆市信義區義民里信二路62號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9218171459494737266",
         "note":  "",
         "createdAt":  1540390051000
@@ -47382,7 +47382,7 @@
         "address":  "106台灣臺北市大安區建安里忠孝東路四段205巷29弄3號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2040767018764960762",
         "note":  "",
         "createdAt":  1539496744000
@@ -47393,7 +47393,7 @@
         "address":  "207台灣新北市萬里區萬里里瑪鋉路154號",
         "scope":  "INTL",
         "region":  "香港",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17762847432420285966",
         "note":  "",
         "createdAt":  1539447820000
@@ -47426,7 +47426,7 @@
         "address":  "106台灣臺北市大安區仁慈里東豐街34號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13672341750054380655",
         "note":  "",
         "createdAt":  1539363700000
@@ -47547,7 +47547,7 @@
         "address":  "111台灣臺北市士林區前港里承德路四段140號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16969697127286708936",
         "note":  "",
         "createdAt":  1537802382000
@@ -47558,7 +47558,7 @@
         "address":  "114台灣臺北市內湖區清白里金湖路4號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1893648688417509983",
         "note":  "",
         "createdAt":  1537800208000
@@ -47631,11 +47631,11 @@
     },
     {
         "id":  "star_4331",
-        "name":  "口袋名單地點 4331",
+        "name":  "口袋地點 4331",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.732628,139.705828",
         "note":  "",
         "createdAt":  1529560609000
@@ -47646,7 +47646,7 @@
         "address":  "103台灣臺北市大同區光能里民生西路136號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17384344208407168741",
         "note":  "",
         "createdAt":  1527775672000
@@ -47657,7 +47657,7 @@
         "address":  "260台灣宜蘭縣宜蘭市西門里舊城北路188號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2853843935677363898",
         "note":  "",
         "createdAt":  1527405715000
@@ -47668,7 +47668,7 @@
         "address":  "No. 218, Section 4, Zhongshan Rd, 漢民里羅東鎮宜蘭縣台灣 265",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=650549128850734847",
         "note":  "",
         "createdAt":  1527259217000
@@ -47690,18 +47690,18 @@
         "address":  "265台灣宜蘭縣羅東鎮漢民里中山路四段83號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=4699972928414904288",
         "note":  "",
         "createdAt":  1527253316000
     },
     {
         "id":  "star_4337",
-        "name":  "口袋名單地點 4337",
+        "name":  "口袋地點 4337",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=270%E5%AE%9C%E8%98%AD%E7%B8%A3%E8%98%87%E6%BE%B3%E9%8E%AE%E7%B2%89%E9%B3%A5%E6%9E%97%E5%A4%A7%E6%A9%8B\u0026ftid=0x3467c36bb05a8d1f:0xa106bb03a38949a",
         "note":  "",
         "createdAt":  1527251763000
@@ -47723,7 +47723,7 @@
         "address":  "330台灣桃園市桃園區大興西路二段80巷",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=8056959849725473763",
         "note":  "",
         "createdAt":  1527002355000
@@ -47734,7 +47734,7 @@
         "address":  "100台灣臺北市中正區光復里延平南路11號1F",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8066931350703523029",
         "note":  "",
         "createdAt":  1526641353000
@@ -47767,7 +47767,7 @@
         "address":  "106台灣臺北市大安區德安里東豐街60號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4939483632675379563",
         "note":  "",
         "createdAt":  1524497338000
@@ -47789,7 +47789,7 @@
         "address":  "Av. Dr. Sun Yat Sen, 澳門",
         "scope":  "INTL",
         "region":  "澳門",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=2736825847335040577",
         "note":  "",
         "createdAt":  1522943572000
@@ -47818,11 +47818,11 @@
     },
     {
         "id":  "star_4348",
-        "name":  "口袋名單地點 4348",
+        "name":  "口袋地點 4348",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.474647,120.451830",
         "note":  "",
         "createdAt":  1522042505000
@@ -47833,7 +47833,7 @@
         "address":  "500台灣彰化縣彰化市南興里中山路一段431號之3",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=11651786268873193841",
         "note":  "",
         "createdAt":  1521977027000
@@ -47855,7 +47855,7 @@
         "address":  "526台灣彰化縣二林鎮華崙里",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7864597978680014368",
         "note":  "",
         "createdAt":  1521969701000
@@ -47866,7 +47866,7 @@
         "address":  "500台灣彰化縣彰化市",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1657405152712930186",
         "note":  "",
         "createdAt":  1521891084000
@@ -47877,7 +47877,7 @@
         "address":  "500台灣彰化縣彰化市民權里民族路469號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=335186145720124029",
         "note":  "",
         "createdAt":  1521889370000
@@ -47888,7 +47888,7 @@
         "address":  "505台灣彰化縣鹿港鎮東石里鹿工南四路30號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=11600743898502435035",
         "note":  "",
         "createdAt":  1521000803000
@@ -47910,18 +47910,18 @@
         "address":  "510台灣彰化縣員林市黎明里光明街216號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9995507566496585978",
         "note":  "",
         "createdAt":  1520760289000
     },
     {
         "id":  "star_4357",
-        "name":  "口袋名單地點 4357",
+        "name":  "口袋地點 4357",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.054449,120.434283",
         "note":  "",
         "createdAt":  1520747656000
@@ -47932,7 +47932,7 @@
         "address":  "505台灣彰化縣鹿港鎮民族路198號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2047291114209095038",
         "note":  "",
         "createdAt":  1520747643000
@@ -47976,7 +47976,7 @@
         "address":  "522台灣彰化縣田尾鄉溪畔村中山路二段454號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5165350123302485344",
         "note":  "",
         "createdAt":  1520269666000
@@ -48009,18 +48009,18 @@
         "address":  "367台灣苗栗縣三義鄉勝興村41號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3806479792862883811",
         "note":  "",
         "createdAt":  1519746326000
     },
     {
         "id":  "star_4366",
-        "name":  "口袋名單地點 4366",
+        "name":  "口袋地點 4366",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=353%E8%8B%97%E6%A0%97%E7%B8%A3%E5%8D%97%E5%BA%84%E9%84%89%E7%A5%9E%E4%BB%99%E8%B0%B7\u0026ftid=0x34685103032738c7:0x859e08d17fab1199",
         "note":  "",
         "createdAt":  1519745354000
@@ -48042,7 +48042,7 @@
         "address":  "632台灣雲林縣虎尾鎮惠來里惠來路75-6號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15770949575817562815",
         "note":  "",
         "createdAt":  1515903200000
@@ -48053,18 +48053,18 @@
         "address":  "353台灣苗栗縣南庄鄉南江村3鄰東江31-3號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "景點",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11136829664512421977",
         "note":  "",
         "createdAt":  1515903057000
     },
     {
         "id":  "star_4370",
-        "name":  "口袋名單地點 4370",
+        "name":  "口袋地點 4370",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.710617,139.760342",
         "note":  "",
         "createdAt":  1515217491000
@@ -48075,7 +48075,7 @@
         "address":  "1-1 Shimoshiroganecho, Hirosaki, Aomori 036-8356日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5280905638001364720",
         "note":  "",
         "createdAt":  1512717207000
@@ -48086,7 +48086,7 @@
         "address":  "Ogimachi, Shirakawa, Ono District, Gifu 501-5627日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14755289620389823992",
         "note":  "",
         "createdAt":  1512709449000
@@ -48097,7 +48097,7 @@
         "address":  "1 Kenrokumachi, Kanazawa, Ishikawa 920-0936日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10883646955444237028",
         "note":  "",
         "createdAt":  1512709406000
@@ -48137,11 +48137,11 @@
     },
     {
         "id":  "star_4377",
-        "name":  "口袋名單地點 4377",
+        "name":  "口袋地點 4377",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.047030,120.393458",
         "note":  "",
         "createdAt":  1510725478000
@@ -48163,7 +48163,7 @@
         "address":  "260台灣宜蘭縣宜蘭市民族里神農路二段63號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=18264551754960396243",
         "note":  "",
         "createdAt":  1508123950000
@@ -48174,7 +48174,7 @@
         "address":  "262台灣宜蘭縣礁溪鄉時潮村塭底路70-12號不要走靠自行車道喔",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3843610951137839901",
         "note":  "",
         "createdAt":  1508123144000
@@ -48203,22 +48203,22 @@
     },
     {
         "id":  "star_4383",
-        "name":  "口袋名單地點 4383",
+        "name":  "口袋地點 4383",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=25.161933,121.706696",
         "note":  "",
         "createdAt":  1507873581000
     },
     {
         "id":  "star_4384",
-        "name":  "口袋名單地點 4384",
+        "name":  "口袋地點 4384",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=23.504037,120.501592",
         "note":  "",
         "createdAt":  1507804818000
@@ -48240,7 +48240,7 @@
         "address":  "320台灣桃園市中壢區普仁里中北路19號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18294253459103566672",
         "note":  "",
         "createdAt":  1504493778000
@@ -48251,7 +48251,7 @@
         "address":  "220台灣新北市板橋區文化路二段125巷48號1F",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3230208962355954525",
         "note":  "",
         "createdAt":  1504341600000
@@ -48273,7 +48273,7 @@
         "address":  "335台灣桃園市大溪區興和里中正路37號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=1033367910223398024",
         "note":  "",
         "createdAt":  1503996310000
@@ -48284,7 +48284,7 @@
         "address":  "320台灣桃園市中壢區正義里中北路二段418號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1197342796607407107",
         "note":  "",
         "createdAt":  1503992618000
@@ -48317,7 +48317,7 @@
         "address":  "253台灣新北市石門區58-6號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5258573636827543214",
         "note":  "",
         "createdAt":  1503639601000
@@ -48339,7 +48339,7 @@
         "address":  "730台灣臺南市新營區民生路",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8546790622931308550",
         "note":  "",
         "createdAt":  1503468009000
@@ -48350,7 +48350,7 @@
         "address":  "香港香港島摩星嶺域多利道",
         "scope":  "INTL",
         "region":  "香港",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=752195665924728784",
         "note":  "",
         "createdAt":  1503464288000
@@ -48427,7 +48427,7 @@
         "address":  "643台灣雲林縣林內鄉林中村三星路9-2號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16422827601318966407",
         "note":  "",
         "createdAt":  1503288401000
@@ -48438,7 +48438,7 @@
         "address":  "270台灣宜蘭縣蘇澳鎮漁港 右側",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10081760177652263053",
         "note":  "",
         "createdAt":  1503281256000
@@ -48460,7 +48460,7 @@
         "address":  "328台灣桃園市觀音區保障里",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15295273182329847214",
         "note":  "",
         "createdAt":  1503280598000
@@ -48482,7 +48482,7 @@
         "address":  "506台灣彰化縣福興鄉福寶村新生路臨63號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6817925274244740792",
         "note":  "",
         "createdAt":  1503248007000
@@ -48493,7 +48493,7 @@
         "address":  "432台灣臺中市大肚區社腳里沙田路一段854巷75-2號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10132664048517268302",
         "note":  "",
         "createdAt":  1503237194000
@@ -48504,7 +48504,7 @@
         "address":  "701台灣臺南市東區衛國里林森路二段190巷6弄32號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10394358015180768140",
         "note":  "",
         "createdAt":  1503106413000
@@ -48515,7 +48515,7 @@
         "address":  "60076台灣嘉義市東區長竹里大雅路二段275號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5542990614742318278",
         "note":  "",
         "createdAt":  1502953883000
@@ -48526,7 +48526,7 @@
         "address":  "600台灣嘉義市東區圳頭里林森東路598號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14044504443325201641",
         "note":  "",
         "createdAt":  1502947848000
@@ -48537,7 +48537,7 @@
         "address":  "353台灣苗栗縣南庄鄉田美村四灣15鄰92號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2906101201550813243",
         "note":  "",
         "createdAt":  1502682997000
@@ -48548,7 +48548,7 @@
         "address":  "60060台灣嘉義市西區劉厝里劉厝路205號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11786181300203045224",
         "note":  "",
         "createdAt":  1502640359000
@@ -48570,7 +48570,7 @@
         "address":  "426台灣臺中市新社區中興里中興嶺99號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=10142149380414437942",
         "note":  "",
         "createdAt":  1502356138000
@@ -48592,7 +48592,7 @@
         "address":  "600台灣嘉義市東區民族里共和路84號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1109635436746567056",
         "note":  "",
         "createdAt":  1502354804000
@@ -48636,7 +48636,7 @@
         "address":  "653台灣雲林縣口湖鄉成龍村135號",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15119981696501103701",
         "note":  "",
         "createdAt":  1502208972000
@@ -48669,7 +48669,7 @@
         "address":  "406台灣臺中市北屯區松竹五路一段",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14885798738193207914",
         "note":  "",
         "createdAt":  1500141696000
@@ -48680,7 +48680,7 @@
         "address":  "651台灣雲林縣北港鎮河堤道路(虎尾-北港)",
         "scope":  "TW",
         "region":  "雲林",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5502174461472935746",
         "note":  "",
         "createdAt":  1500140998000
@@ -48713,7 +48713,7 @@
         "address":  "327台灣桃園市新屋區下埔里東興路二段946號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15238967627609817346",
         "note":  "",
         "createdAt":  1499960453000
@@ -48724,7 +48724,7 @@
         "address":  "600台灣嘉義市東區過溝里民族路312號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=6006052363656739938",
         "note":  "",
         "createdAt":  1499788809000
@@ -48779,7 +48779,7 @@
         "address":  "400台灣臺中市中區中華里民族路206號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2769969214833900106",
         "note":  "",
         "createdAt":  1499664810000
@@ -48790,7 +48790,7 @@
         "address":  "台灣苗栗縣南庄鄉東河村 橫屏背12鄰25號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12857650313493328396",
         "note":  "",
         "createdAt":  1499432223000
@@ -48834,7 +48834,7 @@
         "address":  "Shirogane, Biei, Kamikawa District, Hokkaido 071-0235日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=345959270472972190",
         "note":  "",
         "createdAt":  1490874163000
@@ -48845,7 +48845,7 @@
         "address":  "Shirogane, Biei, Kamikawa District, Hokkaido 071-0235日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=362140915972662822",
         "note":  "",
         "createdAt":  1490874133000
@@ -48867,7 +48867,7 @@
         "address":  "日本〒401-0332 Yamanashi, Minamitsuru District, Fujikawaguchiko, Saiko, 根場 ２７１０",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16397440285013634023",
         "note":  "",
         "createdAt":  1490679807000
@@ -48900,7 +48900,7 @@
         "address":  "600台灣嘉義市東區蘭潭里鹿寮里紅毛埤187-4號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=3149595085403961701",
         "note":  "",
         "createdAt":  1488794192000
@@ -48911,18 +48911,18 @@
         "address":  "600台灣嘉義市東區仁義里忠孝路516號",
         "scope":  "TW",
         "region":  "嘉義",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8316885073514073493",
         "note":  "",
         "createdAt":  1488794044000
     },
     {
         "id":  "star_4448",
-        "name":  "口袋名單地點 4448",
+        "name":  "口袋地點 4448",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.732183,139.747803",
         "note":  "",
         "createdAt":  1488088104000
@@ -48933,7 +48933,7 @@
         "address":  "507台灣彰化縣線西鄉頂犁村草豐路501巷5號",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "甜點",
+        "category":  "按摩/SPA/體驗",
         "url":  "http://maps.google.com/?cid=14369963406916845204",
         "note":  "",
         "createdAt":  1487730685000
@@ -48944,7 +48944,7 @@
         "address":  "806台灣高雄市前鎮區明正里中安路1-1號",
         "scope":  "TW",
         "region":  "高雄",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=662846719228636529",
         "note":  "",
         "createdAt":  1486459674000
@@ -48955,7 +48955,7 @@
         "address":  "108台灣臺北市萬華區萬壽里武昌街二段37號6樓",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14091750578769548341",
         "note":  "",
         "createdAt":  1486459416000
@@ -48999,7 +48999,7 @@
         "address":  "106台灣臺北市大安區仁愛里仁愛路四段91巷9號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11920004426097668111",
         "note":  "",
         "createdAt":  1485874588000
@@ -49043,7 +49043,7 @@
         "address":  "952台灣臺東縣蘭嶼鄉東清村",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9169267967467353912",
         "note":  "",
         "createdAt":  1484496348000
@@ -49054,7 +49054,7 @@
         "address":  "1635 Fuchaku, Onna, Kunigami District, Okinawa 904-0413日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9106246365357433480",
         "note":  "",
         "createdAt":  1484495990000
@@ -49065,7 +49065,7 @@
         "address":  "Onna, Kunigami District, Okinawa 904-0411日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16135339115350022424",
         "note":  "",
         "createdAt":  1484495840000
@@ -49076,7 +49076,7 @@
         "address":  "Kakinohana-8-1 Tamagusuku, Nanjo, Okinawa 901-0601日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "咖啡廳",
+        "category":  "住宿/飯店",
         "url":  "http://maps.google.com/?cid=11124459961806027906",
         "note":  "",
         "createdAt":  1484495599000
@@ -49087,7 +49087,7 @@
         "address":  "Kise, Nago, Okinawa 905-0026日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6915414046405596313",
         "note":  "",
         "createdAt":  1484495512000
@@ -49109,7 +49109,7 @@
         "address":  "號, No. 1三民路彰化市彰化縣台灣 500",
         "scope":  "TW",
         "region":  "彰化",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=5364476133521606864",
         "note":  "",
         "createdAt":  1484065583000
@@ -49131,7 +49131,7 @@
         "address":  "426台灣臺中市新社區中興嶺街一段107號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9064896354519328007",
         "note":  "",
         "createdAt":  1483365733000
@@ -49142,7 +49142,7 @@
         "address":  "367台灣苗栗縣三義鄉龍騰村苗56鄉道",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9188333073421207195",
         "note":  "",
         "createdAt":  1482227989000
@@ -49175,7 +49175,7 @@
         "address":  "558台灣南投縣鹿谷鄉彰雅村中正路一段128號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9050816879310989481",
         "note":  "",
         "createdAt":  1481529464000
@@ -49186,7 +49186,7 @@
         "address":  "558台灣南投縣鹿谷鄉內湖村興產路77號",
         "scope":  "TW",
         "region":  "南投",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=18264825298977394392",
         "note":  "",
         "createdAt":  1481529304000
@@ -49197,7 +49197,7 @@
         "address":  "403台灣臺中市西區柳川東路二段56號",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1036716598490748659",
         "note":  "",
         "createdAt":  1481379199000
@@ -49208,29 +49208,29 @@
         "address":  "362台灣苗栗縣頭屋鄉明德村明德路54-6號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4879833824769506712",
         "note":  "",
         "createdAt":  1480154826000
     },
     {
         "id":  "star_4475",
-        "name":  "口袋名單地點 4475",
+        "name":  "口袋地點 4475",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.659849,139.729479",
         "note":  "",
         "createdAt":  1478150640000
     },
     {
         "id":  "star_4476",
-        "name":  "口袋名單地點 4476",
+        "name":  "口袋地點 4476",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=24.625894,121.742918",
         "note":  "",
         "createdAt":  1477184738000
@@ -49263,7 +49263,7 @@
         "address":  "No. 45號, Guangming Rd, 長安里馬公市澎湖縣台灣 880",
         "scope":  "TW",
         "region":  "澎湖",
-        "category":  "早餐/早午餐",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5674817477397736156",
         "note":  "",
         "createdAt":  1472132917000
@@ -49274,7 +49274,7 @@
         "address":  "26944台灣宜蘭縣冬山鄉得安村梅湖路160號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "景點",
+        "category":  "住宿/飯店",
         "url":  "http://maps.google.com/?cid=4975009777652188808",
         "note":  "",
         "createdAt":  1472047592000
@@ -49285,7 +49285,7 @@
         "address":  "367台灣苗栗縣三義鄉龍騰村6之7號",
         "scope":  "TW",
         "region":  "苗栗",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18329060689384082685",
         "note":  "",
         "createdAt":  1472047544000
@@ -49318,7 +49318,7 @@
         "address":  "1 Chome-24-6 Futenma, Ginowan, Okinawa 901-2202日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4540076234638785414",
         "note":  "",
         "createdAt":  1471751460000
@@ -49329,7 +49329,7 @@
         "address":  "日本〒901-0604 Okinawa, Nanjo, Tamagusuku, ２−1",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13933470595957617327",
         "note":  "",
         "createdAt":  1471751241000
@@ -49340,7 +49340,7 @@
         "address":  "1 Chome-11-34 Awase, Okinawa, 904-2172日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15973051844904794002",
         "note":  "",
         "createdAt":  1471750882000
@@ -49351,7 +49351,7 @@
         "address":  "249台灣新北市八里區米倉里龍米路二段86-9號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12551535075072370974",
         "note":  "",
         "createdAt":  1470665396000
@@ -49373,7 +49373,7 @@
         "address":  "335台灣桃園市大溪區仁和里仁和路一段103號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=7599195017522903615",
         "note":  "",
         "createdAt":  1469967691000
@@ -49384,7 +49384,7 @@
         "address":  "103台灣臺北市大同區雙連里寧夏路49號",
         "scope":  "TW",
         "region":  "台北",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=6971991644493487220",
         "note":  "",
         "createdAt":  1469090982000
@@ -49450,7 +49450,7 @@
         "address":  "204台灣基隆市安樂區定邦里安一路100巷31號",
         "scope":  "TW",
         "region":  "基隆",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3931770638919205120",
         "note":  "",
         "createdAt":  1467297922000
@@ -49472,7 +49472,7 @@
         "address":  "Hirano-1948 Yamanakako-mura, Minamitsuru-gun, Minamitsuru District, Yamanashi 401-0502日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13462683026872648816",
         "note":  "",
         "createdAt":  1467297806000
@@ -49549,7 +49549,7 @@
         "address":  "261台灣宜蘭縣頭城鎮拔雅里復興路67號",
         "scope":  "TW",
         "region":  "桃園",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5804296984128544603",
         "note":  "",
         "createdAt":  1466341146000
@@ -49567,22 +49567,22 @@
     },
     {
         "id":  "star_4507",
-        "name":  "口袋名單地點 4507",
+        "name":  "口袋地點 4507",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.710922,139.774575",
         "note":  "",
         "createdAt":  1465536171000
     },
     {
         "id":  "star_4508",
-        "name":  "口袋名單地點 4508",
+        "name":  "口袋地點 4508",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.009048,135.770343",
         "note":  "",
         "createdAt":  1465536166000
@@ -49604,7 +49604,7 @@
         "address":  "220台灣新北市板橋區仁翠里裕民街62號",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "小吃",
         "url":  "http://maps.google.com/?cid=11991081288194193608",
         "note":  "",
         "createdAt":  1463218246000
@@ -49637,7 +49637,7 @@
         "address":  "日本〒384-0412 Nagano, Saku, Taguchi, 下町3000-1",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4451741781642422780",
         "note":  "",
         "createdAt":  1461231806000
@@ -49659,7 +49659,7 @@
         "address":  "10 Chiwari Tachibana, Kitakami, Iwate 024-0043日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3003615396713235204",
         "note":  "",
         "createdAt":  1461231002000
@@ -49681,7 +49681,7 @@
         "address":  "無番地 Noboribetsuonsencho, Noboribetsu, Hokkaido 059-0551日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14390601882475151052",
         "note":  "",
         "createdAt":  1461139088000
@@ -49692,7 +49692,7 @@
         "address":  "14-12 Suehirocho, Hakodate, Hokkaido 040-0053日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1042983134241268216",
         "note":  "",
         "createdAt":  1461139045000
@@ -49703,7 +49703,7 @@
         "address":  "日本〒060-0062 Hokkaido, Sapporo, Chuo Ward, 南2・3条西1～7丁目",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4470248669125351329",
         "note":  "",
         "createdAt":  1461138988000
@@ -49714,7 +49714,7 @@
         "address":  "Hakodateyama, Hakodate, Hokkaido 040-0000日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13200767891539277212",
         "note":  "",
         "createdAt":  1461138889000
@@ -49743,11 +49743,11 @@
     },
     {
         "id":  "star_4523",
-        "name":  "口袋名單地點 4523",
+        "name":  "口袋地點 4523",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E5%8C%97%E6%B5%B7%E9%81%93%E5%8D%83%E6%AD%B2%E5%B8%82+%E6%94%AF%E7%AC%8F%E6%B9%96\u0026ftid=0x5f753913215f72bb:0x7bd8ec9776a202d0",
         "note":  "",
         "createdAt":  1461138708000
@@ -49787,22 +49787,22 @@
     },
     {
         "id":  "star_4527",
-        "name":  "口袋名單地點 4527",
+        "name":  "口袋地點 4527",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=1+Chome-9-21+%C5%8Ckubo,+Shinjuku-ku,+T%C5%8Dky%C5%8D-to+169-0072%E6%97%A5%E6%9C%AC\u0026ftid=0x60188d26e15ead71:0xdf363515e53231c7",
         "note":  "",
         "createdAt":  1460638679000
     },
     {
         "id":  "star_4528",
-        "name":  "口袋名單地點 4528",
+        "name":  "口袋地點 4528",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92170-0014+T%C5%8Dky%C5%8D-to,+Toshima-ku,+Ikebukuro,+2+Chome%E2%88%9232+%E3%83%9B%E3%83%86%E3%83%AB%E6%98%8C%E5%BA%AD\u0026ftid=0x60188d58cc556b13:0x5bee5aed06b350d7",
         "note":  "",
         "createdAt":  1460637386000
@@ -49846,18 +49846,18 @@
         "address":  "日本〒389-0195 Nagano, Kitasaku District, Karuizawa, 星野",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17038616941568255674",
         "note":  "",
         "createdAt":  1460605639000
     },
     {
         "id":  "star_4533",
-        "name":  "口袋名單地點 4533",
+        "name":  "口袋地點 4533",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92389-0111+Nagano-ken,+Kitasaku-gun,+Karuizawa-machi,+Nagakura,+2148%E2%88%9214+%E6%9D%91%E6%B0%91%E9%A3%9F%E5%A0%82\u0026ftid=0x601dd228aa1a2353:0xc9f455263d73dcf8",
         "note":  "",
         "createdAt":  1460605463000
@@ -49868,7 +49868,7 @@
         "address":  "Hoshino, Karuizawa, Kitasaku District, Nagano 389-0111日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10804644812188020712",
         "note":  "",
         "createdAt":  1460605396000
@@ -49879,18 +49879,18 @@
         "address":  "2148 Nagakura, Karuizawa, Kitasaku District, Nagano 389-0111日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12149845572344097417",
         "note":  "",
         "createdAt":  1460605373000
     },
     {
         "id":  "star_4536",
-        "name":  "口袋名單地點 4536",
+        "name":  "口袋地點 4536",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92389-0100+%E9%95%B7%E9%87%8E%E7%9C%8C%E5%8C%97%E4%BD%90%E4%B9%85%E9%83%A1%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA%E8%BB%BD%E4%BA%95%E6%B2%A2%EF%BC%88%E5%A4%A7%E5%AD%97%EF%BC%89+%E9%9B%B2%E5%A0%B4%E6%B1%A0\u0026ftid=0x601dd39b0da1b2ed:0x8af93ffd7d16f241",
         "note":  "",
         "createdAt":  1460605327000
@@ -49945,7 +49945,7 @@
         "address":  "日本〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1 Chome−39−11 サニーサイドビル",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3648846056791497755",
         "note":  "",
         "createdAt":  1460559853000
@@ -49978,7 +49978,7 @@
         "address":  "1 Chome-11-1 Nishishinjuku, Shinjuku City, Tokyo 160-0023日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3528911844992421845",
         "note":  "",
         "createdAt":  1460553414000
@@ -49989,7 +49989,7 @@
         "address":  "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2031864442327465429",
         "note":  "",
         "createdAt":  1460552338000
@@ -50000,7 +50000,7 @@
         "address":  "1 Chome-3-17 Nishishinjuku, Shinjuku City, Tokyo 160-0023日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16244114490743783460",
         "note":  "",
         "createdAt":  1460547391000
@@ -50022,7 +50022,7 @@
         "address":  "2988 Kawaguchi, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0304日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2030703272406625024",
         "note":  "",
         "createdAt":  1460541812000
@@ -50040,11 +50040,11 @@
     },
     {
         "id":  "star_4550",
-        "name":  "口袋名單地點 4550",
+        "name":  "口袋地點 4550",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92248-0033+Kanagawa-ken,+Kamakura-shi,+Koshigoe,+1+Chome%E2%88%921%E2%88%9225+%E9%8E%8C%E5%80%89%E9%AB%98%E6%A0%A1%E5%89%8D%E9%A7%85\u0026ftid=0x60184f16e5df9f9f:0xf13a56a96fce6625",
         "note":  "",
         "createdAt":  1460526766000
@@ -50055,7 +50055,7 @@
         "address":  "4 Chome-2-28 Hase, Kamakura, Kanagawa 248-0016日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2216777826481991500",
         "note":  "",
         "createdAt":  1460526693000
@@ -50088,7 +50088,7 @@
         "address":  "2312 Kawaguchi, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0304日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=254852958141288259",
         "note":  "",
         "createdAt":  1460470250000
@@ -50099,7 +50099,7 @@
         "address":  "3077-20 Kawaguchi, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0304日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14725259469044796021",
         "note":  "",
         "createdAt":  1460470230000
@@ -50110,7 +50110,7 @@
         "address":  "Karuizawa, Kitasaku District, Nagano 389-0102日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16774753773592206962",
         "note":  "",
         "createdAt":  1460443669000
@@ -50121,7 +50121,7 @@
         "address":  "日本 Kanagawa, 藤沢市 片瀬海岸1-4-7",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2163151069313081805",
         "note":  "",
         "createdAt":  1460443264000
@@ -50143,7 +50143,7 @@
         "address":  "36 Okitayamaharadaniinuicho, Kita Ward, Kyoto, 603-8487日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=6105532566813199622",
         "note":  "",
         "createdAt":  1460382049000
@@ -50165,7 +50165,7 @@
         "address":  "778-1 Shimousui, Hakata Ward, Fukuoka, 812-0003日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=1650146253583818679",
         "note":  "",
         "createdAt":  1460378702000
@@ -50220,7 +50220,7 @@
         "address":  "3 Chome-4-3 Asakusa, Taito City, Tokyo 111-0032日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5251515102857493444",
         "note":  "",
         "createdAt":  1460361214000
@@ -50242,7 +50242,7 @@
         "address":  "405 Sakuranocho, Nakagyo Ward, Kyoto, 604-8035日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5381991523602015602",
         "note":  "",
         "createdAt":  1460116720000
@@ -50253,7 +50253,7 @@
         "address":  "Shimasakurai, Itoshima, Fukuoka 819-1304日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9044105123806828233",
         "note":  "",
         "createdAt":  1460116380000
@@ -50264,7 +50264,7 @@
         "address":  "Nakagyo Ward, Kyoto, 604-8055日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13159134450370243740",
         "note":  "",
         "createdAt":  1460109386000
@@ -50275,7 +50275,7 @@
         "address":  "2 Chome-4-1 Nipponbashi, Chuo Ward, Osaka, 542-0073日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5325799892949869115",
         "note":  "",
         "createdAt":  1460109089000
@@ -50286,18 +50286,18 @@
         "address":  "日本〒600-8216 Kyoto, Shimogyo Ward, JR京都伊勢丹 烏丸通塩小路下ﾙ東塩小路町",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5720000929453782755",
         "note":  "",
         "createdAt":  1460109013000
     },
     {
         "id":  "star_4573",
-        "name":  "口袋名單地點 4573",
+        "name":  "口袋地點 4573",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92611-0021+Ky%C5%8Dto-fu,+Uji-shi,+Uji,+Ichiban+%E4%B8%AD%E6%9D%91%E8%97%A4%E5%90%89%E6%9C%AC%E5%BA%97\u0026ftid=0x60011108d92364e5:0xea88734fcda498c5",
         "note":  "",
         "createdAt":  1460107441000
@@ -50308,7 +50308,7 @@
         "address":  "日本〒600-8215 Kyoto, Shimogyo Ward, Higashishiokojicho, ジェイアール京都伊勢丹 レストラン街 JR西口改札前イートパラダイス3F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11415909585305999781",
         "note":  "",
         "createdAt":  1460107175000
@@ -50319,7 +50319,7 @@
         "address":  "29 Higashimuki Nakamachi, Nara, 630-8225日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=1634439359370989981",
         "note":  "",
         "createdAt":  1460100604000
@@ -50341,7 +50341,7 @@
         "address":  "29 Hashimotocho, Nara, 630-8217日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=14561917136571056776",
         "note":  "",
         "createdAt":  1460100439000
@@ -50403,11 +50403,11 @@
     },
     {
         "id":  "star_4583",
-        "name":  "口袋名單地點 4583",
+        "name":  "口袋地點 4583",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=507%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%B7%9A%E8%A5%BF%E9%84%89%E4%B8%AD%E6%AD%A3%E8%B7%AF281%E8%99%9F\u0026ftid=0x34694130abcc752d:0x9e76374ae8c7fd99",
         "note":  "",
         "createdAt":  1460004497000
@@ -50418,7 +50418,7 @@
         "address":  "日本〒612-8043 Kyoto, Fushimi Ward, 南兵町247",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15681363716833939988",
         "note":  "",
         "createdAt":  1459863408000
@@ -50440,7 +50440,7 @@
         "address":  "3226-1 Nakamatsu, Minamiaso, Aso District, Kumamoto 869-1505日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3022006176832463392",
         "note":  "",
         "createdAt":  1459810557000
@@ -50462,7 +50462,7 @@
         "address":  "Minamiyama-40 Chitosecho Chitose, Kameoka, Kyoto 621-0002日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2163273308784210784",
         "note":  "",
         "createdAt":  1459783730000
@@ -50473,7 +50473,7 @@
         "address":  "424台灣臺中市和平區博愛里東關路一段松鶴三巷",
         "scope":  "TW",
         "region":  "台中",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11873265005035380210",
         "note":  "",
         "createdAt":  1459690152000
@@ -50484,7 +50484,7 @@
         "address":  "2 Chome Kawaracho, Kumagaya, Saitama 360-0035日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15778989605802103315",
         "note":  "",
         "createdAt":  1459671369000
@@ -50495,7 +50495,7 @@
         "address":  "12-3 Kotobukicho, Kurashiki, Okayama 710-0813日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3748845973382054503",
         "note":  "",
         "createdAt":  1459669156000
@@ -50506,7 +50506,7 @@
         "address":  "12-２ Kotobukicho, Kurashiki, Okayama 710-0813日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11251569610472632746",
         "note":  "",
         "createdAt":  1459669148000
@@ -50539,7 +50539,7 @@
         "address":  "160 Kasuganocho, Nara, 630-8212日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5519134420388517270",
         "note":  "",
         "createdAt":  1459665550000
@@ -50550,7 +50550,7 @@
         "address":  "Renge-116 Uji, Kyoto 611-0021日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6954706348575164324",
         "note":  "",
         "createdAt":  1459664327000
@@ -50594,7 +50594,7 @@
         "address":  "Yawata, Kyoto 614-8312日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13835333390105362806",
         "note":  "",
         "createdAt":  1459327120000
@@ -50612,11 +50612,11 @@
     },
     {
         "id":  "star_4602",
-        "name":  "口袋名單地點 4602",
+        "name":  "口袋地點 4602",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92231-0853+Kanagawa-ken,+Yokohama-shi,+Naka-ku,+Negishidai,+1%E2%88%922+%E6%A0%B9%E5%B2%B8%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92\u0026ftid=0x60185cce5298cc3f:0xb580af076933ab91",
         "note":  "",
         "createdAt":  1459311871000
@@ -50649,7 +50649,7 @@
         "address":  "742台灣臺南市大內區石林里131號",
         "scope":  "TW",
         "region":  "台南",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=13519173960738583414",
         "note":  "",
         "createdAt":  1458999323000
@@ -50671,7 +50671,7 @@
         "address":  "269台灣宜蘭縣冬山鄉南興村冬山路一段1018號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "小吃",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=5237487320871090768",
         "note":  "",
         "createdAt":  1458738605000
@@ -50693,7 +50693,7 @@
         "address":  "228台灣新北市貢寮區",
         "scope":  "TW",
         "region":  "新北",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=15902761822373579445",
         "note":  "",
         "createdAt":  1458660721000
@@ -50704,7 +50704,7 @@
         "address":  "263台灣宜蘭縣壯圍鄉古結村縣民大道一段176號",
         "scope":  "TW",
         "region":  "宜蘭",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15504687246646372739",
         "note":  "",
         "createdAt":  1458658891000
@@ -50715,7 +50715,7 @@
         "address":  "2 Iwakuni, Yamaguchi 741-0062日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7373715797437355784",
         "note":  "",
         "createdAt":  1457835507000
@@ -50748,7 +50748,7 @@
         "address":  "日本〒616-8397 Kyoto, Ukyo Ward, Sagaogurayama Oguracho, ３−3 常寂光寺",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4483251908468797352",
         "note":  "",
         "createdAt":  1457833009000
@@ -50759,29 +50759,29 @@
         "address":  "Hanedakuko, Ota City, Tokyo 144-0041日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=951037605456574687",
         "note":  "",
         "createdAt":  1457832334000
     },
     {
         "id":  "star_4616",
-        "name":  "口袋名單地點 4616",
+        "name":  "口袋地點 4616",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E6%A0%83%E6%9C%A8%E7%B8%A3%E6%97%A5%E5%85%89%E5%B8%82\u0026ftid=0x601fa4b7c69ac8d1:0x6f526b42961dd1c0",
         "note":  "",
         "createdAt":  1457832290000
     },
     {
         "id":  "star_4617",
-        "name":  "口袋名單地點 4617",
+        "name":  "口袋地點 4617",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%B8%A3%E9%8E%8C%E5%80%89%E5%B8%82\u0026ftid=0x6018459b80ac5619:0x5700747a399f2502",
         "note":  "",
         "createdAt":  1457832217000
@@ -50792,7 +50792,7 @@
         "address":  "3641 Funatsu, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0301日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11276748656404649032",
         "note":  "",
         "createdAt":  1457832145000
@@ -50814,7 +50814,7 @@
         "address":  "1561-1 Yufuincho Kawakami, Yufu, Oita 879-5102日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=16424935740723663096",
         "note":  "",
         "createdAt":  1457831996000
@@ -50825,18 +50825,18 @@
         "address":  "1540-2 Yufuincho Kawakami, Yufu, Oita 879-5102日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9490394220423628672",
         "note":  "",
         "createdAt":  1457831966000
     },
     {
         "id":  "star_4622",
-        "name":  "口袋名單地點 4622",
+        "name":  "口袋地點 4622",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92879-5114+%C5%8Cita-ken,+Yufu-shi,+Yufuinch%C5%8D+Kawakita+%E7%94%B1%E5%B8%83%E9%99%A2%E9%A7%85\u0026ftid=0x3546adda3e175e17:0xe8e1f32f2fb130ca",
         "note":  "",
         "createdAt":  1457831915000
@@ -50847,7 +50847,7 @@
         "address":  "Monju, Miyazu, Kyoto 626-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13430243109869218945",
         "note":  "",
         "createdAt":  1457796141000
@@ -50858,7 +50858,7 @@
         "address":  "日本〒669-6103 Hyogo, Toyooka, 城崎町今津２８３",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=4106337966618701197",
         "note":  "",
         "createdAt":  1457794936000
@@ -50869,7 +50869,7 @@
         "address":  "3-chōme-12 Minamisenba, Chuo Ward, Osaka, 542-0081日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12722642360313722197",
         "note":  "",
         "createdAt":  1457792899000
@@ -50891,18 +50891,18 @@
         "address":  "1-1 Ekimotomachi, Kita Ward, Okayama, 700-0024日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=11733851383390654295",
         "note":  "",
         "createdAt":  1457791881000
     },
     {
         "id":  "star_4628",
-        "name":  "口袋名單地點 4628",
+        "name":  "口袋地點 4628",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92657-0104+%E5%85%B5%E5%BA%AB%E7%B8%A3%E7%A5%9E%E6%88%B6%E5%B8%82%E7%81%98%E5%8D%80+Mayasan,+%E6%91%A9%E8%80%B6%E5%B1%B1\u0026ftid=0x600089378a23c7cd:0xe50975a11c017aca",
         "note":  "",
         "createdAt":  1457787468000
@@ -50913,7 +50913,7 @@
         "address":  "1 Kinkakujicho, Kita Ward, Kyoto, 603-8361日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1073025677330113631",
         "note":  "",
         "createdAt":  1457785774000
@@ -50924,7 +50924,7 @@
         "address":  "Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, 日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=13121875705491233800",
         "note":  "",
         "createdAt":  1457785562000
@@ -50946,7 +50946,7 @@
         "address":  "日本〒531-6039 Osaka, Kita Ward, Oyodonaka, 1 Chome−1−88 梅田スカイビル",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11888159686841220417",
         "note":  "",
         "createdAt":  1457785293000
@@ -50957,7 +50957,7 @@
         "address":  "Osaka, 日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4312131637787784911",
         "note":  "",
         "createdAt":  1457785199000
@@ -50968,7 +50968,7 @@
         "address":  "1 Chome-3-23 Miyajimaguchi, Hatsukaichi, Hiroshima 739-0411日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=1011761593475510531",
         "note":  "",
         "createdAt":  1457784754000
@@ -50979,7 +50979,7 @@
         "address":  "68 Honmachi, Himeji, Hyogo 670-0012日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8813417131136418225",
         "note":  "",
         "createdAt":  1457784621000
@@ -50990,7 +50990,7 @@
         "address":  "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3892796888607511210",
         "note":  "",
         "createdAt":  1457784550000
@@ -51001,7 +51001,7 @@
         "address":  "Hirata, Ine, Yoza District, Kyoto 626-0423日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9391353509642691721",
         "note":  "",
         "createdAt":  1457775011000
@@ -51023,18 +51023,18 @@
         "address":  "1 Chome-4 Central, Kurashiki, Okayama 710-0046日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1283078672125463998",
         "note":  "",
         "createdAt":  1457774744000
     },
     {
         "id":  "star_4640",
-        "name":  "口袋名單地點 4640",
+        "name":  "口袋地點 4640",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E5%9A%B4%E5%B3%B6\u0026ftid=0x355ab6cf888dc919:0xc91f62ebee004301",
         "note":  "",
         "createdAt":  1457774675000
@@ -51056,7 +51056,7 @@
         "address":  "950台灣臺東縣臺東市文化里新生路135巷26號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11953694422132767247",
         "note":  "",
         "createdAt":  1454241188000
@@ -51067,7 +51067,7 @@
         "address":  "958台灣臺東縣池上鄉錦新三號道路",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=9677467830885727248",
         "note":  "",
         "createdAt":  1454240673000
@@ -51078,7 +51078,7 @@
         "address":  "950台灣臺東縣臺東市岩灣路101巷598 號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=7701541427605191009",
         "note":  "",
         "createdAt":  1454240635000
@@ -51096,11 +51096,11 @@
     },
     {
         "id":  "star_4646",
-        "name":  "口袋名單地點 4646",
+        "name":  "口袋地點 4646",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E4%B8%89%E4%BB%99%E5%8F%B0\u0026ftid=0x346f7048cc0117e5:0x656dddb95ce96849",
         "note":  "",
         "createdAt":  1454238520000
@@ -51111,7 +51111,7 @@
         "address":  "963台灣臺東縣太麻里鄉瀧溪路8-1號",
         "scope":  "TW",
         "region":  "台東",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=15811828737126212620",
         "note":  "",
         "createdAt":  1454238464000
@@ -51140,11 +51140,11 @@
     },
     {
         "id":  "star_4650",
-        "name":  "口袋名單地點 4650",
+        "name":  "口袋地點 4650",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=2+Chome-13-13+Ueno,+Tait%C5%8D-ku,+T%C5%8Dky%C5%8D-to+110-0005%E6%97%A5%E6%9C%AC\u0026ftid=0x60188e9e28b381f3:0xe9017e94721caf24",
         "note":  "",
         "createdAt":  1448754597000
@@ -51155,7 +51155,7 @@
         "address":  "4 Chome-10-10 Ueno, Taito City, Tokyo 110-0005日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17650097540253210298",
         "note":  "",
         "createdAt":  1448457412000
@@ -51166,7 +51166,7 @@
         "address":  "日本〒110-0005 Tokyo, Taito City, Ueno, 6 Chome−15−1 4F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=8109709086175485263",
         "note":  "",
         "createdAt":  1448282159000
@@ -51177,7 +51177,7 @@
         "address":  "1 Chome-11-1 Yurakucho, Chiyoda City, Tokyo 100-0006日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13659022085883970830",
         "note":  "",
         "createdAt":  1448281683000
@@ -51188,7 +51188,7 @@
         "address":  "日本〒110-0005 Tokyo, Taito City, Ueno, 6 Chome−14−6 山田ビル 地下1階",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=7133058368751401314",
         "note":  "",
         "createdAt":  1448208792000
@@ -51199,7 +51199,7 @@
         "address":  "4 Chome-26-35 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13152104133017128623",
         "note":  "",
         "createdAt":  1448208226000
@@ -51217,11 +51217,11 @@
     },
     {
         "id":  "star_4657",
-        "name":  "口袋名單地點 4657",
+        "name":  "口袋地點 4657",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92111-0034+T%C5%8Dky%C5%8D-to,+Tait%C5%8D-ku,+Kaminarimon,+2+Chome%E2%88%9217%E2%88%9210+%E9%9B%B7%E9%96%80%E4%B8%8A%E6%9D%91%E3%83%93%E3%83%AB\u0026ftid=0x60188ec6df693dc5:0xa3a2fbc515a358dc",
         "note":  "",
         "createdAt":  1448200678000
@@ -51232,7 +51232,7 @@
         "address":  "9 Chome-7-1 Akasaka, Minato City, Tokyo 107-0052日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10035562414898098897",
         "note":  "",
         "createdAt":  1448198638000
@@ -51243,7 +51243,7 @@
         "address":  "2 Chome-7-2 Marunouchi, Chiyoda City, Tokyo 100-0005日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11485552472590411274",
         "note":  "",
         "createdAt":  1448193334000
@@ -51254,7 +51254,7 @@
         "address":  "4 Chome-33-3 Taito, Taito City, Tokyo 110-8583日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15725589533456825868",
         "note":  "",
         "createdAt":  1448032121000
@@ -51265,7 +51265,7 @@
         "address":  "5 Chome-10-1 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16486663545482623266",
         "note":  "",
         "createdAt":  1446734428000
@@ -51276,29 +51276,29 @@
         "address":  "3 Chome-14-23 Minamiaoyama, Minato City, Tokyo 107-0062日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18375191719550199940",
         "note":  "",
         "createdAt":  1446734364000
     },
     {
         "id":  "star_4663",
-        "name":  "口袋名單地點 4663",
+        "name":  "口袋地點 4663",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.708833299999995,139.7756944",
         "note":  "",
         "createdAt":  1445793974000
     },
     {
         "id":  "star_4664",
-        "name":  "口袋名單地點 4664",
+        "name":  "口袋地點 4664",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=6+Chome-28-4+Jing%C5%ABmae,+Shibuya-ku,+T%C5%8Dky%C5%8D-to+150-0001%E6%97%A5%E6%9C%AC\u0026ftid=0x60188ca44c2534b1:0x53e01c74c19902c8",
         "note":  "",
         "createdAt":  1445703333000
@@ -51309,7 +51309,7 @@
         "address":  "日本〒150-0001 Tokyo, Shibuya, Jingumae, 1 Chome−20−9 柴崎ビル 1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7516449746934084887",
         "note":  "",
         "createdAt":  1445702405000
@@ -51320,7 +51320,7 @@
         "address":  "日本〒150-0001 Tokyo, Shibuya, Jingumae, 5 Chome−8−7 IIDAビル 1F B1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=4686355961572523094",
         "note":  "",
         "createdAt":  1445702177000
@@ -51331,18 +51331,18 @@
         "address":  "4 Chome-3-2 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=3249680962008809648",
         "note":  "",
         "createdAt":  1445701822000
     },
     {
         "id":  "star_4668",
-        "name":  "口袋名單地點 4668",
+        "name":  "口袋地點 4668",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=35.667029,139.711307",
         "note":  "",
         "createdAt":  1445701749000
@@ -51364,7 +51364,7 @@
         "address":  "2 Chome-28-3 Kichijoji Honcho, Musashino, Tokyo 180-0004日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2668026759553701561",
         "note":  "",
         "createdAt":  1445700075000
@@ -51375,7 +51375,7 @@
         "address":  "2 Chome-17-14 Kichijoji Honcho, Musashino, Tokyo 180-0004日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2107992669099717212",
         "note":  "",
         "createdAt":  1445700018000
@@ -51404,22 +51404,22 @@
     },
     {
         "id":  "star_4674",
-        "name":  "口袋名單地點 4674",
+        "name":  "口袋地點 4674",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=1+Chome-16-4+Jing%C5%ABmae,+Shibuya-ku,+T%C5%8Dky%C5%8D-to+150-0001%E6%97%A5%E6%9C%AC\u0026ftid=0x60188cbb246a3bc3:0x93dc1f620463e2ae",
         "note":  "",
         "createdAt":  1445697729000
     },
     {
         "id":  "star_4675",
-        "name":  "口袋名單地點 4675",
+        "name":  "口袋地點 4675",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92180-0004+T%C5%8Dky%C5%8D-to,+Musashino-shi,+Kichij%C5%8Dji+Honch%C5%8D,+1+Chome%E2%88%925%E2%88%921+%E5%90%89%E7%A5%A5%E5%AF%BA%E3%83%91%E3%83%AB%E3%82%B3\u0026ftid=0x6018ee486f4a8e31:0x674b108476a6b92f",
         "note":  "",
         "createdAt":  1445697047000
@@ -51430,7 +51430,7 @@
         "address":  "7 Chome-1-1 Ueno, Taito City, Tokyo 110-0005日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=26644216117272888",
         "note":  "",
         "createdAt":  1445696747000
@@ -51441,29 +51441,29 @@
         "address":  "6 Chome-28-3 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2918989265779998227",
         "note":  "",
         "createdAt":  1445694835000
     },
     {
         "id":  "star_4678",
-        "name":  "口袋名單地點 4678",
+        "name":  "口袋地點 4678",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC,+%E3%80%92150-0001+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%A5%9E%E5%AE%AE%E5%89%8D%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%98%E2%88%92%EF%BC%93\u0026ftid=0x60188ca44de969bf:0x1ed38b695925be17",
         "note":  "",
         "createdAt":  1445694684000
     },
     {
         "id":  "star_4679",
-        "name":  "口袋名單地點 4679",
+        "name":  "口袋地點 4679",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC,+%E3%80%92150-0001+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%A5%9E%E5%AE%AE%E5%89%8D%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%97%E2%88%92%EF%BC%94+%E7%A5%9E%E5%AE%AE%E5%89%8D%EF%BC%B3%E3%83%93%E3%83%AB\u0026ftid=0x60188ca375a4ebb1:0x8a1c1ecc517a177c",
         "note":  "",
         "createdAt":  1445694567000
@@ -51485,7 +51485,7 @@
         "address":  "日本〒135-0091 Tokyo, Minato City, Daiba, 1 Chome−6−1 デックス東京ビーチ シーサイドモール 4F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1403754633224673085",
         "note":  "",
         "createdAt":  1445673329000
@@ -51496,7 +51496,7 @@
         "address":  "7 Chome-3-1 Hongo, Bunkyo City, Tokyo 113-8654日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3522948820823685781",
         "note":  "",
         "createdAt":  1445074414000
@@ -51507,7 +51507,7 @@
         "address":  "1 Chome-1-1 Yayoi, Bunkyo City, Tokyo 113-0032日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1820701312841718272",
         "note":  "",
         "createdAt":  1445074202000
@@ -51518,7 +51518,7 @@
         "address":  "日本〒110-0005 Tokyo, Taito City, Ueno, 6 Chome−7−12 広瀬ビル B1~2F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1679011814784698552",
         "note":  "",
         "createdAt":  1445072879000
@@ -51529,51 +51529,51 @@
         "address":  "日本〒150-0001 Tokyo, Shibuya, Jingumae, 4 Chome−28−18 ピノ原宿",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=8835090660299633945",
         "note":  "",
         "createdAt":  1444051972000
     },
     {
         "id":  "star_4686",
-        "name":  "口袋名單地點 4686",
+        "name":  "口袋地點 4686",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=4+Chome-7-8+Ueno,+Tait%C5%8D-ku,+T%C5%8Dky%C5%8D-to+110-0005%E6%97%A5%E6%9C%AC\u0026ftid=0x60188e9fb6b1f103:0x4d7c0567bc056095",
         "note":  "",
         "createdAt":  1444051938000
     },
     {
         "id":  "star_4687",
-        "name":  "口袋名單地點 4687",
+        "name":  "口袋地點 4687",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=3+Chome-22-7+Jing%C5%ABmae,+Shibuya-ku,+T%C5%8Dky%C5%8D-to+150-0001%E6%97%A5%E6%9C%AC\u0026ftid=0x60188ca36f466e11:0x741d91881046f57c",
         "note":  "",
         "createdAt":  1444051841000
     },
     {
         "id":  "star_4688",
-        "name":  "口袋名單地點 4688",
+        "name":  "口袋地點 4688",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=4+Chome-32-5+Jing%C5%ABmae,+Shibuya-ku,+T%C5%8Dky%C5%8D-to+150-0001%E6%97%A5%E6%9C%AC\u0026ftid=0x60188ca37bf9cf91:0xcef34fe22959066c",
         "note":  "",
         "createdAt":  1444051786000
     },
     {
         "id":  "star_4689",
-        "name":  "口袋名單地點 4689",
+        "name":  "口袋地點 4689",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=6+Chome-7-1+Jing%C5%ABmae,+Shibuya-ku,+T%C5%8Dky%C5%8D-to+150-0001%E6%97%A5%E6%9C%AC\u0026ftid=0x60188ca408b49a21:0x99d4a540a72a39cb",
         "note":  "",
         "createdAt":  1443628003000
@@ -51595,7 +51595,7 @@
         "address":  "1 Chome-9-2 Asakusa, Taito City, Tokyo 111-0032日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3062877720332017106",
         "note":  "",
         "createdAt":  1442495810000
@@ -51639,7 +51639,7 @@
         "address":  "2 Chome-3-1 Kichijoji Honcho, Musashino, Tokyo 180-8519日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=573281083070198444",
         "note":  "",
         "createdAt":  1441206019000
@@ -51650,7 +51650,7 @@
         "address":  "1 Chome-19-1 Kichijoji Honcho, Musashino, Tokyo 180-0004日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15014015286146522213",
         "note":  "",
         "createdAt":  1441204810000
@@ -51672,7 +51672,7 @@
         "address":  "4 Chome-13-13 Tsukiji, Chuo City, Tokyo 104-0045日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5483863873364605165",
         "note":  "",
         "createdAt":  1440330722000
@@ -51694,7 +51694,7 @@
         "address":  "日本〒104-0045 Tokyo, Chuo City, Tsukiji, 4 Chome−10−16 四丁目町会ビル1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5124312734786734946",
         "note":  "",
         "createdAt":  1440328596000
@@ -51705,7 +51705,7 @@
         "address":  "日本〒104-0045 Tokyo, Chuo City, Tsukiji, 4 Chome−9−7 中富水産第一ビル 1Ｆ",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=3383243675659946855",
         "note":  "",
         "createdAt":  1440328374000
@@ -51738,7 +51738,7 @@
         "address":  "日本〒150-0001 Tokyo, Shibuya, Jingumae, 1 Chome−14−24 原宿第5寿和ビル 1F 原宿店",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=10840746225238386746",
         "note":  "",
         "createdAt":  1440326375000
@@ -51749,7 +51749,7 @@
         "address":  "2 Chome-22-13 Shibuya, Tokyo 150-0002日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1317248785185433247",
         "note":  "",
         "createdAt":  1440326359000
@@ -51782,7 +51782,7 @@
         "address":  "日本〒150-0001 Tokyo, Shibuya, Jingumae, 1 Chome−6−15 ジュネスビル 1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16955272194088955311",
         "note":  "",
         "createdAt":  1440241723000
@@ -51793,7 +51793,7 @@
         "address":  "4 Chome-12-10 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17794433612839601497",
         "note":  "",
         "createdAt":  1440240751000
@@ -51804,7 +51804,7 @@
         "address":  "1 Chome-8-10 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=16523362205332987046",
         "note":  "",
         "createdAt":  1440239494000
@@ -51815,7 +51815,7 @@
         "address":  "3 Chome-25-7 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=17734714633789084989",
         "note":  "",
         "createdAt":  1440238818000
@@ -51826,7 +51826,7 @@
         "address":  "4 Chome-8-5 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=15414532281325901382",
         "note":  "",
         "createdAt":  1439566184000
@@ -51837,7 +51837,7 @@
         "address":  "日本〒110-0005 Tokyo, Taito City, Ueno, 7 Chome−1−1 JR Ueno Station, 構内 3F ecute上野内",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=14717497367819043438",
         "note":  "",
         "createdAt":  1439565379000
@@ -51848,7 +51848,7 @@
         "address":  "2 Chome-1-1 Dogenzaka, Shibuya, Tokyo 150-0043日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=150846235021963194",
         "note":  "",
         "createdAt":  1439565176000
@@ -51859,7 +51859,7 @@
         "address":  "日本〒150-0001 Tokyo, Shibuya, Jingumae, 6 Chome−1−9 キデイランド原宿店 B1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11652963670364832232",
         "note":  "",
         "createdAt":  1439565042000
@@ -51870,7 +51870,7 @@
         "address":  "4 Chome-30-2 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13752584403106412303",
         "note":  "",
         "createdAt":  1439565031000
@@ -51881,7 +51881,7 @@
         "address":  "4 Chome-30-3 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=9367989558381528805",
         "note":  "",
         "createdAt":  1439564997000
@@ -51892,7 +51892,7 @@
         "address":  "6 Chome-1-9 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=7858405403824591241",
         "note":  "",
         "createdAt":  1439564868000
@@ -51903,7 +51903,7 @@
         "address":  "日本〒279-0031 Chiba, Urayasu, Maihama, 1-1 東京ディズニーランド ファンタジーランド",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7815233773618735550",
         "note":  "",
         "createdAt":  1439227104000
@@ -51914,7 +51914,7 @@
         "address":  "日本〒106-0032 Tokyo, Minato City, Roppongi, 6 Chome−4−1 ヒルズメトロハット/ハリウッドプラザ B2F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17325263044060860038",
         "note":  "",
         "createdAt":  1438865881000
@@ -51936,7 +51936,7 @@
         "address":  "日本〒110-0015 Tokyo, Taito City, Higashiueno, 3 Chome−37−9 かみちビル １階",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=645905056774377740",
         "note":  "",
         "createdAt":  1438785477000
@@ -51947,7 +51947,7 @@
         "address":  "6 Chome-10-14 Ueno, Taito City, Tokyo 110-0005日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11898766740555260900",
         "note":  "",
         "createdAt":  1438707929000
@@ -51991,7 +51991,7 @@
         "address":  "1 Chome-31-12 Asakusa, Taito City, Tokyo 111-0032日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11034619643483869312",
         "note":  "",
         "createdAt":  1438702781000
@@ -52002,7 +52002,7 @@
         "address":  "日本〒111-0032 Tokyo, Taito City, Asakusa, 1 Chome−1−7 唐人商行ビル 1･2F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13571051657794439088",
         "note":  "",
         "createdAt":  1438702731000
@@ -52013,7 +52013,7 @@
         "address":  "1 Chome-18-11 Asakusa, Taito City, Tokyo 111-0032日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=7233035965336942037",
         "note":  "",
         "createdAt":  1438702699000
@@ -52024,7 +52024,7 @@
         "address":  "1 Chome-1-2 Oshiage, Sumida City, Tokyo 131-0045日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=9015449659807889194",
         "note":  "",
         "createdAt":  1438701934000
@@ -52035,7 +52035,7 @@
         "address":  "日本〒106-0032 Tokyo, Minato City, Roppongi, 4 Chome−11−11 六本木Gmビル 2F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10882293732912579235",
         "note":  "",
         "createdAt":  1438701847000
@@ -52046,7 +52046,7 @@
         "address":  "1 Chome-3-15 Aomi, Koto City, Tokyo 135-0064日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=17665825108545392798",
         "note":  "",
         "createdAt":  1438700607000
@@ -52057,7 +52057,7 @@
         "address":  "2 Chome-4-8 Daiba, Minato City, Tokyo 137-8088日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15347202442098160092",
         "note":  "",
         "createdAt":  1438700523000
@@ -52068,7 +52068,7 @@
         "address":  "1 Chome-1-10 Aomi, Koto City, Tokyo 135-0064日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=5792442700138824381",
         "note":  "",
         "createdAt":  1438700253000
@@ -52090,18 +52090,18 @@
         "address":  "1 Chome-7-1 Daiba, Minato City, Tokyo 135-0091日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18056710066778991026",
         "note":  "",
         "createdAt":  1438699831000
     },
     {
         "id":  "star_4737",
-        "name":  "口袋名單地點 4737",
+        "name":  "口袋地點 4737",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=%E6%97%A5%E6%9C%AC%E3%80%92135-0091+T%C5%8Dky%C5%8D-to,+Minato-ku,+Daiba,+1+Chome%E2%88%924+%E5%B1%95%E6%9C%9B%E5%BA%83%E5%A0%B4\u0026ftid=0x601889f680197e7d:0xf3f10522022764d3",
         "note":  "",
         "createdAt":  1438699795000
@@ -52112,7 +52112,7 @@
         "address":  "日本〒135-0091 Tokyo, Minato City, Daiba, 1 Chome−6−1 デックス東京ビーチ シーサイドモール 3F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4128828853280410254",
         "note":  "",
         "createdAt":  1438699790000
@@ -52123,7 +52123,7 @@
         "address":  "日本〒150-0001 Tokyo, Shibuya, Jingumae, 1 Chome−13−14 原宿クエスト 1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=11305212664266204135",
         "note":  "",
         "createdAt":  1438699705000
@@ -52134,7 +52134,7 @@
         "address":  "1 Chome-20-6 Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=13681417880578201616",
         "note":  "",
         "createdAt":  1438699582000
@@ -52145,7 +52145,7 @@
         "address":  "日本〒150-0001 Tokyo, Shibuya, Jingumae, 1 Chome−7−1 3階 Cute Cube Harajuku",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "咖啡廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=12647122338296771807",
         "note":  "",
         "createdAt":  1438699519000
@@ -52156,7 +52156,7 @@
         "address":  "日本〒150-0001 Tokyo, Shibuya, Jingumae, 4 Chome−30−3 東急プラザ 表参道原宿 7F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=5365769500474367872",
         "note":  "",
         "createdAt":  1438699088000
@@ -52167,7 +52167,7 @@
         "address":  "日本〒151-0051 Tokyo, Shibuya, Sendagaya, 3 Chome−63−1 グランデフォレスタ原宿 1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=4489128820632235871",
         "note":  "",
         "createdAt":  1438699054000
@@ -52178,7 +52178,7 @@
         "address":  "1 Chome-8-2 Higashishinbashi, Minato City, Tokyo 105-7090日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12611495660914948291",
         "note":  "",
         "createdAt":  1438698574000
@@ -52189,7 +52189,7 @@
         "address":  "日本〒105-0021 Tokyo, Minato City, Higashishinbashi, 1 Chome−3−5 HISADA BLDG. 1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=12837887128732092553",
         "note":  "",
         "createdAt":  1438698427000
@@ -52200,7 +52200,7 @@
         "address":  "日本〒106-0032 Tokyo, Minato City, Roppongi, 4 Chome−9−11 第2小田切ビル 1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=18106961332775365491",
         "note":  "",
         "createdAt":  1438697998000
@@ -52211,7 +52211,7 @@
         "address":  "日本〒106-0032 Tokyo, Minato City, Roppongi, 4 Chome−9−4 ＵＦビル ４ 1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=14319064606199612243",
         "note":  "",
         "createdAt":  1438697989000
@@ -52222,18 +52222,18 @@
         "address":  "9 Chome-7-1 Akasaka, Minato City, Tokyo 107-0052日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16951049664013903062",
         "note":  "",
         "createdAt":  1438697644000
     },
     {
         "id":  "star_4749",
-        "name":  "口袋名單地點 4749",
+        "name":  "口袋地點 4749",
         "address":  "",
         "scope":  "TW",
         "region":  "其他",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?q=6+Chome-22-7+Shinbashi,+Minato-ku,+T%C5%8Dky%C5%8D-to+105-0004%E6%97%A5%E6%9C%AC\u0026ftid=0x60188bc0f95a9085:0x9f2bdc84fe2b5680",
         "note":  "",
         "createdAt":  1438697447000
@@ -52255,7 +52255,7 @@
         "address":  "日本〒150-8510 Tokyo, Shibuya, 2 Chome−21−1 4F 渋谷ヒカリエ シンクス",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=9524411071496141695",
         "note":  "",
         "createdAt":  1438697079000
@@ -52266,7 +52266,7 @@
         "address":  "1 Chome-20-3 Kichijoji Honcho, Musashino, Tokyo 180-0004日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13921802836668024765",
         "note":  "",
         "createdAt":  1438696977000
@@ -52277,7 +52277,7 @@
         "address":  "1 Chome-2-1 Gotenyama, Musashino, Tokyo 180-0005日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=11446269284091416922",
         "note":  "",
         "createdAt":  1438696900000
@@ -52299,7 +52299,7 @@
         "address":  "1 Chome-15-4 Kichijoji Honcho, Musashino, Tokyo 180-0004日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=15551934598075674879",
         "note":  "",
         "createdAt":  1438696761000
@@ -52321,7 +52321,7 @@
         "address":  "日本〒110-0005 Tokyo, Taito City, Ueno, 4 Chome−9−5 石井ビル 1F.2F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=2149359067335673060",
         "note":  "",
         "createdAt":  1438696674000
@@ -52343,7 +52343,7 @@
         "address":  "日本〒150-0043 Tokyo, Shibuya, Dogenzaka, 1 Chome−12−3 マークシティイースト ４Ｆ",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "景點",
         "url":  "http://maps.google.com/?cid=7370104028646238891",
         "note":  "",
         "createdAt":  1438696559000
@@ -52365,7 +52365,7 @@
         "address":  "1 Uenokōen, Taito City, Tokyo 110-0007日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13667818903083943943",
         "note":  "",
         "createdAt":  1438362773000
@@ -52376,7 +52376,7 @@
         "address":  "Kichijoji Minamicho, Musashino, Tokyo, 日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "景點",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=3811934905174403662",
         "note":  "",
         "createdAt":  1438362111000
@@ -52387,7 +52387,7 @@
         "address":  "1 Chome-6-6 Koraku, Bunkyo City, Tokyo 112-0004日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=1955127484666331742",
         "note":  "",
         "createdAt":  1438360141000
@@ -52420,7 +52420,7 @@
         "address":  "4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=5195627782660688349",
         "note":  "",
         "createdAt":  1427891765000
@@ -52431,7 +52431,7 @@
         "address":  "1-1 Furugome, Narita, Chiba 282-0004日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "交通/設施",
         "url":  "http://maps.google.com/?cid=15379275550635268769",
         "note":  "",
         "createdAt":  1427890111000
@@ -52442,7 +52442,7 @@
         "address":  "日本〒182-0024 Tokyo, Chofu, Fuda, 1 Chome−３４−1 1F",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=6072209734608962775",
         "note":  "",
         "createdAt":  1427889368000
@@ -52453,7 +52453,7 @@
         "address":  "1-1 Maihama, Urayasu, Chiba 279-0031日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16490271119724106699",
         "note":  "",
         "createdAt":  1427886364000
@@ -52464,7 +52464,7 @@
         "address":  "1 Chome Jingumae, Shibuya, Tokyo 150-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "戶外/生活購物",
         "url":  "http://maps.google.com/?cid=2332658905051873952",
         "note":  "",
         "createdAt":  1427881147000
@@ -52486,7 +52486,7 @@
         "address":  "7 Chome-1-1 Ueno, Taito City, Tokyo 110-0005日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=16960761062031646062",
         "note":  "",
         "createdAt":  1427878983000
@@ -52497,7 +52497,7 @@
         "address":  "1 Chome-1-2 Oshiage, Sumida City, Tokyo 131-0045日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "甜點",
+        "category":  "甜點/烘焙",
         "url":  "http://maps.google.com/?cid=10279891306796317604",
         "note":  "",
         "createdAt":  1427872721000
@@ -52508,7 +52508,7 @@
         "address":  "4 Chome-1 Inokashira, Mitaka, Tokyo 181-0001日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=13896114860359214845",
         "note":  "",
         "createdAt":  1427872694000
@@ -52519,7 +52519,7 @@
         "address":  "3 Chome-22-1 Higashiueno, Taito City, Tokyo 110-0015日本",
         "scope":  "INTL",
         "region":  "日本",
-        "category":  "餐廳",
+        "category":  "其他",
         "url":  "http://maps.google.com/?cid=10472406388785630196",
         "note":  "",
         "createdAt":  1427871639000

@@ -38,7 +38,7 @@
             Peggy的旅行地圖口袋名單
             <span id="total-badge" class="text-xs bg-slate-100 text-slate-600 font-semibold px-2.5 py-0.5 rounded-full border border-slate-200">0 筆</span>
           </h1>
-          <p class="text-xs text-slate-500">台灣細分縣市・國外依國家分類・Google Maps 一鍵導航</p>
+          <p class="text-xs text-slate-500">台灣細分縣市・國外依國家分類・精準生活生活/美食/景點篩選</p>
         </div>
       </div>
 
@@ -67,7 +67,7 @@
         <input 
           id="search-input" 
           type="text" 
-          placeholder="搜尋店家名稱、地址、關鍵字（如：基隆滷肉飯、清邁咖啡、福岡拉麵、首爾烤肉、牛排...）"
+          placeholder="搜尋店家名稱、地址、分類、關鍵字（如：百岳、露營、清邁按摩、福岡拉麵、首爾、肉桂捲...）"
           class="w-full pl-10 pr-10 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:bg-white focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition placeholder:text-slate-400"
         />
         <button id="btn-clear-search" class="hidden absolute inset-y-0 right-0 pr-3.5 flex items-center text-slate-400 hover:text-slate-600">
@@ -111,7 +111,7 @@
         <span class="font-bold text-slate-600 flex items-center gap-1 min-w-[55px] shrink-0">
           <i class="ph ph-tag text-sm text-amber-500"></i> 分類：
         </span>
-        <div id="categories-container" class="flex flex-wrap gap-1.5">
+        <div id="categories-container" class="flex flex-wrap gap-1.5 max-h-28 overflow-y-auto custom-scrollbar pr-1">
           <!-- 動態生成分類按鈕 -->
         </div>
       </div>
@@ -169,7 +169,7 @@
 
   <!-- 頁尾 -->
   <footer class="bg-white border-t border-slate-200 py-4 text-center text-xs text-slate-400">
-    Peggy的旅行地圖口袋名單・台灣各縣市與國外分類
+    Peggy的旅行地圖口袋名單・全方位地區與生活分類
   </footer>
 
   <!-- 匯入 / 管理彈窗 (Modal) -->
@@ -199,7 +199,7 @@
 
         <div class="flex items-center justify-between pt-2 border-t border-slate-100">
           <button id="btn-reload-builtin" class="text-indigo-600 hover:text-indigo-800 font-semibold flex items-center gap-1">
-            <i class="ph ph-arrow-clockwise"></i> 重新載入內建完整名單
+            <i class="ph ph-arrow-clockwise"></i> 重新載入最新精準分類資料
           </button>
         </div>
       </div>
@@ -227,7 +227,7 @@
 
         <div>
           <label class="block font-semibold text-slate-700 mb-1">名稱 *</label>
-          <input type="text" id="edit-name" required placeholder="例如：興波咖啡 Simple Kaffa" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+          <input type="text" id="edit-name" required placeholder="例如：HME 百岳戶外裝備" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
         </div>
 
         <div class="grid grid-cols-2 gap-3">
@@ -246,7 +246,7 @@
 
         <div>
           <label class="block font-semibold text-slate-700 mb-1">分類 *</label>
-          <input type="text" id="edit-category" required placeholder="如：餐廳、咖啡廳、小吃、景點、甜點、住宿/飯店" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+          <input type="text" id="edit-category" required placeholder="如：戶外/生活購物、景點、餐廳、咖啡廳、甜點/烘焙、住宿/飯店" class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
         </div>
 
         <div>
@@ -260,7 +260,7 @@
         </div>
 
         <div>
-          <label class="block font-semibold text-slate-700 mb-1">備註 / 推薦餐點 (可選)</label>
+          <label class="block font-semibold text-slate-700 mb-1">備註 / 私房筆記 (可選)</label>
           <textarea id="edit-note" rows="2" placeholder="自訂私房筆記..." class="w-full px-3 py-2 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"></textarea>
         </div>
 
@@ -278,7 +278,7 @@
 
   <!-- JavaScript 主邏輯 -->
   <script>
-    const STORAGE_KEY = 'PEGGY_STARRED_PLACES_DATA_V2';
+    const STORAGE_KEY = 'PEGGY_STARRED_PLACES_DATA_V3'; // 更新版本以強制加載最新分類
     const PAGE_SIZE = 60;
 
     let places = [];
@@ -293,7 +293,6 @@
     let sortMode = 'newest';
 
     function init() {
-      // 優先載入 localStorage
       const stored = localStorage.getItem(STORAGE_KEY);
       if (stored) {
         try {
@@ -315,7 +314,6 @@
     }
 
     function setupEvents() {
-      // 搜尋 (150ms debounce)
       let debounceTimer = null;
       const searchInput = document.getElementById('search-input');
       const clearSearchBtn = document.getElementById('btn-clear-search');
@@ -344,7 +342,6 @@
       document.getElementById('btn-reset-filters').addEventListener('click', resetFilters);
       document.getElementById('btn-empty-reset').addEventListener('click', resetFilters);
 
-      // 載入更多
       document.getElementById('btn-load-more').addEventListener('click', () => {
         currentRenderCount += PAGE_SIZE;
         renderCardsChunk();
@@ -359,7 +356,6 @@
         }
       });
 
-      // 彈窗
       const importModal = document.getElementById('import-modal');
       document.getElementById('btn-open-import').addEventListener('click', () => importModal.classList.remove('hidden'));
       document.querySelectorAll('.modal-close').forEach(btn => {
@@ -375,16 +371,15 @@
       document.getElementById('place-form').addEventListener('submit', handlePlaceFormSubmit);
 
       document.getElementById('btn-reload-builtin').addEventListener('click', () => {
-        if (confirm("這將會把資料還原為初始名單，確定嗎？")) {
+        if (confirm("這將會把資料還原為最新精煉分類的名單，確定嗎？")) {
           places = window.PEGGY_STARRED_PLACES || [];
           savePlaces();
           renderAll();
           importModal.classList.add('hidden');
-          alert('已重新載入完成！');
+          alert('已重新載入最新資料！');
         }
       });
 
-      // 檔案上傳
       const dropzone = document.getElementById('dropzone');
       const fileInput = document.getElementById('file-input');
       dropzone.addEventListener('click', () => fileInput.click());
@@ -457,21 +452,16 @@
 
     window.setScope = function(scope) {
       currentScope = scope;
-      selectedRegion = '全部'; // 切換大維度時重設細項地區
+      selectedRegion = '全部';
       updateScopeButtonsUI();
       renderRegionButtons();
       filterAndRender(true);
     };
 
-    // 動態渲染第二層（縣市 / 國家）標籤
     function renderRegionButtons() {
-      // 根據當前 Scope 篩選出候選清單
       let pool = places;
-      if (currentScope === 'TW') {
-        pool = places.filter(p => p.scope === 'TW');
-      } else if (currentScope === 'INTL') {
-        pool = places.filter(p => p.scope === 'INTL');
-      }
+      if (currentScope === 'TW') pool = places.filter(p => p.scope === 'TW');
+      else if (currentScope === 'INTL') pool = places.filter(p => p.scope === 'INTL');
 
       const regMap = {};
       pool.forEach(p => {
@@ -479,7 +469,6 @@
         regMap[r] = (regMap[r] || 0) + 1;
       });
 
-      // 排序：筆數多者在前
       const sortedRegions = Object.keys(regMap).sort((a, b) => {
         if (a === '其他' || a === '其他海外') return 1;
         if (b === '其他' || b === '其他海外') return -1;
@@ -509,15 +498,29 @@
       }).join('');
     }
 
-    // 動態渲染分類標籤
     function renderCategoryButtons() {
       const catMap = {};
       places.forEach(p => {
-        const c = p.category || '餐廳';
+        const c = p.category || '其他';
         catMap[c] = (catMap[c] || 0) + 1;
       });
 
-      const priority = ["全部", "餐廳", "景點", "小吃", "咖啡廳", "甜點", "住宿/飯店", "酒吧/餐酒館", "早餐/早午餐", "其他"];
+      // 優先排列常用類別
+      const priority = [
+        "全部", 
+        "景點", 
+        "餐廳", 
+        "小吃", 
+        "戶外/生活購物", 
+        "甜點/烘焙", 
+        "咖啡廳", 
+        "住宿/飯店", 
+        "酒吧/餐酒館", 
+        "早餐/早午餐", 
+        "按摩/SPA/體驗", 
+        "交通/設施", 
+        "其他"
+      ];
       const existingCats = Object.keys(catMap);
       const sortedCats = ["全部", ...priority.filter(c => c !== "全部" && existingCats.includes(c)), ...existingCats.filter(c => !priority.includes(c))];
 
@@ -558,13 +561,9 @@
       }
 
       currentFiltered = places.filter(p => {
-        // 第一層 Scope 過濾
         if (currentScope !== 'ALL' && p.scope !== currentScope) return false;
-        // 第二層 Region 過濾
         if (selectedRegion !== '全部' && p.region !== selectedRegion) return false;
-        // 第三層 Category 過濾
         if (selectedCategory !== '全部' && p.category !== selectedCategory) return false;
-        // 關鍵字搜尋
         if (searchQuery) {
           const text = `${p.name} ${p.address} ${p.region} ${p.category} ${p.note || ''}`.toLowerCase();
           if (!text.includes(searchQuery)) return false;
@@ -572,7 +571,6 @@
         return true;
       });
 
-      // 排序
       if (sortMode === 'newest') {
         currentFiltered.sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0));
       } else if (sortMode === 'region') {
@@ -621,7 +619,6 @@
       grid.innerHTML = itemsToShow.map(place => {
         const mapsUrl = place.url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.name + ' ' + (place.address || ''))}`;
         
-        // 國外 vs 台灣標籤樣式
         const isTW = place.scope === 'TW';
         const regionBadgeClass = isTW 
           ? 'bg-indigo-50 text-indigo-700 border-indigo-200' 
@@ -629,13 +626,16 @@
         const regionIcon = isTW ? '🇹🇼' : '✈️';
 
         let catColor = "bg-slate-100 text-slate-700 border-slate-200";
-        if (place.category === '咖啡廳') catColor = "bg-amber-100/70 text-amber-800 border-amber-300";
+        if (place.category === '戶外/生活購物') catColor = "bg-cyan-100/70 text-cyan-800 border-cyan-300";
+        else if (place.category === '咖啡廳') catColor = "bg-amber-100/70 text-amber-800 border-amber-300";
         else if (place.category === '小吃') catColor = "bg-orange-100/70 text-orange-800 border-orange-300";
-        else if (place.category === '景點') catColor = "bg-teal-100/70 text-teal-800 border-teal-300";
-        else if (place.category === '甜點') catColor = "bg-rose-100/70 text-rose-800 border-rose-300";
+        else if (place.category === '景點') catColor = "bg-emerald-100/70 text-emerald-800 border-emerald-300";
+        else if (place.category === '甜點/烘焙') catColor = "bg-rose-100/70 text-rose-800 border-rose-300";
         else if (place.category === '住宿/飯店') catColor = "bg-violet-100/70 text-violet-800 border-violet-300";
         else if (place.category === '酒吧/餐酒館') catColor = "bg-purple-100/70 text-purple-800 border-purple-300";
+        else if (place.category === '按摩/SPA/體驗') catColor = "bg-pink-100/70 text-pink-800 border-pink-300";
         else if (place.category === '早餐/早午餐') catColor = "bg-yellow-100/70 text-yellow-800 border-yellow-300";
+        else if (place.category === '交通/設施') catColor = "bg-slate-200/80 text-slate-800 border-slate-300";
         else if (place.category === '餐廳') catColor = "bg-blue-100/70 text-blue-800 border-blue-300";
 
         return `
@@ -728,7 +728,7 @@
         document.getElementById('edit-id').value = '';
         document.getElementById('edit-scope').value = 'TW';
         document.getElementById('edit-region').value = '台北';
-        document.getElementById('edit-category').value = '餐廳';
+        document.getElementById('edit-category').value = '景點';
       }
 
       modal.classList.remove('hidden');
@@ -807,7 +807,7 @@
               address,
               scope: isIntl ? 'INTL' : 'TW',
               region: isIntl ? (loc.country_code || '國外') : '其他',
-              category: '餐廳',
+              category: '其他',
               url,
               note: '',
               createdAt: Date.now()
