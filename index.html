@@ -59,20 +59,47 @@
     <!-- 控制與篩選區域 -->
     <section class="bg-white rounded-2xl border border-slate-200/80 p-4 sm:p-5 shadow-sm space-y-4">
       
-      <!-- 搜尋列 -->
-      <div class="relative">
-        <div class="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none text-slate-400 text-lg">
-          <i class="ph ph-magnifying-glass"></i>
+      <!-- 放大版超強智慧搜尋列 -->
+      <div class="space-y-2.5">
+        <div class="relative group">
+          <div class="absolute inset-y-0 left-0 pl-4 sm:pl-5 flex items-center pointer-events-none text-slate-400 group-focus-within:text-indigo-600 transition text-xl sm:text-2xl">
+            <i class="ph ph-magnifying-glass"></i>
+          </div>
+          <input 
+            id="search-input" 
+            type="text" 
+            placeholder="搜尋任何關鍵字，支援複合查詢（例如：韓國燒肉、清邁咖啡、基隆小吃、日本拉麵...）"
+            class="w-full pl-12 sm:pl-14 pr-12 py-3.5 sm:py-4 bg-slate-50/80 hover:bg-white focus:bg-white border-2 border-slate-200 hover:border-slate-300 focus:border-indigo-500 rounded-2xl text-base sm:text-lg font-medium shadow-xs focus:shadow-md focus:outline-none transition-all placeholder:text-slate-400 placeholder:text-sm sm:placeholder:text-base text-slate-800"
+          />
+          <button id="btn-clear-search" class="hidden absolute inset-y-0 right-0 pr-4 sm:pr-5 flex items-center text-slate-400 hover:text-slate-600 transition">
+            <i class="ph-fill ph-x-circle text-2xl"></i>
+          </button>
         </div>
-        <input 
-          id="search-input" 
-          type="text" 
-          placeholder="搜尋店家名稱、地址、分類、關鍵字（如：百岳、清邁、福岡拉麵、肉桂捲...）"
-          class="w-full pl-10 pr-10 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:bg-white focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition placeholder:text-slate-400"
-        />
-        <button id="btn-clear-search" class="hidden absolute inset-y-0 right-0 pr-3.5 flex items-center text-slate-400 hover:text-slate-600">
-          <i class="ph-fill ph-x-circle text-lg"></i>
-        </button>
+
+        <!-- 常用靈感快捷標籤 -->
+        <div class="flex flex-wrap items-center gap-1.5 text-xs text-slate-500 pt-0.5">
+          <span class="text-slate-400 flex items-center gap-1 shrink-0 font-medium">
+            <i class="ph ph-lightbulb text-amber-500 text-sm"></i> 快速靈感：
+          </span>
+          <button type="button" onclick="quickSearch('韓國燒肉')" class="px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-indigo-50 hover:text-indigo-600 transition text-slate-600 font-medium border border-slate-200/60">
+            🥩 韓國燒肉
+          </button>
+          <button type="button" onclick="quickSearch('清邁咖啡')" class="px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-indigo-50 hover:text-indigo-600 transition text-slate-600 font-medium border border-slate-200/60">
+            ☕ 清邁咖啡
+          </button>
+          <button type="button" onclick="quickSearch('基隆滷肉飯')" class="px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-indigo-50 hover:text-indigo-600 transition text-slate-600 font-medium border border-slate-200/60">
+            🍚 基隆滷肉飯
+          </button>
+          <button type="button" onclick="quickSearch('日本拉麵')" class="px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-indigo-50 hover:text-indigo-600 transition text-slate-600 font-medium border border-slate-200/60">
+            🍜 日本拉麵
+          </button>
+          <button type="button" onclick="quickSearch('泰國按摩')" class="px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-indigo-50 hover:text-indigo-600 transition text-slate-600 font-medium border border-slate-200/60">
+            💆 泰國按摩
+          </button>
+          <button type="button" onclick="quickSearch('百岳裝備')" class="px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-indigo-50 hover:text-indigo-600 transition text-slate-600 font-medium border border-slate-200/60">
+            🧗 百岳裝備
+          </button>
+        </div>
       </div>
 
       <!-- 第一層維度：範圍切換 (全部 / 台灣地區 / 國外地區 / 現在地點定位) -->
@@ -670,20 +697,106 @@
       filterAndRender(true);
     };
 
+    // 快捷靈感搜尋
+    window.quickSearch = function(keyword) {
+      const searchInput = document.getElementById('search-input');
+      const clearSearchBtn = document.getElementById('btn-clear-search');
+      searchInput.value = keyword;
+      searchQuery = keyword.trim().toLowerCase();
+      clearSearchBtn.classList.remove('hidden');
+      // 切換回全部地區，讓複合搜尋自動定位
+      currentScope = 'ALL';
+      selectedRegion = '全部';
+      selectedCategory = '全部';
+      updateScopeButtonsUI();
+      renderRegionButtons();
+      renderCategoryButtons();
+      filterAndRender(true);
+    };
+
+    // 常用地區與關鍵詞字典 (用於智慧拆解如 "韓國燒肉" -> ["韓國", "燒肉"])
+    const AUTO_SPLIT_REGIONS = [
+      "韓國", "日本", "泰國", "越南", "冰島", "土耳其", "澳門", "香港", "印尼", "新加坡", "馬爾地夫",
+      "基隆", "台北", "臺北", "新北", "桃園", "新竹", "苗栗", "台中", "臺中", "彰化", "南投", "雲林", "嘉義", "台南", "臺南", "高雄", "屏東", "宜蘭", "花蓮", "台東", "臺東", "澎湖", "金門", "馬祖",
+      "清邁", "清賣", "曼谷", "普吉", "東京", "大阪", "京都", "福岡", "沖繩", "北海道", "名古屋", "首爾", "釜山", "峴港", "河內", "胡志明", "峇里島", "九份", "礁溪", "羅東", "墾丁", "日月潭", "阿里山"
+    ];
+
+    // 將搜尋輸入智慧拆解成多個搜尋詞
+    function parseSearchTokens(rawQuery) {
+      if (!rawQuery) return [];
+      let text = rawQuery.trim().toLowerCase();
+
+      // 常見錯字/同義詞容錯轉換
+      text = text.replace(/清賣/g, "清邁");
+      text = text.replace(/魯肉飯/g, "滷肉飯");
+      text = text.replace(/臺北/g, "台北");
+      text = text.replace(/臺中/g, "台中");
+      text = text.replace(/臺南/g, "台南");
+      text = text.replace(/臺東/g, "台東");
+
+      // 如果使用者已經用了空格，直接以空格切割
+      if (text.includes(" ") || text.includes("+") || text.includes(",")) {
+        return text.split(/[\s+,]+/).filter(t => t.length > 0);
+      }
+
+      // 如果使用者沒有空格（如「韓國燒肉」、「清邁咖啡」、「基隆小吃」），嘗試智慧分詞
+      for (const reg of AUTO_SPLIT_REGIONS) {
+        const normReg = reg.replace(/清賣/g, "清邁").replace(/臺/g, "台").toLowerCase();
+        if (text.startsWith(normReg) && text.length > normReg.length) {
+          const rest = text.substring(normReg.length).trim();
+          if (rest.length > 0) {
+            return [normReg, rest];
+          }
+        }
+      }
+
+      return [text];
+    }
+
     function filterAndRender(resetCount = false) {
       if (resetCount) {
         currentRenderCount = PAGE_SIZE;
       }
+
+      const searchTokens = parseSearchTokens(searchQuery);
 
       currentFiltered = places.filter(p => {
         if (currentScope === 'TW' && p.scope !== 'TW') return false;
         if (currentScope === 'INTL' && p.scope !== 'INTL') return false;
         if (selectedRegion !== '全部' && p.region !== selectedRegion) return false;
         if (selectedCategory !== '全部' && p.category !== selectedCategory) return false;
-        if (searchQuery) {
-          const text = `${p.name} ${p.address} ${p.region} ${p.category} ${p.note || ''}`.toLowerCase();
-          if (!text.includes(searchQuery)) return false;
+
+        // 智慧多詞複合查詢 (AND 邏輯)
+        if (searchTokens.length > 0) {
+          const searchableText = `${p.name} ${p.address || ''} ${p.region || ''} ${p.category || ''} ${p.note || ''}`.toLowerCase();
+          
+          // 每個 token 都必須符合
+          for (const token of searchTokens) {
+            let matched = searchableText.includes(token);
+
+            // 英文/別名容錯擴展
+            if (!matched) {
+              if (token === "清邁" && (searchableText.includes("chiang mai") || searchableText.includes("chiangmai"))) matched = true;
+              else if (token === "曼谷" && searchableText.includes("bangkok")) matched = true;
+              else if (token === "首爾" && searchableText.includes("seoul")) matched = true;
+              else if (token === "釜山" && searchableText.includes("busan")) matched = true;
+              else if (token === "東京" && searchableText.includes("tokyo")) matched = true;
+              else if (token === "大阪" && searchableText.includes("osaka")) matched = true;
+              else if (token === "京都" && searchableText.includes("kyoto")) matched = true;
+              else if (token === "福岡" && searchableText.includes("fukuoka")) matched = true;
+              else if (token === "沖繩" && searchableText.includes("okinawa")) matched = true;
+              else if (token === "燒肉" && (searchableText.includes("烤肉") || searchableText.includes("燒烤") || searchableText.includes("bbq"))) matched = true;
+              else if (token === "咖啡" && (searchableText.includes("cafe") || searchableText.includes("coffee") || searchableText.includes("咖啡廳"))) matched = true;
+              else if (token === "按摩" && (searchableText.includes("massage") || searchableText.includes("spa"))) matched = true;
+              else if (token === "拉麵" && searchableText.includes("ramen")) matched = true;
+            }
+
+            if (!matched) {
+              return false; // 任一條件不符即排除
+            }
+          }
         }
+
         return true;
       });
 
