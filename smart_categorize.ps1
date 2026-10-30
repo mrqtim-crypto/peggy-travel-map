@@ -9,6 +9,212 @@ $places = $rawText | ConvertFrom-Json
 
 Write-Host "讀取總筆數: $($places.Count)"
 
+# 1. 優先精準對照表 (針對店名特殊、無明顯品項關鍵字的知名地點)
+$specificPlaceMap = @{
+    # 住宿/飯店
+    "太麻里左奶奶的家" = "住宿/飯店"
+    "鐵花-村長的家" = "住宿/飯店"
+    "桃花莊" = "住宿/飯店"
+    "松鶴夢緣" = "住宿/飯店"
+    "基哥那裡" = "住宿/飯店"
+    "Yellow House" = "住宿/飯店"
+    "餘光" = "住宿/飯店"
+    "都鐸王朝" = "住宿/飯店"
+    "蜻蜓的家" = "住宿/飯店"
+    "Sailing Sapa" = "住宿/飯店"
+    "DE MONG SAPA" = "住宿/飯店"
+    "Hintok River Camp @ Hellfire Pass หินตกริเวอร์เเคมป์ กาญจนบุรี" = "住宿/飯店"
+
+    # 早餐/早午餐
+    "Smile_eating" = "早餐/早午餐"
+    "Leaven workshop 璞家工作室" = "早餐/早午餐"
+    "裏葉(營業資訊請看instagram）" = "早餐/早午餐"
+    "都蘭小房子" = "早餐/早午餐"
+    "東清三十三號" = "早餐/早午餐"
+    "我在玩-玩冰箱" = "早餐/早午餐"
+    "益生南記" = "早餐/早午餐"
+    "怡味餐店" = "早餐/早午餐"
+
+    # 咖啡廳
+    "giao mùa" = "咖啡廳"
+    "《休息》。森耕耕。營業時間請查詢臉書或是instagram 帳號。店內不使用電腦。" = "咖啡廳"
+    "去年在馬倫巴" = "咖啡廳"
+    "我們在海邊" = "咖啡廳"
+    "海邊小巫" = "咖啡廳"
+    "passer" = "咖啡廳"
+    "83​ KOFF​" = "咖啡廳"
+    "小田生活mmm" = "咖啡廳"
+    "人魚和貓" = "咖啡廳"
+    "遇見嵨ㄨˇ繞" = "咖啡廳"
+    "83 KOFF" = "咖啡廳"
+
+    # 酒吧/餐酒館
+    "Vinyl Vibe" = "酒吧/餐酒館"
+    "She'll Oyster | 敘" = "酒吧/餐酒館"
+    "KAOZI（左手邊）" = "酒吧/餐酒館"
+    "蘭嶼旅人·Rover" = "酒吧/餐酒館"
+    "流浪浮球（晚餐營業中）" = "酒吧/餐酒館"
+
+    # 甜點/烘焙
+    "張生張太海邊小店（營業時間麻煩到FB.IG確認）" = "甜點/烘焙"
+    "CULCAT" = "甜點/烘焙"
+    "De Deurre" = "甜點/烘焙"
+    "De Beurre" = "甜點/烘焙"
+    "CHARLIE (ชาร์ลี) Thai Tea - Nimman Soi13 (Grab&Go)" = "甜點/烘焙"
+    "啡高糕（無分店）" = "甜點/烘焙"
+    "福和成餅店【大同店】" = "甜點/烘焙"
+    "穀嶼" = "甜點/烘焙"
+    "瘋小麥" = "甜點/烘焙"
+    "貳拾貳日甜" = "甜點/烘焙"
+    "捲捲村" = "甜點/烘焙"
+    "政江號合好號" = "甜點/烘焙"
+    "老元香" = "甜點/烘焙"
+    "La Grotta" = "甜點/烘焙"
+    "H.YEN" = "甜點/烘焙"
+    "HERMIT & Co." = "甜點/烘焙"
+    "Fortune Choice 擇好運｜芙甜嚴選｜" = "甜點/烘焙"
+    "小巷茉莉" = "甜點/烘焙"
+    "波波熊" = "甜點/烘焙"
+    "藏甜手作坊" = "甜點/烘焙"
+    "店仔口茶飲專賣店(玉井店)" = "甜點/烘焙"
+    "美好花生" = "甜點/烘焙"
+    "Brioche from heaven" = "甜點/烘焙"
+    "861dayday" = "甜點/烘焙"
+    "一福堂(環二店)" = "甜點/烘焙"
+    "台灣蕃薯" = "甜點/烘焙"
+    "阿嬤ㄟ蕃薯圓 台中民權店" = "甜點/烘焙"
+    "新嘉坡" = "甜點/烘焙"
+    "รังนกไทย เจ้าเก่าตลาดอนุสาร สาขา1" = "甜點/烘焙"
+    "奶吸莎-蘭嶼" = "甜點/烘焙"
+    "蘭嶼小日子" = "甜點/烘焙"
+    "桑心合作社-桃米總店" = "甜點/烘焙"
+
+    # 小吃
+    "葉家莊台東奄雞" = "小吃"
+    "福生小食店" = "小吃"
+    "阿財米食" = "小吃"
+    "肉包明" = "小吃"
+    "龍門小羊肉" = "小吃"
+    "潮州牛肉福 創始店" = "小吃"
+    "東市蔡家本產羊肉" = "小吃"
+    "珍鮮 去骨鹹水雞 去皮麻辣雞" = "小吃"
+    "欲罷不能鹹水雞汐止中興店" = "小吃"
+    "曉四川 南港中南街本舖" = "小吃"
+    "開囍滷肉專賣店 opensmile" = "小吃"
+    "米食媽媽手作坊" = "小吃"
+    "樂天羊肉" = "小吃"
+    "蘭嶼漁人部落好朋友的店" = "小吃"
+    "彌鹿大芭" = "小吃"
+    "福來鱔魚（開元店）" = "小吃"
+    "徐媽媽南庄正宗" = "小吃"
+    "三角下（餐盒、餐會）" = "小吃"
+    "一級排骨" = "小吃"
+    "不一羊小羊肉" = "小吃"
+    "紅燒飛魚阿伯" = "小吃"
+    "丸隆生魚行" = "小吃"
+    "客來常" = "小吃"
+    "佳鄉米食" = "小吃"
+    "養生健康站" = "小吃"
+    "阿潘肉包 中正店" = "小吃"
+    "葉記牛肉" = "小吃"
+    "東門興記" = "小吃"
+    "劉家 蝦公粄" = "小吃"
+    "大碗公當歸羊肉" = "小吃"
+    "漁闆娘" = "小吃"
+    "清香羊肉" = "小吃"
+    "灣裡薯條脆肉店" = "小吃"
+    "基隆巷口鹹水雞（安和一街）" = "小吃"
+    "輝煌牛肉" = "小吃"
+    "小琉球飛魚卵起司烤餅，凍檸茶也好喝" = "小吃"
+    "半天紅麻辣館（馨生保護服務據點）" = "小吃"
+    "鴨饌傳統古早味" = "小吃"
+    "鴨喜露" = "小吃"
+    "車埕阿嬤的古早味" = "小吃"
+    "竹林雞肉-永和總店" = "小吃"
+    "嘉珍雞鴨莊" = "小吃"
+    "劉家白冷肉包-借問站" = "小吃"
+    "巧味(郭)本產牛肉店" = "小吃"
+    "食至名龜 中華店" = "小吃"
+    "甕中甕炭火煨湯" = "小吃"
+    "ก๋วยเตี๋ยวเรือห้อยขา" = "小吃"
+
+    # 餐廳
+    "十二堂" = "餐廳"
+    "SEN" = "餐廳"
+    "福古南洋（越南之家老店）" = "餐廳"
+    "小腳落 Little corner（不定期公休，請見臉書）" = "餐廳"
+    "阿輝牛肉城" = "餐廳"
+    "品湘園剁椒魚頭館" = "餐廳"
+    "林記茶檔 (無訂位、4人以上恕不接待)" = "餐廳"
+    "紅瓦屋（河上餐桌）" = "餐廳"
+    "Mr.uncle-大叔先生(公休和最新菜單請看FB或IG)" = "餐廳"
+    "易水寒-大安本店" = "餐廳"
+    "王家燻羊肉" = "餐廳"
+    "小漁兒" = "餐廳"
+    "寬哥那裡" = "餐廳"
+    "好食慢慢" = "餐廳"
+    "蒔夜すし" = "餐廳"
+    "心宜草堂" = "餐廳"
+    "水里牛肉大王" = "餐廳"
+    "離岸流 Outside" = "餐廳"
+    "燧人炊事Catching Fire" = "餐廳"
+    "江家羊肉" = "餐廳"
+    "อบอร่อย พรานนก-ตัดใหม่" = "餐廳"
+    "The Sky Gallery" = "餐廳"
+    "關於餐桌" = "餐廳"
+    "有海真好毛小孩來最好！石門白沙灣旁" = "餐廳"
+    "玻璃屋" = "餐廳"
+    "巴奈" = "餐廳"
+    "東清以斯拉" = "餐廳"
+    "蘭嶼沒得挑食吧（尚未開始營業！）" = "餐廳"
+    "Do VanWa(在海邊).蘭嶼" = "餐廳"
+    "Flavorful" = "餐廳"
+    "KIN+HEY" = "餐廳"
+    "Olivee" = "餐廳"
+    "粼粼（來店前所有資訊請先看IG，感謝)" = "餐廳"
+    "是熊" = "餐廳"
+
+    # 景點
+    "Gyeongju" = "景點"
+    "旭日亭" = "景點"
+    "大同部落椰果" = "景點"
+    "五彩崗友善農坊" = "景點"
+    "แหลมน้อยหน่า" = "景點"
+    "Ao Kiu Na Nok" = "景點"
+    "Laem Kut" = "景點"
+    "The Great Hall of Vajradhamma, Ancient City" = "景點"
+    "Phra Thep Bidorn (108)" = "景點"
+    "สะพานอ่าวลุงดำ" = "景點"
+    "Ao Kiew" = "景點"
+    "Laem Toei" = "景點"
+    "Ao Phai" = "景點"
+    "碧絡角 (最後入園時間:16:30)" = "景點"
+    "水榭樓台" = "景點"
+    "新宿" = "景點"
+    "豐樂莊園" = "景點"
+    "來去秘密就是秘密" = "景點"
+
+    # 戶外/生活購物
+    "和平島劭晟肉品 老店" = "戶外/生活購物"
+    "WANNABE Seomyeon" = "戶外/生活購物"
+    "PEOFUL 부산지점" = "戶外/生活購物"
+    "1987-erica" = "戶外/生活購物"
+    "豐丘黑火炭巨峰葡萄" = "戶外/生活購物"
+    "台灣e食館-福雅中科店" = "戶外/生活購物"
+    "海和日常 生活提案所" = "戶外/生活購物"
+    "輕井澤王子購物廣場" = "戶外/生活購物"
+    "酉 5PM twcaudex (週三公休） 景觀設計、多肉植物、塊根植物、庭院造景、陽台景觀、商空規劃、植栽禮品、盆器皿、花卉資材" = "戶外/生活購物"
+
+    # 按摩/SPA/體驗
+    "Her x Her Studio" = "按摩/SPA/體驗"
+    "vivi’s group" = "按摩/SPA/體驗"
+    "小孟祥龜鳥卦" = "按摩/SPA/體驗"
+    "毛小海洋俱樂部" = "按摩/SPA/體驗"
+    "格子窩創意" = "按摩/SPA/體驗"
+    "H icon 復興店" = "按摩/SPA/體驗"
+}
+
+# 2. 通用規則比對表
 $rules = @(
     @{
         Category = "住宿/飯店"
@@ -286,7 +492,7 @@ $updatedCount = 0
 
 foreach ($p in $places) {
     # If the place is a pure dropped pin (e.g. name starts with "口袋地點" and address is empty), leave as "其他"
-    if ($p.name -match '^口袋地點\s*\d*' -and [string]::IsNullOrWhiteSpace($p.address)) {
+    if (($p.name -match '^口袋地點\s*\d*' -and [string]::IsNullOrWhiteSpace($p.address)) -or $p.name -eq '？') {
         if ($p.category -ne "其他") {
             $p.category = "其他"
             $updatedCount++
@@ -294,21 +500,27 @@ foreach ($p in $places) {
         continue
     }
 
-    $rawTarget = "$($p.name) $($p.address) $($p.note)"
-    $normalizedTarget = $rawTarget.Normalize([System.Text.NormalizationForm]::FormKD).ToLower()
-
     $newCat = "其他"
-    foreach ($r in $rules) {
-        $matched = $false
-        foreach ($kw in $r.Keywords) {
-            $kwNorm = $kw.Normalize([System.Text.NormalizationForm]::FormKD).ToLower()
-            if ($normalizedTarget.Contains($kwNorm)) {
-                $newCat = $r.Category
-                $matched = $true
-                break
+
+    # 先檢測是否有精準指定對照
+    if ($specificPlaceMap.ContainsKey($p.name)) {
+        $newCat = $specificPlaceMap[$p.name]
+    } else {
+        $rawTarget = "$($p.name) $($p.address) $($p.note)"
+        $normalizedTarget = $rawTarget.Normalize([System.Text.NormalizationForm]::FormKD).ToLower()
+
+        foreach ($r in $rules) {
+            $matched = $false
+            foreach ($kw in $r.Keywords) {
+                $kwNorm = $kw.Normalize([System.Text.NormalizationForm]::FormKD).ToLower()
+                if ($normalizedTarget.Contains($kwNorm)) {
+                    $newCat = $r.Category
+                    $matched = $true
+                    break
+                }
             }
+            if ($matched) { break }
         }
-        if ($matched) { break }
     }
 
     if ($p.category -ne $newCat) {
